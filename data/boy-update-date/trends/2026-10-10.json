@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-10",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 1,
+    "total_heat": 22,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "史上最强师父",
+            "book_id": 1817221,
+            "rank_change": 1
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": 1
+          },
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "让你当炉做鼎，你炼阴阳证大道？",
+            "book_id": 11556534,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "有帝族背景还开挂，我无敌了！",
+            "book_id": 1924831,
+            "heat_change": -3
+          },
+          {
+            "title": "让你当炉做鼎，你炼阴阳证大道？",
+            "book_id": 11556534,
+            "heat_change": -2
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「东方玄幻」《史上最强师父》上升1位领涨；《让你当炉做鼎，你炼阴阳证大道？》下滑1位；《有帝族背景还开挂，我无敌了！》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "rank_change": 3
+          },
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "heat_change": -1
+          },
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "heat_change": -1
+          },
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高手」新上榜 《爷爷托梦后，我靠戒指掌控万界》；《美女总裁，请上车》上升3位领涨；《医武双绝：下山捡个总裁当老婆》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "死前考核",
+            "book_id": 12606348,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「都市高武」《死前考核》上升1位领涨；《神武天下之睚眦》下滑2位；《神武天下之睚眦》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "heat_change": -1
+          },
+          {
+            "title": "九转仙葫",
+            "book_id": 12212670,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「幻想修真」《乾坤造化诀》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "我爹让我弑君，陛下却把公主赐给我",
+            "book_id": 11895729,
+            "intro": "我爹是反贼，派我进京弑君。\n我伪装成候补官员，只想低调苟活。\n可金銮殿上，皇帝盯着我，震彻满朝：\n“朕信你。”\n当场封官，赐我豪宅，赐婚昭宁公主！\n我，弑君刺客，一夜成天子心腹、当朝驸马。\n宅子是牢笼"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "公主退婚？我买下了满朝文武",
+            "book_id": 12878790,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「架空历史」《我爹让我弑君，陛下却把公主赐给我》 掉出榜单；《公主退婚？我买下了满朝文武》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「现代军事」《五次入伍，我给全军上强度！》下滑2位；《五次入伍，我给全军上强度！》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "穿越历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "我率秦军三百万，为秦续命万万年",
+            "book_id": 9464730,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "我率秦军三百万，为秦续命万万年",
+            "book_id": 9464730,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「穿越历史」《我率秦军三百万，为秦续命万万年》下滑2位；《我率秦军三百万，为秦续命万万年》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「奇门秘术」《天黑请点灯》热度-1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

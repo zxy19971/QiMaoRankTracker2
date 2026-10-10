@@ -1,0 +1,310 @@
+{
+  "date": "2026-10-10",
+  "board": "boy-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 4,
+    "dropped_count": 4,
+    "avg_heat": 35500,
+    "total_heat": 710000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 3,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "药童凶猛",
+            "book_id": 13018422
+          },
+          {
+            "title": "被陷害后，我被迫成了送子天官！",
+            "book_id": 12984576
+          },
+          {
+            "title": "兄长们死后，边军悍卒养三家！",
+            "book_id": 12991533
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "戍边配妻，悍卒一刀镇北莽",
+            "book_id": 12795069,
+            "intro": "【穿越乱世・兵王逆袭・杀伐爽文・边关升级流】\n龙焱兵王萧叶穿越北疆乱世，开局穷得吃不上饭，赶上朝廷募兵直接发老婆，一口气领了三个：温柔持家的将门遗女苏婉娘、从前看不起他的尚书千金楚清琳、一心杀鞑子复仇"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "饥荒年，我带领女囚上山称王",
+            "book_id": 12782937,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "北疆最狂纨绔：从赐婚进京开始",
+            "book_id": 12949137,
+            "heat_change": 6000
+          },
+          {
+            "title": "饥荒年，我带领女囚上山称王",
+            "book_id": 12782937,
+            "heat_change": -6000
+          },
+          {
+            "title": "寇天子",
+            "book_id": 12817968,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「架空历史」新上榜 《药童凶猛》、《被陷害后，我被迫成了送子天官！》、《兄长们死后，边军悍卒养三家！》；《戍边配妻，悍卒一刀镇北莽》 掉出榜单；《饥荒年，我带领女囚上山称王》下滑2位；《北疆最狂纨绔：从赐婚进京开始》热度+6000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "透视神眼：看尽天下玉，揽尽世上美",
+            "book_id": 12898650
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "都重生了谁还老实创业啊？",
+            "book_id": 12594366,
+            "intro": "互联网大亨魏东重生2000年，回到了被表哥踢出公司的那天。\n这一世，他只想做三件事：\n让父母不再抱憾离世，让白月光不再只是回忆，让上辈子的仇人破产倒闭。\n至于创业……都重生了，谁还老实创业？\n先来一招"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "重生70：我在空间狩猎，狂宠妻儿",
+            "book_id": 13340112,
+            "rank_change": 1
+          },
+          {
+            "title": "红妆贵人",
+            "book_id": 13231977,
+            "rank_change": 1
+          },
+          {
+            "title": "重生72：三枪轰出万元户！",
+            "book_id": 13340145,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "重生70：我在空间狩猎，狂宠妻儿",
+            "book_id": 13340112,
+            "heat_change": 5000
+          },
+          {
+            "title": "红妆贵人",
+            "book_id": 13231977,
+            "heat_change": 2000
+          },
+          {
+            "title": "重生72：三枪轰出万元户！",
+            "book_id": 13340145,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「都市生活」新上榜 《透视神眼：看尽天下玉，揽尽世上美》；《都重生了谁还老实创业啊？》 掉出榜单；《重生70：我在空间狩猎，狂宠妻儿》上升1位领涨；《重生70：我在空间狩猎，狂宠妻儿》热度+5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "恐怖灵异",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "恐怖复苏：离婚后，我不替她挡灾了",
+            "book_id": 12418653,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「恐怖灵异」《恐怖复苏：离婚后，我不替她挡灾了》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "魔天鼎：我能炼化万物",
+            "book_id": 13297746,
+            "intro": "【玄幻】【无系统】\n穿越成为镇国侯府弃子，秦绝意外邂逅了玄灵界两大女宫主，虽元阳尽失，却习得绝世魔功，被家族放弃。\n旁人争灵药、炼神丹，苦苦熬修为；唯有秦绝手握魔天鼎：别人炼丹，我炼魔躯！\n鼎内三百六"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "阴阳天帝诀",
+            "book_id": 12749622,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "阴阳天帝诀",
+            "book_id": 12749622,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「东方玄幻」《魔天鼎：我能炼化万物》 掉出榜单；《阴阳天帝诀》下滑1位；《阴阳天帝诀》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「热血校园」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "虚拟网游",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "网游：全是数值，你管这叫圣骑士？",
+            "book_id": 12801060,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「虚拟网游」《网游：全是数值，你管这叫圣骑士？》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "「商战职场」《野性攀登》上升1位领涨；《野性攀登》热度+4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "下山即无敌，美女总裁逼我去领证！",
+            "book_id": 12594795,
+            "rank_change": -5
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "下山即无敌，美女总裁逼我去领证！",
+            "book_id": 12594795,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「都市高手」《下山即无敌，美女总裁逼我去领证！》下滑5位；《下山即无敌，美女总裁逼我去领证！》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "明星娱乐",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "恋综修罗场，女嘉宾全是我前女友？",
+            "book_id": 13009026,
+            "rank_change": -9
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "恋综修罗场，女嘉宾全是我前女友？",
+            "book_id": 13009026,
+            "heat_change": -7000
+          }
+        ],
+        "summary": "「明星娱乐」《恋综修罗场，女嘉宾全是我前女友？》下滑9位；《恋综修罗场，女嘉宾全是我前女友？》热度-7000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "重生57：开局傻子，白捡个漂亮媳妇",
+            "book_id": 13118376,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「乡村生活」《重生57：开局傻子，白捡个漂亮媳妇》热度+1000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

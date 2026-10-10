@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-10",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 1,
+    "total_heat": 26,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": 3
+          },
+          {
+            "title": "玉帐春",
+            "book_id": 11663199,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": -3
+          },
+          {
+            "title": "错撩反派，被疯批摄政王强娶豪夺",
+            "book_id": 12593919,
+            "rank_change": -1
+          },
+          {
+            "title": "媚君侧",
+            "book_id": 11615952,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "听女儿心声，侯夫人挺孕肚乱杀",
+            "book_id": 12800205,
+            "heat_change": -4
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": 3
+          },
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "heat_change": -3
+          }
+        ],
+        "summary": "「宫闱宅斗」《皇叔借点功德，王妃把符画猛了》上升3位领涨；《凰宫梦》下滑3位；《听女儿心声，侯夫人挺孕肚乱杀》热度-4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902,
+            "intro": "梵音落魄那日，去了个破落小镇\n她肤白貌美大长腿，十指不沾阳春水，很快成了这个地方的焦点\n所有男人都对她趋之若鹜，独独一人对她退避三舍\n梵音看那人一眼，随他去，懒得理\n后来，男人醉酒敲开她的房门，掐着她"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "rank_change": -2
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": -1
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": 2
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「总裁豪门」《疯犬玫瑰》 掉出榜单；《离婚后她惊艳了世界》下滑2位；《离婚后她惊艳了世界》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "五岁小神女：我靠兽语救了废柴将军爹爹",
+            "book_id": 13288209
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "王妃一身妖骨，京城百祟俯首",
+            "book_id": 12328977,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "王妃一身妖骨，京城百祟俯首",
+            "book_id": 12328977,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「古代情缘」新上榜 《五岁小神女：我靠兽语救了废柴将军爹爹》；《王妃一身妖骨，京城百祟俯首》上升1位领涨；《新婚夜流放，飒爽太子妃种出西北大仓！》下滑1位；《王妃一身妖骨，京城百祟俯首》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "军婚超甜！闪婚后成了首长的心尖宠",
+            "book_id": 12803265
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "神医军嫂要离婚，冷面团长急红眼",
+            "book_id": 13164777,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「年代重生」新上榜 《军婚超甜！闪婚后成了首长的心尖宠》；《神医军嫂要离婚，冷面团长急红眼》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "权谋天下",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "恨卿迟",
+            "book_id": 1949508,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "恨卿迟",
+            "book_id": 1949508,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「权谋天下」《恨卿迟》上升1位领涨；《恨卿迟》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市奇幻」《家有玄妻，百邪不侵！》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」新上榜 《大雪封山闹饥荒，福宝开挂富全村》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

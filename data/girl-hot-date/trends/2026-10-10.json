@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-10",
+  "board": "girl-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 366700,
+    "total_heat": 7334000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "rank_change": 2
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": 1
+          },
+          {
+            "title": "首辅绝嗣，我连生三子全家宠上天",
+            "book_id": 10482120,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
+            "book_id": 2048050,
+            "rank_change": -2
+          },
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "rank_change": -2
+          },
+          {
+            "title": "玉帐春",
+            "book_id": 11663199,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "首辅绝嗣，我连生三子全家宠上天",
+            "book_id": 10482120,
+            "heat_change": 38000
+          },
+          {
+            "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
+            "book_id": 2048050,
+            "heat_change": -25000
+          },
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "heat_change": 24000
+          }
+        ],
+        "summary": "「宫闱宅斗」《凤池生春》上升2位领涨；《抢我婚约嫁太子？我携孕肚嫁皇帝》下滑2位；《首辅绝嗣，我连生三子全家宠上天》热度+38000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "薄总，婚后请节制！",
+            "book_id": 11498553
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "暗渡春潮",
+            "book_id": 12784170,
+            "intro": "真千金回归，一朝之间，楚知渔从掌上明珠变成了寄人篱下的养女。\n恰逢霍家掌权人霍临川回国，许她身份、地位、财富，让她和真千金一般在霍家活着。\n起初，她感激他、仰慕他，想报答他。\n可他却在一个暴雨的深夜里"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "heat_change": -66000
+          },
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "heat_change": 29000
+          },
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": 18000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《薄总，婚后请节制！》；《暗渡春潮》 掉出榜单；《离婚当天，和京圈太子爷闪婚了》上升2位领涨；《霍二爷，新婚请克制！》下滑1位；《霍二爷，新婚请克制！》热度-66000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": -14000
+          }
+        ],
+        "summary": "「年代重生」《错嫁随军：新婚夜冷面军少沦陷了》热度-14000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "heat_change": 14000
+          }
+        ],
+        "summary": "「都市奇幻」《家有玄妻，百邪不侵！》热度+14000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
