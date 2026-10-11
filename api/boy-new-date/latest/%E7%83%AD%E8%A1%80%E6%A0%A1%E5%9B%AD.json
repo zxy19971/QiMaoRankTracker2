@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "category": {
     "name": "热血校园",
     "major": "都市",
@@ -19,15 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "趁校花一贫如洗，忽悠她以身相许",
+          "book_id": 12896292,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「热血校园」榜单结构稳定，无明显变动。",
+      "summary": "「热血校园」《趁校花一贫如洗，忽悠她以身相许》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 6,
         "title": "趁校花一贫如洗，忽悠她以身相许",
         "book_id": 12896292,
         "url": "https://www.qimao.com/shuku/12896292/",
@@ -39,16 +45,16 @@
         "minor_id": 222,
         "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.18万字",
-        "word_count": 331800,
+        "word_count_text": "33.75万字",
+        "word_count": 337500,
         "heat": 39000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "重回2010年的大学城。\n这一年，未来的“最美女教授”还在奶茶店兼职。\n这一年，未来的女团顶流尚在校园，却已初露锋芒。\n这一年，未来的机车女神还只是个有点拜金的小姑娘。\n这一年，未来的商业女强人，还是个恋爱脑。\n这一年，阳光正好，微风不燥，遗憾来得及弥补，野心正蓄势待发。\n这一年，刘寻发誓，这辈子不再循规循距，要将前世没享过的福，统统体验一遍！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
-        "latest_chapter": " 第145章  我也给你们再找个姐妹吧！",
-        "updated_at": "2026-10-09 08:12:09",
-        "rank_change": 0,
+        "latest_chapter": " 第147章  你这臭小子，怎么还拐了个学霸回来！",
+        "updated_at": "2026-10-10 08:12:09",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

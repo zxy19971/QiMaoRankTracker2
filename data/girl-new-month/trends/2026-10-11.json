@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-11",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 7,
+    "dropped_count": 7,
+    "avg_heat": 956700,
+    "total_heat": 19134000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 3,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "裴先生，暗恋她已十二年",
+            "book_id": 13010484
+          },
+          {
+            "title": "唯她是图",
+            "book_id": 12860100
+          },
+          {
+            "title": "难戒，上上婚！",
+            "book_id": 12573738
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "青梅消失五年后，顾医生再度失控",
+            "book_id": 12855951,
+            "intro": "顾承野吻得急，吻得凶，像是憋了五年的一口气全堵在嗓子眼儿里，此刻终于找到了出口。\n可偏偏他掐着她腰肢的那只手又是那般轻柔。她的腰多瘦，他一只手几乎能握住大半，像是在碰一件失而复得的瓷器，好怕给她怼坏了"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "鱼宝三岁半，哥哥们都是窝捡来哒",
+            "book_id": 12802161,
+            "rank_change": 6
+          },
+          {
+            "title": "抛妻弃子后，薄总低声诱哄求复合",
+            "book_id": 12497535,
+            "rank_change": 6
+          },
+          {
+            "title": "暗渡春潮",
+            "book_id": 12784170,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」新上榜 《裴先生，暗恋她已十二年》、《唯她是图》、《难戒，上上婚！》；《青梅消失五年后，顾医生再度失控》 掉出榜单；《鱼宝三岁半，哥哥们都是窝捡来哒》上升6位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 4,
+        "new_books": [
+          {
+            "title": "七零换嫁绝嗣大佬，一胎三宝惊艳家属院",
+            "book_id": 12602724
+          },
+          {
+            "title": "极品小姑懂婴语，全家端上铁饭碗",
+            "book_id": 12554541
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "一胎五宝，我成军属院顶流",
+            "book_id": 12655653,
+            "intro": "【年代+穿书+极致反差+军婚+一胎五宝+双洁】\n鹿瑶是当红顶流，没想到被私生饭围堵出车祸而亡。\n再次醒来，竟然成了年代文里难产而死的恶毒丑陋的炮灰前妻陆瑶。\n正当她绝望的时候，好孕系统加持。\n双胞胎变"
+          },
+          {
+            "title": "领证日一胎四宝，说好的绝嗣大佬呢？",
+            "book_id": 12565836,
+            "intro": "傅尧重生了，一睁眼回到了被渣男捉奸的那张床上。\n上辈子她满心欢喜上京领证，却被渣男未婚夫设计，和中了药的陌生男人滚了床单，当场被捉奸身败名裂！她被赶回乡下，怀的四胞胎被迫打胎，还给渣男爹妈当了一辈子老"
+          },
+          {
+            "title": "重生换亲？我携空间嫁短命糙汉赢麻了",
+            "book_id": 12454263,
+            "intro": "林晓晓重生了，重生到和堂姐一起定亲这一天！\n堂姐还要设计和她换亲！\n上一世，林晓晓表面嫁给军官丈夫，有儿有女家庭幸福。\n实际上婆婆磋磨，连生三女一子，不到五十岁就香消玉殒。\n重生归来，堂姐设计要抢妈宝"
+          },
+          {
+            "title": "七零，咸鱼假千金带空间下乡躺赢",
+            "book_id": 12265746,
+            "intro": "虞晚倒霉的穿进七十年代。\n成为一本书中注定要被女主踩在脚下的炮灰假千金。\n假千金过的就一定是好日子吗？\n每天吃着糙米杂粮饭，住在逼仄的楼房里，给全家六口人洗衣做饭，还要当保姆带孩子。\n等真千金回来就要"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」新上榜 《七零换嫁绝嗣大佬，一胎三宝惊艳家属院》、《极品小姑懂婴语，全家端上铁饭碗》；《一胎五宝，我成军属院顶流》、《领证日一胎四宝，说好的绝嗣大佬呢？》、《重生换亲？我携空间嫁短命糙汉赢麻了》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 2,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "听女儿心声，侯夫人挺孕肚乱杀",
+            "book_id": 12800205,
+            "intro": "前世被设计逼嫁入了安顺候府，季月如大半辈子都在替一双继子女擦屁股，给小姑子善后。\n       死后发现自己竟重回怀孕之时。\n      胎中五月便胎死腹中，死后的安安怨气丛生，以灵体跟在亲生母亲身边"
+          },
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "intro": "【娇媚心机小丫鬟+禁欲侯爷+甜宠+宅斗】\n前世，沈清禾被亲妹抢亲，只能给纨绔当通房，亲妹成了小侯爷的通房。\n　　可最终，小侯爷绝嗣，反而纨绔成了权倾朝野的首辅，亲妹嫉妒之下百般陷害，沈清禾郁郁而终。\n"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "替嫁高门后，贤德夫人捅破天",
+            "book_id": 12321330,
+            "rank_change": 6
+          },
+          {
+            "title": "夺她入帐，惹上疯批权臣逃不掉",
+            "book_id": 10423605,
+            "rank_change": 2
+          },
+          {
+            "title": "侯府来了个小阎王，满朝权贵争又抢",
+            "book_id": 12479613,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「宫闱宅斗」《听女儿心声，侯夫人挺孕肚乱杀》、《侯爷绝嗣？好孕丫鬟又又又是喜脉》 掉出榜单；《替嫁高门后，贤德夫人捅破天》上升6位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "折婢骨",
+            "book_id": 12107619,
+            "rank_change": 3
+          },
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」《折婢骨》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "穿了之后：我用一头猪换了个男人",
+            "book_id": 12779250,
+            "rank_change": 6
+          },
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」《穿了之后：我用一头猪换了个男人》上升6位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "权谋天下",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "长庚引",
+            "book_id": 12090615
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「权谋天下」新上榜 《长庚引》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」新上榜 《年下弟弟，人前乖软人后野》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

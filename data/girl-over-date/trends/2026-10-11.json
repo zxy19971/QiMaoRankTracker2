@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-11",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 174000,
+    "total_heat": 3480000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "消失十五年，孩子妈穿回来了！",
+            "book_id": 1843770,
+            "intro": "飞机失事后，林禾身穿至十五后。\n小奶狗老公成了儒雅魅力老男人，荷尔蒙侵略气息拉满。\n三个小团子学业称霸，但其他方面问题多多！\n大儿子阴郁冷漠，二女儿纨绔恋爱脑，小儿子打架斗殴家常便饭……\n除了林禾，剩"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "皑如山上雪",
+            "book_id": 2053898,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "盛总，太太让您签的是去父留子协议",
+            "book_id": 9903723,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "盛总，太太让您签的是去父留子协议",
+            "book_id": 9903723,
+            "heat_change": -20000
+          },
+          {
+            "title": "惯坏她",
+            "book_id": 10034568,
+            "heat_change": -9000
+          },
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "heat_change": 6000
+          }
+        ],
+        "summary": "「总裁豪门」《消失十五年，孩子妈穿回来了！》 掉出榜单；《皑如山上雪》上升3位领涨；《盛总，太太让您签的是去父留子协议》下滑1位；《盛总，太太让您签的是去父留子协议》热度-20000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "裂春风",
+            "book_id": 10024089,
+            "rank_change": 3
+          },
+          {
+            "title": "第一凤女",
+            "book_id": 1803136,
+            "rank_change": 2
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": -15000
+          },
+          {
+            "title": "裂春风",
+            "book_id": 10024089,
+            "heat_change": 12000
+          },
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "heat_change": -6000
+          }
+        ],
+        "summary": "「宫闱宅斗」《裂春风》上升3位领涨；《被逼自刎，嫡女重生撕婚书覆皇朝》热度-15000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "heat_change": -4000
+          },
+          {
+            "title": "神算萌妻：傅太太才是玄学真大佬",
+            "book_id": 1803024,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「都市奇幻」《阴当》下滑1位；《阴当》热度-4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「玄幻仙侠」《第一瞳术师》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "穿成六零小炮灰，大小姐带物资养兵王",
+            "book_id": 2074330,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「年代重生」《穿成六零小炮灰，大小姐带物资养兵王》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "为奴三年后，整个侯府跪求我原谅",
+            "book_id": 1872563,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "为奴三年后，整个侯府跪求我原谅",
+            "book_id": 1872563,
+            "heat_change": -6000
+          }
+        ],
+        "summary": "「古代情缘」《为奴三年后，整个侯府跪求我原谅》下滑2位；《为奴三年后，整个侯府跪求我原谅》热度-6000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "邢教练，别太野",
+            "book_id": 1979319
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」新上榜 《邢教练，别太野》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
