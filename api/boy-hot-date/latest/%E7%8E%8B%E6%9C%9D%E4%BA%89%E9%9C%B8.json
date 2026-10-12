@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 281000,
+    "total_heat": 291000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "大周第一武夫",
+          "book_id": 2074426,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "heat_change": -6000
+          "heat_change": 10000
         }
       ],
-      "summary": "「王朝争霸」《大周第一武夫》热度-6000。",
+      "summary": "「王朝争霸」《大周第一武夫》上升1位领涨；《大周第一武夫》热度+10000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 12,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -45,17 +51,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "227.46万字",
-        "word_count": 2274600,
-        "heat": 281000,
-        "platform_trend": "drop",
+        "word_count_text": "228.11万字",
+        "word_count": 2281100,
+        "heat": 291000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第1051章  好好照顾一下他",
-        "updated_at": "2026-10-10 20:17:08",
-        "rank_change": 0,
-        "heat_change": -6000,
+        "latest_chapter": " 第1054章  金蟾的真正目的？",
+        "updated_at": "2026-10-11 20:07:07",
+        "rank_change": 1,
+        "heat_change": 10000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

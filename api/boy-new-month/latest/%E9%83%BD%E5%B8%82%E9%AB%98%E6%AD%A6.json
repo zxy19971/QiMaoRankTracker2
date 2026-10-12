@@ -8,37 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 1,
     "total_heat": 354000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 2,
-      "new_books": [
-        {
-          "title": "透视鉴宝：美女财富两不误",
-          "book_id": 12708261
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "女子监狱五年，出狱即无敌",
-          "book_id": 12791886,
-          "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归"
-        },
-        {
-          "title": "妖孽下山，医武双绝镇压全世界",
-          "book_id": 12873456,
-          "intro": "“师父，我要是走了，以后谁伺候你们？”\n三位绝色师尊：“你还是留着精力，以后伺候你的老婆们和三位师姐吧！”\n秦锋实力已至巅峰，但仍旧身负血海深仇！\n为报仇，他以众神殿殿主的无敌实力碾压对手！\n天海乱，"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高武」新上榜 《透视鉴宝：美女财富两不误》；《女子监狱五年，出狱即无敌》、《妖孽下山，医武双绝镇压全世界》 掉出榜单。",
+      "summary": "「都市高武」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,18 +39,18 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.15万字",
-        "word_count": 351500,
+        "word_count_text": "35.57万字",
+        "word_count": 355700,
         "heat": 354000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "叶尘努力三年送外卖，喜提一顶绿油油的帽子。\n前女友傍上部门领导，以为是跨越了阶层，却不知道叶尘是身怀绝技的入世高人。\n三年之期已到，叶尘终于可以毫无顾忌，一门望气术玩转珠宝玉石界，顶尖武力力压群雄。\n美女，金钱，我叶尘全都要……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4237/12708261_360x480.jpg?time=1783410543",
-        "latest_chapter": " 第166章  魔丸",
-        "updated_at": "2026-10-11 00:28:03",
+        "latest_chapter": " 第168章  让你们都成为宗师",
+        "updated_at": "2026-10-12 00:46:02",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"

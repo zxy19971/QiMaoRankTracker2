@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-12",
+  "board": "boy-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 103250,
+    "total_heat": 2065000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "噬神鼎",
+            "book_id": 1868453,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "荒古圣体：在娘胎开始悟道",
+            "book_id": 1849458,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "heat_change": 15000
+          },
+          {
+            "title": "玲珑塔",
+            "book_id": 1754203,
+            "heat_change": 4000
+          },
+          {
+            "title": "荒古圣体：在娘胎开始悟道",
+            "book_id": 1849458,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「东方玄幻」《噬神鼎》上升1位领涨；《荒古圣体：在娘胎开始悟道》下滑1位；《荒古武神》热度+15000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "边关猎户，我粮肉满仓富甲一方",
+            "book_id": 2093494,
+            "intro": "“夫君，为了这个家香火着想，妾身又给你安排了一桩婚事，你看可满意？”\n宁远意外穿越到了大乾帝国战事初定的饥荒年，女子地位卑贱远不如一碗白米值钱。\n看着怀中娇滴滴的小娘子又给自己带来小妾，宁远欲哭无泪，"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "无敌六皇子",
+            "book_id": 1747899,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "世子无双",
+            "book_id": 1860026,
+            "heat_change": 2000
+          },
+          {
+            "title": "打到北极圈了，你让我继承皇位？",
+            "book_id": 1864493,
+            "heat_change": 1000
+          },
+          {
+            "title": "无敌六皇子",
+            "book_id": 1747899,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「架空历史」《边关猎户，我粮肉满仓富甲一方》 掉出榜单；《无敌六皇子》下滑1位；《世子无双》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "警报！龙国出现SSS级修仙者！",
+            "book_id": 1812053,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "小司机的美女总裁老婆",
+            "book_id": 2052700,
+            "heat_change": -15000
+          },
+          {
+            "title": "警报！龙国出现SSS级修仙者！",
+            "book_id": 1812053,
+            "heat_change": 5000
+          },
+          {
+            "title": "镇天神医",
+            "book_id": 1675640,
+            "heat_change": -4000
+          }
+        ],
+        "summary": "「都市高武」《警报！龙国出现SSS级修仙者！》上升1位领涨；《小司机的美女总裁老婆》热度-15000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "heat_change": -3000
+          },
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「奇门秘术」《民间诡闻实录》上升1位领涨；《山野诡闻笔记》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "重生2000：从追求青涩校花同桌开始",
+            "book_id": 1758273,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "重生2000：从追求青涩校花同桌开始",
+            "book_id": 1758273,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「热血校园」《重生2000：从追求青涩校花同桌开始》上升1位领涨；《重生2000：从追求青涩校花同桌开始》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "SSS级狂龙归来，全球戒备！",
+            "book_id": 2060177,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "SSS级狂龙归来，全球戒备！",
+            "book_id": 2060177,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「都市高手」《SSS级狂龙归来，全球戒备！》下滑1位；《SSS级狂龙归来，全球戒备！》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「异世大陆」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「末世危机」《全球灾变之末日游戏》下滑1位；《全球灾变之末日游戏》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "让你带问题女兵，你全养成特种兵王了？",
+            "book_id": 2091811
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「现代军事」新上榜 《让你带问题女兵，你全养成特种兵王了？》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

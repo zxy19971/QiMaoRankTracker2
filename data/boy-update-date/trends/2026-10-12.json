@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-12",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 0,
+    "total_heat": 12,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "让你当炉做鼎，你炼阴阳证大道？",
+            "book_id": 11556534,
+            "intro": "百岁炉鼎，地狱开局，受尽妖女垂涎。\n即将被敲骨吸髓之际，梦入太虚，得无上传承！\n【先天圣体】觉醒！\n【逆天神功】加身！\n一夜之间，老树开花，震彻八方！\n自此，满门妖女、世间绝色，皆为李寒山登临绝巅的无"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": -1
+          },
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「东方玄幻」《让你当炉做鼎，你炼阴阳证大道？》 掉出榜单；《吞天神体》上升1位领涨；《葬神棺》下滑1位；《吞天神体》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "rank_change": -3
+          },
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「都市高手」新上榜 《狂龙出渊，开局拿捏女战神！》；《美女总裁，请上车》 掉出榜单；《SSSSSSSSSSSSS级镇狱狂龙》下滑3位；《爷爷托梦后，我靠戒指掌控万界》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "边军悍卒：一把长弓定天下！",
+            "book_id": 12948825,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」《边军悍卒：一把长弓定天下！》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "全家托举，我苟成盖世仙王",
+            "book_id": 13441152
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」新上榜 《全家托举，我苟成盖世仙王》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高武」《神武天下之睚眦》下滑1位；《神武天下之睚眦》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「现代军事」《五次入伍，我给全军上强度！》下滑1位；《五次入伍，我给全军上强度！》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
