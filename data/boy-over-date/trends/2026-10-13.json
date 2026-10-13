@@ -1,0 +1,258 @@
+{
+  "date": "2026-10-13",
+  "board": "boy-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 104250,
+    "total_heat": 2085000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "九转星辰诀",
+            "book_id": 202636,
+            "rank_change": -6
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "九转星辰诀",
+            "book_id": 202636,
+            "heat_change": -10000
+          },
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "heat_change": 8000
+          },
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "heat_change": -4000
+          }
+        ],
+        "summary": "「东方玄幻」《九转星辰诀》下滑6位；《九转星辰诀》热度-10000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "被贬边疆，成就最强藩王",
+            "book_id": 1965987,
+            "rank_change": 1
+          },
+          {
+            "title": "世子无双",
+            "book_id": 1860026,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "无敌六皇子",
+            "book_id": 1747899,
+            "heat_change": 7000
+          },
+          {
+            "title": "世子无双",
+            "book_id": 1860026,
+            "heat_change": 5000
+          },
+          {
+            "title": "打到北极圈了，你让我继承皇位？",
+            "book_id": 1864493,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「架空历史」《被贬边疆，成就最强藩王》上升1位领涨；《无敌六皇子》热度+7000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "警报！龙国出现SSS级修仙者！",
+            "book_id": 1812053,
+            "heat_change": 10000
+          },
+          {
+            "title": "小司机的美女总裁老婆",
+            "book_id": 2052700,
+            "heat_change": -1000
+          },
+          {
+            "title": "镇天神医",
+            "book_id": 1675640,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「都市高武」《警报！龙国出现SSS级修仙者！》热度+10000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "heat_change": -3000
+          },
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「奇门秘术」《山野诡闻笔记》下滑2位；《山野诡闻笔记》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "重生2000：从追求青涩校花同桌开始",
+            "book_id": 1758273,
+            "heat_change": -4000
+          }
+        ],
+        "summary": "「热血校园」《重生2000：从追求青涩校花同桌开始》热度-4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "SSS级狂龙归来，全球戒备！",
+            "book_id": 2060177,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「都市高手」《SSS级狂龙归来，全球戒备！》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+            "book_id": 2027749,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「异世大陆」《刚抽中SSS级天赋，你跟我说游戏停服》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "让你带问题女兵，你全养成特种兵王了？",
+            "book_id": 2091811,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "让你带问题女兵，你全养成特种兵王了？",
+            "book_id": 2091811,
+            "heat_change": 11000
+          }
+        ],
+        "summary": "「现代军事」《让你带问题女兵，你全养成特种兵王了？》上升5位领涨；《让你带问题女兵，你全养成特种兵王了？》热度+11000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「末世危机」《全球灾变之末日游戏》热度+1000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 1,
-    "total_heat": 1223000,
+    "total_heat": 1197000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -25,10 +25,10 @@
         {
           "title": "盖世神医",
           "book_id": 195958,
-          "heat_change": -2000
+          "heat_change": -26000
         }
       ],
-      "summary": "「都市高武」《盖世神医》热度-2000。",
+      "summary": "「都市高武」《盖世神医》热度-26000。",
       "ai_source": "rule"
     },
     "books": [
@@ -45,17 +45,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "920.72万字",
-        "word_count": 9207200,
-        "heat": 1223000,
-        "platform_trend": "drop",
+        "word_count_text": "921.15万字",
+        "word_count": 9211500,
+        "heat": 1197000,
+        "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4491章  绝不能留！",
-        "updated_at": "2026-10-11 21:51:31",
+        "latest_chapter": " 第4493章  以身相许好不好？",
+        "updated_at": "2026-10-12 22:57:30",
         "rank_change": 0,
-        "heat_change": -2000,
+        "heat_change": -26000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,

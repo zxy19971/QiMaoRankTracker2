@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+          "book_id": 1866390,
+          "rank_change": -2
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「年代重生」榜单结构稳定，无明显变动。",
+      "summary": "「年代重生」《七零，易孕娇妻被绝嗣京少宠哭了》下滑2位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 20,
         "title": "七零，易孕娇妻被绝嗣京少宠哭了",
         "book_id": 1866390,
         "url": "https://www.qimao.com/shuku/1866390/",
@@ -48,7 +54,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/595/1784376_360x480.jpg?time=1726332415",
         "latest_chapter": " 第707章  大结局（完）",
         "updated_at": "2026-04-03 14:06:07",
-        "rank_change": 0,
+        "rank_change": -2,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

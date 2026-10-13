@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "category": {
     "name": "现代军事",
     "major": "军事",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "让你带问题女兵，你全养成特种兵王了？",
+          "book_id": 2091811,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「现代军事」榜单结构稳定，无明显变动。",
+      "summary": "「现代军事」《让你带问题女兵，你全养成特种兵王了？》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 20,
         "title": "让你带问题女兵，你全养成特种兵王了？",
         "book_id": 2091811,
         "url": "https://www.qimao.com/shuku/2091811/",
@@ -48,11 +54,11 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/923/2766005_360x480.jpg?time=1762537689",
         "latest_chapter": " 第926章  除夕夜年夜饭！我们时刻准备着！（大结局）",
         "updated_at": "2026-10-10 08:37:07",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": false,
+        "stale_update": true,
         "category": "现代军事"
       }
     ]

@@ -1,0 +1,258 @@
+{
+  "date": "2026-10-13",
+  "board": "boy-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 397100,
+    "total_heat": 7942000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "rank_change": -1
+          },
+          {
+            "title": "混沌塔",
+            "book_id": 1767940,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "heat_change": -55000
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": -10000
+          },
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "heat_change": -6000
+          }
+        ],
+        "summary": "「东方玄幻」《吞噬九重天》下滑1位；《鸿蒙霸体诀》热度-55000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "让你当个替身，你咋君临天下",
+            "book_id": 12647139,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "从骑奴到大乾武圣",
+            "book_id": 12465015,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "让你当个替身，你咋君临天下",
+            "book_id": 12647139,
+            "heat_change": 42000
+          },
+          {
+            "title": "从骑奴到大乾武圣",
+            "book_id": 12465015,
+            "heat_change": -29000
+          },
+          {
+            "title": "边关兵王",
+            "book_id": 1995023,
+            "heat_change": 12000
+          }
+        ],
+        "summary": "「架空历史」《让你当个替身，你咋君临天下》上升5位领涨；《从骑奴到大乾武圣》下滑2位；《让你当个替身，你咋君临天下》热度+42000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "警报！真龙出狱！",
+            "book_id": 1834789,
+            "heat_change": -62000
+          },
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "heat_change": 15000
+          },
+          {
+            "title": "舔狗反派只想苟，女主不按套路走！",
+            "book_id": 1710753,
+            "heat_change": 3000
+          }
+        ],
+        "summary": "「都市高手」《警报！真龙出狱！》热度-62000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "盖世神医",
+            "book_id": 195958,
+            "heat_change": -26000
+          }
+        ],
+        "summary": "「都市高武」《盖世神医》热度-26000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "步步登阶",
+            "book_id": 1982360,
+            "heat_change": -4000
+          }
+        ],
+        "summary": "「都市生活」《步步登阶》热度-4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "桃花劫",
+            "book_id": 2028957,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "「商战职场」《桃花劫》热度+4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "王朝争霸",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "大周第一武夫",
+            "book_id": 2074426,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "大周第一武夫",
+            "book_id": 2074426,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「王朝争霸」《大周第一武夫》下滑2位；《大周第一武夫》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "聚宝仙炉",
+            "book_id": 12452187
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "九转仙葫",
+            "book_id": 12212670,
+            "intro": "本作品漫改剧《凡人修仙：九转仙葫》已上线，大家放心入坑！\n凡人少年顾长生，偶然得到上古法宝九转仙葫，从此开启了功德修仙之路……\n人人嫌弃的废丹，经过九转仙葫的净化，变成了极品灵丹，普通的功法经过提升变"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」新上榜 《聚宝仙炉》；《九转仙葫》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "快老死了，圣女上门赐仙缘",
+            "book_id": 12670524,
+            "heat_change": 7000
+          }
+        ],
+        "summary": "「古典仙侠」《快老死了，圣女上门赐仙缘》热度+7000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

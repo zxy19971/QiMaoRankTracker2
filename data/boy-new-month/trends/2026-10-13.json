@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-13",
+  "board": "boy-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 471000,
+    "total_heat": 9420000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 2,
+        "new_books": [
+          {
+            "title": "断绝关系后，我成大魏第一国公",
+            "book_id": 12803235
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "饥荒年，我带领女囚上山称王",
+            "book_id": 12782937,
+            "intro": "陈望北穿越成伪齐虎豹营小队正，奉命押送百名女眷前往两千里外的北蛮王城。\n北上是死，抗命也是死。\n暴风雪过后，他带着仅剩三十余人误入一座四季如春的山谷秘境。\n这里有前朝淮南王遗留的藏兵洞、百石陈粮、废弃"
+          },
+          {
+            "title": "药童凶猛",
+            "book_id": 13018422,
+            "intro": "定国公府药童苏木，被纨绔世子萧承安逼着顶替私会外室的罪名，又在绝色主母的眼皮底下演了一场荒唐戏。\n苏木深知自己只是棋子，暗中修炼外室所赠功法，借府中药材淬炼体魄。\n不曾想各色美女接踵而至，艳遇不断，助"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "北疆最狂纨绔：从赐婚进京开始",
+            "book_id": 12949137,
+            "rank_change": 3
+          },
+          {
+            "title": "被陷害后，我被迫成了送子天官！",
+            "book_id": 12984576,
+            "rank_change": 3
+          },
+          {
+            "title": "兄长们死后，边军悍卒养三家！",
+            "book_id": 12991533,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」新上榜 《断绝关系后，我成大魏第一国公》；《饥荒年，我带领女囚上山称王》、《药童凶猛》 掉出榜单；《北疆最狂纨绔：从赐婚进京开始》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "重生70：大国栋梁，从正阳门下开始",
+            "book_id": 12867831
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "透视神眼：看尽天下玉，揽尽世上美",
+            "book_id": 12898650,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市生活」新上榜 《重生70：大国栋梁，从正阳门下开始》；《透视神眼：看尽天下玉，揽尽世上美》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "女总裁的小邪医",
+            "book_id": 12932601
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "下山即无敌，美女总裁逼我去领证！",
+            "book_id": 12594795,
+            "rank_change": 1
+          },
+          {
+            "title": "下山第一天，逮个美女总裁暴力宠",
+            "book_id": 13008696,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」新上榜 《女总裁的小邪医》；《下山即无敌，美女总裁逼我去领证！》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "绑定道侣系统，师尊助我飞升！",
+            "book_id": 13110387,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」《绑定道侣系统，师尊助我飞升！》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "重生70：一枪一个，狩猎人生",
+            "book_id": 13113909,
+            "rank_change": 3
+          },
+          {
+            "title": "重生57：开局傻子，白捡个漂亮媳妇",
+            "book_id": 13118376,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「乡村生活」《重生70：一枪一个，狩猎人生》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "恐怖灵异",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「恐怖灵异」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "趁校花一贫如洗，忽悠她以身相许",
+            "book_id": 12896292,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「热血校园」《趁校花一贫如洗，忽悠她以身相许》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "诡异民国，从缝尸开始长生",
+            "book_id": 12706761,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」《诡异民国，从缝尸开始长生》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "透视鉴宝：美女财富两不误",
+            "book_id": 12708261,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」《透视鉴宝：美女财富两不误》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
