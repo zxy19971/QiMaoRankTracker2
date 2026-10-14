@@ -1,0 +1,181 @@
+{
+  "date": "2026-10-14",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 0,
+    "total_heat": 7,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「东方玄幻」《吞天神体》下滑1位；《吞天神体》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "rank_change": 1
+          },
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "heat_change": -1
+          },
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高手」《SSSSSSSSSSSSS级镇狱狂龙》上升1位领涨；《SSSSSSSSSSSSS级镇狱狂龙》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "边军小卒：杀敌爆气血，我无限破镜！",
+            "book_id": 12958296
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "边军悍卒：一把长弓定天下！",
+            "book_id": 12948825,
+            "intro": "国家一级射箭运动员、八极拳传人吴起，比赛回国遭遇空难，醒来后成了大周王朝边军杂役兵。\n这一世的傻大个“吴起”，被伍长夫妇当牛马，因为撞破伍长私通敌国，被抛弃荒漠脱水而死。\n吴起穿越醒来，遭遇北蛮十骑袭"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」新上榜 《边军小卒：杀敌爆气血，我无限破镜！》；《边军悍卒：一把长弓定天下！》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市高武」《神武天下之睚眦》上升1位领涨；《神武天下之睚眦》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「现代军事」《五次入伍，我给全军上强度！》上升1位领涨；《五次入伍，我给全军上强度！》热度-1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

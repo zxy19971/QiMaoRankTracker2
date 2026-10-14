@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
@@ -19,33 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "王妃一身妖骨，京城百祟俯首",
-          "book_id": 12328977,
-          "rank_change": 2
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "五岁小神女：我靠兽语救了废柴将军爹爹",
-          "book_id": 13288209,
-          "rank_change": -4
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "王妃一身妖骨，京城百祟俯首",
-          "book_id": 12328977,
-          "heat_change": 1
-        },
-        {
-          "title": "五岁小神女：我靠兽语救了废柴将军爹爹",
-          "book_id": 13288209,
-          "heat_change": -1
-        }
-      ],
-      "summary": "「古代情缘」《王妃一身妖骨，京城百祟俯首》上升2位领涨；《五岁小神女：我靠兽语救了废柴将军爹爹》下滑4位；《王妃一身妖骨，京城百祟俯首》热度+1。",
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「古代情缘」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -71,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4110/12328977_360x480.jpg?time=1782836388",
         "latest_chapter": " 第248章  我用我自家族谱上的人，怎么就是错呢",
         "updated_at": "2026-10-13 08:12:08",
-        "rank_change": 2,
-        "heat_change": 1,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -120,17 +97,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "30.95万字",
-        "word_count": 309500,
+        "word_count_text": "31.52万字",
+        "word_count": 315200,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【五岁软萌宝×落难战神，父女向，养崽崽，复仇】\n谁能想到，西山破庙的小奶团子安安，竟能和鸟兽唠嗑！\n才五岁大，圆乎乎一小只，饥荒时喊着松鼠带路猎狍，救下全村饥民，被村民当成小神女。\n旁人只疼她软萌懂事，却不知她守着一个大秘密　——　身边沉默瘸腿的爹爹，是蒙冤逃亡的镇国大将军林啸。\n朝廷追兵、山中匪寇步步紧逼，安安半点不怕。\n她使唤飞鸟放哨、野兽警戒，一点点采药储粮，用自己独有的本事护着伤痕累累的爹爹。\n待到时机成熟，小神女牵着爹爹离开西山，奔赴京城，要把害人的奸相彻底扳倒！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4430/13288209_360x480.jpg?time=1787819785",
-        "latest_chapter": " 第100章  马圈旧年",
-        "updated_at": "2026-10-12 21:35:03",
-        "rank_change": -4,
-        "heat_change": -1,
+        "latest_chapter": " 第102章  枕箱密锁",
+        "updated_at": "2026-10-13 20:23:03",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

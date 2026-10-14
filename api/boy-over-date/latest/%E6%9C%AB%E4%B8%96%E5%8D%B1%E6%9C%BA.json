@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "category": {
     "name": "末世危机",
     "major": "科幻",
@@ -21,14 +21,8 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "全球灾变之末日游戏",
-          "book_id": 219542,
-          "heat_change": 1000
-        }
-      ],
-      "summary": "「末世危机」《全球灾变之末日游戏》热度+1000。",
+      "heat_leaders": [],
+      "summary": "「末世危机」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,7 +49,7 @@
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
         "rank_change": 0,
-        "heat_change": 1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

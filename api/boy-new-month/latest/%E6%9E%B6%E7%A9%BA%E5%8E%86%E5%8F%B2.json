@@ -8,53 +8,37 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 6,
     "total_heat": 2520000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 2,
-      "new_books": [
-        {
-          "title": "断绝关系后，我成大魏第一国公",
-          "book_id": 12803235
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "饥荒年，我带领女囚上山称王",
-          "book_id": 12782937,
-          "intro": "陈望北穿越成伪齐虎豹营小队正，奉命押送百名女眷前往两千里外的北蛮王城。\n北上是死，抗命也是死。\n暴风雪过后，他带着仅剩三十余人误入一座四季如春的山谷秘境。\n这里有前朝淮南王遗留的藏兵洞、百石陈粮、废弃"
-        },
-        {
-          "title": "药童凶猛",
-          "book_id": 13018422,
-          "intro": "定国公府药童苏木，被纨绔世子萧承安逼着顶替私会外室的罪名，又在绝色主母的眼皮底下演了一场荒唐戏。\n苏木深知自己只是棋子，暗中修炼外室所赠功法，借府中药材淬炼体魄。\n不曾想各色美女接踵而至，艳遇不断，助"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
+        {
+          "title": "边军悍卒：一把长弓定天下！",
+          "book_id": 12948825,
+          "rank_change": 1
+        },
         {
           "title": "北疆最狂纨绔：从赐婚进京开始",
           "book_id": 12949137,
-          "rank_change": 3
+          "rank_change": 1
         },
         {
           "title": "被陷害后，我被迫成了送子天官！",
           "book_id": 12984576,
-          "rank_change": 3
-        },
-        {
-          "title": "兄长们死后，边军悍卒养三家！",
-          "book_id": 12991533,
-          "rank_change": 3
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「架空历史」新上榜 《断绝关系后，我成大魏第一国公》；《饥荒年，我带领女囚上山称王》、《药童凶猛》 掉出榜单；《北疆最狂纨绔：从赐婚进京开始》上升3位领涨。",
+      "summary": "「架空历史」《边军悍卒：一把长弓定天下！》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
@@ -71,15 +55,15 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.24万字",
-        "word_count": 462400,
+        "word_count_text": "46.88万字",
+        "word_count": 468800,
         "heat": 1003000,
         "platform_trend": "rise",
         "badge": "飙升50名",
         "intro": "别人寒窗苦读十载，为科举头悬梁锥刺股；\n李安生穿越第一天，就继承了原主三十万两买来的会元身份。\n亲爹气得要打死他；满京城等着看他殿试出丑，菜市口挨刀。\n李安生：慌什么？不就是个殿试吗？\n经义？策论？诗词？张口就是千古名篇。\n李安生发现！\n这个世界有钱又有才，真的可以为所欲为。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4329/12985194_360x480.jpg?time=1790567965",
-        "latest_chapter": " 第215章  打，打起来的好！",
-        "updated_at": "2026-10-12 12:02:07",
+        "latest_chapter": " 第218章  生我者父母！再造我者李兄也！",
+        "updated_at": "2026-10-13 12:02:06",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -88,7 +72,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "title": "边军悍卒：一把长弓定天下！",
         "book_id": 12948825,
         "url": "https://www.qimao.com/shuku/12948825/",
@@ -104,7 +88,7 @@
         "word_count": 372100,
         "heat": 402000,
         "platform_trend": "rise",
-        "badge": "飙升21名",
+        "badge": "飙升22名",
         "intro": "国家一级射箭运动员、八极拳传人吴起，比赛回国遭遇空难，醒来后成了大周王朝边军杂役兵。\n这一世的傻大个“吴起”，被伍长夫妇当牛马，因为撞破伍长私通敌国，被抛弃荒漠脱水而死。\n吴起穿越醒来，遭遇北蛮十骑袭边，生死关头三箭毙三敌，获得第一笔军功！\n他装傻充楞回到哨所，反杀伍长那对狗男女，收服哨所众人。\n待提头回屯报功时，却被众人质疑，那个傻大个当了三年杂役兵，就能杀鞑子？\n吴起不语，拿出铜钱放在百步外，一箭贯穿方孔，全场愕然！\n提拔为新伍长只是第一步，屯长女儿也要顺势拿下！\n接下来就是守边攒功、种田经商、发展工业、招兵买马、群雄逐鹿...\n我不装了，我就是要用一把长弓定天下！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4317/12948825_360x480.jpg?time=1785383216",
         "latest_chapter": " 第155章  ：胡商进堡，采购糖酒。",
@@ -112,12 +96,12 @@
         "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "title": "北疆最狂纨绔：从赐婚进京开始",
         "book_id": 12949137,
         "url": "https://www.qimao.com/shuku/12949137/",
@@ -129,16 +113,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.32万字",
-        "word_count": 383200,
+        "word_count_text": "38.96万字",
+        "word_count": 389600,
         "heat": 318000,
         "platform_trend": "rise",
-        "badge": "飙升34名",
+        "badge": "飙升35名",
         "intro": "｛历史爽文，但非无脑爽文，喜欢无脑爽慎入｝\n商界传奇林烨，庆功宴上醉倒，一睁眼却成了大夏北疆的纨绔少爷。\n老爹是镇北大将军，手握二十万铁骑。\n开局就当街拦了公主銮驾，喊人家跳十八摸。\n满朝文武上书弹劾，秦王府恨不得将他剥皮抽筋，连十二岁的小太子都把他当成眼中钉。\n林烨笑了。\n前世从地下室爬到百亿身家，什么局没见过？\n给他下套？\n他反将一军见招拆招。\n说他无才无德？\n左手论语，右手唐诗，把大夏朝堂搅得鸡飞狗跳。\n拿他当质子？\n那便叫所有人知道，什么叫请神容易送神难！\n正当林烨以为可以安心做个咸鱼纨绔时，一桩桩阴谋浮出水面——\n东宫、藩王、朝中权贵，所有人都想借林家这把刀，在新帝的风口上博一个前程。\n林烨眯起眼。\n既然你们非要玩，那就别怪我动真格了。\n朝廷的刀钝了，他来开刃。\n大夏的马没有马鞍，他来造。\n军中的火器打不准，他来改。\n太子天真散漫愚蠢，他来调教！\n从北疆纨绔到大夏驸马。\n从太子帝师到三军统帅。\n当他站上城头，身后是百万铁骑，眼前是满目疮痍的旧王朝——\n他看向龙椅上的那个人，终于问出了那句话。\n“你是皇帝，那我是什么？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4317/12949137_360x480.jpg?time=1785316538",
-        "latest_chapter": " 第168章  他还真是风光啊",
-        "updated_at": "2026-10-12 13:39:02",
-        "rank_change": 3,
+        "latest_chapter": " 第171章  就怕流氓有文化",
+        "updated_at": "2026-10-13 13:38:03",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -146,7 +130,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "title": "被陷害后，我被迫成了送子天官！",
         "book_id": 12984576,
         "url": "https://www.qimao.com/shuku/12984576/",
@@ -158,16 +142,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.28万字",
-        "word_count": 482800,
+        "word_count_text": "48.95万字",
+        "word_count": 489500,
         "heat": 302000,
         "platform_trend": "rise",
-        "badge": "飙升39名",
+        "badge": "飙升40名",
         "intro": "【朝堂权谋】+【杀伐果断】+【智商在线】+【多女主】+【不好看你揍我！】\n胎穿十八年，萧策成为大炎皇朝最没存在的七皇子！\n本想着彻底躺平摆烂，混吃等死，不料一觉醒来，被大皇子陷害！\n为活命，他急中生智：“父皇，儿臣是送子天官转世！”\n纯属胡扯。\n可皇帝信了，满朝信了，连敌人都信了。\n萧策：“……我就是随口一说啊！”\n那就当真天官吧。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4329/12984576_360x480.jpg?time=1785745185",
-        "latest_chapter": " 第219章  终于上当了！",
-        "updated_at": "2026-10-12 09:02:08",
-        "rank_change": 3,
+        "latest_chapter": " 第222章  洪荒镇龙拳！",
+        "updated_at": "2026-10-13 10:56:04",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -175,7 +159,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "title": "兄长们死后，边军悍卒养三家！",
         "book_id": 12991533,
         "url": "https://www.qimao.com/shuku/12991533/",
@@ -187,16 +171,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.84万字",
-        "word_count": 488400,
+        "word_count_text": "49.53万字",
+        "word_count": 495300,
         "heat": 251000,
         "platform_trend": "rise",
-        "badge": "飙升41名",
+        "badge": "飙升42名",
         "intro": "父兄皆战死，独留三位刚过门的嫂嫂，特勤兵王林默穿越大魏，一间破屋三个嫂嫂，恶霸设局，夺命印子钱！一切从零开始。\n林默想给嫂嫂们一个家，嫂嫂们想给他一个后！\n且看风流兵王林默如何从微末崛起，打造大雪龙骑，风林火山步战之王，以血铺地，铸汉人战魂，竖华夏风骨！\n潜龙起于微末，帝魂出于行伍！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4331/12991533_360x480.jpg?time=1785867427",
-        "latest_chapter": " 第224章  面子重要！",
-        "updated_at": "2026-10-13 06:12:05",
-        "rank_change": 3,
+        "latest_chapter": " 第227章  一夜夫妻百日恩！",
+        "updated_at": "2026-10-14 06:12:05",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -204,7 +188,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "title": "断绝关系后，我成大魏第一国公",
         "book_id": 12803235,
         "url": "https://www.qimao.com/shuku/12803235/",
@@ -216,18 +200,18 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.18万字",
-        "word_count": 491800,
+        "word_count_text": "49.95万字",
+        "word_count": 499500,
         "heat": 244000,
         "platform_trend": "rise",
-        "badge": "飙升18名",
+        "badge": "飙升19名",
         "intro": "黄淮左穿越成了大魏王朝成国公府的三少爷。\n他的人生宗旨:享躺平人生，拥三妻四妾，坐着数钱，躺着也数钱。\n奈何“他欲静而家不止”\n自己两个不成器的哥哥排挤自己，加上眼瞎的亲爹，还有一个恶毒的主母。\n被安排入赘的黄淮左，走上搞钱的路。\n可一不小心...用力过猛，声名鹊起，名动大魏王朝。\n少年扬刀，斩佞臣，征四方，马踏十三州。后来在一个风雪满长安日子，成了大魏第一国公。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12803235_360x480.jpg?time=1789546893",
-        "latest_chapter": " 第203章  慕然回首，那人却在灯火阑珊处",
-        "updated_at": "2026-10-12 23:22:06",
-        "rank_change": 0,
+        "latest_chapter": " 第206章  流云剑法",
+        "updated_at": "2026-10-14 00:56:04",
+        "rank_change": 1,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"

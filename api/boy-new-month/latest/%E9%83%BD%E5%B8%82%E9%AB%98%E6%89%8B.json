@@ -8,37 +8,32 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 3,
     "total_heat": 1126000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "女总裁的小邪医",
-          "book_id": 12932601
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "下山即无敌，美女总裁逼我去领证！",
-          "book_id": 12594795,
+          "title": "下山第一天，逮个美女总裁暴力宠",
+          "book_id": 13008696,
           "rank_change": 1
         },
         {
-          "title": "下山第一天，逮个美女总裁暴力宠",
-          "book_id": 13008696,
+          "title": "女总裁的小邪医",
+          "book_id": 12932601,
           "rank_change": 1
         }
       ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高手」新上榜 《女总裁的小邪医》；《下山即无敌，美女总裁逼我去领证！》上升1位领涨。",
+      "summary": "「都市高手」《下山第一天，逮个美女总裁暴力宠》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,16 +50,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.24万字",
-        "word_count": 472400,
+        "word_count_text": "47.69万字",
+        "word_count": 476900,
         "heat": 463000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "“昨晚…是你？”\n“美女，明明是你先闯进我房间，对我用强的……”\n云墟山走下一个绝世天骄，本想退婚了却尘缘，却意外被美女总裁霸占……\n从此，叶安走上了一条权势与美女相伴的道路。\n很猛很无敌！\n【后宫多女】【杀伐果断】【高手下山】【扮猪吃虎】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4199/12594795_360x480.jpg?time=1782381371",
-        "latest_chapter": " 第163章  难不成，他真的是武道神境？",
-        "updated_at": "2026-10-12 00:47:03",
-        "rank_change": 1,
+        "latest_chapter": " 第164章  招婿？法器傍身？",
+        "updated_at": "2026-10-14 00:31:06",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -72,7 +67,7 @@
         "category": "都市高手"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "title": "下山第一天，逮个美女总裁暴力宠",
         "book_id": 13008696,
         "url": "https://www.qimao.com/shuku/13008696/",
@@ -84,15 +79,15 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.05万字",
-        "word_count": 320500,
+        "word_count_text": "32.48万字",
+        "word_count": 324800,
         "heat": 414000,
         "platform_trend": "rise",
-        "badge": "飙升53名",
+        "badge": "飙升54名",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第145章  保险的手段",
-        "updated_at": "2026-10-13 05:02:03",
+        "latest_chapter": " 第147章  让我看看你的真面目吧",
+        "updated_at": "2026-10-14 05:02:03",
         "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
@@ -101,7 +96,7 @@
         "category": "都市高手"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "title": "女总裁的小邪医",
         "book_id": 12932601,
         "url": "https://www.qimao.com/shuku/12932601/",
@@ -113,18 +108,18 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.15万字",
-        "word_count": 441500,
+        "word_count_text": "44.77万字",
+        "word_count": 447700,
         "heat": 249000,
         "platform_trend": "rise",
-        "badge": "飙升37名",
+        "badge": "飙升38名",
         "intro": "退伍保安跑滴滴，遭未婚妻与奸夫下药谋害，祖传玉佩觉醒青囊神武......\n“你喜欢阿姨吗？”\n“喜欢。”\n许平安从不介意姐弟恋",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12932601_360x480.jpg?time=1788795032",
-        "latest_chapter": " 第212章  港岛李家",
-        "updated_at": "2026-10-12 15:29:03",
-        "rank_change": 0,
+        "latest_chapter": " 第215章  下山虎的请求",
+        "updated_at": "2026-10-13 20:24:03",
+        "rank_change": 1,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"

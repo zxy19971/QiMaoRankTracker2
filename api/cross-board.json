@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T10:29:47",
-  "date": "2026-10-13",
+  "generated_at": "2026-10-14T08:13:59",
+  "date": "2026-10-14",
   "books": [
     {
       "book_id": 216404,
@@ -985,6 +985,24 @@
       "total_heat": 2167000
     },
     {
+      "book_id": 13008696,
+      "title": "下山第一天，逮个美女总裁暴力宠",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
+      "author": "文字画家",
+      "minor": "都市高手",
+      "boards_count": 2,
+      "boards": [
+        "boy-new-date",
+        "boy-new-month"
+      ],
+      "board_names": [
+        "男生新书日榜",
+        "男生新书月榜"
+      ],
+      "best_rank": 7,
+      "total_heat": 414000
+    },
+    {
       "book_id": 2060177,
       "title": "SSS级狂龙归来，全球戒备！",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/876/2627518_360x480.jpg?time=1787649238",
@@ -1001,6 +1019,24 @@
       ],
       "best_rank": 7,
       "total_heat": 3097000
+    },
+    {
+      "book_id": 13034412,
+      "title": "分居三年，高冷商总跪地求不离",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4345/13034412_360x480.jpg?time=1788944856",
+      "author": "二桥",
+      "minor": "总裁豪门",
+      "boards_count": 2,
+      "boards": [
+        "girl-new-date",
+        "girl-new-month"
+      ],
+      "board_names": [
+        "女生新书日榜",
+        "女生新书月榜"
+      ],
+      "best_rank": 7,
+      "total_heat": 342000
     },
     {
       "book_id": 12090615,
@@ -1055,24 +1091,6 @@
       ],
       "best_rank": 8,
       "total_heat": 302000
-    },
-    {
-      "book_id": 13008696,
-      "title": "下山第一天，逮个美女总裁暴力宠",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-      "author": "文字画家",
-      "minor": "都市高手",
-      "boards_count": 2,
-      "boards": [
-        "boy-new-date",
-        "boy-new-month"
-      ],
-      "board_names": [
-        "男生新书日榜",
-        "男生新书月榜"
-      ],
-      "best_rank": 8,
-      "total_heat": 414000
     },
     {
       "book_id": 1758273,
@@ -1219,24 +1237,6 @@
       "total_heat": 345000
     },
     {
-      "book_id": 12948825,
-      "title": "边军悍卒：一把长弓定天下！",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4317/12948825_360x480.jpg?time=1785383216",
-      "author": "清风拂星辰",
-      "minor": "架空历史",
-      "boards_count": 2,
-      "boards": [
-        "boy-new-month",
-        "boy-update-date"
-      ],
-      "board_names": [
-        "男生新书月榜",
-        "男生更新日榜"
-      ],
-      "best_rank": 10,
-      "total_heat": 402000
-    },
-    {
       "book_id": 12717066,
       "title": "离婚证已领，时爷请克制！",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4240/12717066_360x480.jpg?time=1790532714",
@@ -1309,6 +1309,24 @@
       "total_heat": 9318000
     },
     {
+      "book_id": 12801060,
+      "title": "网游：全是数值，你管这叫圣骑士？",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12801060_360x480.jpg?time=1784192210",
+      "author": "禅心道骨",
+      "minor": "虚拟网游",
+      "boards_count": 2,
+      "boards": [
+        "boy-new-date",
+        "boy-new-month"
+      ],
+      "board_names": [
+        "男生新书日榜",
+        "男生新书月榜"
+      ],
+      "best_rank": 12,
+      "total_heat": 238000
+    },
+    {
       "book_id": 1965987,
       "title": "被贬边疆，成就最强藩王",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/728/2181111_360x480.jpg?time=1751623525",
@@ -1379,6 +1397,24 @@
       ],
       "best_rank": 13,
       "total_heat": 7746000
+    },
+    {
+      "book_id": 12958296,
+      "title": "边军小卒：杀敌爆气血，我无限破镜！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4320/12958296_360x480.jpg?time=1785462648",
+      "author": "爱小咪锋",
+      "minor": "架空历史",
+      "boards_count": 2,
+      "boards": [
+        "boy-new-date",
+        "boy-update-date"
+      ],
+      "board_names": [
+        "男生新书日榜",
+        "男生更新日榜"
+      ],
+      "best_rank": 13,
+      "total_heat": 24000
     },
     {
       "book_id": 214783,
@@ -1489,6 +1525,24 @@
       "total_heat": 1960000
     },
     {
+      "book_id": 13117872,
+      "title": "年下弟弟，人前乖软人后野",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4373/13117872_360x480.jpg?time=1786499430",
+      "author": "玄门听雨",
+      "minor": "职场情缘",
+      "boards_count": 2,
+      "boards": [
+        "girl-new-date",
+        "girl-new-month"
+      ],
+      "board_names": [
+        "女生新书日榜",
+        "女生新书月榜"
+      ],
+      "best_rank": 15,
+      "total_heat": 393000
+    },
+    {
       "book_id": 10034568,
       "title": "惯坏她",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3345/10034568_360x480.jpg?time=1776046465",
@@ -1525,11 +1579,11 @@
       "total_heat": 2133000
     },
     {
-      "book_id": 13117872,
-      "title": "年下弟弟，人前乖软人后野",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4373/13117872_360x480.jpg?time=1786499430",
-      "author": "玄门听雨",
-      "minor": "职场情缘",
+      "book_id": 12813204,
+      "title": "长得太漂亮，在末世里会被疯狂觊觎",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4272/12813204_360x480.jpg?time=1791612967",
+      "author": "熊就要有个熊样",
+      "minor": "末世求生",
       "boards_count": 2,
       "boards": [
         "girl-new-date",
@@ -1539,8 +1593,8 @@
         "女生新书日榜",
         "女生新书月榜"
       ],
-      "best_rank": 17,
-      "total_heat": 393000
+      "best_rank": 16,
+      "total_heat": 339000
     },
     {
       "book_id": 2053898,

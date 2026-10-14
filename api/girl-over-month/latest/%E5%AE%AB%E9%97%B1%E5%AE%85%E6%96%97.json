@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
@@ -16,35 +16,13 @@
     "total_heat": 43898000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "王府里来了个捡破烂的崽崽",
-          "book_id": 2061856,
-          "intro": "宁王妃带回了一个爱捡破烂的幼崽。\n自从她进了王府，败落的王府从此一飞冲天！\n祖母的眼睛能看清了，大哥手好了，二哥不瘸了，三哥会交际了，昏迷了几年的王爷的彻底痊愈了……。\n幼崽带着她的破烂大杀四方，正冤"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "第一凤女",
-          "book_id": 1803136,
-          "rank_change": -2
-        },
-        {
-          "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
-          "book_id": 2074363,
-          "rank_change": -1
-        },
-        {
-          "title": "凤池生春",
-          "book_id": 1830569,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「宫闱宅斗」《王府里来了个捡破烂的崽崽》 掉出榜单；《第一凤女》下滑2位。",
+      "summary": "「宫闱宅斗」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -70,7 +48,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/896/2686789_360x480.jpg?time=1761327901",
         "latest_chapter": " 第822章  终章",
         "updated_at": "2026-09-22 18:39:45",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
@@ -99,7 +77,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/542/1624570_360x480.jpg?time=1717343578",
         "latest_chapter": " 第1152章  ·终章",
         "updated_at": "2025-11-07 14:23:17",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
@@ -128,7 +106,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661154_360x480.jpg?time=1761644493",
         "latest_chapter": " 第762章  夫因妻显",
         "updated_at": "2026-08-19 08:02:20",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
@@ -157,7 +135,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/801/2400937_360x480.jpg?time=1753811344",
         "latest_chapter": " 第493章  番外：是一见倾心，也是非你不可的坚定",
         "updated_at": "2026-02-08 23:58:06",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -186,7 +164,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
         "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
         "updated_at": "2025-08-31 14:41:10",
-        "rank_change": -2,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

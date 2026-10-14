@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -21,14 +21,8 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "SSS级狂龙归来，全球戒备！",
-          "book_id": 2060177,
-          "heat_change": -3000
-        }
-      ],
-      "summary": "「都市高手」《SSS级狂龙归来，全球戒备！》热度-3000。",
+      "heat_leaders": [],
+      "summary": "「都市高手」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,7 +49,7 @@
         "latest_chapter": " 第1110章  九龙抬棺",
         "updated_at": "2026-09-05 12:02:13",
         "rank_change": 0,
-        "heat_change": -3000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

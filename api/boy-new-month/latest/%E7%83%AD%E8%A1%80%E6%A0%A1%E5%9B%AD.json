@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "category": {
     "name": "热血校园",
     "major": "都市",
@@ -19,16 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "趁校花一贫如洗，忽悠她以身相许",
-          "book_id": 12896292,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「热血校园」《趁校花一贫如洗，忽悠她以身相许》上升1位领涨。",
+      "summary": "「热血校园」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -54,7 +48,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
         "latest_chapter": " 第156章  要是你能挣一千万，我和你爸就不上班了！",
         "updated_at": "2026-10-13 08:12:12",
-        "rank_change": 1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

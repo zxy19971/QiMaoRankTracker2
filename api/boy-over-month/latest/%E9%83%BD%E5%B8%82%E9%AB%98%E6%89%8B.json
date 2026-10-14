@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -16,19 +16,13 @@
     "total_heat": 3097000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715,
-          "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高手」《被关女子监狱三年，我修炼成仙了》 掉出榜单。",
+      "summary": "「都市高手」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [

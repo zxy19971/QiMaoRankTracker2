@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "category": {
     "name": "种田经商",
     "major": "古代言情",
@@ -19,22 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "悍妇穿边关，一手烂牌打出王炸",
-          "book_id": 12658929,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "悍妇穿边关，一手烂牌打出王炸",
-          "book_id": 12658929,
-          "heat_change": -5000
-        }
-      ],
-      "summary": "「种田经商」《悍妇穿边关，一手烂牌打出王炸》上升1位领涨；《悍妇穿边关，一手烂牌打出王炸》热度-5000。",
+      "heat_leaders": [],
+      "summary": "「种田经商」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,17 +39,17 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.14万字",
-        "word_count": 411400,
+        "word_count_text": "41.54万字",
+        "word_count": 415400,
         "heat": 51000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【种田+美食+木系+家长里短+先婚后爱+养娃】\n许清禾本是异世界的一缕亡魂，好不容易找到个穿越的机会。\n谁知一睁眼就成了罪臣家的婢女，被官府统一收编往外卖。\n看着集市上那油腻腻的眼神，一股恶心感油然而生。\n就在她想着怎么摆脱此时的困境时，一个目光凌厉的刀疤脸突然走上前指着她道:“我要买她。”\n就这样许清禾成了沈知买来的媳妇，跟他一起回了家。\n结果刚进家门就引起了老沈家的轩然大波，还没反应过来就被沈大嫂连人带东西赶了出去。\n沈知望着自己分批带回来的一大两小，有些无奈道:“你放心，我一定能养得活你们。”\n就这样沈知开始了自己的牛马生活，谁知他带回来的那个小媳妇竟然这么能干。\n洗衣做饭收拾屋子带孩子不说，还能挣钱。\n沈知看着家里不断扩张的土地，数不清的钱财，第一次有些不好意思道:“媳妇，我想跟着造反，缺点钱。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4220/12658929_360x480.jpg?time=1790648938",
-        "latest_chapter": " 第203章  放学时的盛况",
-        "updated_at": "2026-10-12 09:07:02",
-        "rank_change": 1,
-        "heat_change": -5000,
+        "latest_chapter": " 第205章  威胁小彩",
+        "updated_at": "2026-10-13 15:01:04",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

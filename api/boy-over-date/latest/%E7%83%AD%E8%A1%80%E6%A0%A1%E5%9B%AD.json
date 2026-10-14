@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "category": {
     "name": "热血校园",
     "major": "都市",
@@ -21,14 +21,8 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "重生2000：从追求青涩校花同桌开始",
-          "book_id": 1758273,
-          "heat_change": -4000
-        }
-      ],
-      "summary": "「热血校园」《重生2000：从追求青涩校花同桌开始》热度-4000。",
+      "heat_leaders": [],
+      "summary": "「热血校园」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,7 +49,7 @@
         "latest_chapter": " 第1992章  讣告",
         "updated_at": "2025-12-10 14:02:20",
         "rank_change": 0,
-        "heat_change": -4000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

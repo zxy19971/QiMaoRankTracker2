@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
@@ -20,31 +20,9 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "九转星辰诀",
-          "book_id": 202636,
-          "rank_change": -6
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "九转星辰诀",
-          "book_id": 202636,
-          "heat_change": -10000
-        },
-        {
-          "title": "葬天神帝",
-          "book_id": 213697,
-          "heat_change": 8000
-        },
-        {
-          "title": "荒古武神",
-          "book_id": 216404,
-          "heat_change": -4000
-        }
-      ],
-      "summary": "「东方玄幻」《九转星辰诀》下滑6位；《九转星辰诀》热度-10000。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -71,7 +49,7 @@
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": -4000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -100,7 +78,7 @@
         "latest_chapter": " 第2753章  前往上苍之上（大结局）",
         "updated_at": "2026-08-31 16:32:19",
         "rank_change": 0,
-        "heat_change": -2000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -129,7 +107,7 @@
         "latest_chapter": " 第3704章  前路在何方？（大结局）",
         "updated_at": "2026-10-01 20:51:29",
         "rank_change": 0,
-        "heat_change": 8000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -158,7 +136,7 @@
         "latest_chapter": " 第2024章  斩杀妖神（大结局）",
         "updated_at": "2026-08-21 13:02:14",
         "rank_change": 0,
-        "heat_change": 2000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -187,7 +165,7 @@
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
         "rank_change": 0,
-        "heat_change": 1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -215,8 +193,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204938_360x480.jpg?time=1766104371",
         "latest_chapter": " 第3793章  碎天道，去束缚，得自由！（大结局）",
         "updated_at": "2024-03-11 19:37:28",
-        "rank_change": -6,
-        "heat_change": -10000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

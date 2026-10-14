@@ -8,8 +8,8 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-13",
-  "prev_date": "2026-10-12",
+  "date": "2026-10-14",
+  "prev_date": "2026-10-13",
   "books": [
     {
       "rank": 1,
@@ -557,7 +557,7 @@
       "updated_at": "2026-10-05 10:07:10",
       "rank_change": 0,
       "heat_change": 0,
-      "is_new": true,
+      "is_new": false,
       "boards_count": 2,
       "stale_update": true,
       "category": "架空历史"
@@ -584,7 +584,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/923/2766005_360x480.jpg?time=1762537689",
       "latest_chapter": " 第926章  除夕夜年夜饭！我们时刻准备着！（大结局）",
       "updated_at": "2026-10-10 08:37:07",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
@@ -599,19 +599,14 @@
       "count": 5,
       "total_heat": 15489000,
       "trend": {
-        "new_count": 1,
+        "new_count": 0,
         "dropped_count": 0,
-        "new_books": [
-          {
-            "title": "被贬边疆，成就最强藩王",
-            "book_id": 1965987
-          }
-        ],
+        "new_books": [],
         "dropped_books": [],
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「架空历史」新上榜 《被贬边疆，成就最强藩王》。",
+        "summary": "「架空历史」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -755,7 +750,7 @@
           "updated_at": "2026-10-05 10:07:10",
           "rank_change": 0,
           "heat_change": 0,
-          "is_new": true,
+          "is_new": false,
           "boards_count": 2,
           "stale_update": true,
           "category": "架空历史"
@@ -1135,19 +1130,13 @@
       "total_heat": 3097000,
       "trend": {
         "new_count": 0,
-        "dropped_count": 1,
+        "dropped_count": 0,
         "new_books": [],
-        "dropped_books": [
-          {
-            "title": "被关女子监狱三年，我修炼成仙了",
-            "book_id": 1697715,
-            "intro": "林默奉师尊之命，镇守阴气极重的女子监狱三年。\n岂不料，三年期满，出狱当天，一位大夏女战神上门退婚……"
-          }
-        ],
+        "dropped_books": [],
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「都市高手」《被关女子监狱三年，我修炼成仙了》 掉出榜单。",
+        "summary": "「都市高手」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1337,15 +1326,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "让你带问题女兵，你全养成特种兵王了？",
-            "book_id": 2091811,
-            "rank_change": -1
-          }
-        ],
+        "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「现代军事」《让你带问题女兵，你全养成特种兵王了？》下滑1位。",
+        "summary": "「现代军事」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1371,7 +1354,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/923/2766005_360x480.jpg?time=1762537689",
           "latest_chapter": " 第926章  除夕夜年夜饭！我们时刻准备着！（大结局）",
           "updated_at": "2026-10-10 08:37:07",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
@@ -1383,8 +1366,8 @@
   ],
   "stats": {
     "total_books": 20,
-    "new_count": 1,
-    "dropped_count": 1,
+    "new_count": 0,
+    "dropped_count": 0,
     "avg_heat": 3255600,
     "total_heat": 65112000,
     "first_day": false

@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "types": [
     {
       "name": "全部",
@@ -41,6 +41,10 @@
     {
       "name": "职场情缘",
       "url": "api/girl-new-month/latest/%E8%81%8C%E5%9C%BA%E6%83%85%E7%BC%98.json"
+    },
+    {
+      "name": "末世求生",
+      "url": "api/girl-new-month/latest/%E6%9C%AB%E4%B8%96%E6%B1%82%E7%94%9F.json"
     }
   ]
 }

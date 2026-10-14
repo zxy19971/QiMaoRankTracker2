@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -23,17 +23,17 @@
         {
           "title": "透视鉴宝：美女财富两不误",
           "book_id": 12708261,
-          "rank_change": 3
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高武」《透视鉴宝：美女财富两不误》上升3位领涨。",
+      "summary": "「都市高武」《透视鉴宝：美女财富两不误》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 11,
         "title": "透视鉴宝：美女财富两不误",
         "book_id": 12708261,
         "url": "https://www.qimao.com/shuku/12708261/",
@@ -45,16 +45,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.99万字",
-        "word_count": 359900,
+        "word_count_text": "36.4万字",
+        "word_count": 364000,
         "heat": 354000,
         "platform_trend": "rise",
-        "badge": "飙升12名",
+        "badge": "飙升13名",
         "intro": "叶尘努力三年送外卖，喜提一顶绿油油的帽子。\n前女友傍上部门领导，以为是跨越了阶层，却不知道叶尘是身怀绝技的入世高人。\n三年之期已到，叶尘终于可以毫无顾忌，一门望气术玩转珠宝玉石界，顶尖武力力压群雄。\n美女，金钱，我叶尘全都要……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4237/12708261_360x480.jpg?time=1783410543",
-        "latest_chapter": " 第170章  伊莲娜的邀请",
-        "updated_at": "2026-10-12 23:30:09",
-        "rank_change": 3,
+        "latest_chapter": " 第172章  输了的人学狗叫",
+        "updated_at": "2026-10-14 00:28:03",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

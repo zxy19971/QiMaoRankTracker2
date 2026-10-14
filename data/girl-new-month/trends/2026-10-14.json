@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-14",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 947000,
+    "total_heat": 18940000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 2,
+        "new_books": [
+          {
+            "title": "孕难产还要她AA，去父留子你活该绝嗣",
+            "book_id": 12728424
+          },
+          {
+            "title": "分居三年，高冷商总跪地求不离",
+            "book_id": 13034412
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "抛妻弃子后，薄总低声诱哄求复合",
+            "book_id": 12497535,
+            "intro": "【破镜重圆+协议假夫妻+双向疯批抢婚】\n三年隐婚，宋今也以为他们双向奔赴。\n直到她怀孕，薄斯年冷脸让她打掉，转头却呵护备至地陪白月光宋昭昀去做产检。\n最终她痛失腹中孩子，心如死灰签下离婚协议，远赴国外"
+          },
+          {
+            "title": "难戒，上上婚！",
+            "book_id": 12573738,
+            "intro": "【新婚后爱+细水长流+甜宠】【明媚阳光神外医生+禁欲斯文总裁】\n祝禧跟周应淮结婚，完全是意外。\n继姐不嫁，继妹傲娇，这美差就落在她身上。\n周应淮是荔北市顶级豪门，长相绝佳，丰姿俊秀，仪表堂堂。\n祝禧是"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "裴先生，暗恋她已十二年",
+            "book_id": 13010484,
+            "rank_change": 2
+          },
+          {
+            "title": "唯她是图",
+            "book_id": 12860100,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」新上榜 《孕难产还要她AA，去父留子你活该绝嗣》、《分居三年，高冷商总跪地求不离》；《抛妻弃子后，薄总低声诱哄求复合》、《难戒，上上婚！》 掉出榜单；《裴先生，暗恋她已十二年》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "七零换嫁绝嗣大佬，一胎三宝惊艳家属院",
+            "book_id": 12602724,
+            "rank_change": 3
+          },
+          {
+            "title": "极品小姑懂婴语，全家端上铁饭碗",
+            "book_id": 12554541,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」《七零换嫁绝嗣大佬，一胎三宝惊艳家属院》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "替嫁高门后，贤德夫人捅破天",
+            "book_id": 12321330,
+            "intro": "【无重生无穿越+感情迟钝小道士VS腹黑会撩大权臣+双洁】\n容璎珞顶着大姐的身份，嫁给克死了四个新娘的镇国公府世子顾策。\n刚一上花轿就收到一份大礼，轿里竟藏有杀人于无形的毒粉。\n好啊，国公府里勾心斗角下"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「宫闱宅斗」《替嫁高门后，贤德夫人捅破天》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "权谋天下",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「权谋天下」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "长得太漂亮，在末世里会被疯狂觊觎",
+            "book_id": 12813204
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世求生」新上榜 《长得太漂亮，在末世里会被疯狂觊觎》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
