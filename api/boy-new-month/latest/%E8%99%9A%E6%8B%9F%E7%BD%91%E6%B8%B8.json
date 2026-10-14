@@ -8,26 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "category": {
     "name": "虚拟网游",
     "major": "游戏",
     "count": 1,
     "total_heat": 238000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "网游：全是数值，你管这叫圣骑士？",
-          "book_id": 12801060
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「虚拟网游」新上榜 《网游：全是数值，你管这叫圣骑士？》。",
+      "summary": "「虚拟网游」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -44,18 +39,18 @@
         "minor_id": 232,
         "minor_url": "https://www.qimao.com/shuku/a-75-232-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.55万字",
-        "word_count": 355500,
+        "word_count_text": "35.95万字",
+        "word_count": 359500,
         "heat": 238000,
         "platform_trend": "rise",
         "badge": "飙升21名",
         "intro": "这穿越者啊，有被女朋友绿帽子绿死的，有被兄弟捅刀子捅死的，有被恶势力欺负死的……王铮却是活活窝囊死的。\n作为游戏里挖矿三年的矿工，在游戏降临的那一刻，被最垃圾的怪物砍死，王铮方才知道实力比钱重要。\n重生第一件事，自然是拿到唯一天赋。\n重生第二件事，就是超度怪物。\n超度野狼，敏捷+1，超度野猪，力量+1……\n左拳伤害高，右拳高伤害。\n没有操作，全是数值。\n有什么不服就跟我的十字镐说吧。\n不要跟本骑士哔哔赖赖。\n谁说圣骑士不能用十字镐？十字镐难道不是十字？\n原谅你那是光明神的事，我只负责送你去见光明神。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12801060_360x480.jpg?time=1784192210",
-        "latest_chapter": " 第172章  守株待兔",
-        "updated_at": "2026-10-13 13:57:03",
+        "latest_chapter": " 第174章  杀手锏",
+        "updated_at": "2026-10-14 13:54:04",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "虚拟网游"

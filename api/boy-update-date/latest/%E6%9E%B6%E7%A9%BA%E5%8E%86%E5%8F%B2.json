@@ -8,32 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 3,
-    "total_heat": 1,
+    "total_heat": 0,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "边军小卒：杀敌爆气血，我无限破镜！",
-          "book_id": 12958296
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "边军悍卒：一把长弓定天下！",
-          "book_id": 12948825,
-          "intro": "国家一级射箭运动员、八极拳传人吴起，比赛回国遭遇空难，醒来后成了大周王朝边军杂役兵。\n这一世的傻大个“吴起”，被伍长夫妇当牛马，因为撞破伍长私通敌国，被抛弃荒漠脱水而死。\n吴起穿越醒来，遭遇北蛮十骑袭"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「架空历史」新上榜 《边军小卒：杀敌爆气血，我无限破镜！》；《边军悍卒：一把长弓定天下！》 掉出榜单。",
+      "heat_leaders": [
+        {
+          "title": "边军小卒：杀敌爆气血，我无限破镜！",
+          "book_id": 12958296,
+          "heat_change": -1
+        }
+      ],
+      "summary": "「架空历史」《边军小卒：杀敌爆气血，我无限破镜！》热度-1。",
       "ai_source": "rule"
     },
     "books": [
@@ -79,15 +74,15 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "126.93万字",
-        "word_count": 1269300,
+        "word_count_text": "127.66万字",
+        "word_count": 1276600,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第378章  辽族大汗",
-        "updated_at": "2026-10-14 00:32:04",
+        "latest_chapter": " 第380章  皇帝再度娶亲！",
+        "updated_at": "2026-10-15 00:32:04",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -108,18 +103,18 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.5万字",
-        "word_count": 345000,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "35.38万字",
+        "word_count": 353800,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "【空架历史】＋【争霸】＋【武炼巅峰】＋【一统天下】＋【爽文】＋【边军战神】＋【多女主】\n华夏兵王楚枫意外穿越到大乾王朝南境虎牢关，刚魂穿就撞上南蛮大军破城，身陷绝境。\n生死一线，【噬血武道系统】强势激活！\n世道不公？那我便挥刀，亲手杀出一条公道！\n【叮！击杀普通敌兵，气血值+30！】\n【叮！击杀八品武者，气血值+150！】\n……\n气血值可突破境界，还能升级功法品质！\n消耗300气血，直接兑换绝学《纯阳无极功》，修至阳至刚真气，内力源源不绝，自带疗伤续航，百毒不侵。\n旁人苦修十年难破境界，楚枫只需挥刀杀敌！\n杀得越快，敌人尸骨，便是他登临武道巅峰的垫脚石！\n南蛮将士吓得魂飞魄散：“你不要过来！”\n楚枫冷笑提刀：“来都来了，借诸位项上人头，助我武道通神！”\n自此，楚枫镇守边疆，横扫蛮夷，肃清大乾朝堂奸佞，征伐列国。\n揽红颜，定山河，铸就一代霸业！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4320/12958296_360x480.jpg?time=1785462648",
-        "latest_chapter": " 第151章  药香退剧毒，楚枫借势砍旗设死局",
-        "updated_at": "2026-10-13 07:22:03",
+        "latest_chapter": " 第155章  互市定盟，八百里和亲密信",
+        "updated_at": "2026-10-15 07:22:03",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": -1,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"

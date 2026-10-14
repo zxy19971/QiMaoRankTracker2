@@ -8,19 +8,19 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "types": [
     {
       "name": "全部",
       "url": "api/boy-new-date/latest/all.json"
     },
     {
-      "name": "架空历史",
-      "url": "api/boy-new-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
-    },
-    {
       "name": "都市生活",
       "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
+    },
+    {
+      "name": "架空历史",
+      "url": "api/boy-new-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
     },
     {
       "name": "都市高手",

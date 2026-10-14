@@ -1,0 +1,299 @@
+{
+  "date": "2026-10-15",
+  "board": "boy-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 105300,
+    "total_heat": 2106000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "九转星辰诀",
+            "book_id": 202636,
+            "intro": "新书【魔天鼎：我能炼化万物】已发，热血玄幻，精彩好看，请哥哥姐姐们照顾照顾。多谢🙏🙏\n一代战神，重生觉醒九世记忆。\n绝世天才，万古人杰？不过是我崛起的踏脚石！\n真爱守护，才是我心之所向。\n仗剑碾压万界"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "噬神鼎",
+            "book_id": 1868453,
+            "rank_change": -1
+          },
+          {
+            "title": "荒古圣体：在娘胎开始悟道",
+            "book_id": 1849458,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "heat_change": 7000
+          },
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "heat_change": 2000
+          },
+          {
+            "title": "荒古圣体：在娘胎开始悟道",
+            "book_id": 1849458,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「东方玄幻」《九转星辰诀》 掉出榜单；《噬神鼎》下滑1位；《葬天神帝》热度+7000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "被贬边疆，成就最强藩王",
+            "book_id": 1965987,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "世子无双",
+            "book_id": 1860026,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "世子无双",
+            "book_id": 1860026,
+            "heat_change": -6000
+          },
+          {
+            "title": "无敌六皇子",
+            "book_id": 1747899,
+            "heat_change": -3000
+          },
+          {
+            "title": "被贬边疆，成就最强藩王",
+            "book_id": 1965987,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「架空历史」《被贬边疆，成就最强藩王》上升2位领涨；《世子无双》下滑4位；《世子无双》热度-6000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "警报！龙国出现SSS级修仙者！",
+            "book_id": 1812053,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "镇天神医",
+            "book_id": 1675640,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "小司机的美女总裁老婆",
+            "book_id": 2052700,
+            "heat_change": 6000
+          },
+          {
+            "title": "警报！龙国出现SSS级修仙者！",
+            "book_id": 1812053,
+            "heat_change": 5000
+          },
+          {
+            "title": "镇天神医",
+            "book_id": 1675640,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「都市高武」《警报！龙国出现SSS级修仙者！》上升1位领涨；《镇天神医》下滑1位；《小司机的美女总裁老婆》热度+6000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "绝世强龙",
+            "book_id": 215780
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "SSS级狂龙归来，全球戒备！",
+            "book_id": 2060177,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "SSS级狂龙归来，全球戒备！",
+            "book_id": 2060177,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「都市高手」新上榜 《绝世强龙》；《SSS级狂龙归来，全球戒备！》下滑4位；《SSS级狂龙归来，全球戒备！》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "heat_change": 1000
+          },
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「奇门秘术」《山野诡闻笔记》上升1位领涨；《民间诡闻实录》下滑1位；《山野诡闻笔记》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "重生2000：从追求青涩校花同桌开始",
+            "book_id": 1758273,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「热血校园」《重生2000：从追求青涩校花同桌开始》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「异世大陆」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "rank_change": 4
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "heat_change": 5000
+          }
+        ],
+        "summary": "「末世危机」《全球灾变之末日游戏》上升4位领涨；《全球灾变之末日游戏》热度+5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "让你带问题女兵，你全养成特种兵王了？",
+            "book_id": 2091811,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "让你带问题女兵，你全养成特种兵王了？",
+            "book_id": 2091811,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「现代军事」《让你带问题女兵，你全养成特种兵王了？》下滑1位；《让你带问题女兵，你全养成特种兵王了？》热度-2000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

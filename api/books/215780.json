@@ -13,6 +13,12 @@
       "board_name": "男生收藏日榜",
       "rank": 4,
       "heat": 0
+    },
+    {
+      "board": "boy-over-date",
+      "board_name": "男生完结日榜",
+      "rank": 15,
+      "heat": 69000
     }
   ],
   "history": [
@@ -363,6 +369,18 @@
       "b": "boy-collect-date",
       "r": 4,
       "h": 0
+    },
+    {
+      "d": "2026-10-15",
+      "b": "boy-collect-date",
+      "r": 4,
+      "h": 0
+    },
+    {
+      "d": "2026-10-15",
+      "b": "boy-over-date",
+      "r": 15,
+      "h": 69000
     }
   ]
 }

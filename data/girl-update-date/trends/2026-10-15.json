@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-15",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 1,
+    "total_heat": 24,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": -5
+          },
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "rank_change": -2
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "heat_change": 4
+          },
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": 2
+          },
+          {
+            "title": "大佬十代单传，我为他一胎生四宝",
+            "book_id": 1726987,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「总裁豪门」《离婚当天，和京圈太子爷闪婚了》上升1位领涨；《霍二爷，新婚请克制！》下滑5位；《霍二爷，新婚请克制！》热度+4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": 2
+          },
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "rank_change": 1
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "玉帐春",
+            "book_id": 11663199,
+            "rank_change": -1
+          },
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "heat_change": -12
+          },
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "heat_change": 1
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「宫闱宅斗」《凰宫梦》上升2位领涨；《玉帐春》下滑1位；《朱门春闺》热度-12。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "王妃一身妖骨，京城百祟俯首",
+            "book_id": 12328977,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "王妃一身妖骨，京城百祟俯首",
+            "book_id": 12328977,
+            "heat_change": -1
+          },
+          {
+            "title": "五岁小神女：我靠兽语救了废柴将军爹爹",
+            "book_id": 13288209,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「古代情缘」《王妃一身妖骨，京城百祟俯首》上升1位领涨；《王妃一身妖骨，京城百祟俯首》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "heat_change": 1
+          },
+          {
+            "title": "乱世被流放，我在深山造温泉！",
+            "book_id": 13123812,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「种田经商」《大雪封山闹饥荒，福宝开挂富全村》上升3位领涨；《大雪封山闹饥荒，福宝开挂富全村》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "权谋天下",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "恨卿迟",
+            "book_id": 1949508,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "恨卿迟",
+            "book_id": 1949508,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「权谋天下」《恨卿迟》上升3位领涨；《恨卿迟》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "七零娇娇十八，喜当萌娃亲妈",
+            "book_id": 13282398,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「年代重生」《七零娇娇十八，喜当萌娃亲妈》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市奇幻」《家有玄妻，百邪不侵！》下滑1位；《家有玄妻，百邪不侵！》热度+1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

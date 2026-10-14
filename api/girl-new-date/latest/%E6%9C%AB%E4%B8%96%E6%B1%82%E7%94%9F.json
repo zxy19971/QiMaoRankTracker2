@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 40000,
+    "total_heat": 27000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「末世求生」榜单结构稳定，无明显变动。",
+      "top_fallers": [
+        {
+          "title": "长得太漂亮，在末世里会被疯狂觊觎",
+          "book_id": 12813204,
+          "rank_change": -2
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "长得太漂亮，在末世里会被疯狂觊觎",
+          "book_id": 12813204,
+          "heat_change": -13000
+        }
+      ],
+      "summary": "「末世求生」《长得太漂亮，在末世里会被疯狂觊觎》下滑2位；《长得太漂亮，在末世里会被疯狂觊觎》热度-13000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 18,
         "title": "长得太漂亮，在末世里会被疯狂觊觎",
         "book_id": 12813204,
         "url": "https://www.qimao.com/shuku/12813204/",
@@ -39,17 +51,17 @@
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.01万字",
-        "word_count": 350100,
-        "heat": 40000,
+        "word_count_text": "35.43万字",
+        "word_count": 354300,
+        "heat": 27000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【末世+男主重生+恶女+训狗+1vn雄竞】\n前世，末世来临。\n作为孟溪棠贴身保镖的他，护她安全，将她捧在手心宠爱。\n然而她水性杨花，裙下之臣无数，最后伙同另一个男人设下毒计，害的他死无葬身之地。\n重来一世，他发誓定让这个女人付出代价。\n重生第一章：孟溪棠，我一定要杀了你。\n重生第二章：大小姐的巴掌好香。\n*\n后来，一切继续重蹈覆辙。\n看着孟溪棠身边出现越来越多的男人，言九自荐枕席。\n他：大小姐，我不是来破坏你们的，我是来加入你们的。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4272/12813204_360x480.jpg?time=1791612967",
-        "latest_chapter": " 第167章  让她选择",
-        "updated_at": "2026-10-13 22:16:04",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第169章  机会留给主动创造的人",
+        "updated_at": "2026-10-14 23:19:04",
+        "rank_change": -2,
+        "heat_change": -13000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

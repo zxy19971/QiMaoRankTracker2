@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-15",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 0,
+    "total_heat": 6,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": -2
+          },
+          {
+            "title": "史上最强师父",
+            "book_id": 1817221,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": 2
+          },
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「东方玄幻」《葬神棺》上升1位领涨；《吞天神体》下滑2位；《吞天神体》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "heat_change": -1
+          },
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "heat_change": 1
+          },
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市高手」《SSSSSSSSSSSSS级镇狱狂龙》上升1位领涨；《爷爷托梦后，我靠戒指掌控万界》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "边军小卒：杀敌爆气血，我无限破镜！",
+            "book_id": 12958296,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「架空历史」《边军小卒：杀敌爆气血，我无限破镜！》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市高武」《神武天下之睚眦》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」《天黑请点灯》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「现代军事」《五次入伍，我给全军上强度！》热度-1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

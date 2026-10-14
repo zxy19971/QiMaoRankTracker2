@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "category": {
     "name": "商战职场",
     "major": "都市",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "野性攀登",
+          "book_id": 13408218,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「商战职场」榜单结构稳定，无明显变动。",
+      "summary": "「商战职场」《野性攀登》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 5,
+        "rank": 6,
         "title": "野性攀登",
         "book_id": 13408218,
         "url": "https://www.qimao.com/shuku/13408218/",
@@ -39,16 +45,16 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "25.53万字",
-        "word_count": 255300,
+        "word_count_text": "26.25万字",
+        "word_count": 262500,
         "heat": 47000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "地产公司小职员陈爽，为凑巨额彩礼，夜跑代驾，被身份不凡的美女强征，被人误会有背景，从此踏上逆袭之路，上司极品老婆，温柔女领导，娇媚女下属，刁蛮小魔女，各路美女被命运安排，和陈爽走到一起\n被心爱女友背叛，陈爽彻底激发野性，和众美女携手，野性攀峰……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4470/13408218_360x480.jpg?time=1789371629",
-        "latest_chapter": " 第113章  顾小曼主动邀约",
-        "updated_at": "2026-10-14 04:02:02",
-        "rank_change": 0,
+        "latest_chapter": " 第117章  直接脱了个精光？",
+        "updated_at": "2026-10-15 04:02:02",
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

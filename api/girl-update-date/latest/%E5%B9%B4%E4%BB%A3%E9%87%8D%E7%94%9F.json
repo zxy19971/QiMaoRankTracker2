@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "七零娇娇十八，喜当萌娃亲妈",
+          "book_id": 13282398,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「年代重生」榜单结构稳定，无明显变动。",
+      "summary": "「年代重生」《七零娇娇十八，喜当萌娃亲妈》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 18,
         "title": "七零娇娇十八，喜当萌娃亲妈",
         "book_id": 13282398,
         "url": "https://www.qimao.com/shuku/13282398/",
@@ -39,16 +45,16 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.21万字",
-        "word_count": 322100,
+        "word_count_text": "32.81万字",
+        "word_count": 328100,
         "heat": 1,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【不是后妈文！孩子是亲生的！】\n【年代+空间+养娃+先婚后爱】\n遭遇医闹而死的医学博士云薇一睁眼，穿成个八代贫农，一门七烈士的孤儿。\n还没被这身世的光芒闪瞎眼，就来了个萌娃说是她亲生儿子，时不时爆出惊天言论，打了结婚报告的未婚夫虎视眈眈，孩子亲爸还是未婚夫的好哥们，未来公婆和亲戚也在赶来办婚礼的路上……\n云薇脑瓜子嗡嗡响。\n还让不让人活了？\n她当机立断，试探甩锅退婚一把抓，和孩子亲爸联谊相亲手拿把掐。\n略施小计，扭转世人认知，欲擒故纵，撩得老公面红耳赤。\n眼里没有对未来的担忧，只有对建功立业的兴奋！\n救人，制药，建厂，辐射全国；养娃，赚钱，撩汉，享受生活。\n只是那个说各取所需的男人怎么回事，怎么步步沦陷了？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4428/13282398_360x480.jpg?time=1787848729",
-        "latest_chapter": " 第108章  试验空间功能，动杀心",
-        "updated_at": "2026-10-13 17:57:02",
-        "rank_change": 0,
+        "latest_chapter": " 第110章  云薇动手，胡玉萍苏耀华“下线”",
+        "updated_at": "2026-10-14 20:20:04",
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
