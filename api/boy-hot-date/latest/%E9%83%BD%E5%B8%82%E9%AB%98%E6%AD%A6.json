@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 1,
-    "total_heat": 1211000,
+    "total_heat": 1165000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -25,10 +25,10 @@
         {
           "title": "盖世神医",
           "book_id": 195958,
-          "heat_change": 14000
+          "heat_change": -46000
         }
       ],
-      "summary": "「都市高武」《盖世神医》热度+14000。",
+      "summary": "「都市高武」《盖世神医》热度-46000。",
       "ai_source": "rule"
     },
     "books": [
@@ -45,17 +45,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "921.76万字",
-        "word_count": 9217600,
-        "heat": 1211000,
-        "platform_trend": "rise",
+        "word_count_text": "922.17万字",
+        "word_count": 9221700,
+        "heat": 1165000,
+        "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4496章  神秘黑衣人",
-        "updated_at": "2026-10-14 23:31:30",
+        "latest_chapter": " 第4498章  身份不明",
+        "updated_at": "2026-10-15 23:21:32",
         "rank_change": 0,
-        "heat_change": 14000,
+        "heat_change": -46000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,

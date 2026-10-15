@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "透视鉴宝：美女财富两不误",
+          "book_id": 12708261,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「都市高武」榜单结构稳定，无明显变动。",
+      "summary": "「都市高武」《透视鉴宝：美女财富两不误》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 12,
         "title": "透视鉴宝：美女财富两不误",
         "book_id": 12708261,
         "url": "https://www.qimao.com/shuku/12708261/",
@@ -39,16 +45,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.83万字",
-        "word_count": 368300,
+        "word_count_text": "37.26万字",
+        "word_count": 372600,
         "heat": 354000,
         "platform_trend": "rise",
-        "badge": "飙升13名",
+        "badge": "飙升12名",
         "intro": "叶尘努力三年送外卖，喜提一顶绿油油的帽子。\n前女友傍上部门领导，以为是跨越了阶层，却不知道叶尘是身怀绝技的入世高人。\n三年之期已到，叶尘终于可以毫无顾忌，一门望气术玩转珠宝玉石界，顶尖武力力压群雄。\n美女，金钱，我叶尘全都要……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4237/12708261_360x480.jpg?time=1783410543",
-        "latest_chapter": " 第174章  向日葵花语，笑脸给你给多了",
-        "updated_at": "2026-10-15 00:45:03",
-        "rank_change": 0,
+        "latest_chapter": " 第176章  弄死他？就我们？",
+        "updated_at": "2026-10-16 00:22:03",
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

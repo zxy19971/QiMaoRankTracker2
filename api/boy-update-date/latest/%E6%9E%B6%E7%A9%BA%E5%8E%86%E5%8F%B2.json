@@ -8,61 +8,44 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "category": {
     "name": "架空历史",
     "major": "历史",
-    "count": 3,
-    "total_heat": 0,
+    "count": 2,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
+      "dropped_books": [
         {
-          "title": "边军小卒：杀敌爆气血，我无限破镜！",
-          "book_id": 12958296,
-          "heat_change": -1
+          "title": "公主退婚？我买下了满朝文武",
+          "book_id": 12878790,
+          "intro": "穿越大晟，沈浪成了被公主退婚、被侯府扫地出门的败家子，只分到一间欠债八十两的破牙行。\n京城人都等着看他饿死。\n沈浪却花掉最后三两银子，买下一个瘸腿马奴。第二天，那个人人嫌弃的瘸子替大晟驯服北戎烈马，赢"
         }
       ],
-      "summary": "「架空历史」《边军小卒：杀敌爆气血，我无限破镜！》热度-1。",
+      "top_risers": [],
+      "top_fallers": [
+        {
+          "title": "太监凶猛",
+          "book_id": 11674809,
+          "rank_change": -2
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "太监凶猛",
+          "book_id": 11674809,
+          "heat_change": 2
+        }
+      ],
+      "summary": "「架空历史」《公主退婚？我买下了满朝文武》 掉出榜单；《太监凶猛》下滑2位；《太监凶猛》热度+2。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 5,
-        "title": "公主退婚？我买下了满朝文武",
-        "book_id": 12878790,
-        "url": "https://www.qimao.com/shuku/12878790/",
-        "author": "善良的大灰狼",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%96%84%E8%89%AF%E7%9A%84%E5%A4%A7%E7%81%B0%E7%8B%BC_14/",
-        "major": "历史",
-        "minor": "架空历史",
-        "major_id": 56,
-        "minor_id": 58,
-        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "50.55万字",
-        "word_count": 505500,
-        "heat": 0,
-        "platform_trend": "",
-        "badge": "",
-        "intro": "穿越大晟，沈浪成了被公主退婚、被侯府扫地出门的败家子，只分到一间欠债八十两的破牙行。\n京城人都等着看他饿死。\n沈浪却花掉最后三两银子，买下一个瘸腿马奴。第二天，那个人人嫌弃的瘸子替大晟驯服北戎烈马，赢回三百匹战马，也让沈浪一夜赚到近两千两白银。\n此后，毁容歌姬、疯癫匠人、落榜书生、逃亡老卒……那些被世人当成废物的人，全被他买回牙行，养成名动天下的大人物。\n多年以后，满朝文武排队登门，四方帝王重金求才。那位当年嫌他不学无术的公主才终于明白——她退掉的不是一个纨绔，而是一个能买下天下英雄的男人。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4293/12878790_360x480.jpg?time=1784871732",
-        "latest_chapter": " 第251章  第二个人没回来",
-        "updated_at": "2026-10-13 01:12:04",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "架空历史"
-      },
-      {
-        "rank": 7,
+        "rank": 9,
         "title": "太监凶猛",
         "book_id": 11674809,
         "url": "https://www.qimao.com/shuku/11674809/",
@@ -74,17 +57,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "127.66万字",
-        "word_count": 1276600,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "128.32万字",
+        "word_count": 1283200,
+        "heat": 2,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第380章  皇帝再度娶亲！",
-        "updated_at": "2026-10-15 00:32:04",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第382章  辽族暴行！",
+        "updated_at": "2026-10-16 00:32:05",
+        "rank_change": -2,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -113,7 +96,7 @@
         "latest_chapter": " 第155章  互市定盟，八百里和亲密信",
         "updated_at": "2026-10-15 07:22:03",
         "rank_change": 0,
-        "heat_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

@@ -8,44 +8,39 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "category": {
     "name": "架空历史",
     "major": "历史",
-    "count": 5,
-    "total_heat": 174000,
+    "count": 3,
+    "total_heat": 113000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 2,
       "new_books": [],
       "dropped_books": [
         {
-          "title": "寇天子",
-          "book_id": 12817968,
-          "intro": "古武传人高远穿越到乱世之中，以土匪之身坐拥四位红颜知己，实力惊人的武将，隐藏身份的女帝，多年未见的大嫂，还有一个亡国之恨的公主！剑扫四海八荒，豪气激荡云霄，白天策马奔袭，夜间笙歌环绕！且随我行，江山美"
+          "title": "被陷害后，我被迫成了送子天官！",
+          "book_id": 12984576,
+          "intro": "【朝堂权谋】+【杀伐果断】+【智商在线】+【多女主】+【不好看你揍我！】\n胎穿十八年，萧策成为大炎皇朝最没存在的七皇子！\n本想着彻底躺平摆烂，混吃等死，不料一觉醒来，被大皇子陷害！\n为活命，他急中生智"
+        },
+        {
+          "title": "兄长们死后，边军悍卒养三家！",
+          "book_id": 12991533,
+          "intro": "父兄皆战死，独留三位刚过门的嫂嫂，特勤兵王林默穿越大魏，一间破屋三个嫂嫂，恶霸设局，夺命印子钱！一切从零开始。\n林默想给嫂嫂们一个家，嫂嫂们想给他一个后！\n且看风流兵王林默如何从微末崛起，打造大雪龙骑"
         }
       ],
       "top_risers": [
         {
           "title": "边军小卒：杀敌爆气血，我无限破镜！",
           "book_id": 12958296,
-          "rank_change": 2
+          "rank_change": 1
         }
       ],
       "top_fallers": [
         {
-          "title": "抱歉，我真的才高八斗",
-          "book_id": 12985194,
-          "rank_change": -3
-        },
-        {
-          "title": "兄长们死后，边军悍卒养三家！",
-          "book_id": 12991533,
-          "rank_change": -2
-        },
-        {
-          "title": "被陷害后，我被迫成了送子天官！",
-          "book_id": 12984576,
+          "title": "北疆最狂纨绔：从赐婚进京开始",
+          "book_id": 12949137,
           "rank_change": -1
         }
       ],
@@ -53,25 +48,25 @@
         {
           "title": "抱歉，我真的才高八斗",
           "book_id": 12985194,
-          "heat_change": -5000
+          "heat_change": -4000
         },
         {
           "title": "北疆最狂纨绔：从赐婚进京开始",
           "book_id": 12949137,
-          "heat_change": -4000
+          "heat_change": -2000
         },
         {
           "title": "边军小卒：杀敌爆气血，我无限破镜！",
           "book_id": 12958296,
-          "heat_change": 4000
+          "heat_change": -1000
         }
       ],
-      "summary": "「架空历史」《寇天子》 掉出榜单；《边军小卒：杀敌爆气血，我无限破镜！》上升2位领涨；《抱歉，我真的才高八斗》下滑3位；《抱歉，我真的才高八斗》热度-5000。",
+      "summary": "「架空历史」《被陷害后，我被迫成了送子天官！》、《兄长们死后，边军悍卒养三家！》 掉出榜单；《边军小卒：杀敌爆气血，我无限破镜！》上升1位领涨；《北疆最狂纨绔：从赐婚进京开始》下滑1位；《抱歉，我真的才高八斗》热度-4000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 3,
+        "rank": 4,
         "title": "北疆最狂纨绔：从赐婚进京开始",
         "book_id": 12949137,
         "url": "https://www.qimao.com/shuku/12949137/",
@@ -83,53 +78,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.6万字",
-        "word_count": 396000,
-        "heat": 64000,
+        "word_count_text": "40.27万字",
+        "word_count": 402700,
+        "heat": 62000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "商界传奇林烨，庆功宴上醉倒，一睁眼却成了大夏北疆的纨绔少爷。\n老爹是镇北大将军，手握二十万铁骑。\n开局就当街拦了公主銮驾，喊人家跳十八摸。\n满朝文武上书弹劾，秦王府恨不得将他剥皮抽筋，连十二岁的小太子都把他当成眼中钉。\n林烨笑了。\n前世从地下室爬到百亿身家，什么局没见过？\n给他下套？\n他反将一军见招拆招。\n说他无才无德？\n左手论语，右手唐诗，把大夏朝堂搅得鸡飞狗跳。\n拿他当质子？\n那便叫所有人知道，什么叫请神容易送神难！\n正当林烨以为可以安心做个咸鱼纨绔时，一桩桩阴谋浮出水面——\n东宫、藩王、朝中权贵，所有人都想借林家这把刀，在新帝的风口上博一个前程。\n林烨眯起眼。\n既然你们非要玩，那就别怪我动真格了。\n朝廷的刀钝了，他来开刃。\n大夏的马没有马鞍，他来造。\n军中的火器打不准，他来改。\n太子天真散漫愚蠢，他来调教！\n从北疆纨绔到大夏驸马。\n从太子帝师到三军统帅。\n当他站上城头，身后是百万铁骑，眼前是满目疮痍的旧王朝——\n他看向龙椅上的那个人，终于问出了那句话。\n“你是皇帝，那我是什么？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4317/12949137_360x480.jpg?time=1785316538",
-        "latest_chapter": " 第174章  拉拢人心秦世子",
-        "updated_at": "2026-10-14 14:14:03",
-        "rank_change": 0,
-        "heat_change": -4000,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": false,
-        "category": "架空历史"
-      },
-      {
-        "rank": 9,
-        "title": "被陷害后，我被迫成了送子天官！",
-        "book_id": 12984576,
-        "url": "https://www.qimao.com/shuku/12984576/",
-        "author": "丨锦泽丨",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%A8%E9%94%A6%E6%B3%BD%E4%B8%A8_14/",
-        "major": "历史",
-        "minor": "架空历史",
-        "major_id": 56,
-        "minor_id": 58,
-        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "49.65万字",
-        "word_count": 496500,
-        "heat": 33000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "【朝堂权谋】+【杀伐果断】+【智商在线】+【多女主】+【不好看你揍我！】\n胎穿十八年，萧策成为大炎皇朝最没存在的七皇子！\n本想着彻底躺平摆烂，混吃等死，不料一觉醒来，被大皇子陷害！\n为活命，他急中生智：“父皇，儿臣是送子天官转世！”\n纯属胡扯。\n可皇帝信了，满朝信了，连敌人都信了。\n萧策：“……我就是随口一说啊！”\n那就当真天官吧。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4329/12984576_360x480.jpg?time=1785745185",
-        "latest_chapter": " 第225章  通知，不是商量！",
-        "updated_at": "2026-10-14 09:02:10",
+        "latest_chapter": " 第177章  你纸上谈兵，敢和我一战吗？",
+        "updated_at": "2026-10-15 13:56:04",
         "rank_change": -1,
-        "heat_change": -1000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "title": "边军小卒：杀敌爆气血，我无限破镜！",
         "book_id": 12958296,
         "url": "https://www.qimao.com/shuku/12958296/",
@@ -143,15 +109,15 @@
         "status": "连载中",
         "word_count_text": "35.38万字",
         "word_count": 353800,
-        "heat": 28000,
-        "platform_trend": "rise",
+        "heat": 27000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【空架历史】＋【争霸】＋【武炼巅峰】＋【一统天下】＋【爽文】＋【边军战神】＋【多女主】\n华夏兵王楚枫意外穿越到大乾王朝南境虎牢关，刚魂穿就撞上南蛮大军破城，身陷绝境。\n生死一线，【噬血武道系统】强势激活！\n世道不公？那我便挥刀，亲手杀出一条公道！\n【叮！击杀普通敌兵，气血值+30！】\n【叮！击杀八品武者，气血值+150！】\n……\n气血值可突破境界，还能升级功法品质！\n消耗300气血，直接兑换绝学《纯阳无极功》，修至阳至刚真气，内力源源不绝，自带疗伤续航，百毒不侵。\n旁人苦修十年难破境界，楚枫只需挥刀杀敌！\n杀得越快，敌人尸骨，便是他登临武道巅峰的垫脚石！\n南蛮将士吓得魂飞魄散：“你不要过来！”\n楚枫冷笑提刀：“来都来了，借诸位项上人头，助我武道通神！”\n自此，楚枫镇守边疆，横扫蛮夷，肃清大乾朝堂奸佞，征伐列国。\n揽红颜，定山河，铸就一代霸业！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4320/12958296_360x480.jpg?time=1785462648",
         "latest_chapter": " 第155章  互市定盟，八百里和亲密信",
         "updated_at": "2026-10-15 07:22:03",
-        "rank_change": 2,
-        "heat_change": 4000,
+        "rank_change": 1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -170,46 +136,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.73万字",
-        "word_count": 477300,
-        "heat": 28000,
+        "word_count_text": "48.8万字",
+        "word_count": 488000,
+        "heat": 24000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "别人寒窗苦读十载，为科举头悬梁锥刺股；\n李安生穿越第一天，就继承了原主三十万两买来的会元身份。\n亲爹气得要打死他；满京城等着看他殿试出丑，菜市口挨刀。\n李安生：慌什么？不就是个殿试吗？\n经义？策论？诗词？张口就是千古名篇。\n李安生发现！\n这个世界有钱又有才，真的可以为所欲为。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4329/12985194_360x480.jpg?time=1790567965",
-        "latest_chapter": " 第222章  过几天还喝酒，喝毒药还差不多",
-        "updated_at": "2026-10-14 13:23:03",
-        "rank_change": -3,
-        "heat_change": -5000,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": false,
-        "category": "架空历史"
-      },
-      {
-        "rank": 17,
-        "title": "兄长们死后，边军悍卒养三家！",
-        "book_id": 12991533,
-        "url": "https://www.qimao.com/shuku/12991533/",
-        "author": "笔耕不辍小太子",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%AC%94%E8%80%95%E4%B8%8D%E8%BE%8D%E5%B0%8F%E5%A4%AA%E5%AD%90_14/",
-        "major": "历史",
-        "minor": "架空历史",
-        "major_id": 56,
-        "minor_id": 58,
-        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "50.25万字",
-        "word_count": 502500,
-        "heat": 21000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "父兄皆战死，独留三位刚过门的嫂嫂，特勤兵王林默穿越大魏，一间破屋三个嫂嫂，恶霸设局，夺命印子钱！一切从零开始。\n林默想给嫂嫂们一个家，嫂嫂们想给他一个后！\n且看风流兵王林默如何从微末崛起，打造大雪龙骑，风林火山步战之王，以血铺地，铸汉人战魂，竖华夏风骨！\n潜龙起于微末，帝魂出于行伍！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4331/12991533_360x480.jpg?time=1785867427",
-        "latest_chapter": " 第230章  言出法随！",
-        "updated_at": "2026-10-15 06:12:06",
-        "rank_change": -2,
-        "heat_change": 0,
+        "latest_chapter": " 第227章  我一两银子都没有了！",
+        "updated_at": "2026-10-15 15:21:03",
+        "rank_change": 0,
+        "heat_change": -4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

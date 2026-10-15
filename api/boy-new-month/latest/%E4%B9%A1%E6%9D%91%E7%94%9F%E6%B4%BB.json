@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "category": {
     "name": "乡村生活",
     "major": "都市",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "重生70：一枪一个，狩猎人生",
+          "book_id": 13113909,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「乡村生活」榜单结构稳定，无明显变动。",
+      "summary": "「乡村生活」《重生70：一枪一个，狩猎人生》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 11,
         "title": "重生70：一枪一个，狩猎人生",
         "book_id": 13113909,
         "url": "https://www.qimao.com/shuku/13113909/",
@@ -38,20 +44,20 @@
         "major_id": 203,
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
-        "status": "连载中",
+        "status": "已完结",
         "word_count_text": "40.09万字",
         "word_count": 400900,
         "heat": 385000,
         "platform_trend": "rise",
-        "badge": "飙升65名",
+        "badge": "飙升64名",
         "intro": "【年代+囤粮+狩猎+拉帮套+猎艳人生】\n陈远意外重生到1977的靠山屯，成了一个拉帮套\n小媳妇夏水湄骂他是牲口，大姑姐刘芸嫌他碍眼！\n谁也没想到，这个窝囊废扛起猎枪进了山！\n赶山猎兽，野猪狍子黑瞎子，枪响就倒！\n回村猎艳，媳妇寡妇大姑娘，炮响就服！\n整个深山成了他的粮仓！\n从此靠山屯多了个规矩：\n山里的猎物归陈远，村里的女人也归陈远！\n从人人喊打的拉帮套，到夜夜有人暖被窝的土霸王！\n重生这一回，陈远只干两件事：\n打猎！\n猎艳！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4372/13113909_360x480.jpg?time=1786713880",
         "latest_chapter": " 第171章  陈爷，我错了",
         "updated_at": "2026-10-14 07:02:08",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "乡村生活"
       }

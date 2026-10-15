@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T07:47:32",
-  "date": "2026-10-15",
+  "generated_at": "2026-10-16T07:37:25",
+  "date": "2026-10-16",
   "authors": [
     {
       "author": "化十",
@@ -25,11 +25,22 @@
       ]
     },
     {
+      "author": "柠檬小丸子",
+      "author_url": "https://www.qimao.com/zuozhe/%E6%9F%A0%E6%AA%AC%E5%B0%8F%E4%B8%B8%E5%AD%90_14/",
+      "books": 2,
+      "boards": 5,
+      "total_heat": 12593002,
+      "titles": [
+        "被逼自刎，嫡女重生撕婚书覆皇朝",
+        "抢姻缘，夺命格？我改嫁摄政王虐翻全族"
+      ]
+    },
+    {
       "author": "十二妖",
       "author_url": "https://www.qimao.com/zuozhe/%E5%8D%81%E4%BA%8C%E5%A6%96_14/",
       "books": 2,
       "boards": 2,
-      "total_heat": 3843000,
+      "total_heat": 3855000,
       "titles": [
         "第一凤女",
         "裂春风"
@@ -51,7 +62,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2287001,
+      "total_heat": 2287003,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
@@ -169,16 +180,6 @@
       ]
     },
     {
-      "author": "柠檬小丸子",
-      "author_url": "https://www.qimao.com/zuozhe/%E6%9F%A0%E6%AA%AC%E5%B0%8F%E4%B8%B8%E5%AD%90_14/",
-      "books": 1,
-      "boards": 4,
-      "total_heat": 12593000,
-      "titles": [
-        "被逼自刎，嫡女重生撕婚书覆皇朝"
-      ]
-    },
-    {
       "author": "江湖如梦",
       "author_url": "https://www.qimao.com/zuozhe/%E6%B1%9F%E6%B9%96%E5%A6%82%E6%A2%A6_14/",
       "books": 1,
@@ -222,7 +223,7 @@
       "author": "秋仪",
       "author_url": "https://www.qimao.com/zuozhe/%E7%A7%8B%E4%BB%AA_14/",
       "books": 1,
-      "boards": 3,
+      "boards": 2,
       "total_heat": 10209000,
       "titles": [
         "玉帐春"

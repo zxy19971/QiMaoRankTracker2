@@ -8,55 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-10",
+  "date": "2026-10-16",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 1,
     "total_heat": 16000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "重生70：一枪一个，狩猎人生",
+          "book_id": 13113909
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "重生57：开局傻子，白捡个漂亮媳妇",
-          "book_id": 13118376,
-          "heat_change": 1000
-        }
-      ],
-      "summary": "「乡村生活」《重生57：开局傻子，白捡个漂亮媳妇》热度+1000。",
+      "heat_leaders": [],
+      "summary": "「乡村生活」新上榜 《重生70：一枪一个，狩猎人生》。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 20,
-        "title": "重生57：开局傻子，白捡个漂亮媳妇",
-        "book_id": 13118376,
-        "url": "https://www.qimao.com/shuku/13118376/",
-        "author": "天下龟一",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%A4%A9%E4%B8%8B%E9%BE%9F%E4%B8%80_14/",
+        "rank": 18,
+        "title": "重生70：一枪一个，狩猎人生",
+        "book_id": 13113909,
+        "url": "https://www.qimao.com/shuku/13113909/",
+        "author": "一起抓水母",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E8%B5%B7%E6%8A%93%E6%B0%B4%E6%AF%8D_14/",
         "major": "都市",
         "minor": "乡村生活",
         "major_id": 203,
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "37.18万字",
-        "word_count": 371800,
+        "status": "已完结",
+        "word_count_text": "40.09万字",
+        "word_count": 400900,
         "heat": 16000,
         "platform_trend": "rise",
         "badge": "",
-        "intro": "天才医生遭难重生1957，醒来怀里抱着美寡妇，成了远近闻名的傻子！\n距离大饥荒仅剩一年，家徒四壁岌岌可危！\n为保家人，我手搓真理，山中横行，摇身过上顿顿吃肉的美好生活！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4373/13118376_360x480.jpg?time=1786501993",
-        "latest_chapter": " 第179章  当一回好人",
-        "updated_at": "2026-10-08 21:33:02",
+        "intro": "【年代+囤粮+狩猎+拉帮套+猎艳人生】\n陈远意外重生到1977的靠山屯，成了一个拉帮套\n小媳妇夏水湄骂他是牲口，大姑姐刘芸嫌他碍眼！\n谁也没想到，这个窝囊废扛起猎枪进了山！\n赶山猎兽，野猪狍子黑瞎子，枪响就倒！\n回村猎艳，媳妇寡妇大姑娘，炮响就服！\n整个深山成了他的粮仓！\n从此靠山屯多了个规矩：\n山里的猎物归陈远，村里的女人也归陈远！\n从人人喊打的拉帮套，到夜夜有人暖被窝的土霸王！\n重生这一回，陈远只干两件事：\n打猎！\n猎艳！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4372/13113909_360x480.jpg?time=1786713880",
+        "latest_chapter": " 第171章  陈爷，我错了",
+        "updated_at": "2026-10-14 07:02:08",
         "rank_change": 0,
-        "heat_change": 1000,
-        "is_new": false,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 2,
         "stale_update": false,
         "category": "乡村生活"

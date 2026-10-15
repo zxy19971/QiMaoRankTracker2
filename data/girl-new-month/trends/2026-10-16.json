@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-16",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 876200,
+    "total_heat": 17524000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "暗渡春潮",
+            "book_id": 12784170,
+            "rank_change": 1
+          },
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "rank_change": 1
+          },
+          {
+            "title": "离婚证已领，时爷请克制！",
+            "book_id": 12717066,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」《暗渡春潮》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "七零换嫁绝嗣大佬，一胎三宝惊艳家属院",
+            "book_id": 12602724,
+            "rank_change": 1
+          },
+          {
+            "title": "极品小姑懂婴语，全家端上铁饭碗",
+            "book_id": 12554541,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」《七零换嫁绝嗣大佬，一胎三宝惊艳家属院》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "rank_change": 1
+          },
+          {
+            "title": "折婢骨",
+            "book_id": 12107619,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」新上榜 《嫡姐惨死？王妃她杀爆京城》；《春闺小寡妇》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "rank_change": 1
+          },
+          {
+            "title": "穿了之后：我用一头猪换了个男人",
+            "book_id": 12779250,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」《悍妇穿边关，一手烂牌打出王炸》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "侯府来了个小阎王，满朝权贵争又抢",
+            "book_id": 12479613,
+            "intro": "【萌崽＋玄学＋爽文＋亲情】\n阎王萌崽仁宝转世成侯府真千金。\n祖母心瞎眼盲护假千金，从此霉运不停。\n神力娘亲撑腰，温柔爹爹守护离开侯府自立门户，爹的腿疾好了，姐姐换回命格了，全京城的权贵又争又抢，排队求"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「宫闱宅斗」《侯府来了个小阎王，满朝权贵争又抢》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "权谋天下",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "长庚引",
+            "book_id": 12090615,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「权谋天下」《长庚引》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "长得太漂亮，在末世里会被疯狂觊觎",
+            "book_id": 12813204,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世求生」《长得太漂亮，在末世里会被疯狂觊觎》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

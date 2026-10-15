@@ -1,0 +1,263 @@
+{
+  "date": "2026-10-16",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 1,
+    "total_heat": 26,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "有帝族背景还开挂，我无敌了！",
+            "book_id": 1924831,
+            "rank_change": 2
+          },
+          {
+            "title": "史上最强师父",
+            "book_id": 1817221,
+            "rank_change": 2
+          },
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "有帝族背景还开挂，我无敌了！",
+            "book_id": 1924831,
+            "heat_change": 2
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": -2
+          },
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「东方玄幻」《有帝族背景还开挂，我无敌了！》上升2位领涨；《鸿蒙霸体诀》下滑1位；《有帝族背景还开挂，我无敌了！》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "rank_change": 2
+          },
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "rank_change": 2
+          },
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "heat_change": 2
+          },
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "heat_change": 2
+          },
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「都市高手」新上榜 《美女总裁，请上车》；《医武双绝：下山捡个总裁当老婆》上升2位领涨；《医武双绝：下山捡个总裁当老婆》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "rank_change": 1
+          },
+          {
+            "title": "九转仙葫",
+            "book_id": 12212670,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "heat_change": 1
+          },
+          {
+            "title": "九转仙葫",
+            "book_id": 12212670,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「幻想修真」《乾坤造化诀》上升1位领涨；《乾坤造化诀》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "公主退婚？我买下了满朝文武",
+            "book_id": 12878790,
+            "intro": "穿越大晟，沈浪成了被公主退婚、被侯府扫地出门的败家子，只分到一间欠债八十两的破牙行。\n京城人都等着看他饿死。\n沈浪却花掉最后三两银子，买下一个瘸腿马奴。第二天，那个人人嫌弃的瘸子替大晟驯服北戎烈马，赢"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「架空历史」《公主退婚？我买下了满朝文武》 掉出榜单；《太监凶猛》下滑2位；《太监凶猛》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "死前考核",
+            "book_id": 12606348,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "死前考核",
+            "book_id": 12606348,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「都市高武」《死前考核》下滑2位；《死前考核》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「奇门秘术」《天黑请点灯》上升3位领涨；《天黑请点灯》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「现代军事」《五次入伍，我给全军上强度！》上升1位领涨；《五次入伍，我给全军上强度！》热度+1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

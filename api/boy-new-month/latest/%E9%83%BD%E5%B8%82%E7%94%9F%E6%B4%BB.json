@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "category": {
     "name": "都市生活",
     "major": "都市",
@@ -19,10 +19,22 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
+      "top_risers": [
+        {
+          "title": "重生70：大国栋梁，从正阳门下开始",
+          "book_id": 12867831,
+          "rank_change": 1
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "透视神眼：看尽天下玉，揽尽世上美",
+          "book_id": 12898650,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「都市生活」榜单结构稳定，无明显变动。",
+      "summary": "「都市生活」《重生70：大国栋梁，从正阳门下开始》上升1位领涨；《透视神眼：看尽天下玉，揽尽世上美》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
@@ -39,15 +51,15 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.78万字",
-        "word_count": 467800,
+        "word_count_text": "47.44万字",
+        "word_count": 474400,
         "heat": 785000,
         "platform_trend": "rise",
         "badge": "飙升36名",
         "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "latest_chapter": " 第210章  村支书多个鸡毛！",
-        "updated_at": "2026-10-14 17:12:03",
+        "latest_chapter": " 第213章  你想表达什么？背后什么人？",
+        "updated_at": "2026-10-15 17:12:03",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -56,7 +68,7 @@
         "category": "都市生活"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "title": "透视神眼：看尽天下玉，揽尽世上美",
         "book_id": 12898650,
         "url": "https://www.qimao.com/shuku/12898650/",
@@ -68,16 +80,16 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.94万字",
-        "word_count": 399400,
+        "word_count_text": "40.4万字",
+        "word_count": 404000,
         "heat": 345000,
         "platform_trend": "rise",
-        "badge": "飙升18名",
+        "badge": "飙升17名",
         "intro": "陆沉为了给女友改善生活，努力克服恐高症去高空擦玻璃赚快钱。\n但不成想，竟亲眼目睹了女友的背叛！\n陆沉在心灰意冷下准备跳江轻生，却意外获得了造化神树，并救下了同样要轻生的美妇！\n自此，陆沉天眼一开，玉石入袋，美人入怀。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4300/12898650_360x480.jpg?time=1785160037",
-        "latest_chapter": " 第183章  姜大年到江陵！",
-        "updated_at": "2026-10-14 21:23:03",
-        "rank_change": 0,
+        "latest_chapter": " 第185章  价值八位数，簪花仕女图！",
+        "updated_at": "2026-10-15 23:13:04",
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -85,7 +97,7 @@
         "category": "都市生活"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "title": "重生70：大国栋梁，从正阳门下开始",
         "book_id": 12867831,
         "url": "https://www.qimao.com/shuku/12867831/",
@@ -97,16 +109,16 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.45万字",
-        "word_count": 344500,
+        "word_count_text": "34.89万字",
+        "word_count": 348900,
         "heat": 239000,
         "platform_trend": "rise",
-        "badge": "飙升26名",
+        "badge": "飙升27名",
         "intro": "哈工大博导穿成1976年京城少年，家里要守得住烟火人心，事业要闯得出工业前路，王富贵大吼一声，给我足够的原材料，我用手给你搓出一个核电站出来！\n事实证明，他一点儿都没撒谎！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4290/12867831_360x480.jpg?time=1791339043",
-        "latest_chapter": " 第163章  有什么解释不了的，都推给大风暴",
-        "updated_at": "2026-10-14 19:02:04",
-        "rank_change": 0,
+        "latest_chapter": " 第165章  下一步是该下牛棚，还是蹲大狱？",
+        "updated_at": "2026-10-15 19:02:04",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
