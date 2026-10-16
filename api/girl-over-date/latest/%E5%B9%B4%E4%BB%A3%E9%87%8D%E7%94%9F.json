@@ -8,26 +8,31 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-14",
+  "date": "2026-10-17",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
     "count": 1,
-    "total_heat": 79000,
+    "total_heat": 75000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "穿成六零小炮灰，大小姐带物资养兵王",
+          "book_id": 2074330
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「年代重生」榜单结构稳定，无明显变动。",
+      "summary": "「年代重生」新上榜 《穿成六零小炮灰，大小姐带物资养兵王》。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 20,
         "title": "穿成六零小炮灰，大小姐带物资养兵王",
         "book_id": 2074330,
         "url": "https://www.qimao.com/shuku/2074330/",
@@ -41,8 +46,8 @@
         "status": "已完结",
         "word_count_text": "130.87万字",
         "word_count": 1308700,
-        "heat": 79000,
-        "platform_trend": "rise",
+        "heat": 75000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "医学世家的病弱天才桑榆救人累死后，重生成了六十年代海城首富家的真千金。\n真千金可怜，从小被养父母虐待，好不容易回家，又被假千金算计。\n最终，不甘不愿嫁给了植物人兵王。\n桑榆来了后，不能动有钱长得帅的老公，那不就是人间极品吗？\n后来……\n假千金挑衅，扇她。\n亲生父母道德绑架，关门放狗！\n桑榆的日子越来越充实，治病救人，发家致富。\n她身边的人也原来越多……\n青梅竹马的邻家大哥。\n意外救下的某位大佬独子。\n还有身份神秘的黑市老大。\n植物人兵王默默地从床上爬了起来，再不起来，媳妇跑了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/891/2672974_360x480.jpg?time=1759202961",
@@ -50,7 +55,7 @@
         "updated_at": "2026-09-11 13:20:06",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": false,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": true,
         "category": "年代重生"

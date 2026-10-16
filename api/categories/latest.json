@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "categories": [
     {
       "name": "都市高武",
@@ -72,14 +72,14 @@
       "url": "api/categories/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
     },
     {
-      "name": "末世危机",
-      "major": "科幻",
-      "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
-    },
-    {
       "name": "奇门秘术",
       "major": "奇闻异事",
       "url": "api/categories/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
+    },
+    {
+      "name": "末世危机",
+      "major": "科幻",
+      "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
     },
     {
       "name": "异世大陆",

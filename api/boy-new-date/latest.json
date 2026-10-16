@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "types": [
     {
       "name": "全部",
@@ -45,10 +45,6 @@
     {
       "name": "虚拟网游",
       "url": "api/boy-new-date/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
-    },
-    {
-      "name": "乡村生活",
-      "url": "api/boy-new-date/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "都市高武",

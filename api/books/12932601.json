@@ -6,13 +6,19 @@
   "intro": "退伍保安跑滴滴，遭未婚妻与奸夫下药谋害，祖传玉佩觉醒青囊神武......\n“你喜欢阿姨吗？”\n“喜欢。”\n许平安从不介意姐弟恋",
   "minor": "都市高手",
   "status": "连载中",
-  "word_count_text": "46万字",
+  "word_count_text": "46.62万字",
   "latest": [
     {
       "board": "boy-new-month",
       "board_name": "男生新书月榜",
       "rank": 16,
       "heat": 249000
+    },
+    {
+      "board": "boy-new-date",
+      "board_name": "男生新书日榜",
+      "rank": 18,
+      "heat": 18000
     }
   ],
   "history": [
@@ -36,6 +42,18 @@
     },
     {
       "d": "2026-10-16",
+      "b": "boy-new-month",
+      "r": 16,
+      "h": 249000
+    },
+    {
+      "d": "2026-10-17",
+      "b": "boy-new-date",
+      "r": 18,
+      "h": 18000
+    },
+    {
+      "d": "2026-10-17",
       "b": "boy-new-month",
       "r": 16,
       "h": 249000

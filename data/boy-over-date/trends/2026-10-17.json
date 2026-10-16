@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-17",
+  "board": "boy-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 103750,
+    "total_heat": 2075000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "噬神鼎",
+            "book_id": 1868453,
+            "intro": "林煜贵为大汉王朝皇子，遭人陷害，南征惨败，修为被废，被罚看守皇陵，永世不得翻身。\n然而他在皇陵中却激活了上古神器，能够炼化万物的噬神鼎。\n炼化人皇剑，获得圣皇剑体！\n炼化万千妖兽，修为突飞猛进！\n炼化"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "玲珑塔",
+            "book_id": 1754203,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "玲珑塔",
+            "book_id": 1754203,
+            "heat_change": -4000
+          },
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "heat_change": -2000
+          },
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「东方玄幻」《噬神鼎》 掉出榜单；《葬天神帝》上升1位领涨；《玲珑塔》下滑1位；《玲珑塔》热度-4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "打到北极圈了，你让我继承皇位？",
+            "book_id": 1864493,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "打到北极圈了，你让我继承皇位？",
+            "book_id": 1864493,
+            "heat_change": 2000
+          },
+          {
+            "title": "世子无双",
+            "book_id": 1860026,
+            "heat_change": -2000
+          },
+          {
+            "title": "无敌六皇子",
+            "book_id": 1747899,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「架空历史」《打到北极圈了，你让我继承皇位？》下滑1位；《打到北极圈了，你让我继承皇位？》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "小司机的美女总裁老婆",
+            "book_id": 2052700,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "小司机的美女总裁老婆",
+            "book_id": 2052700,
+            "heat_change": 2000
+          },
+          {
+            "title": "警报！龙国出现SSS级修仙者！",
+            "book_id": 1812053,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「都市高武」《小司机的美女总裁老婆》上升1位领涨；《小司机的美女总裁老婆》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "rank_change": 1
+          },
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "heat_change": 1000
+          },
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「奇门秘术」《山野诡闻笔记》上升1位领涨；《山野诡闻笔记》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "我和软萌女友的恋爱日常",
+            "book_id": 214789
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "重生2000：从追求青涩校花同桌开始",
+            "book_id": 1758273,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「热血校园」新上榜 《我和软萌女友的恋爱日常》；《重生2000：从追求青涩校花同桌开始》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "SSS级狂龙归来，全球戒备！",
+            "book_id": 2060177,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「都市高手」《SSS级狂龙归来，全球戒备！》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「末世危机」《全球灾变之末日游戏》下滑1位；《全球灾变之末日游戏》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「异世大陆」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "让你带问题女兵，你全养成特种兵王了？",
+            "book_id": 2091811,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "让你带问题女兵，你全养成特种兵王了？",
+            "book_id": 2091811,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「现代军事」《让你带问题女兵，你全养成特种兵王了？》下滑1位；《让你带问题女兵，你全养成特种兵王了？》热度-1000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

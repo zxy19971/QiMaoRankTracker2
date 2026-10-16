@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-17",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 0,
+    "total_heat": 18,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "冒充豪门大少，拐个美女总裁当老婆",
+            "book_id": 12905160
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "rank_change": 2
+          },
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "rank_change": 2
+          },
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "heat_change": -2
+          },
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「都市高手」新上榜 《冒充豪门大少，拐个美女总裁当老婆》；《爷爷托梦后，我靠戒指掌控万界》上升2位领涨；《医武双绝：下山捡个总裁当老婆》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "intro": "【传统玄幻】【背景逆天】【剑修】【无系统】\n亿万年前，鸿蒙时代，混沌初开，宇宙本源为了阻止万灵无休止的生长，造成更庞大的负荷，以混沌为体，鸿蒙为气，黑洞为口，星辰为盖，凝聚了一座灭世神棺，用来吞四海、"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "有帝族背景还开挂，我无敌了！",
+            "book_id": 1924831,
+            "heat_change": -2
+          },
+          {
+            "title": "史上最强师父",
+            "book_id": 1817221,
+            "heat_change": -2
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「东方玄幻」《葬神棺》 掉出榜单；《吞天神体》上升2位领涨；《有帝族背景还开挂，我无敌了！》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "heat_change": -1
+          },
+          {
+            "title": "九转仙葫",
+            "book_id": 12212670,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「幻想修真」《乾坤造化诀》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "边军小卒：杀敌爆气血，我无限破镜！",
+            "book_id": 12958296,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "heat_change": 2
+          },
+          {
+            "title": "边军小卒：杀敌爆气血，我无限破镜！",
+            "book_id": 12958296,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「架空历史」《边军小卒：杀敌爆气血，我无限破镜！》上升2位领涨；《太监凶猛》下滑4位；《太监凶猛》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "rank_change": 2
+          },
+          {
+            "title": "死前考核",
+            "book_id": 12606348,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "heat_change": 2
+          },
+          {
+            "title": "死前考核",
+            "book_id": 12606348,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市高武」《神武天下之睚眦》上升2位领涨；《神武天下之睚眦》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「现代军事」《五次入伍，我给全军上强度！》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "heat_change": -3
+          }
+        ],
+        "summary": "「奇门秘术」《天黑请点灯》热度-3。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

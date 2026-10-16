@@ -8,38 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 2,
-    "total_heat": 127000,
+    "total_heat": 125000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "被关女子监狱三年，我修炼成仙了",
-          "book_id": 1697715
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "绝世强龙",
-          "book_id": 215780,
-          "intro": "齐等闲本一介闲人，镇一方监狱，囚万千枭雄。\n直到已肩扛两星的未婚妻轻描淡写撕毁了当年的一纸婚约，他才知道……\n这世界，将因他走出这一隅之地而翩翩起舞。"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "SSS级狂龙归来，全球戒备！",
           "book_id": 2060177,
-          "heat_change": -1000
+          "heat_change": -2000
         }
       ],
-      "summary": "「都市高手」新上榜 《被关女子监狱三年，我修炼成仙了》；《绝世强龙》 掉出榜单；《SSS级狂龙归来，全球戒备！》热度-1000。",
+      "summary": "「都市高手」《SSS级狂龙归来，全球戒备！》热度-2000。",
       "ai_source": "rule"
     },
     "books": [
@@ -58,7 +47,7 @@
         "status": "已完结",
         "word_count_text": "269.31万字",
         "word_count": 2693100,
-        "heat": 71000,
+        "heat": 69000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "本书又名《警报！真龙在世》\n \n 拥兵百万，北境之主。\n 叶天回到江城，调查父母死因。\n\n　　可没想到的是，他回来后，形形色色的女人蜂拥而至。\n\n　　高冷女总裁，单身少妇，黑道大姐，歌坛歌后等等！\n\n　　她们都成为了叶天最坚实的后盾。\n\n　　父母的“死因”也慢慢浮出水面，是阴谋，更是血海深仇！",
@@ -66,7 +55,7 @@
         "latest_chapter": " 第1110章  九龙抬棺",
         "updated_at": "2026-09-05 12:02:13",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -96,7 +85,7 @@
         "updated_at": "2026-08-17 18:03:16",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "都市高手"

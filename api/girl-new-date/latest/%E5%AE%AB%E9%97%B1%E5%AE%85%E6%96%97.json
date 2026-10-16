@@ -8,54 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
-    "count": 3,
-    "total_heat": 246000,
+    "count": 4,
+    "total_heat": 256000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
         {
           "title": "夺她入帐，惹上疯批权臣逃不掉",
-          "book_id": 10423605,
-          "intro": "【强取豪夺+见色起意+上位者低头+无金手指+极限拉扯】\n【外柔内刚小白花x阴湿疯批权臣】\n身为普通人的季明意，意外魂穿成了权谋小说里的路人甲，出身寒微的落魄孤女。\n为求生存，藏拙七年，当一朵安安分分的"
+          "book_id": 10423605
         }
       ],
+      "dropped_books": [],
       "top_risers": [
         {
           "title": "神算王妃薅功德，转嫁绝嗣皇叔一胎三宝",
           "book_id": 11718921,
-          "rank_change": 2
-        },
-        {
-          "title": "皇上开门，福宝带物资来送温暖啦",
-          "book_id": 12856758,
           "rank_change": 1
         }
       ],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "皇上开门，福宝带物资来送温暖啦",
+          "book_id": 12856758,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "劝爹入赘公主府，玄学嫡女被团宠",
           "book_id": 13123386,
-          "heat_change": -2000
-        },
-        {
-          "title": "皇上开门，福宝带物资来送温暖啦",
-          "book_id": 12856758,
-          "heat_change": 2000
+          "heat_change": -13000
         },
         {
           "title": "神算王妃薅功德，转嫁绝嗣皇叔一胎三宝",
           "book_id": 11718921,
-          "heat_change": 2000
+          "heat_change": 1000
         }
       ],
-      "summary": "「宫闱宅斗」《夺她入帐，惹上疯批权臣逃不掉》 掉出榜单；《神算王妃薅功德，转嫁绝嗣皇叔一胎三宝》上升2位领涨；《劝爹入赘公主府，玄学嫡女被团宠》热度-2000。",
+      "summary": "「宫闱宅斗」新上榜 《夺她入帐，惹上疯批权臣逃不掉》；《神算王妃薅功德，转嫁绝嗣皇叔一胎三宝》上升1位领涨；《皇上开门，福宝带物资来送温暖啦》下滑1位；《劝爹入赘公主府，玄学嫡女被团宠》热度-13000。",
       "ai_source": "rule"
     },
     "books": [
@@ -72,24 +67,24 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.63万字",
-        "word_count": 406300,
-        "heat": 173000,
+        "word_count_text": "41.26万字",
+        "word_count": 412600,
+        "heat": 160000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【双重生+玄学甜爽+换府改命对照组】\n前世，爹娘和离，顾令窈因“荣华富贵命”随母改嫁入侯府。\n母亲为了讨好侯府，调换了她与继姐的命格。侯府因此荣光，继父升爵，继兄从龙之功，继姐成了皇后。\n可她却被百鬼缠身，还被侯府榨干最后一丝价值，嫁给心有所属的宁王，最后被钉骨活埋，险些魂飞魄散。\n再次睁眼，姐姐调换了命签，顶着她的“荣华富贵命”，抢着跟娘嫁入侯府。\n原来姐姐也重生了。\n她以为，跟着爹就会在被贬途中被山匪砍死，跟着娘就能坐享侯府荣华？\n呵，殊不知，侯府才是龙潭虎穴。\n顾令窈很期待，侯府继姐换上姐姐的“刑克六亲命”后，侯府会是什么下场。\n而她一眼看破父亲与长公主姻缘线，劝爹入赘公主府，在家当福星团宠，在外当一卦难求的国师。\n这一世，她要复仇，要改变父亲、长公主和三位继兄的命运，找到前世恩人保他一世平安！\n当姐姐还在做着王妃梦时，她所在的侯府和她想嫁的王爷，都已被顾令窈送上了黄泉路！\n只是，她怎么报恩报着报着，被那位惊才绝艳的昭王殿下，按在了皇后宝座上？\n“既要报恩，前世我与你共赴黄泉，今生你与我同享皇权，如何？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4375/13123386_360x480.jpg?time=1789283551",
-        "latest_chapter": " 第131章  生男活，生女死？此乃朝廷禁药！",
-        "updated_at": "2026-10-16 00:13:03",
+        "latest_chapter": " 第133章  烟柳杀了袁夫人，阉了袁秉礼",
+        "updated_at": "2026-10-17 00:06:04",
         "rank_change": 0,
-        "heat_change": -2000,
+        "heat_change": -13000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "title": "皇上开门，福宝带物资来送温暖啦",
         "book_id": 12856758,
         "url": "https://www.qimao.com/shuku/12856758/",
@@ -101,24 +96,24 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.86万字",
-        "word_count": 348600,
+        "word_count_text": "35.27万字",
+        "word_count": 352700,
         "heat": 45000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【萌宝、通古今、团宠、治愈异能】\n暖暖是带着治愈异能出生的。\n亲生父母嫌弃她奇怪，离婚后把她一个人留在老房子里。\n她抱着祖传的铜镜，意外穿越到了古代。\n小将军身中剧毒，她刚好能治！\n百姓吃不饱饭，别怕，她能从现代带来红薯和土豆！\n老太傅眼睛看不清，她回去买个老花镜带过来！\n后宫嫔妃宫斗严重，来点香水和口红，所有人开始闭门研究化妆！\n皇上太稀罕她了，非要封她做公主。\n皇子公主们不同意，暖暖抱来一堆零食奶茶，通通收买！\n皇宫上下再也没有一个反对的声音，所有人都在盼着暖暖什么时候过来。\n暖暖抱着一堆古董回去，住进大别墅，还被顶级豪门收养做继承人。\n之前抛弃她争抢姐姐的父母知道后，肠子都悔青了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4286/12856758_360x480.jpg?time=1788158117",
-        "latest_chapter": " 第171章  他简直活该",
-        "updated_at": "2026-10-15 23:43:04",
-        "rank_change": 1,
-        "heat_change": 2000,
+        "latest_chapter": " 第173章  又救美女啊",
+        "updated_at": "2026-10-16 23:44:03",
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "title": "神算王妃薅功德，转嫁绝嗣皇叔一胎三宝",
         "book_id": 11718921,
         "url": "https://www.qimao.com/shuku/11718921/",
@@ -130,19 +125,48 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.02万字",
-        "word_count": 350200,
-        "heat": 28000,
+        "word_count_text": "35.63万字",
+        "word_count": 356300,
+        "heat": 29000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【双洁+先婚后爱+玄学改命+全员团宠+打脸虐渣+疯批皇叔独宠】\n世人都说靖王绝嗣，终生无后，皇帝怜惜，朝野叹惋。\n一朝赐婚，人人都等着看楚云汐的笑话。\n嫁个不能生育的皇叔，这辈子只能守活寡。\n新婚夜，楚云汐捂着腰，瞪着眼前男人怒声质问：“传闻你不是不行吗？！”\n——\n青梅竹马的未婚夫中了探花，转头就攀附权贵、背信弃义。\n贪图她身后丰厚的嫁妆，他联手至亲布下弥天骗局，一纸婚书哄骗楚云汐千里上京，最后只为逼她为妾，困于樊笼。\n世人皆叹楚云汐痴心错付，命途可悲。\n可无人知晓，险遭算计、半路被掳，即将被卖入深山为共妻的躯壳里，早已换了灵魂。\n取而代之的，是二十二世纪唯一正统玄学传人，精通风水命理、卜卦改运、驱邪镇煞的顶级大佬楚云汐！\n蓝玉扳指现世，逆天改命，她一朝重生，断绝烂桃花，手撕负心汉，从此风生水起！\n算尽天机的她，唯独算不透那位权倾朝野的病娇皇叔——萧玦尘。\n人前，他孱弱清冷、与世无争，一副疏离寡淡模样。\n人后，他偏执黏人，夜夜缠她解惑，步步诱婚，将所有温柔与偏爱，尽数锁予她一人。\n“世人皆言我命不久矣，唯独阿汐，敢逆天护我，既救我性命，便要以身相许，余生不准逃离。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3907/11718921_360x480.jpg?time=1790672452",
-        "latest_chapter": " 第154章  一刀两断，再无牵扯",
-        "updated_at": "2026-10-15 19:02:03",
-        "rank_change": 2,
-        "heat_change": 2000,
+        "latest_chapter": " 第156章  看着太过老成，我瞧不上",
+        "updated_at": "2026-10-16 19:02:06",
+        "rank_change": 1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,
+        "stale_update": false,
+        "category": "宫闱宅斗"
+      },
+      {
+        "rank": 20,
+        "title": "夺她入帐，惹上疯批权臣逃不掉",
+        "book_id": 10423605,
+        "url": "https://www.qimao.com/shuku/10423605/",
+        "author": "香菜达达",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%A6%99%E8%8F%9C%E8%BE%BE%E8%BE%BE_14/",
+        "major": "古代言情",
+        "minor": "宫闱宅斗",
+        "major_id": 2,
+        "minor_id": 209,
+        "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "49.8万字",
+        "word_count": 498000,
+        "heat": 22000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "【强取豪夺+见色起意+上位者低头+无金手指+极限拉扯】\n【外柔内刚小白花x阴湿疯批权臣】\n身为普通人的季明意，意外魂穿成了权谋小说里的路人甲，出身寒微的落魄孤女。\n为求生存，藏拙七年，当一朵安安分分的菟丝花，远离原书里的权谋纷争。\n奈何世事难料，谢府落败，她被迫随未婚夫上京，踏入煊赫望族的宗府。\n宗府二爷宗羡，当朝内阁首辅，帝王近臣。\n世人皆惧他凉薄无情、杀伐果断。\n唯有季明意心知肚明，这位权倾天下的权臣，终将落得家破人亡、凄惨收场。\n为保命脱身，她步步谨慎，一心只想带上弟弟和未婚夫开溜。\n可她全然不知，暗中的男人正在用看猎物的目光，死死盯着她。\n-\n宗府来了位表姑娘，生得皎若秋月，灼若芙蕖，倾国倾城的好相貌。\n宗羡第一次见到她，便生了占有之心。\n侄子的未婚妻又如何，夺过来便是。\n起初是蓄意占有，势在必得。\n到最后，却是他深陷情沼，万劫不复。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3475/10423605_360x480.jpg?time=1788431642",
+        "latest_chapter": " 第229章  要一根一根的，擦干净",
+        "updated_at": "2026-10-16 23:57:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
         "stale_update": false,
         "category": "宫闱宅斗"
       }

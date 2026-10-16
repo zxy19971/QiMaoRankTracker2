@@ -8,29 +8,29 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 2,
-    "total_heat": 2,
+    "total_heat": 6,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
+      "dropped_books": [],
+      "top_risers": [
         {
-          "title": "公主退婚？我买下了满朝文武",
-          "book_id": 12878790,
-          "intro": "穿越大晟，沈浪成了被公主退婚、被侯府扫地出门的败家子，只分到一间欠债八十两的破牙行。\n京城人都等着看他饿死。\n沈浪却花掉最后三两银子，买下一个瘸腿马奴。第二天，那个人人嫌弃的瘸子替大晟驯服北戎烈马，赢"
+          "title": "边军小卒：杀敌爆气血，我无限破镜！",
+          "book_id": 12958296,
+          "rank_change": 2
         }
       ],
-      "top_risers": [],
       "top_fallers": [
         {
           "title": "太监凶猛",
           "book_id": 11674809,
-          "rank_change": -2
+          "rank_change": -4
         }
       ],
       "heat_leaders": [
@@ -38,14 +38,19 @@
           "title": "太监凶猛",
           "book_id": 11674809,
           "heat_change": 2
+        },
+        {
+          "title": "边军小卒：杀敌爆气血，我无限破镜！",
+          "book_id": 12958296,
+          "heat_change": 2
         }
       ],
-      "summary": "「架空历史」《公主退婚？我买下了满朝文武》 掉出榜单；《太监凶猛》下滑2位；《太监凶猛》热度+2。",
+      "summary": "「架空历史」《边军小卒：杀敌爆气血，我无限破镜！》上升2位领涨；《太监凶猛》下滑4位；《太监凶猛》热度+2。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 13,
         "title": "太监凶猛",
         "book_id": 11674809,
         "url": "https://www.qimao.com/shuku/11674809/",
@@ -57,16 +62,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "128.32万字",
-        "word_count": 1283200,
-        "heat": 2,
+        "word_count_text": "128.96万字",
+        "word_count": 1289600,
+        "heat": 4,
         "platform_trend": "drop",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第382章  辽族暴行！",
-        "updated_at": "2026-10-16 00:32:05",
-        "rank_change": -2,
+        "latest_chapter": " 第384章  结盟草原！",
+        "updated_at": "2026-10-17 00:32:04",
+        "rank_change": -4,
         "heat_change": 2,
         "is_new": false,
         "boards_count": 1,
@@ -74,7 +79,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 20,
+        "rank": 18,
         "title": "边军小卒：杀敌爆气血，我无限破镜！",
         "book_id": 12958296,
         "url": "https://www.qimao.com/shuku/12958296/",
@@ -86,17 +91,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.38万字",
-        "word_count": 353800,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "36.05万字",
+        "word_count": 360500,
+        "heat": 2,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【空架历史】＋【争霸】＋【武炼巅峰】＋【一统天下】＋【爽文】＋【边军战神】＋【多女主】\n华夏兵王楚枫意外穿越到大乾王朝南境虎牢关，刚魂穿就撞上南蛮大军破城，身陷绝境。\n生死一线，【噬血武道系统】强势激活！\n世道不公？那我便挥刀，亲手杀出一条公道！\n【叮！击杀普通敌兵，气血值+30！】\n【叮！击杀八品武者，气血值+150！】\n……\n气血值可突破境界，还能升级功法品质！\n消耗300气血，直接兑换绝学《纯阳无极功》，修至阳至刚真气，内力源源不绝，自带疗伤续航，百毒不侵。\n旁人苦修十年难破境界，楚枫只需挥刀杀敌！\n杀得越快，敌人尸骨，便是他登临武道巅峰的垫脚石！\n南蛮将士吓得魂飞魄散：“你不要过来！”\n楚枫冷笑提刀：“来都来了，借诸位项上人头，助我武道通神！”\n自此，楚枫镇守边疆，横扫蛮夷，肃清大乾朝堂奸佞，征伐列国。\n揽红颜，定山河，铸就一代霸业！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4320/12958296_360x480.jpg?time=1785462648",
-        "latest_chapter": " 第155章  互市定盟，八百里和亲密信",
-        "updated_at": "2026-10-15 07:22:03",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第158章  屠尽贼寇，洗干净脖子出来领死！",
+        "updated_at": "2026-10-17 07:02:05",
+        "rank_change": 2,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
