@@ -1,0 +1,245 @@
+{
+  "date": "2026-10-18",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 106000,
+    "total_heat": 2120000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "离婚证已领，时爷请克制！",
+            "book_id": 12717066,
+            "rank_change": -3
+          },
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "rank_change": -1
+          },
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "唯她是图",
+            "book_id": 12860100,
+            "heat_change": -106000
+          },
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "heat_change": -48000
+          },
+          {
+            "title": "分居三年，高冷商总跪地求不离",
+            "book_id": 13034412,
+            "heat_change": -29000
+          }
+        ],
+        "summary": "「总裁豪门」《离婚证已领，时爷请克制！》下滑3位；《唯她是图》热度-106000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "婚后分床睡，冷面军官他急了",
+            "book_id": 12856086
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "带空间跟爹抱大腿，别人吃糠我吃肉",
+            "book_id": 12952116,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": 22000
+          },
+          {
+            "title": "带空间跟爹抱大腿，别人吃糠我吃肉",
+            "book_id": 12952116,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「年代重生」新上榜 《婚后分床睡，冷面军官他急了》；《带空间跟爹抱大腿，别人吃糠我吃肉》上升1位领涨；《错嫁随军：新婚夜冷面军少沦陷了》热度+22000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "heat_change": -4000
+          },
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "heat_change": -3000
+          },
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「古代情缘」《娇软美人出嫁后》下滑1位；《娇软美人出嫁后》热度-4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "夺她入帐，惹上疯批权臣逃不掉",
+            "book_id": 10423605,
+            "intro": "【强取豪夺+见色起意+上位者低头+无金手指+极限拉扯】\n【外柔内刚小白花x阴湿疯批权臣】\n身为普通人的季明意，意外魂穿成了权谋小说里的路人甲，出身寒微的落魄孤女。\n为求生存，藏拙七年，当一朵安安分分的"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "rank_change": 2
+          },
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "heat_change": 7000
+          },
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "heat_change": -3000
+          },
+          {
+            "title": "神算王妃薅功德，转嫁绝嗣皇叔一胎三宝",
+            "book_id": 11718921,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「宫闱宅斗」《夺她入帐，惹上疯批权臣逃不掉》 掉出榜单；《皇上开门，福宝带物资来送温暖啦》上升2位领涨；《皇上开门，福宝带物资来送温暖啦》热度+7000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「种田经商」《悍妇穿边关，一手烂牌打出王炸》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "权谋天下",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "长庚引",
+            "book_id": 12090615,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "长庚引",
+            "book_id": 12090615,
+            "heat_change": 8000
+          }
+        ],
+        "summary": "「权谋天下」《长庚引》上升3位领涨；《长庚引》热度+8000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》下滑1位。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

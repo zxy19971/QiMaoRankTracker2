@@ -8,55 +8,59 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 4,
-    "total_heat": 166000,
+    "total_heat": 162000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "女总裁的小邪医",
-          "book_id": 12932601
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "下山即无敌，美女总裁逼我去领证！",
-          "book_id": 12594795,
-          "intro": "“昨晚…是你？”\n“美女，明明是你先闯进我房间，对我用强的……”\n云墟山走下一个绝世天骄，本想退婚了却尘缘，却意外被美女总裁霸占……\n从此，叶安走上了一条权势与美女相伴的道路。\n很猛很无敌！\n【后宫多"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
         {
-          "title": "我的倾城野妻",
-          "book_id": 12973059,
+          "title": "血脉觉醒后，美女总裁赖上我",
+          "book_id": 13089795,
+          "rank_change": 1
+        },
+        {
+          "title": "女总裁的小邪医",
+          "book_id": 12932601,
           "rank_change": 1
         }
       ],
       "top_fallers": [
         {
-          "title": "下山第一天，逮个美女总裁暴力宠",
-          "book_id": 13008696,
-          "rank_change": -3
+          "title": "我的倾城野妻",
+          "book_id": 12973059,
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
           "title": "我的倾城野妻",
           "book_id": 12973059,
-          "heat_change": 2000
+          "heat_change": -5000
+        },
+        {
+          "title": "女总裁的小邪医",
+          "book_id": 12932601,
+          "heat_change": 4000
+        },
+        {
+          "title": "血脉觉醒后，美女总裁赖上我",
+          "book_id": 13089795,
+          "heat_change": -3000
         }
       ],
-      "summary": "「都市高手」新上榜 《女总裁的小邪医》；《下山即无敌，美女总裁逼我去领证！》 掉出榜单；《我的倾城野妻》上升1位领涨；《下山第一天，逮个美女总裁暴力宠》下滑3位；《我的倾城野妻》热度+2000。",
+      "summary": "「都市高手」《血脉觉醒后，美女总裁赖上我》上升1位领涨；《我的倾城野妻》下滑1位；《我的倾城野妻》热度-5000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 2,
+        "rank": 3,
         "title": "我的倾城野妻",
         "book_id": 12973059,
         "url": "https://www.qimao.com/shuku/12973059/",
@@ -68,24 +72,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.11万字",
-        "word_count": 311100,
-        "heat": 76000,
-        "platform_trend": "rise",
+        "word_count_text": "31.77万字",
+        "word_count": 317700,
+        "heat": 71000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "大学生秦东代替富二代室友相亲，竟意外与极品女神一夜风情，觉醒了圣龙之体，自此从龙飞九天，逆势而起，冷艳女总裁，豪门千金，绝美校花等各路红颜纷至沓来，且看秦东凭借一身本事搅动都市风云，活出个快意人生……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12973059_360x480.jpg?time=1786152834",
-        "latest_chapter": " 第146章  小奔撞大G！",
-        "updated_at": "2026-10-16 20:11:02",
-        "rank_change": 1,
-        "heat_change": 2000,
+        "latest_chapter": " 第149章  十秒钟滚蛋！",
+        "updated_at": "2026-10-17 22:20:04",
+        "rank_change": -1,
+        "heat_change": -5000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "血脉觉醒后，美女总裁赖上我",
         "book_id": 13089795,
         "url": "https://www.qimao.com/shuku/13089795/",
@@ -97,24 +101,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.75万字",
-        "word_count": 357500,
-        "heat": 55000,
+        "word_count_text": "36.39万字",
+        "word_count": 363900,
+        "heat": 52000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "林默被恋爱多年的女友戴绿帽，因祸得福，觉醒神皇血脉。\n从此走向人生巅峰。\n得多位美女青睞。\n沈知寒：“林默，我只有一个要求，随叫随到。”\n苏嫣嫣：“怎么，看入迷了？”\n顾佳雨：“林默哥哥......”\n江雪：“打住！”\n......\n“吾之后裔，今日觉我血脉，便承我衣钵。”\n“传你医道九章，可窥生死玄机，武道九式，可撼天地乾坤；”\n“术法三千，可役鬼神风雨，丹阵符箓，可掌造化之机。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4364/13089795_360x480.jpg?time=1792115432",
-        "latest_chapter": " 第89章  沈霏：渣男，昨晚闪到腰了吧？",
-        "updated_at": "2026-10-16 23:56:05",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第90章  双修的事情，要抓紧了",
+        "updated_at": "2026-10-17 23:56:02",
+        "rank_change": 1,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "title": "女总裁的小邪医",
         "book_id": 12932601,
         "url": "https://www.qimao.com/shuku/12932601/",
@@ -126,18 +130,18 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.62万字",
-        "word_count": 466200,
-        "heat": 18000,
+        "word_count_text": "47.25万字",
+        "word_count": 472500,
+        "heat": 22000,
         "platform_trend": "rise",
-        "badge": "飙升27名",
+        "badge": "",
         "intro": "退伍保安跑滴滴，遭未婚妻与奸夫下药谋害，祖传玉佩觉醒青囊神武......\n“你喜欢阿姨吗？”\n“喜欢。”\n许平安从不介意姐弟恋",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12932601_360x480.jpg?time=1788795032",
-        "latest_chapter": " 第224章  江若彤要死了？",
-        "updated_at": "2026-10-16 17:23:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第227章  上古卷轴",
+        "updated_at": "2026-10-17 17:17:04",
+        "rank_change": 1,
+        "heat_change": 4000,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
@@ -155,16 +159,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.76万字",
-        "word_count": 337600,
+        "word_count_text": "34.19万字",
+        "word_count": 341900,
         "heat": 17000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第153章  良心简直坏透了",
-        "updated_at": "2026-10-17 05:02:03",
-        "rank_change": -3,
+        "latest_chapter": " 第155章  怎么是你？",
+        "updated_at": "2026-10-18 05:02:03",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 2,
-    "total_heat": 45000,
+    "total_heat": 44000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,7 +24,7 @@
         {
           "title": "魔天鼎：我能炼化万物",
           "book_id": 13297746,
-          "rank_change": -2
+          "rank_change": -3
         }
       ],
       "heat_leaders": [
@@ -34,7 +34,7 @@
           "heat_change": -1000
         }
       ],
-      "summary": "「东方玄幻」《魔天鼎：我能炼化万物》下滑2位；《魔天鼎：我能炼化万物》热度-1000。",
+      "summary": "「东方玄幻」《魔天鼎：我能炼化万物》下滑3位；《魔天鼎：我能炼化万物》热度-1000。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,15 +51,15 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.68万字",
-        "word_count": 446800,
+        "word_count_text": "45.12万字",
+        "word_count": 451200,
         "heat": 23000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "一代神帝秦风，自九天陨落，重生在了被毒妇妻子采补至死的苏家赘婿身上！\n反手运转阴阳天帝诀，掠其阴元，夺其修为！\n毒妇妻子的灵泉玉体？\n嫂子的花神灵韵？\n妖族女帝的天凤真血？\n……\n统统为我所用！\n这一世，他要以无数红颜为炉鼎，斩尽世间一切敌，登诸天万界之巅！\n本书境界：炼气、筑基、金丹、紫府、洞虚、真人、王者、皇者、尊者、圣者、圣王、大圣、准帝、大帝……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4250/12749622_360x480.jpg?time=1783665949",
-        "latest_chapter": " 第210章  从即日起，废除你太上长老之位！",
-        "updated_at": "2026-10-16 13:56:03",
+        "latest_chapter": " 第212章  剑枭之死！",
+        "updated_at": "2026-10-17 15:35:04",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -68,7 +68,7 @@
         "category": "东方玄幻"
       },
       {
-        "rank": 15,
+        "rank": 18,
         "title": "魔天鼎：我能炼化万物",
         "book_id": 13297746,
         "url": "https://www.qimao.com/shuku/13297746/",
@@ -80,16 +80,16 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "27.24万字",
-        "word_count": 272400,
-        "heat": 22000,
+        "word_count_text": "27.88万字",
+        "word_count": 278800,
+        "heat": 21000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【玄幻】【无系统】\n穿越成为镇国侯府弃子，秦绝意外邂逅了玄灵界两大女宫主，虽元阳尽失，却习得绝世魔功，被家族放弃。\n旁人争灵药、炼神丹，苦苦熬修为；唯有秦绝手握魔天鼎：别人炼丹，我炼魔躯！\n鼎内三百六十五倍流速，岁月随手可取，更能炼化世间万物糟粕废料，铸就无敌之身。\n他在八位风华各异的绝色姐姐辅助下，在侯府夹缝求生，斗朝堂奸佞，战虚火邪宗，一路跨越位面壁垒。\n鼎中苦修出世，一剑横压万界，斩域外邪魔，逆袭称霸诸天。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4433/13297746_360x480.jpg?time=1788333030",
-        "latest_chapter": " 第128章  难度有点大啊！",
-        "updated_at": "2026-10-16 12:02:07",
-        "rank_change": -2,
+        "latest_chapter": " 第131章  最难消受美人恩！",
+        "updated_at": "2026-10-17 12:02:09",
+        "rank_change": -3,
         "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,

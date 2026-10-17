@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "category": {
     "name": "权谋天下",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 28000,
+    "total_heat": 36000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,7 +23,7 @@
         {
           "title": "长庚引",
           "book_id": 12090615,
-          "rank_change": 1
+          "rank_change": 3
         }
       ],
       "top_fallers": [],
@@ -31,15 +31,15 @@
         {
           "title": "长庚引",
           "book_id": 12090615,
-          "heat_change": 1000
+          "heat_change": 8000
         }
       ],
-      "summary": "「权谋天下」《长庚引》上升1位领涨；《长庚引》热度+1000。",
+      "summary": "「权谋天下」《长庚引》上升3位领涨；《长庚引》热度+8000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 14,
         "title": "长庚引",
         "book_id": 12090615,
         "url": "https://www.qimao.com/shuku/12090615/",
@@ -51,17 +51,17 @@
         "minor_id": 280,
         "minor_url": "https://www.qimao.com/shuku/a-2-280-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.52万字",
-        "word_count": 485200,
-        "heat": 28000,
+        "word_count_text": "49.04万字",
+        "word_count": 490400,
+        "heat": 36000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【第一人称+非双洁+重口+先甜后虐+成长型女主】\n男人不要我，我就换男人。权力倾轧我，我就步步夺权力。\n徐知砚从没想过为谁守忠贞。\n青梅竹马不要她，她转身跟了周承乾。\n周承乾抛弃她，她便另结新欢。\n她的字典里没有“纠缠”二字\n气得某男红着眼眶恨声，“佯装深情是你！朝秦暮楚还是你！徐知砚！你换男人比换衣裳都快！”\n昔日女扮男装、苟活深宫的卑微小宫人，靠着一次次取舍借力，在暗流汹涌的权力漩涡里挣扎求生，步步攫取滔天权柄。\n而宫中来的那位穿越女子，带着先知与现代观念闯入棋局，本以为可以拿捏所有人，却不知古代女子徐知砚，亦不按常理出牌。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4031/12090615_360x480.jpg?time=1789543906",
-        "latest_chapter": " 第195章  攀附",
-        "updated_at": "2026-10-16 23:53:04",
-        "rank_change": 1,
-        "heat_change": 1000,
+        "latest_chapter": " 第197章  躲他",
+        "updated_at": "2026-10-17 23:21:04",
+        "rank_change": 3,
+        "heat_change": 8000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

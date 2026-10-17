@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-update-date",
+    "name": "男生更新日榜",
+    "channel": "male",
+    "type": "update",
+    "type_name": "更新榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-10-18",
+  "category": {
+    "name": "恐怖灵异",
+    "major": "奇闻异事",
+    "count": 1,
+    "total_heat": 2,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "我的出马往事",
+          "book_id": 13343607
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「恐怖灵异」新上榜 《我的出马往事》。",
+      "ai_source": "rule"
+    },
+    "books": [
+      {
+        "rank": 19,
+        "title": "我的出马往事",
+        "book_id": 13343607,
+        "url": "https://www.qimao.com/shuku/13343607/",
+        "author": "深渊",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%B7%B1%E6%B8%8A_14/",
+        "major": "奇闻异事",
+        "minor": "恐怖灵异",
+        "major_id": 204,
+        "minor_id": 229,
+        "minor_url": "https://www.qimao.com/shuku/a-204-229-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "31.07万字",
+        "word_count": 310700,
+        "heat": 2,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "大千世界，无奇不有。\n我严良唯有一堂仙，可斩妖，降魔，荡恶，镇鬼，弑神，灭仙。\n我叫严良，一个年轻的出马仙",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4448/13343607_360x480.jpg?time=1788317033",
+        "latest_chapter": " 第75章  反常",
+        "updated_at": "2026-10-17 08:02:10",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "恐怖灵异"
+      }
+    ]
+  }
+}
