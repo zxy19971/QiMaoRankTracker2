@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "category": {
     "name": "现代军事",
     "major": "军事",
@@ -21,14 +21,8 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "让你带问题女兵，你全养成特种兵王了？",
-          "book_id": 2091811,
-          "heat_change": -2000
-        }
-      ],
-      "summary": "「现代军事」《让你带问题女兵，你全养成特种兵王了？》热度-2000。",
+      "heat_leaders": [],
+      "summary": "「现代军事」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,7 +49,7 @@
         "latest_chapter": " 第926章  除夕夜年夜饭！我们时刻准备着！（大结局）",
         "updated_at": "2026-10-10 08:37:07",
         "rank_change": 0,
-        "heat_change": -2000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

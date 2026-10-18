@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-19",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 0,
+    "total_heat": 18,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "rank_change": 1
+          },
+          {
+            "title": "冒充豪门大少，拐个美女总裁当老婆",
+            "book_id": 12905160,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "rank_change": -1
+          },
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "heat_change": -2
+          },
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "heat_change": -2
+          },
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高手」《美女总裁，请上车》上升1位领涨；《SSSSSSSSSSSSS级镇狱狂龙》下滑1位；《SSSSSSSSSSSSS级镇狱狂龙》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「东方玄幻」《吞天神体》上升3位领涨；《吞天神体》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "边军悍卒：一把长弓定天下！",
+            "book_id": 12948825
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "边军小卒：杀敌爆气血，我无限破镜！",
+            "book_id": 12958296,
+            "intro": "【空架历史】＋【争霸】＋【武炼巅峰】＋【一统天下】＋【爽文】＋【边军战神】＋【多女主】\n华夏兵王楚枫意外穿越到大乾王朝南境虎牢关，刚魂穿就撞上南蛮大军破城，身陷绝境。\n生死一线，【噬血武道系统】强势激"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「架空历史」新上榜 《边军悍卒：一把长弓定天下！》；《边军小卒：杀敌爆气血，我无限破镜！》 掉出榜单；《太监凶猛》上升3位领涨；《太监凶猛》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "恐怖灵异",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "我的出马往事",
+            "book_id": 13343607,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "我的出马往事",
+            "book_id": 13343607,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「恐怖灵异」《我的出马往事》上升1位领涨；《我的出马往事》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "五次入伍，我给全军上强度！",
+            "book_id": 12958047
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「现代军事」新上榜 《五次入伍，我给全军上强度！》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "死前考核",
+            "book_id": 12606348,
+            "intro": "很多人在经历过生死大劫之后，就会性情大变，人生也像开挂一样。\n那是因为每个人在临死前，都会进入一片死前考核空间。\n只要通过考核就能活过来，而且在考核空间获得的特殊能力也会带回现世。\n所谓大难不死必有后"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高武」《死前考核》 掉出榜单；《神武天下之睚眦》下滑1位；《神武天下之睚眦》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

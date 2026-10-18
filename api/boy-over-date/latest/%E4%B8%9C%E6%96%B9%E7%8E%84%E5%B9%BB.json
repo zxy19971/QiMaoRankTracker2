@@ -8,37 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 4,
-    "total_heat": 699000,
+    "total_heat": 685000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "葬天神帝",
-          "book_id": 213697,
-          "heat_change": 5000
-        },
-        {
-          "title": "荒古武神",
-          "book_id": 216404,
-          "heat_change": -3000
-        },
+      "top_fallers": [
         {
           "title": "荒古圣体：在娘胎开始悟道",
           "book_id": 1849458,
-          "heat_change": -1000
+          "rank_change": -1
         }
       ],
-      "summary": "「东方玄幻」《葬天神帝》热度+5000。",
+      "heat_leaders": [
+        {
+          "title": "荒古武神",
+          "book_id": 216404,
+          "heat_change": -12000
+        },
+        {
+          "title": "玲珑塔",
+          "book_id": 1754203,
+          "heat_change": -2000
+        },
+        {
+          "title": "葬天神帝",
+          "book_id": 213697,
+          "heat_change": 2000
+        }
+      ],
+      "summary": "「东方玄幻」《荒古圣体：在娘胎开始悟道》下滑1位；《荒古武神》热度-12000。",
       "ai_source": "rule"
     },
     "books": [
@@ -57,7 +63,7 @@
         "status": "已完结",
         "word_count_text": "864.16万字",
         "word_count": 8641600,
-        "heat": 340000,
+        "heat": 328000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
@@ -65,7 +71,7 @@
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": -3000,
+        "heat_change": -12000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -86,15 +92,15 @@
         "status": "已完结",
         "word_count_text": "701.84万字",
         "word_count": 7018400,
-        "heat": 155000,
-        "platform_trend": "rise",
+        "heat": 153000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【女帝+多女主+剑道+无敌暴爽+快节奏】\n“林尘，你可愿与我结为道侣？”\n“我拒绝！”\n少年林尘惨遭红颜背刺，武魂被废，机缘巧合之下开启神秘小塔，进入塔内世界，结识绝美女帝！\n却没想到女帝凶猛，予取予求，林尘被迫沦为炉鼎！\n绝望之际，林尘觉醒至尊神龙武魂，收获绝世神剑，从此逆天改命，剑武双修，万界独尊！一剑在手，任你漫天仙魔，我自一剑斩之！\n原书名《剑武独尊》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1391957_360x480.jpg?time=1734693379",
         "latest_chapter": " 第2753章  前往上苍之上（大结局）",
         "updated_at": "2026-08-31 16:32:19",
         "rank_change": 0,
-        "heat_change": 0,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -115,7 +121,7 @@
         "status": "已完结",
         "word_count_text": "1007.28万字",
         "word_count": 10072800,
-        "heat": 145000,
+        "heat": 147000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "少年苏尘，被抽取天龙血脉，毁去丹田，送往北荒城叶家，成为叶家的赘婿。\n万念俱灰之际，融合了母亲留下的葬天古戒，成为葬天古戒之主，修葬天神功，悟绝世神通，从此走上了一条横扫万界天骄的无敌之路。\n若这天地不公，我便埋葬诸天！",
@@ -123,14 +129,14 @@
         "latest_chapter": " 第3704章  前路在何方？（大结局）",
         "updated_at": "2026-10-01 20:51:29",
         "rank_change": 0,
-        "heat_change": 5000,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "东方玄幻"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "title": "荒古圣体：在娘胎开始悟道",
         "book_id": 1849458,
         "url": "https://www.qimao.com/shuku/1849458/",
@@ -144,15 +150,15 @@
         "status": "已完结",
         "word_count_text": "276.73万字",
         "word_count": 2767300,
-        "heat": 59000,
+        "heat": 57000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "赵平安穿越重生了，但发现自己穿越得有点早，竟还是胎儿。\n成为胎儿也好，那咱就先赢在起跑线上：\n首先，成为最强血脉——荒古圣体。\n其次，娘胎修练入道，打通全身经脉，成为先天通脉，再开辟元海，成为先天元海。\n……\n等等！有人嫌弃我先天不足，竟强逼母亲把我流产掉？\n都给我等着！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
-        "rank_change": 0,
-        "heat_change": -1000,
+        "rank_change": -1,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

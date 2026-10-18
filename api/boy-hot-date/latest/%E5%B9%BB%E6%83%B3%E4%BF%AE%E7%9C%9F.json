@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
@@ -23,23 +23,17 @@
         {
           "title": "聚宝仙炉",
           "book_id": 12452187,
-          "rank_change": 2
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "聚宝仙炉",
-          "book_id": 12452187,
-          "heat_change": 8000
-        }
-      ],
-      "summary": "「幻想修真」《聚宝仙炉》上升2位领涨；《聚宝仙炉》热度+8000。",
+      "heat_leaders": [],
+      "summary": "「幻想修真」《聚宝仙炉》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 15,
         "title": "聚宝仙炉",
         "book_id": 12452187,
         "url": "https://www.qimao.com/shuku/12452187/",
@@ -51,17 +45,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "57.45万字",
-        "word_count": 574500,
+        "word_count_text": "57.87万字",
+        "word_count": 578700,
         "heat": 262000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
-        "latest_chapter": " 第273章  行家",
-        "updated_at": "2026-10-17 23:09:04",
-        "rank_change": 2,
-        "heat_change": 8000,
+        "latest_chapter": " 第275章  无字碑异动",
+        "updated_at": "2026-10-18 23:34:04",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

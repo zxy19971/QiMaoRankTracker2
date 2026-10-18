@@ -1,0 +1,264 @@
+{
+  "date": "2026-10-19",
+  "board": "boy-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 395250,
+    "total_heat": 7905000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "rank_change": 1
+          },
+          {
+            "title": "混沌塔",
+            "book_id": 1767940,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "heat_change": -13000
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": -12000
+          },
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "heat_change": -12000
+          }
+        ],
+        "summary": "「东方玄幻」《吞噬九重天》上升1位领涨；《葬神棺》下滑2位；《葬神棺》热度-13000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "让你当个替身，你咋君临天下",
+            "book_id": 12647139,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "逍遥四公子",
+            "book_id": 1809361,
+            "heat_change": -24000
+          },
+          {
+            "title": "边关兵王",
+            "book_id": 1995023,
+            "heat_change": -21000
+          },
+          {
+            "title": "让你当个替身，你咋君临天下",
+            "book_id": 12647139,
+            "heat_change": 11000
+          }
+        ],
+        "summary": "「架空历史」《让你当个替身，你咋君临天下》上升2位领涨；《逍遥四公子》热度-24000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "舔狗反派只想苟，女主不按套路走！",
+            "book_id": 1710753,
+            "rank_change": -1
+          },
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "heat_change": -29000
+          },
+          {
+            "title": "舔狗反派只想苟，女主不按套路走！",
+            "book_id": 1710753,
+            "heat_change": -19000
+          },
+          {
+            "title": "警报！真龙出狱！",
+            "book_id": 1834789,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「都市高手」《舔狗反派只想苟，女主不按套路走！》下滑1位；《傲世潜龙》热度-29000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "盖世神医",
+            "book_id": 195958,
+            "heat_change": -6000
+          }
+        ],
+        "summary": "「都市高武」《盖世神医》热度-6000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "步步登阶",
+            "book_id": 1982360,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「都市生活」《步步登阶》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "桃花劫",
+            "book_id": 2028957,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「商战职场」《桃花劫》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "王朝争霸",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "大周第一武夫",
+            "book_id": 2074426,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "大周第一武夫",
+            "book_id": 2074426,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「王朝争霸」《大周第一武夫》下滑1位；《大周第一武夫》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "聚宝仙炉",
+            "book_id": 12452187,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」《聚宝仙炉》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "快老死了，圣女上门赐仙缘",
+            "book_id": 12670524,
+            "heat_change": -17000
+          }
+        ],
+        "summary": "「古典仙侠」《快老死了，圣女上门赐仙缘》热度-17000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

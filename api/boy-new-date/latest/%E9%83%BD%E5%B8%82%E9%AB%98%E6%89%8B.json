@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 4,
-    "total_heat": 162000,
+    "total_heat": 166000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,46 +21,40 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "血脉觉醒后，美女总裁赖上我",
-          "book_id": 13089795,
-          "rank_change": 1
-        },
-        {
           "title": "女总裁的小邪医",
           "book_id": 12932601,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
+          "rank_change": 4
+        },
         {
           "title": "我的倾城野妻",
           "book_id": 12973059,
-          "rank_change": -1
+          "rank_change": 1
+        },
+        {
+          "title": "下山第一天，逮个美女总裁暴力宠",
+          "book_id": 13008696,
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
-          "title": "我的倾城野妻",
-          "book_id": 12973059,
-          "heat_change": -5000
-        },
-        {
           "title": "女总裁的小邪医",
           "book_id": 12932601,
-          "heat_change": 4000
+          "heat_change": 3000
         },
         {
-          "title": "血脉觉醒后，美女总裁赖上我",
-          "book_id": 13089795,
-          "heat_change": -3000
+          "title": "我的倾城野妻",
+          "book_id": 12973059,
+          "heat_change": 1000
         }
       ],
-      "summary": "「都市高手」《血脉觉醒后，美女总裁赖上我》上升1位领涨；《我的倾城野妻》下滑1位；《我的倾城野妻》热度-5000。",
+      "summary": "「都市高手」《女总裁的小邪医》上升4位领涨；《女总裁的小邪医》热度+3000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 3,
+        "rank": 2,
         "title": "我的倾城野妻",
         "book_id": 12973059,
         "url": "https://www.qimao.com/shuku/12973059/",
@@ -72,17 +66,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.77万字",
-        "word_count": 317700,
-        "heat": 71000,
-        "platform_trend": "drop",
+        "word_count_text": "32.19万字",
+        "word_count": 321900,
+        "heat": 72000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "大学生秦东代替富二代室友相亲，竟意外与极品女神一夜风情，觉醒了圣龙之体，自此从龙飞九天，逆势而起，冷艳女总裁，豪门千金，绝美校花等各路红颜纷至沓来，且看秦东凭借一身本事搅动都市风云，活出个快意人生……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12973059_360x480.jpg?time=1786152834",
-        "latest_chapter": " 第149章  十秒钟滚蛋！",
-        "updated_at": "2026-10-17 22:20:04",
-        "rank_change": -1,
-        "heat_change": -5000,
+        "latest_chapter": " 第151章  打扮勾人的宁红夜！",
+        "updated_at": "2026-10-18 22:15:03",
+        "rank_change": 1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -101,24 +95,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.39万字",
-        "word_count": 363900,
+        "word_count_text": "37.03万字",
+        "word_count": 370300,
         "heat": 52000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "林默被恋爱多年的女友戴绿帽，因祸得福，觉醒神皇血脉。\n从此走向人生巅峰。\n得多位美女青睞。\n沈知寒：“林默，我只有一个要求，随叫随到。”\n苏嫣嫣：“怎么，看入迷了？”\n顾佳雨：“林默哥哥......”\n江雪：“打住！”\n......\n“吾之后裔，今日觉我血脉，便承我衣钵。”\n“传你医道九章，可窥生死玄机，武道九式，可撼天地乾坤；”\n“术法三千，可役鬼神风雨，丹阵符箓，可掌造化之机。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4364/13089795_360x480.jpg?time=1792115432",
-        "latest_chapter": " 第90章  双修的事情，要抓紧了",
-        "updated_at": "2026-10-17 23:56:02",
-        "rank_change": 1,
-        "heat_change": -3000,
+        "latest_chapter": " 第91章  带沈总去捉奸！",
+        "updated_at": "2026-10-18 23:57:05",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 17,
+        "rank": 13,
         "title": "女总裁的小邪医",
         "book_id": 12932601,
         "url": "https://www.qimao.com/shuku/12932601/",
@@ -130,24 +124,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.25万字",
-        "word_count": 472500,
-        "heat": 22000,
+        "word_count_text": "47.86万字",
+        "word_count": 478600,
+        "heat": 25000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "退伍保安跑滴滴，遭未婚妻与奸夫下药谋害，祖传玉佩觉醒青囊神武......\n“你喜欢阿姨吗？”\n“喜欢。”\n许平安从不介意姐弟恋",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4311/12932601_360x480.jpg?time=1788795032",
-        "latest_chapter": " 第227章  上古卷轴",
-        "updated_at": "2026-10-17 17:17:04",
-        "rank_change": 1,
-        "heat_change": 4000,
+        "latest_chapter": " 第230章  进画里当小人？",
+        "updated_at": "2026-10-18 21:17:03",
+        "rank_change": 4,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "title": "下山第一天，逮个美女总裁暴力宠",
         "book_id": 13008696,
         "url": "https://www.qimao.com/shuku/13008696/",
@@ -159,16 +153,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.19万字",
-        "word_count": 341900,
+        "word_count_text": "34.65万字",
+        "word_count": 346500,
         "heat": 17000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第155章  怎么是你？",
-        "updated_at": "2026-10-18 05:02:03",
-        "rank_change": 0,
+        "latest_chapter": " 第157章  恨不得立马将他就地正法",
+        "updated_at": "2026-10-19 05:02:02",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

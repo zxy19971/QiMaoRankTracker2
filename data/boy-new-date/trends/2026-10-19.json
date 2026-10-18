@@ -1,0 +1,325 @@
+{
+  "date": "2026-10-19",
+  "board": "boy-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 34400,
+    "total_heat": 688000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "女总裁的小邪医",
+            "book_id": 12932601,
+            "rank_change": 4
+          },
+          {
+            "title": "我的倾城野妻",
+            "book_id": 12973059,
+            "rank_change": 1
+          },
+          {
+            "title": "下山第一天，逮个美女总裁暴力宠",
+            "book_id": 13008696,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "女总裁的小邪医",
+            "book_id": 12932601,
+            "heat_change": 3000
+          },
+          {
+            "title": "我的倾城野妻",
+            "book_id": 12973059,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「都市高手」《女总裁的小邪医》上升4位领涨；《女总裁的小邪医》热度+3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "高冷校花香香软软，凭啥还舔你啊",
+            "book_id": 13220790,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "暴雪1962，绝美邻居上门求肉",
+            "book_id": 12972600,
+            "rank_change": -1
+          },
+          {
+            "title": "透视神眼：看尽天下玉，揽尽世上美",
+            "book_id": 12898650,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "暴雪1962，绝美邻居上门求肉",
+            "book_id": 12972600,
+            "heat_change": -9000
+          },
+          {
+            "title": "重生70：我在空间狩猎，狂宠妻儿",
+            "book_id": 13340112,
+            "heat_change": -3000
+          },
+          {
+            "title": "透视神眼：看尽天下玉，揽尽世上美",
+            "book_id": 12898650,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「都市生活」《高冷校花香香软软，凭啥还舔你啊》上升1位领涨；《暴雪1962，绝美邻居上门求肉》下滑1位；《暴雪1962，绝美邻居上门求肉》热度-9000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "抱歉，我真的才高八斗",
+            "book_id": 12985194,
+            "intro": "别人寒窗苦读十载，为科举头悬梁锥刺股；\n李安生穿越第一天，就继承了原主三十万两买来的会元身份。\n亲爹气得要打死他；满京城等着看他殿试出丑，菜市口挨刀。\n李安生：慌什么？不就是个殿试吗？\n经义？策论？诗"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "北疆最狂纨绔：从赐婚进京开始",
+            "book_id": 12949137,
+            "rank_change": -1
+          },
+          {
+            "title": "边军悍卒：一把长弓定天下！",
+            "book_id": 12948825,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "北疆最狂纨绔：从赐婚进京开始",
+            "book_id": 12949137,
+            "heat_change": -9000
+          },
+          {
+            "title": "边军小卒：杀敌爆气血，我无限破镜！",
+            "book_id": 12958296,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「架空历史」《抱歉，我真的才高八斗》 掉出榜单；《北疆最狂纨绔：从赐婚进京开始》下滑1位；《北疆最狂纨绔：从赐婚进京开始》热度-9000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "魔天鼎：我能炼化万物",
+            "book_id": 13297746,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "阴阳天帝诀",
+            "book_id": 12749622,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "魔天鼎：我能炼化万物",
+            "book_id": 13297746,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「东方玄幻」《魔天鼎：我能炼化万物》上升1位领涨；《阴阳天帝诀》下滑2位；《魔天鼎：我能炼化万物》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+            "book_id": 13241454
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "透视鉴宝：美女财富两不误",
+            "book_id": 12708261,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "透视鉴宝：美女财富两不误",
+            "book_id": 12708261,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「都市高武」新上榜 《都荒岛求生了，一群绿茶还想让我当舔狗》；《透视鉴宝：美女财富两不误》下滑1位；《透视鉴宝：美女财富两不误》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "趁校花一贫如洗，忽悠她以身相许",
+            "book_id": 12896292,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「热血校园」《趁校花一贫如洗，忽悠她以身相许》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「商战职场」《野性攀登》上升1位领涨；《野性攀登》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "恐怖灵异",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "恐怖复苏：离婚后，我不替她挡灾了",
+            "book_id": 12418653,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "恐怖复苏：离婚后，我不替她挡灾了",
+            "book_id": 12418653,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「恐怖灵异」《恐怖复苏：离婚后，我不替她挡灾了》上升1位领涨；《恐怖复苏：离婚后，我不替她挡灾了》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "虚拟网游",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "网游：全是数值，你管这叫圣骑士？",
+            "book_id": 12801060,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "网游：全是数值，你管这叫圣骑士？",
+            "book_id": 12801060,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「虚拟网游」《网游：全是数值，你管这叫圣骑士？》上升1位领涨；《网游：全是数值，你管这叫圣骑士？》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "赶山79：大雪荒年，我提枪护三家！",
+            "book_id": 13362843,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「乡村生活」《赶山79：大雪荒年，我提枪护三家！》热度-2000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

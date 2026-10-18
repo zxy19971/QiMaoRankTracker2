@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 1,
-    "total_heat": 91000,
+    "total_heat": 93000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,8 +21,14 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「热血校园」榜单结构稳定，无明显变动。",
+      "heat_leaders": [
+        {
+          "title": "趁校花一贫如洗，忽悠她以身相许",
+          "book_id": 12896292,
+          "heat_change": 2000
+        }
+      ],
+      "summary": "「热血校园」《趁校花一贫如洗，忽悠她以身相许》热度+2000。",
       "ai_source": "rule"
     },
     "books": [
@@ -39,17 +45,17 @@
         "minor_id": 222,
         "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.45万字",
-        "word_count": 384500,
-        "heat": 91000,
-        "platform_trend": "drop",
+        "word_count_text": "39.1万字",
+        "word_count": 391000,
+        "heat": 93000,
+        "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "重回2010年的大学城。\n这一年，未来的“最美女教授”还在奶茶店兼职。\n这一年，未来的女团顶流尚在校园，却已初露锋芒。\n这一年，未来的机车女神还只是个有点拜金的小姑娘。\n这一年，未来的商业女强人，还是个恋爱脑。\n这一年，阳光正好，微风不燥，遗憾来得及弥补，野心正蓄势待发。\n这一年，刘寻发誓，这辈子不再循规循距，要将前世没享过的福，统统体验一遍！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
-        "latest_chapter": " 第168章  欢迎光临曼薇名创！",
-        "updated_at": "2026-10-17 08:12:10",
+        "latest_chapter": " 第171章  陈志杰，我什么时候让你找人揍他了？",
+        "updated_at": "2026-10-18 08:12:12",
         "rank_change": 0,
-        "heat_change": 0,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

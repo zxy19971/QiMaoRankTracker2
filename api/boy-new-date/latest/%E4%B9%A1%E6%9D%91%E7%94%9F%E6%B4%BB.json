@@ -8,26 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "category": {
     "name": "乡村生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 16000,
+    "total_heat": 14000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "赶山79：大雪荒年，我提枪护三家！",
-          "book_id": 13362843
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「乡村生活」新上榜 《赶山79：大雪荒年，我提枪护三家！》。",
+      "heat_leaders": [
+        {
+          "title": "赶山79：大雪荒年，我提枪护三家！",
+          "book_id": 13362843,
+          "heat_change": -2000
+        }
+      ],
+      "summary": "「乡村生活」《赶山79：大雪荒年，我提枪护三家！》热度-2000。",
       "ai_source": "rule"
     },
     "books": [
@@ -44,18 +45,18 @@
         "minor_id": 48,
         "minor_url": "https://www.qimao.com/shuku/a-203-48-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "27.53万字",
-        "word_count": 275300,
-        "heat": 16000,
-        "platform_trend": "rise",
+        "word_count_text": "28.19万字",
+        "word_count": 281900,
+        "heat": 14000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "重生到了18岁，在那贫饥年代，家里穷的就剩三个美貌嫂子了。\n要保住陆家根基，就要挺起男人的脊梁。\n债主逼迫，我来挡。\n缺衣少穿，我来赚。\n拿起枪来能猎熊杀狼，拿起渔网能捕鱼捉鳖。\n全靠具有锚线异能来提示猎物所在地。\n别人在森林中迷路乱转，我却能精准锁定猎物目标。\n别人不知哪里下网，我网网都能爆满。\n凭实力成为全村人的偶像，成为全公社的标兵，最后成为全城首富。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4455/13362843_360x480.jpg?time=1788919556",
-        "latest_chapter": " 第123章  我知道个大秘密",
-        "updated_at": "2026-10-18 00:12:15",
+        "latest_chapter": " 第126章  劈木头",
+        "updated_at": "2026-10-19 00:12:15",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": -2000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "乡村生活"

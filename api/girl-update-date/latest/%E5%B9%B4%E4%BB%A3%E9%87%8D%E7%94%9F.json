@@ -8,33 +8,26 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
-    "count": 1,
-    "total_heat": 0,
+    "count": 2,
+    "total_heat": 1,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
         {
           "title": "军婚超甜！闪婚后成了首长的心尖宠",
-          "book_id": 12803265,
-          "intro": "【虐渣打脸+冷面军少+日久生情+双强+无金手指+无重生+逆袭】\n一朝寻夫，苏婉清发现自己被骗了五年。\n她擦干眼泪，一拳撂倒渣夫林默，敢算计她，那是要付出代价的。\n于是，苏婉清利用林默算计自己的把柄在军"
+          "book_id": 12803265
         }
       ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "七零娇娇十八，喜当萌娃亲妈",
-          "book_id": 13282398,
-          "heat_change": -1
-        }
-      ],
-      "summary": "「年代重生」《军婚超甜！闪婚后成了首长的心尖宠》 掉出榜单；《七零娇娇十八，喜当萌娃亲妈》热度-1。",
+      "heat_leaders": [],
+      "summary": "「年代重生」新上榜 《军婚超甜！闪婚后成了首长的心尖宠》。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,18 +44,47 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.7万字",
-        "word_count": 347000,
+        "word_count_text": "35.32万字",
+        "word_count": 353200,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "【不是后妈文！孩子是亲生的！】\n【年代+空间+养娃+先婚后爱】\n遭遇医闹而死的医学博士云薇一睁眼，穿成个八代贫农，一门七烈士的孤儿。\n还没被这身世的光芒闪瞎眼，就来了个萌娃说是她亲生儿子，时不时爆出惊天言论，打了结婚报告的未婚夫虎视眈眈，孩子亲爸还是未婚夫的好哥们，未来公婆和亲戚也在赶来办婚礼的路上……\n云薇脑瓜子嗡嗡响。\n还让不让人活了？\n她当机立断，试探甩锅退婚一把抓，和孩子亲爸联谊相亲手拿把掐。\n略施小计，扭转世人认知，欲擒故纵，撩得老公面红耳赤。\n眼里没有对未来的担忧，只有对建功立业的兴奋！\n救人，制药，建厂，辐射全国；养娃，赚钱，撩汉，享受生活。\n只是那个说各取所需的男人怎么回事，怎么步步沦陷了？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4428/13282398_360x480.jpg?time=1787848729",
-        "latest_chapter": " 第116章  布局",
-        "updated_at": "2026-10-17 22:38:03",
+        "latest_chapter": " 第118章  得知身世秘密",
+        "updated_at": "2026-10-18 21:39:02",
         "rank_change": 0,
-        "heat_change": -1,
+        "heat_change": 0,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "年代重生"
+      },
+      {
+        "rank": 20,
+        "title": "军婚超甜！闪婚后成了首长的心尖宠",
+        "book_id": 12803265,
+        "url": "https://www.qimao.com/shuku/12803265/",
+        "author": "灵岫",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%81%B5%E5%B2%AB_14/",
+        "major": "现代言情",
+        "minor": "年代重生",
+        "major_id": 1,
+        "minor_id": 278,
+        "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "57.44万字",
+        "word_count": 574400,
+        "heat": 1,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【虐渣打脸+冷面军少+日久生情+双强+无金手指+无重生+逆袭】\n一朝寻夫，苏婉清发现自己被骗了五年。\n她擦干眼泪，一拳撂倒渣夫林默，敢算计她，那是要付出代价的。\n于是，苏婉清利用林默算计自己的把柄在军区活下来，\n阴差阳错，她住进了战功赫赫却冷厉可怖的团长商颂年的宿舍。\n原本只是一次偶然，却意外治好了这位极品军官严重的厌食症。\n从此以后，苏婉清成了商颂年的小厨娘……\n可日子一长，男人的眼神却越来越不对劲，吃醋、护短、甚至连她看别人一眼都要黑脸。\n直到有一天，平日里高高在上、令人闻风丧胆的商团长，把他的小厨娘抵在灶台边：“清清，我吃饱了，现在该喂你了……”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12803265_360x480.jpg?time=1790125642",
+        "latest_chapter": " 第234章  老婆，我太想你了",
+        "updated_at": "2026-10-18 21:32:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"

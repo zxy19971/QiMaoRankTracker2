@@ -8,38 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "category": {
     "name": "都市高武",
     "major": "都市",
-    "count": 1,
-    "total_heat": 23000,
+    "count": 2,
+    "total_heat": 40000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+          "book_id": 13241454
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "透视鉴宝：美女财富两不误",
           "book_id": 12708261,
-          "rank_change": 3
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "透视鉴宝：美女财富两不误",
           "book_id": 12708261,
-          "heat_change": 2000
+          "heat_change": 1000
         }
       ],
-      "summary": "「都市高武」《透视鉴宝：美女财富两不误》上升3位领涨；《透视鉴宝：美女财富两不误》热度+2000。",
+      "summary": "「都市高武」新上榜 《都荒岛求生了，一群绿茶还想让我当舔狗》；《透视鉴宝：美女财富两不误》下滑1位；《透视鉴宝：美女财富两不误》热度+1000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 14,
         "title": "透视鉴宝：美女财富两不误",
         "book_id": 12708261,
         "url": "https://www.qimao.com/shuku/12708261/",
@@ -51,19 +56,48 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.09万字",
-        "word_count": 380900,
-        "heat": 23000,
+        "word_count_text": "38.5万字",
+        "word_count": 385000,
+        "heat": 24000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "叶尘努力三年送外卖，喜提一顶绿油油的帽子。\n前女友傍上部门领导，以为是跨越了阶层，却不知道叶尘是身怀绝技的入世高人。\n三年之期已到，叶尘终于可以毫无顾忌，一门望气术玩转珠宝玉石界，顶尖武力力压群雄。\n美女，金钱，我叶尘全都要……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4237/12708261_360x480.jpg?time=1783410543",
-        "latest_chapter": " 第180章  出事了",
-        "updated_at": "2026-10-18 00:07:07",
-        "rank_change": 3,
-        "heat_change": 2000,
+        "latest_chapter": " 第182章  你被开除了",
+        "updated_at": "2026-10-19 00:01:03",
+        "rank_change": -1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": false,
+        "category": "都市高武"
+      },
+      {
+        "rank": 19,
+        "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+        "book_id": 13241454,
+        "url": "https://www.qimao.com/shuku/13241454/",
+        "author": "武渣",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%AD%A6%E6%B8%A3_14/",
+        "major": "都市",
+        "minor": "都市高武",
+        "major_id": 203,
+        "minor_id": 219,
+        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "27.31万字",
+        "word_count": 273100,
+        "heat": 16000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "豪华游轮意外失事，凌风和十九个极品美女流落到与世隔绝的荒岛。\n富家千金名媛、娱乐圈顶流，影后、千万粉丝网红、商界女精英……\n一场海难撕碎了往日的体面，物资紧缺，危机四伏。\n这群习惯了众星捧月的女人，张口就要凌风任劳任怨，出力卖命当免费劳动力，把他当成召之即来挥之即去的工具人。\n不愿乖乖顺从，就集体投票把他逐出营地。\n绝境之中，凌风觉醒荒岛求生系统！\n他退守隐秘石洞庇护所，烤肉喷香，蔬果俱全，小日子过得吃香喝辣，温饱无忧。\n反观另一边，女人们守着寥寥无几的沉船物资坐吃山空，娇生惯养不堪荒野折磨，饿到饥肠辘辘远远嗅到丛林里飘来的烤肉味，瞬间红了眼。\n之前把他一脚踢开，如今看着凌风过得风生水起，又想画饼哄骗，妄图让他回头继续当舔狗？\n凌风冷笑置之。\n荒岛生存，实力为王，想蹭吃蹭喝？抱歉，概不伺候！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4414/13241454_360x480.jpg?time=1787536194",
+        "latest_chapter": " 第132章  赶鸭子上架",
+        "updated_at": "2026-10-18 17:00:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       }
