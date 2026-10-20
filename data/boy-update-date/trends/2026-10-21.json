@@ -1,0 +1,275 @@
+{
+  "date": "2026-10-21",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 1,
+    "total_heat": 33,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "冒充豪门大少，拐个美女总裁当老婆",
+            "book_id": 12905160,
+            "intro": "陈阳，代号“阎王”，厌倦了海外的腥风血雨，伪装成普通人回归都市。\n岂料第一天，就美女上司抓住把柄，逼他冒充百亿豪门的小少爷。\n他表面扮演纨绔，暗中布局天下！\n冰山老婆、美艳上司、高冷御姐、邻家妹妹……"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "rank_change": 2
+          },
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "rank_change": 2
+          },
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "heat_change": -3
+          },
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "heat_change": 1
+          },
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高手」《冒充豪门大少，拐个美女总裁当老婆》 掉出榜单；《医武双绝：下山捡个总裁当老婆》上升2位领涨；《狂龙出渊，开局拿捏女战神！》下滑1位；《狂龙出渊，开局拿捏女战神！》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "rank_change": -1
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "heat_change": 1
+          },
+          {
+            "title": "有帝族背景还开挂，我无敌了！",
+            "book_id": 1924831,
+            "heat_change": -1
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「东方玄幻」《吞噬九重天》下滑1位；《吞噬九重天》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "九转仙葫",
+            "book_id": 12212670,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「幻想修真」《乾坤造化诀》上升1位领涨；《九转仙葫》下滑1位；《乾坤造化诀》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "被关女子监狱五年，出狱后我医武双绝",
+            "book_id": 12514650
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」新上榜 《被关女子监狱五年，出狱后我医武双绝》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "穿越历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "边关第一猎户",
+            "book_id": 10149744
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「穿越历史」新上榜 《边关第一猎户》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "离婚后，前妻闺蜜找上我",
+            "book_id": 12671994,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "离婚后，前妻闺蜜找上我",
+            "book_id": 12671994,
+            "heat_change": -20
+          }
+        ],
+        "summary": "「都市生活」《离婚后，前妻闺蜜找上我》上升3位领涨；《离婚后，前妻闺蜜找上我》热度-20。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」《天黑请点灯》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "恐怖灵异",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "我的出马往事",
+            "book_id": 13343607,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「恐怖灵异」《我的出马往事》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "边军悍卒：一把长弓定天下！",
+            "book_id": 12948825,
+            "intro": "国家一级射箭运动员、八极拳传人吴起，比赛回国遭遇空难，醒来后成了大周王朝边军杂役兵。\n这一世的傻大个“吴起”，被伍长夫妇当牛马，因为撞破伍长私通敌国，被抛弃荒漠脱水而死。\n吴起穿越醒来，遭遇北蛮十骑袭"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「架空历史」《边军悍卒：一把长弓定天下！》 掉出榜单；《太监凶猛》热度-1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

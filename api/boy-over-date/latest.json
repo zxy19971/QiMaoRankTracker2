@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "types": [
     {
       "name": "全部",
@@ -35,20 +35,20 @@
       "url": "api/boy-over-date/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
     },
     {
-      "name": "明星娱乐",
-      "url": "api/boy-over-date/latest/%E6%98%8E%E6%98%9F%E5%A8%B1%E4%B9%90.json"
+      "name": "异世大陆",
+      "url": "api/boy-over-date/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
     },
     {
       "name": "末世危机",
       "url": "api/boy-over-date/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
     },
     {
-      "name": "异世大陆",
-      "url": "api/boy-over-date/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
-    },
-    {
       "name": "现代军事",
       "url": "api/boy-over-date/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
+    },
+    {
+      "name": "明星娱乐",
+      "url": "api/boy-over-date/latest/%E6%98%8E%E6%98%9F%E5%A8%B1%E4%B9%90.json"
     },
     {
       "name": "都市高手",

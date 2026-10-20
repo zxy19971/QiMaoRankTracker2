@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "types": [
     {
       "name": "全部",
@@ -29,10 +29,6 @@
     {
       "name": "东方玄幻",
       "url": "api/boy-new-month/latest/%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB.json"
-    },
-    {
-      "name": "恐怖灵异",
-      "url": "api/boy-new-month/latest/%E6%81%90%E6%80%96%E7%81%B5%E5%BC%82.json"
     },
     {
       "name": "热血校园",

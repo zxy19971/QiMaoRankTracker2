@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
@@ -19,27 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "天黑请点灯",
-          "book_id": 1982358,
-          "heat_change": 1
-        }
-      ],
-      "summary": "「奇门秘术」《天黑请点灯》上升1位领涨；《天黑请点灯》热度+1。",
+      "heat_leaders": [],
+      "summary": "「奇门秘术」《天黑请点灯》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -51,17 +45,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "503.38万字",
-        "word_count": 5033800,
+        "word_count_text": "503.92万字",
+        "word_count": 5039200,
         "heat": 1,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1832章  焦宗出手，巫蟲入山！",
-        "updated_at": "2026-10-20 06:57:13",
-        "rank_change": 1,
-        "heat_change": 1,
+        "latest_chapter": " 第1834章  谋与算",
+        "updated_at": "2026-10-21 06:52:14",
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

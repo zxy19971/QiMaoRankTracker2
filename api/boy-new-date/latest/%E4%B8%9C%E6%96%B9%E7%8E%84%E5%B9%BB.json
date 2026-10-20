@@ -8,43 +8,48 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 2,
-    "total_heat": 41000,
+    "total_heat": 38000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "魔天鼎：我能炼化万物",
-          "book_id": 13297746,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
+      "top_risers": [
         {
           "title": "阴阳天帝诀",
           "book_id": 12749622,
-          "heat_change": -1000
+          "rank_change": 2
         },
         {
           "title": "魔天鼎：我能炼化万物",
           "book_id": 13297746,
+          "rank_change": 2
+        }
+      ],
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "魔天鼎：我能炼化万物",
+          "book_id": 13297746,
+          "heat_change": -2000
+        },
+        {
+          "title": "阴阳天帝诀",
+          "book_id": 12749622,
           "heat_change": -1000
         }
       ],
-      "summary": "「东方玄幻」《魔天鼎：我能炼化万物》下滑1位；《阴阳天帝诀》热度-1000。",
+      "summary": "「东方玄幻」《阴阳天帝诀》上升2位领涨；《魔天鼎：我能炼化万物》热度-2000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 14,
         "title": "阴阳天帝诀",
         "book_id": 12749622,
         "url": "https://www.qimao.com/shuku/12749622/",
@@ -56,16 +61,16 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46万字",
-        "word_count": 460000,
-        "heat": 22000,
+        "word_count_text": "46.47万字",
+        "word_count": 464700,
+        "heat": 21000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "一代神帝秦风，自九天陨落，重生在了被毒妇妻子采补至死的苏家赘婿身上！\n反手运转阴阳天帝诀，掠其阴元，夺其修为！\n毒妇妻子的灵泉玉体？\n嫂子的花神灵韵？\n妖族女帝的天凤真血？\n……\n统统为我所用！\n这一世，他要以无数红颜为炉鼎，斩尽世间一切敌，登诸天万界之巅！\n本书境界：炼气、筑基、金丹、紫府、洞虚、真人、王者、皇者、尊者、圣者、圣王、大圣、准帝、大帝……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4250/12749622_360x480.jpg?time=1783665949",
-        "latest_chapter": " 第216章  今日，它保不住你！",
-        "updated_at": "2026-10-19 16:29:03",
-        "rank_change": 0,
+        "latest_chapter": " 第218章  暴怒的大炎神主！",
+        "updated_at": "2026-10-20 14:00:03",
+        "rank_change": 2,
         "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
@@ -73,7 +78,7 @@
         "category": "东方玄幻"
       },
       {
-        "rank": 18,
+        "rank": 16,
         "title": "魔天鼎：我能炼化万物",
         "book_id": 13297746,
         "url": "https://www.qimao.com/shuku/13297746/",
@@ -85,17 +90,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "29.35万字",
-        "word_count": 293500,
-        "heat": 19000,
+        "word_count_text": "30万字",
+        "word_count": 300000,
+        "heat": 17000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【玄幻】【无系统】\n穿越成为镇国侯府弃子，秦绝意外邂逅了玄灵界两大女宫主，虽元阳尽失，却习得绝世魔功，被家族放弃。\n旁人争灵药、炼神丹，苦苦熬修为；唯有秦绝手握魔天鼎：别人炼丹，我炼魔躯！\n鼎内三百六十五倍流速，岁月随手可取，更能炼化世间万物糟粕废料，铸就无敌之身。\n他在八位风华各异的绝色姐姐辅助下，在侯府夹缝求生，斗朝堂奸佞，战虚火邪宗，一路跨越位面壁垒。\n鼎中苦修出世，一剑横压万界，斩域外邪魔，逆袭称霸诸天。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4433/13297746_360x480.jpg?time=1788333030",
-        "latest_chapter": " 第138章  姹血炼魂大阵！",
-        "updated_at": "2026-10-19 12:02:08",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "latest_chapter": " 第141章  秦争的眼泪",
+        "updated_at": "2026-10-20 12:02:10",
+        "rank_change": 2,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

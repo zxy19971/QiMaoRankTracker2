@@ -1,0 +1,235 @@
+{
+  "date": "2026-10-21",
+  "board": "boy-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 312350,
+    "total_heat": 6247000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "冒充豪门大少，拐个美女总裁当老婆",
+            "book_id": 12905160
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "下山即无敌，美女总裁逼我去领证！",
+            "book_id": 12594795,
+            "intro": "“昨晚…是你？”\n“美女，明明是你先闯进我房间，对我用强的……”\n云墟山走下一个绝世天骄，本想退婚了却尘缘，却意外被美女总裁霸占……\n从此，叶安走上了一条权势与美女相伴的道路。\n很猛很无敌！\n【后宫多"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "下山第一天，逮个美女总裁暴力宠",
+            "book_id": 13008696,
+            "rank_change": 3
+          },
+          {
+            "title": "女总裁的小邪医",
+            "book_id": 12932601,
+            "rank_change": 3
+          },
+          {
+            "title": "血脉觉醒后，美女总裁赖上我",
+            "book_id": 13089795,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」新上榜 《冒充豪门大少，拐个美女总裁当老婆》；《下山即无敌，美女总裁逼我去领证！》 掉出榜单；《下山第一天，逮个美女总裁暴力宠》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "重生70：我在空间狩猎，狂宠妻儿",
+            "book_id": 13340112
+          },
+          {
+            "title": "高冷校花香香软软，凭啥还舔你啊",
+            "book_id": 13220790
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "暴雪1962，绝美邻居上门求肉",
+            "book_id": 12972600,
+            "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "透视神眼：看尽天下玉，揽尽世上美",
+            "book_id": 12898650,
+            "rank_change": 3
+          },
+          {
+            "title": "重生70：大国栋梁，从正阳门下开始",
+            "book_id": 12867831,
+            "rank_change": 3
+          },
+          {
+            "title": "离婚后，高冷前妻日日求我复合",
+            "book_id": 12938433,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市生活」新上榜 《重生70：我在空间狩猎，狂宠妻儿》、《高冷校花香香软软，凭啥还舔你啊》；《暴雪1962，绝美邻居上门求肉》 掉出榜单；《透视神眼：看尽天下玉，揽尽世上美》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "边军悍卒：一把长弓定天下！",
+            "book_id": 12948825,
+            "rank_change": 3
+          },
+          {
+            "title": "北疆最狂纨绔：从赐婚进京开始",
+            "book_id": 12949137,
+            "rank_change": 3
+          },
+          {
+            "title": "咱家世代从军，到你这成文圣了？",
+            "book_id": 13194165,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」《边军悍卒：一把长弓定天下！》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "绑定道侣系统，师尊助我飞升！",
+            "book_id": 13110387,
+            "rank_change": 3
+          },
+          {
+            "title": "阴阳天帝诀",
+            "book_id": 12749622,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」《绑定道侣系统，师尊助我飞升！》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "趁校花一贫如洗，忽悠她以身相许",
+            "book_id": 12896292,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「热血校园」《趁校花一贫如洗，忽悠她以身相许》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "诡异民国，从缝尸开始长生",
+            "book_id": 12706761,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」《诡异民国，从缝尸开始长生》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "透视鉴宝：美女财富两不误",
+            "book_id": 12708261,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」《透视鉴宝：美女财富两不误》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "虚拟网游",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "网游：全是数值，你管这叫圣骑士？",
+            "book_id": 12801060,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「虚拟网游」《网游：全是数值，你管这叫圣骑士？》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

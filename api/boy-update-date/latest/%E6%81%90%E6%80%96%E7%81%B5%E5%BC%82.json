@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "category": {
     "name": "恐怖灵异",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 2,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "我的出马往事",
-          "book_id": 13343607,
-          "rank_change": 2
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "我的出马往事",
           "book_id": 13343607,
-          "heat_change": 1
+          "heat_change": -2
         }
       ],
-      "summary": "「恐怖灵异」《我的出马往事》上升2位领涨；《我的出马往事》热度+1。",
+      "summary": "「恐怖灵异」《我的出马往事》热度-2。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 229,
         "minor_url": "https://www.qimao.com/shuku/a-204-229-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.28万字",
-        "word_count": 322800,
-        "heat": 2,
-        "platform_trend": "rise",
+        "word_count_text": "32.88万字",
+        "word_count": 328800,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "大千世界，无奇不有。\n我严良唯有一堂仙，可斩妖，降魔，荡恶，镇鬼，弑神，灭仙。\n我叫严良，一个年轻的出马仙",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4448/13343607_360x480.jpg?time=1788317033",
-        "latest_chapter": " 第77章  父子双亡",
-        "updated_at": "2026-10-19 10:17:04",
-        "rank_change": 2,
-        "heat_change": 1,
+        "latest_chapter": " 第78章  于大头的信",
+        "updated_at": "2026-10-20 08:02:12",
+        "rank_change": 0,
+        "heat_change": -2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

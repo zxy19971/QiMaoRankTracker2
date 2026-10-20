@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 14000,
+    "total_heat": 13000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "这一拳万年修为，你说我天生废体？",
-          "book_id": 13006284
+          "book_id": 13006284,
+          "rank_change": 1
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「幻想修真」新上榜 《这一拳万年修为，你说我天生废体？》。",
+      "heat_leaders": [
+        {
+          "title": "这一拳万年修为，你说我天生废体？",
+          "book_id": 13006284,
+          "heat_change": -1000
+        }
+      ],
+      "summary": "「幻想修真」《这一拳万年修为，你说我天生废体？》上升1位领涨；《这一拳万年修为，你说我天生废体？》热度-1000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 20,
+        "rank": 19,
         "title": "这一拳万年修为，你说我天生废体？",
         "book_id": 13006284,
         "url": "https://www.qimao.com/shuku/13006284/",
@@ -44,18 +51,18 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.25万字",
-        "word_count": 322500,
-        "heat": 14000,
-        "platform_trend": "rise",
+        "word_count_text": "32.93万字",
+        "word_count": 329300,
+        "heat": 13000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "穿越异界，陈凡成了一名没有人权的漕工。\n累死累活的工作，换不来一口饭吃，同时还要面对恶霸欺凌，管事打骂！\n好在觉醒了熟练度面板，只要够肝，就能变强！\n【滴，基础拳法提升到圆满级，解锁凡境无敌！】\n【滴，传说级功法九阳神功入门成功！化身万人迷！】\n【滴，炼丹术出神入化！成就丹圣！】\n【滴，游龙戏凤提升到圆满级，双修效率提升百倍……】\n有一天，陈凡得知。\n穿越第一天，破庙夜会的，竟是天下第一宗门的帮主夫人！\n好在普天之下，武圣已是第一流！\n七绝技艺皆达圣级的武圣，更是超一流！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4336/13006284_360x480.jpg?time=1786182605",
-        "latest_chapter": " 第154章  杀武道大宗师！",
-        "updated_at": "2026-10-19 17:43:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第157章  九阳神功曝光！",
+        "updated_at": "2026-10-20 18:53:03",
+        "rank_change": 1,
+        "heat_change": -1000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "幻想修真"

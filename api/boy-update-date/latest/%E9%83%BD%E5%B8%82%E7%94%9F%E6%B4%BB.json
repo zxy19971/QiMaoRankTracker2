@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 23,
+    "total_heat": 3,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "离婚后，前妻闺蜜找上我",
-          "book_id": 12671994
+          "book_id": 12671994,
+          "rank_change": 3
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「都市生活」新上榜 《离婚后，前妻闺蜜找上我》。",
+      "heat_leaders": [
+        {
+          "title": "离婚后，前妻闺蜜找上我",
+          "book_id": 12671994,
+          "heat_change": -20
+        }
+      ],
+      "summary": "「都市生活」《离婚后，前妻闺蜜找上我》上升3位领涨；《离婚后，前妻闺蜜找上我》热度-20。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 20,
+        "rank": 17,
         "title": "离婚后，前妻闺蜜找上我",
         "book_id": 12671994,
         "url": "https://www.qimao.com/shuku/12671994/",
@@ -44,18 +51,18 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "66.91万字",
-        "word_count": 669100,
-        "heat": 23,
+        "word_count_text": "67.54万字",
+        "word_count": 675400,
+        "heat": 3,
         "platform_trend": "rise",
         "badge": "",
         "intro": "本书又名：《本想冒充假少爷，没想到我竟是真少爷》，《你出轨室友，我找他老婆算账，你又急了？》\n---\n大学室友的未婚妻找上门的时候，夏天才知道自己看似冰清玉洁的妻子早就出轨了。为了复仇，他与大学室友的美女总裁未婚妻组成了‘复仇者联盟’。首先，复仇的第一步...",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4224/12671994_360x480.jpg?time=1783762882",
-        "latest_chapter": " 第103章  我的妹妹不可能那么可爱",
-        "updated_at": "2026-10-19 09:27:04",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第104章  出去，女流氓",
+        "updated_at": "2026-10-20 09:04:03",
+        "rank_change": 3,
+        "heat_change": -20,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"

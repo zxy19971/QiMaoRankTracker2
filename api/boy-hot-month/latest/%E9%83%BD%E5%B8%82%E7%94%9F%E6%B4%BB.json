@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "category": {
     "name": "都市生活",
     "major": "都市",
@@ -19,16 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "步步登阶",
-          "book_id": 1982360,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市生活」《步步登阶》上升1位领涨。",
+      "summary": "「都市生活」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -54,7 +48,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
         "latest_chapter": " 第1416章  上了一课",
         "updated_at": "2026-10-20 00:02:17",
-        "rank_change": 1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
