@@ -1,0 +1,189 @@
+{
+  "date": "2026-10-20",
+  "board": "girl-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 360800,
+    "total_heat": 7216000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "首辅绝嗣，我连生三子全家宠上天",
+            "book_id": 10482120,
+            "intro": "盛京人人皆知当朝首辅谢晏京身患绝嗣之症，江灵蕴却挺着孕肚上找上门来，还说怀的是谢晏京的孩子，一时间震惊朝野！\n江灵蕴初入谢府时，谢晏京冷着脸说：“不许觊觎正妻之位，不许对我有非分之想，不许惹事生非！”"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "rank_change": 2
+          },
+          {
+            "title": "裂春风",
+            "book_id": 10024089,
+            "rank_change": 1
+          },
+          {
+            "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
+            "book_id": 2048050,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": -12000
+          },
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "heat_change": -10000
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": -8000
+          }
+        ],
+        "summary": "「宫闱宅斗」《首辅绝嗣，我连生三子全家宠上天》 掉出榜单；《解春衫》上升2位领涨；《被逼自刎，嫡女重生撕婚书覆皇朝》下滑1位；《皇叔借点功德，王妃把符画猛了》热度-12000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "盛总，太太让您签的是去父留子协议",
+            "book_id": 9903723,
+            "rank_change": -4
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "rank_change": -1
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "盛总，太太让您签的是去父留子协议",
+            "book_id": 9903723,
+            "heat_change": -48000
+          },
+          {
+            "title": "唯她是图",
+            "book_id": 12860100,
+            "heat_change": -17000
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": -14000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《夫人反差太大，司总沦陷了！》；《盛总，太太让您签的是去父留子协议》下滑4位；《盛总，太太让您签的是去父留子协议》热度-48000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「年代重生」《错嫁随军：新婚夜冷面军少沦陷了》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "heat_change": 27000
+          }
+        ],
+        "summary": "「古代情缘」《嫡姐惨死？王妃她杀爆京城》上升1位领涨；《嫡姐惨死？王妃她杀爆京城》热度+27000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "heat_change": -12000
+          }
+        ],
+        "summary": "「都市奇幻」《家有玄妻，百邪不侵！》热度-12000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

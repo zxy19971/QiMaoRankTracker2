@@ -1,0 +1,249 @@
+{
+  "date": "2026-10-20",
+  "board": "boy-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 421050,
+    "total_heat": 8421000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "血脉觉醒后，美女总裁赖上我",
+            "book_id": 13089795
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "女总裁的小邪医",
+            "book_id": 12932601,
+            "rank_change": 2
+          },
+          {
+            "title": "我的倾城野妻",
+            "book_id": 12973059,
+            "rank_change": 1
+          },
+          {
+            "title": "下山即无敌，美女总裁逼我去领证！",
+            "book_id": 12594795,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」新上榜 《血脉觉醒后，美女总裁赖上我》；《女总裁的小邪医》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "离婚后，高冷前妻日日求我复合",
+            "book_id": 12938433
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "重生70：大国栋梁，从正阳门下开始",
+            "book_id": 12867831,
+            "rank_change": 3
+          },
+          {
+            "title": "透视神眼：看尽天下玉，揽尽世上美",
+            "book_id": 12898650,
+            "rank_change": 2
+          },
+          {
+            "title": "暴雪1962，绝美邻居上门求肉",
+            "book_id": 12972600,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市生活」新上榜 《离婚后，高冷前妻日日求我复合》；《重生70：大国栋梁，从正阳门下开始》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 2,
+        "new_books": [
+          {
+            "title": "寇天子",
+            "book_id": 12817968
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "抱歉，我真的才高八斗",
+            "book_id": 12985194,
+            "intro": "别人寒窗苦读十载，为科举头悬梁锥刺股；\n李安生穿越第一天，就继承了原主三十万两买来的会元身份。\n亲爹气得要打死他；满京城等着看他殿试出丑，菜市口挨刀。\n李安生：慌什么？不就是个殿试吗？\n经义？策论？诗"
+          },
+          {
+            "title": "断绝关系后，我成大魏第一国公",
+            "book_id": 12803235,
+            "intro": "黄淮左穿越成了大魏王朝成国公府的三少爷。\n他的人生宗旨:享躺平人生，拥三妻四妾，坐着数钱，躺着也数钱。\n奈何“他欲静而家不止”\n自己两个不成器的哥哥排挤自己，加上眼瞎的亲爹，还有一个恶毒的主母。\n被安"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "咱家世代从军，到你这成文圣了？",
+            "book_id": 13194165,
+            "rank_change": 3
+          },
+          {
+            "title": "北疆最狂纨绔：从赐婚进京开始",
+            "book_id": 12949137,
+            "rank_change": 2
+          },
+          {
+            "title": "边军悍卒：一把长弓定天下！",
+            "book_id": 12948825,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」新上榜 《寇天子》；《抱歉，我真的才高八斗》、《断绝关系后，我成大魏第一国公》 掉出榜单；《咱家世代从军，到你这成文圣了？》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "绑定道侣系统，师尊助我飞升！",
+            "book_id": 13110387,
+            "rank_change": 2
+          },
+          {
+            "title": "阴阳天帝诀",
+            "book_id": 12749622,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」《绑定道侣系统，师尊助我飞升！》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "恐怖灵异",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「恐怖灵异」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "趁校花一贫如洗，忽悠她以身相许",
+            "book_id": 12896292,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「热血校园」《趁校花一贫如洗，忽悠她以身相许》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "诡异民国，从缝尸开始长生",
+            "book_id": 12706761,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」《诡异民国，从缝尸开始长生》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "透视鉴宝：美女财富两不误",
+            "book_id": 12708261,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」《透视鉴宝：美女财富两不误》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "虚拟网游",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "网游：全是数值，你管这叫圣骑士？",
+            "book_id": 12801060,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「虚拟网游」《网游：全是数值，你管这叫圣骑士？》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

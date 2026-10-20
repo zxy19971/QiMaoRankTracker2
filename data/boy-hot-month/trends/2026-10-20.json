@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-20",
+  "board": "boy-hot-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 11287350,
+    "total_heat": 225747000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "九阴九阳",
+            "book_id": 2063605
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "rank_change": 1
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": 1
+          },
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」新上榜 《九阴九阳》；《鸿蒙霸体诀》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "逍遥四公子",
+            "book_id": 1809361,
+            "intro": "网剧《逍遥四公子》原著改编，腾讯独播。\n短剧《逍遥四公子》原著，已上线。\n又名《阁下不讲道理，在下也略懂拳脚》《逍遥小郎君》《极品四公子》\n宁宸穿越到了一个历史中从未出现过的朝代，本想一心搞钱，做个快"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "边关兵王",
+            "book_id": 1995023,
+            "rank_change": 1
+          },
+          {
+            "title": "从骑奴到大乾武圣",
+            "book_id": 12465015,
+            "rank_change": 1
+          },
+          {
+            "title": "边军悍卒",
+            "book_id": 1882754,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」《逍遥四公子》 掉出榜单；《边关兵王》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "警报！真龙出狱！",
+            "book_id": 1834789,
+            "rank_change": 1
+          },
+          {
+            "title": "舔狗反派只想苟，女主不按套路走！",
+            "book_id": 1710753,
+            "rank_change": 1
+          },
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」《警报！真龙出狱！》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "步步登阶",
+            "book_id": 1982360,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市生活」《步步登阶》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "桃花劫",
+            "book_id": 2028957,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「商战职场」《桃花劫》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "王朝争霸",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "大周第一武夫",
+            "book_id": 2074426,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「王朝争霸」《大周第一武夫》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "九转仙葫",
+            "book_id": 12212670,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」《九转仙葫》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "四次入伍，我被军区拉进黑名单！",
+            "book_id": 12179937,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「现代军事」《四次入伍，我被军区拉进黑名单！》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 262000,
+    "total_heat": 246000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "聚宝仙炉",
           "book_id": 12452187,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「幻想修真」《聚宝仙炉》上升1位领涨。",
+      "heat_leaders": [
+        {
+          "title": "聚宝仙炉",
+          "book_id": 12452187,
+          "heat_change": -16000
+        }
+      ],
+      "summary": "「幻想修真」《聚宝仙炉》下滑1位；《聚宝仙炉》热度-16000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 16,
         "title": "聚宝仙炉",
         "book_id": 12452187,
         "url": "https://www.qimao.com/shuku/12452187/",
@@ -45,17 +51,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "57.87万字",
-        "word_count": 578700,
-        "heat": 262000,
-        "platform_trend": "rise",
+        "word_count_text": "58.29万字",
+        "word_count": 582900,
+        "heat": 246000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
-        "latest_chapter": " 第275章  无字碑异动",
-        "updated_at": "2026-10-18 23:34:04",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第277章  曹主事",
+        "updated_at": "2026-10-19 21:06:04",
+        "rank_change": -1,
+        "heat_change": -16000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

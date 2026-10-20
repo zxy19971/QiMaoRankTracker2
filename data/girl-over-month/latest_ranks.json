@@ -8,8 +8,8 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-19",
-  "prev_date": "2026-10-18",
+  "date": "2026-10-20",
+  "prev_date": "2026-10-19",
   "books": [
     {
       "rank": 1,
@@ -529,7 +529,7 @@
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 1,
       "stale_update": true,
       "category": "都市奇幻"
     },
@@ -1214,7 +1214,7 @@
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
+          "boards_count": 1,
           "stale_update": true,
           "category": "都市奇幻"
         }

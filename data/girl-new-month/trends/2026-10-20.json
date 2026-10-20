@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-20",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 4,
+    "dropped_count": 4,
+    "avg_heat": 758100,
+    "total_heat": 15162000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 3,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "冷脸糙汉哄妻上瘾，她吃不消了",
+            "book_id": 12961581
+          },
+          {
+            "title": "乖，不离婚",
+            "book_id": 13231389
+          },
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "孕难产还要她AA，去父留子你活该绝嗣",
+            "book_id": 12728424,
+            "rank_change": 4
+          },
+          {
+            "title": "分居三年，高冷商总跪地求不离",
+            "book_id": 13034412,
+            "rank_change": 4
+          },
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」新上榜 《冷脸糙汉哄妻上瘾，她吃不消了》、《乖，不离婚》、《夫人反差太大，司总沦陷了！》；《孕难产还要她AA，去父留子你活该绝嗣》上升4位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "折婢骨",
+            "book_id": 12107619,
+            "intro": "【强取豪夺+通房文学+上位者低头+带球跑+追妻火葬场】阿芙在赎身离开侯府的前一天，被侯夫人送上了的世子爷的床。三日三夜，他尝到了滋味，便不肯松手。人人都说，她得了天大的体面和恩宠。可只有阿芙自己知道，"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "rank_change": 4
+          },
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」《折婢骨》 掉出榜单；《嫡姐惨死？王妃她杀爆京城》上升4位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "rank_change": 2
+          },
+          {
+            "title": "穿了之后：我用一头猪换了个男人",
+            "book_id": 12779250,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」《悍妇穿边关，一手烂牌打出王炸》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "我在末世当农场主",
+            "book_id": 12719736
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "长得太漂亮，在末世里会被疯狂觊觎",
+            "book_id": 12813204,
+            "rank_change": 4
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世求生」新上榜 《我在末世当农场主》；《长得太漂亮，在末世里会被疯狂觊觎》上升4位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 2,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "七零换嫁绝嗣大佬，一胎三宝惊艳家属院",
+            "book_id": 12602724,
+            "intro": "一睁眼，江林晚回到了和渣男领证当日！\n上辈子江家下放，江林晚惨遭渣男陷害清白，被迫嫁入陆家。\n婚后她任劳任怨十几年，才知丈夫陆承宇从未爱她，娶她只为图谋江家世代家产，看似亲近的男人表妹，实则是青梅竹马"
+          },
+          {
+            "title": "极品小姑懂婴语，全家端上铁饭碗",
+            "book_id": 12554541,
+            "intro": "【年代+事业脑+精通婴语+大佬团宠】\n金牌育婴师林云舒穿成七十年代恋爱脑。\n开局哥嫂质问，父母离心，还被渣男骗钱骗工作？\n这可忍不了！\n林云舒咔咔一顿操作，渣男贱女通通送去大西北！\n咦，还解锁了精通婴"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」《七零换嫁绝嗣大佬，一胎三宝惊艳家属院》、《极品小姑懂婴语，全家端上铁饭碗》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "权谋天下",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "长庚引",
+            "book_id": 12090615,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「权谋天下」《长庚引》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

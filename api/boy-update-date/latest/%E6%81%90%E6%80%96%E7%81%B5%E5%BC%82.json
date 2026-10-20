@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "category": {
     "name": "恐怖灵异",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,7 +23,7 @@
         {
           "title": "我的出马往事",
           "book_id": 13343607,
-          "rank_change": 1
+          "rank_change": 2
         }
       ],
       "top_fallers": [],
@@ -31,15 +31,15 @@
         {
           "title": "我的出马往事",
           "book_id": 13343607,
-          "heat_change": -1
+          "heat_change": 1
         }
       ],
-      "summary": "「恐怖灵异」《我的出马往事》上升1位领涨；《我的出马往事》热度-1。",
+      "summary": "「恐怖灵异」《我的出马往事》上升2位领涨；《我的出马往事》热度+1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 16,
         "title": "我的出马往事",
         "book_id": 13343607,
         "url": "https://www.qimao.com/shuku/13343607/",
@@ -51,17 +51,17 @@
         "minor_id": 229,
         "minor_url": "https://www.qimao.com/shuku/a-204-229-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.68万字",
-        "word_count": 316800,
-        "heat": 1,
+        "word_count_text": "32.28万字",
+        "word_count": 322800,
+        "heat": 2,
         "platform_trend": "rise",
         "badge": "",
         "intro": "大千世界，无奇不有。\n我严良唯有一堂仙，可斩妖，降魔，荡恶，镇鬼，弑神，灭仙。\n我叫严良，一个年轻的出马仙",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4448/13343607_360x480.jpg?time=1788317033",
-        "latest_chapter": " 第76章  接媳妇",
-        "updated_at": "2026-10-18 08:02:11",
-        "rank_change": 1,
-        "heat_change": -1,
+        "latest_chapter": " 第77章  父子双亡",
+        "updated_at": "2026-10-19 10:17:04",
+        "rank_change": 2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

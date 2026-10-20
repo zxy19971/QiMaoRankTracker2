@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 4,
-    "total_heat": 144000,
+    "total_heat": 135000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,6 +23,11 @@
         {
           "title": "高冷校花香香软软，凭啥还舔你啊",
           "book_id": 13220790,
+          "rank_change": 2
+        },
+        {
+          "title": "透视神眼：看尽天下玉，揽尽世上美",
+          "book_id": 12898650,
           "rank_change": 1
         }
       ],
@@ -31,36 +36,31 @@
           "title": "暴雪1962，绝美邻居上门求肉",
           "book_id": 12972600,
           "rank_change": -1
-        },
-        {
-          "title": "透视神眼：看尽天下玉，揽尽世上美",
-          "book_id": 12898650,
-          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
           "title": "暴雪1962，绝美邻居上门求肉",
           "book_id": 12972600,
-          "heat_change": -9000
+          "heat_change": -11000
+        },
+        {
+          "title": "高冷校花香香软软，凭啥还舔你啊",
+          "book_id": 13220790,
+          "heat_change": 2000
         },
         {
           "title": "重生70：我在空间狩猎，狂宠妻儿",
           "book_id": 13340112,
-          "heat_change": -3000
-        },
-        {
-          "title": "透视神眼：看尽天下玉，揽尽世上美",
-          "book_id": 12898650,
-          "heat_change": -3000
+          "heat_change": -1000
         }
       ],
-      "summary": "「都市生活」《高冷校花香香软软，凭啥还舔你啊》上升1位领涨；《暴雪1962，绝美邻居上门求肉》下滑1位；《暴雪1962，绝美邻居上门求肉》热度-9000。",
+      "summary": "「都市生活」《高冷校花香香软软，凭啥还舔你啊》上升2位领涨；《暴雪1962，绝美邻居上门求肉》下滑1位；《暴雪1962，绝美邻居上门求肉》热度-11000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 3,
+        "rank": 4,
         "title": "暴雪1962，绝美邻居上门求肉",
         "book_id": 12972600,
         "url": "https://www.qimao.com/shuku/12972600/",
@@ -72,17 +72,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.39万字",
-        "word_count": 493900,
-        "heat": 62000,
+        "word_count_text": "50.01万字",
+        "word_count": 500100,
+        "heat": 51000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "一觉醒来，陈川重生回到1962的东北山村！\n上辈子被白莲花女邻居哄骗戏耍，连个手都没拉过，供养白莲花女邻居一家半辈子！\n临了还被打断了双腿，赶到桥洞子，活活饿死！\n这辈子一睁眼，他就看到了丰满的白莲花女邻居上门要肉……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12972600_360x480.jpg?time=1785411921",
-        "latest_chapter": " 第222章  林支书肠子都悔青了！",
-        "updated_at": "2026-10-18 17:12:03",
+        "latest_chapter": " 第225章  张主任头疼，还等新支书？",
+        "updated_at": "2026-10-19 19:02:26",
         "rank_change": -1,
-        "heat_change": -9000,
+        "heat_change": -11000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -101,24 +101,24 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.54万字",
-        "word_count": 415400,
-        "heat": 31000,
+        "word_count_text": "42.37万字",
+        "word_count": 423700,
+        "heat": 30000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【重生年代+空间打猎+纯爽致富线+老婆孩子热炕头！】\n王阳重生70，还随身附带个狩猎空间！\n上一世，因为性格懦弱，只能眼睁睁看着妻女被人欺负，悔恨终生。\n重活一次，王阳觉得挺起腰杆做男人，无能丈夫滚一边，手持猎枪进深山，三枪轰出万元户！\n别人不敢进的深山，他前世兵王神枪手如履平地！\n野鸡、飞鸭、大野猪，人参、鹿茸、灵芝草。\n物资匮乏的年代，全村人还在啃咽菜窝窝头，王阳家已经顿顿大肉，油水直冒。\n他要把前世欠下的债，千倍万倍地补回来，把漂亮老婆和一双儿女宠上天，让那些曾经瞧不起他的人，全都嫉妒到发狂！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4447/13340112_360x480.jpg?time=1788276072",
-        "latest_chapter": " 第191章  流水大席",
-        "updated_at": "2026-10-18 17:42:03",
+        "latest_chapter": " 第195章  世界清净了",
+        "updated_at": "2026-10-19 19:13:03",
         "rank_change": 0,
-        "heat_change": -3000,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "title": "透视神眼：看尽天下玉，揽尽世上美",
         "book_id": 12898650,
         "url": "https://www.qimao.com/shuku/12898650/",
@@ -130,24 +130,24 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.7万字",
-        "word_count": 417000,
-        "heat": 28000,
-        "platform_trend": "drop",
+        "word_count_text": "42.11万字",
+        "word_count": 421100,
+        "heat": 29000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "陆沉为了给女友改善生活，努力克服恐高症去高空擦玻璃赚快钱。\n但不成想，竟亲眼目睹了女友的背叛！\n陆沉在心灰意冷下准备跳江轻生，却意外获得了造化神树，并救下了同样要轻生的美妇！\n自此，陆沉天眼一开，玉石入袋，美人入怀。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4300/12898650_360x480.jpg?time=1785160037",
-        "latest_chapter": " 第191章  陆沉敢上台，我就敢拆穿！",
-        "updated_at": "2026-10-18 23:36:05",
-        "rank_change": -1,
-        "heat_change": -3000,
+        "latest_chapter": " 第193章  四百学子长作揖，谢先生传道授业！",
+        "updated_at": "2026-10-19 21:10:04",
+        "rank_change": 1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市生活"
       },
       {
-        "rank": 15,
+        "rank": 13,
         "title": "高冷校花香香软软，凭啥还舔你啊",
         "book_id": 13220790,
         "url": "https://www.qimao.com/shuku/13220790/",
@@ -159,17 +159,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "28.84万字",
-        "word_count": 288400,
-        "heat": 23000,
+        "word_count_text": "29.36万字",
+        "word_count": 293600,
+        "heat": 25000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【救赎+单女主+重生无系统+清冷校花反差病娇】\n“苏泽，我现在只想好好学习拿奖学金，不想谈恋爱，我们还是先做普通朋友好吗？”\n看着班花林婉儿那副高高在上的嘴脸，重生归来的苏泽冷笑一声。\n“大姐你没事吧？要胸没胸要腿没腿，保不齐微do过多少次的网红脸，我有病啊跟你表白？”\n在全校吃瓜群众震惊的目光中，苏泽转身，一把将怀里的99朵红玫瑰，强行塞进了路过的冰山校花夏知微怀里。\n“好汉留步！花给你了！”\n上一世，苏泽是把尊严踩在脚底的超级舔狗，一路卷成科学家却落得个猝死的下场。\n重活一世，去他妈的白月光，去他妈的内卷！老子要放飞自我，摆烂享受人生！\n习惯了被无限偏爱的林婉儿懵了。\n三个月后，她实在受不了没有苏泽这个免费提款机的日子，红着眼眶在雨中堵住他：“苏泽，我发现我其实是喜欢你的，我们和好吧……”\n可此时的苏泽，哪里还有空搭理她？\n曾经柔弱的清冷系花夏知微，此刻却将苏泽的双手缚在床头柜上。\n女孩绝美的脸蛋泛着迷离的红晕，嗓音娇软却不失偏执：“苏泽同学，你送了我玫瑰，又在柜子里抱过我，那你就是我一个人的了。”\n“再敢碰别的女人，我就关你一辈子哦。”\n苏泽却一脸笑嘻嘻道：老婆你好香~",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4407/13220790_360x480.jpg?time=1787129675",
-        "latest_chapter": " 第128章  不把你们告到要饭，我苏泽的名字倒过来写",
-        "updated_at": "2026-10-19 00:02:21",
-        "rank_change": 1,
-        "heat_change": 1000,
+        "latest_chapter": " 第130章  陈静的阴谋",
+        "updated_at": "2026-10-20 00:02:22",
+        "rank_change": 2,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
