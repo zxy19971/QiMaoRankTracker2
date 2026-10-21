@@ -8,31 +8,44 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "被关女子监狱五年，出狱后我医武双绝",
-          "book_id": 12514650
+          "book_id": 12514650,
+          "rank_change": 1
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「都市高武」新上榜 《被关女子监狱五年，出狱后我医武双绝》。",
+      "top_fallers": [
+        {
+          "title": "神武天下之睚眦",
+          "book_id": 1977738,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "神武天下之睚眦",
+          "book_id": 1977738,
+          "heat_change": 1
+        }
+      ],
+      "summary": "「都市高武」《被关女子监狱五年，出狱后我医武双绝》上升1位领涨；《神武天下之睚眦》下滑1位；《神武天下之睚眦》热度+1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 14,
         "title": "神武天下之睚眦",
         "book_id": 1977738,
         "url": "https://www.qimao.com/shuku/1977738/",
@@ -44,24 +57,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "456.18万字",
-        "word_count": 4561800,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "456.75万字",
+        "word_count": 4567500,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起。为隐藏身份，他进入工厂当保安，却意外卷入与武者余刚的冲突，见识到超凡力量的世界，也因硬接对方重拳留下内伤。\n在痛苦与挣扎中，温羽凡逐渐接受系统，通过修炼晋级，同时得知家人的悲剧可能与　“新神会”　有关。他一边用保安身份掩饰，一边偷偷变强，更在老中医帮助下调理伤势，决心踏上复仇之路，誓要为逝去的亲人讨回公道，揭开灾难背后的真相。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/746/2237791_360x480.jpg?time=1747831667",
-        "latest_chapter": " 第1056章  世界之巅 赛后记三",
-        "updated_at": "2026-10-20 09:02:13",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第1057章  世界之巅 赛后记四",
+        "updated_at": "2026-10-21 09:02:13",
+        "rank_change": -1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "title": "被关女子监狱五年，出狱后我医武双绝",
         "book_id": 12514650,
         "url": "https://www.qimao.com/shuku/12514650/",
@@ -73,18 +86,18 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "76.4万字",
-        "word_count": 764000,
+        "word_count_text": "77.02万字",
+        "word_count": 770200,
         "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让他们千万倍偿还这滔天血债。同时他也要好好保护养姐等族中女眷和他的四个未婚妻，一定让她们过上好日子！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
-        "latest_chapter": " 第358章  让苏飞燕嫁给叶辰换支持？",
-        "updated_at": "2026-10-20 22:07:05",
-        "rank_change": 0,
+        "latest_chapter": " 第361章  毒蛊反噬，转钱的全都死了",
+        "updated_at": "2026-10-21 22:25:05",
+        "rank_change": 1,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"

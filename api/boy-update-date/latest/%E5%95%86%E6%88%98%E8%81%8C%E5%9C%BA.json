@@ -8,56 +8,55 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-22",
+  "date": "2026-10-22",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 7,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "野性攀登",
+          "book_id": 13408218
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "二本没毕业，你怎么登上福布斯了",
-          "book_id": 12606405,
-          "heat_change": -2
-        }
-      ],
-      "summary": "**题材趋势**：商战题材目前处于极度低迷期，榜单仅存一本独苗，缺乏市场活跃度与流量支撑。\n**读者偏好**：读者更倾向于“重生+现实主义”的硬核创业文，对“无系统、逻辑在线”等强调沉浸感与真实反馈的标签有一定偏好。\n**变动解读**：该书热度出现负增长，显示出该细分领域在当前渠道缺乏读者粘性，正处于严重的流量真空期。\n**值得关注**：在缺乏新作冲击的情况下，观察此类题材是否会通过题材融合（如职场+反系统）来寻找破局点。",
-      "ai_source": "ai"
+      "heat_leaders": [],
+      "summary": "「商战职场」新上榜 《野性攀登》。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 14,
-        "title": "二本没毕业，你怎么登上福布斯了",
-        "book_id": 12606405,
-        "url": "https://www.qimao.com/shuku/12606405/",
-        "author": "任逍游",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%BB%BB%E9%80%8D%E6%B8%B8_14/",
+        "rank": 16,
+        "title": "野性攀登",
+        "book_id": 13408218,
+        "url": "https://www.qimao.com/shuku/13408218/",
+        "author": "老虎本尊",
+        "author_url": "https://www.qimao.com/zuozhe/%E8%80%81%E8%99%8E%E6%9C%AC%E5%B0%8A_14/",
         "major": "都市",
         "minor": "商战职场",
         "major_id": 203,
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "58.31万字",
-        "word_count": 583100,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "31.93万字",
+        "word_count": 319300,
+        "heat": 7,
+        "platform_trend": "rise",
         "badge": "",
-        "intro": "【重生+无系统+无女主+全程逻辑在线+真实创业+人间清醒+非无脑爽文】\n母亲三年后会重病，姐姐会被生活逼入绝境。\n四十岁的林欢，拼命了半辈子，读过书，写过代码，跑过滴滴，送过外卖，却依旧没能改变命运。\n再次睁眼，他重生回到2009年。\n他再也不想重复以往的悲剧。\n他决定走上改变阶级的道路。\n每一次的阶级跃迁，都让林欢重新认识这个世界。\n为什么穷人会一直穷，为什么富人赚钱无比简单。\n一切的一切，不过都是信息差。\n不过都是出生不同罢了。\n这是一个底层人一步一步走到世界巅峰的故事。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606405_360x480.jpg?time=1782891520",
-        "latest_chapter": " 第238章  是个聪明的女孩！",
-        "updated_at": "2026-09-22 00:32:05",
+        "intro": "地产公司小职员陈爽，为凑巨额彩礼，夜跑代驾，被身份不凡的美女强征，被人误会有背景，从此踏上逆袭之路，上司极品老婆，温柔女领导，娇媚女下属，刁蛮小魔女，各路美女被命运安排，和陈爽走到一起\n被心爱女友背叛，陈爽彻底激发野性，和众美女携手，野性攀峰……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4470/13408218_360x480.jpg?time=1792546689",
+        "latest_chapter": " 第145章  见谁都叫嫂子是吧",
+        "updated_at": "2026-10-22 04:02:03",
         "rank_change": 0,
-        "heat_change": -2,
-        "is_new": false,
-        "boards_count": 1,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
         "stale_update": false,
         "category": "商战职场"
       }

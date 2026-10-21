@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 278000,
+    "total_heat": 273000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -31,15 +31,15 @@
         {
           "title": "大周第一武夫",
           "book_id": 2074426,
-          "heat_change": 7000
+          "heat_change": -5000
         }
       ],
-      "summary": "「王朝争霸」《大周第一武夫》下滑1位；《大周第一武夫》热度+7000。",
+      "summary": "「王朝争霸」《大周第一武夫》下滑1位；《大周第一武夫》热度-5000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 14,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -51,17 +51,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "234.26万字",
-        "word_count": 2342600,
-        "heat": 278000,
-        "platform_trend": "rise",
+        "word_count_text": "234.96万字",
+        "word_count": 2349600,
+        "heat": 273000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第1081章  群雄汇聚",
-        "updated_at": "2026-10-20 18:11:09",
+        "latest_chapter": " 第1084章  灵水-玄泉",
+        "updated_at": "2026-10-21 18:11:09",
         "rank_change": -1,
-        "heat_change": 7000,
+        "heat_change": -5000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

@@ -1,0 +1,263 @@
+{
+  "date": "2026-10-22",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 2,
+    "total_heat": 43,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386
+          },
+          {
+            "title": "全家夺我军功，重生嫡女屠了满门",
+            "book_id": 1968910
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "rank_change": 2
+          },
+          {
+            "title": "玉帐春",
+            "book_id": 11663199,
+            "rank_change": 1
+          },
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "错撩反派，被疯批摄政王强娶豪夺",
+            "book_id": 12593919,
+            "rank_change": -4
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": -1
+          },
+          {
+            "title": "母凭女贵",
+            "book_id": 12800205,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "宫女朔宁",
+            "book_id": 12315174,
+            "heat_change": -4
+          },
+          {
+            "title": "错撩反派，被疯批摄政王强娶豪夺",
+            "book_id": 12593919,
+            "heat_change": 3
+          },
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「宫闱宅斗」新上榜 《劝爹入赘公主府，玄学嫡女被团宠》、《全家夺我军功，重生嫡女屠了满门》；《侯爷绝嗣？好孕丫鬟又又又是喜脉》上升2位领涨；《错撩反派，被疯批摄政王强娶豪夺》下滑4位；《宫女朔宁》热度-4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "王妃一身妖骨，京城百祟俯首",
+            "book_id": 12328977,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "heat_change": -5
+          },
+          {
+            "title": "王妃一身妖骨，京城百祟俯首",
+            "book_id": 12328977,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「古代情缘」新上榜 《新婚夜流放，飒爽太子妃种出西北大仓！》；《娇软美人出嫁后》上升1位领涨；《王妃一身妖骨，京城百祟俯首》下滑1位；《娇软美人出嫁后》热度-5。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 2,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "intro": "原书名《都说霍二爷不行？其实会哄不会停》\n恢复听力那天，阮念念得知自己被绿，甩了渣男贱女几巴掌后，转头就答应替逃婚的姐姐嫁给那位传闻中阴戾狠辣的霍二爷。\n人人都说，霍凛重病缠身、性情暴戾，嫁过去就是守"
+          },
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "intro": "南莘怀孕七个月产检要丈夫签字，才知道丈夫在外面一直有个家，而那个家的女主人是她的亲姐姐南虞，侄女是她丈夫傅北辰的私生女。就连她的孩子，都是傅北辰为了向南虞证明他的衷心，找人跟南莘生的。\n丈夫离心，父母"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "大佬十代单传，我为他一胎生四宝",
+            "book_id": 1726987,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「总裁豪门」《霍二爷，新婚请克制！》、《离婚当天，和京圈太子爷闪婚了》 掉出榜单；《大佬十代单传，我为他一胎生四宝》上升1位领涨；《离婚后她惊艳了世界》下滑2位；《离婚后她惊艳了世界》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "七零娇娇十八，喜当萌娃亲妈",
+            "book_id": 13282398,
+            "rank_change": -2
+          },
+          {
+            "title": "军婚超甜！闪婚后成了首长的心尖宠",
+            "book_id": 12803265,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "军婚超甜！闪婚后成了首长的心尖宠",
+            "book_id": 12803265,
+            "heat_change": -3
+          },
+          {
+            "title": "七零娇娇十八，喜当萌娃亲妈",
+            "book_id": 13282398,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「年代重生」《七零娇娇十八，喜当萌娃亲妈》下滑2位；《军婚超甜！闪婚后成了首长的心尖宠》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "乱世被流放，我在深山造温泉！",
+            "book_id": 13123812,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "乱世被流放，我在深山造温泉！",
+            "book_id": 13123812,
+            "heat_change": 2
+          },
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「种田经商」《大雪封山闹饥荒，福宝开挂富全村》上升1位领涨；《乱世被流放，我在深山造温泉！》下滑2位；《乱世被流放，我在深山造温泉！》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「都市奇幻」《家有玄妻，百邪不侵！》下滑1位。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

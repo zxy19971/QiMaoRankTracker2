@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-22",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 734550,
+    "total_heat": 14691000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "rank_change": 1
+          },
+          {
+            "title": "离婚证已领，时爷请克制！",
+            "book_id": 12717066,
+            "rank_change": 1
+          },
+          {
+            "title": "鱼宝三岁半，哥哥们都是窝捡来哒",
+            "book_id": 12802161,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」《离婚当天，和京圈太子爷闪婚了》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」《嫡姐惨死？王妃她杀爆京城》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "rank_change": 1
+          },
+          {
+            "title": "穿了之后：我用一头猪换了个男人",
+            "book_id": 12779250,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」《悍妇穿边关，一手烂牌打出王炸》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "长得太漂亮，在末世里会被疯狂觊觎",
+            "book_id": 12813204,
+            "rank_change": 1
+          },
+          {
+            "title": "我在末世当农场主",
+            "book_id": 12719736,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世求生」《长得太漂亮，在末世里会被疯狂觊觎》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世幻想",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "兽世万人迷：大佬们为占她一胎抢疯了",
+            "book_id": 12828771
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「异世幻想」新上榜 《兽世万人迷：大佬们为占她一胎抢疯了》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

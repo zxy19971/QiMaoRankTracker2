@@ -8,43 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 4,
-    "total_heat": 727000,
+    "total_heat": 738000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "葬天神帝",
-          "book_id": 213697,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "葬天神帝",
           "book_id": 213697,
-          "heat_change": 19000
+          "heat_change": 10000
         },
         {
           "title": "荒古武神",
           "book_id": 216404,
-          "heat_change": 14000
-        },
-        {
-          "title": "玲珑塔",
-          "book_id": 1754203,
-          "heat_change": 3000
+          "heat_change": 1000
         }
       ],
-      "summary": "「东方玄幻」《葬天神帝》上升1位领涨；《葬天神帝》热度+19000。",
+      "summary": "「东方玄幻」《葬天神帝》热度+10000。",
       "ai_source": "rule"
     },
     "books": [
@@ -63,7 +52,7 @@
         "status": "已完结",
         "word_count_text": "864.16万字",
         "word_count": 8641600,
-        "heat": 341000,
+        "heat": 342000,
         "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
@@ -71,7 +60,7 @@
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": 14000,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -92,15 +81,15 @@
         "status": "已完结",
         "word_count_text": "1007.28万字",
         "word_count": 10072800,
-        "heat": 173000,
+        "heat": 183000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "少年苏尘，被抽取天龙血脉，毁去丹田，送往北荒城叶家，成为叶家的赘婿。\n万念俱灰之际，融合了母亲留下的葬天古戒，成为葬天古戒之主，修葬天神功，悟绝世神通，从此走上了一条横扫万界天骄的无敌之路。\n若这天地不公，我便埋葬诸天！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/212005_360x480.jpg?time=1638353695",
         "latest_chapter": " 第3704章  前路在何方？（大结局）",
         "updated_at": "2026-10-01 20:51:29",
-        "rank_change": 1,
-        "heat_change": 19000,
+        "rank_change": 0,
+        "heat_change": 10000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -122,14 +111,14 @@
         "word_count_text": "701.84万字",
         "word_count": 7018400,
         "heat": 154000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【女帝+多女主+剑道+无敌暴爽+快节奏】\n“林尘，你可愿与我结为道侣？”\n“我拒绝！”\n少年林尘惨遭红颜背刺，武魂被废，机缘巧合之下开启神秘小塔，进入塔内世界，结识绝美女帝！\n却没想到女帝凶猛，予取予求，林尘被迫沦为炉鼎！\n绝望之际，林尘觉醒至尊神龙武魂，收获绝世神剑，从此逆天改命，剑武双修，万界独尊！一剑在手，任你漫天仙魔，我自一剑斩之！\n原书名《剑武独尊》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1391957_360x480.jpg?time=1734693379",
         "latest_chapter": " 第2753章  前往上苍之上（大结局）",
         "updated_at": "2026-08-31 16:32:19",
         "rank_change": 0,
-        "heat_change": 3000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -158,7 +147,7 @@
         "latest_chapter": " 第1077章  大结局",
         "updated_at": "2026-06-10 17:01:11",
         "rank_change": 0,
-        "heat_change": 2000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

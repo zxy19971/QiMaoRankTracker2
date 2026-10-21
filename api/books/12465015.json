@@ -1,12 +1,12 @@
 {
   "book_id": 12465015,
   "title": "大乾第一豪强",
-  "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4156/12465015_360x480.jpg?time=1792506916",
+  "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4156/12465015_360x480.jpg?time=1792544444",
   "author": "一嘟噜葡萄",
   "intro": "家道中落，陈实被卖入靖安侯府，成为一名低贱骑奴。\n别人穿越是奇遇不断，可身处封建底层的陈实却面临着各种肮脏卑劣。\n“老子见人说人话，见鬼说鬼话总能活着吧？”\n他从市井泥泞之中走出，问鼎大乾武圣！",
   "minor": "架空历史",
   "status": "连载中",
-  "word_count_text": "81.26万字",
+  "word_count_text": "81.87万字",
   "latest": [
     {
       "board": "boy-hot-month",
@@ -17,8 +17,8 @@
     {
       "board": "boy-hot-date",
       "board_name": "男生大热日榜",
-      "rank": 17,
-      "heat": 244000
+      "rank": 12,
+      "heat": 277000
     }
   ],
   "history": [
@@ -888,6 +888,18 @@
     },
     {
       "d": "2026-10-21",
+      "b": "boy-hot-month",
+      "r": 11,
+      "h": 9318000
+    },
+    {
+      "d": "2026-10-22",
+      "b": "boy-hot-date",
+      "r": 12,
+      "h": 277000
+    },
+    {
+      "d": "2026-10-22",
       "b": "boy-hot-month",
       "r": 11,
       "h": 9318000

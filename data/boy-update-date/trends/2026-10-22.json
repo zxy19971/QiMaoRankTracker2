@@ -1,0 +1,281 @@
+{
+  "date": "2026-10-22",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 1,
+    "total_heat": 28,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "炼天图",
+            "book_id": 9697470
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "史上最强师父",
+            "book_id": 1817221,
+            "intro": "修炼界有一条铁律：万万不可招惹陆玄。\n因为他的徒弟们都太逆天了！\n大徒弟扶摇女帝：打造扶摇皇朝，成为南荒霸主！\n二徒弟叶尘：丹武双绝，丹武大帝！\n三徒弟陈长生：太稳健了……明明可以弹指灭杀大帝，却一直"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「东方玄幻」新上榜 《炼天图》；《史上最强师父》 掉出榜单；《吞天神体》上升1位领涨；《吞噬九重天》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "intro": "一夜九次，我解了女战神的情毒。\n她转头塞给我一纸婚书，让我入赘金陵宋家，迎娶痴傻千金。\n众人都笑我一个开情趣店的软饭男配不上豪门，可没人知道我是潜龙之主，身负真龙之体，手握通天本领，号八方豪杰。\n潜龙"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "heat_change": -2
+          },
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「都市高手」《狂龙出渊，开局拿捏女战神！》 掉出榜单；《SSSSSSSSSSSSS级镇狱狂龙》上升1位领涨；《医武双绝：下山捡个总裁当老婆》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "heat_change": -1
+          },
+          {
+            "title": "九转仙葫",
+            "book_id": 12212670,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「幻想修真」《乾坤造化诀》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "被关女子监狱五年，出狱后我医武双绝",
+            "book_id": 12514650,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高武」《被关女子监狱五年，出狱后我医武双绝》上升1位领涨；《神武天下之睚眦》下滑1位；《神武天下之睚眦》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「商战职场」新上榜 《野性攀登》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "快老死了，圣女上门赐仙缘",
+            "book_id": 12670524
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古典仙侠」新上榜 《快老死了，圣女上门赐仙缘》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "恐怖灵异",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "我的出马往事",
+            "book_id": 13343607,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "我的出马往事",
+            "book_id": 13343607,
+            "heat_change": 3
+          }
+        ],
+        "summary": "「恐怖灵异」《我的出马往事》上升3位领涨；《我的出马往事》热度+3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「架空历史」《太监凶猛》上升2位领涨；《太监凶猛》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "穿越历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "边关第一猎户",
+            "book_id": 10149744,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "边关第一猎户",
+            "book_id": 10149744,
+            "heat_change": -17
+          }
+        ],
+        "summary": "「穿越历史」《边关第一猎户》上升1位领涨；《边关第一猎户》热度-17。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「奇门秘术」《天黑请点灯》热度-1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,16 +8,21 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "category": {
     "name": "种田经商",
     "major": "古代言情",
-    "count": 1,
-    "total_heat": 34000,
+    "count": 2,
+    "total_heat": 60000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "流民医女：开荒把残夫养成战神",
+          "book_id": 13157514
+        }
+      ],
       "dropped_books": [],
       "top_risers": [
         {
@@ -31,15 +36,15 @@
         {
           "title": "悍妇穿边关，一手烂牌打出王炸",
           "book_id": 12658929,
-          "heat_change": 1000
+          "heat_change": -2000
         }
       ],
-      "summary": "「种田经商」《悍妇穿边关，一手烂牌打出王炸》上升1位领涨；《悍妇穿边关，一手烂牌打出王炸》热度+1000。",
+      "summary": "「种田经商」新上榜 《流民医女：开荒把残夫养成战神》；《悍妇穿边关，一手烂牌打出王炸》上升1位领涨；《悍妇穿边关，一手烂牌打出王炸》热度-2000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 13,
         "title": "悍妇穿边关，一手烂牌打出王炸",
         "book_id": 12658929,
         "url": "https://www.qimao.com/shuku/12658929/",
@@ -51,19 +56,48 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.39万字",
-        "word_count": 443900,
-        "heat": 34000,
-        "platform_trend": "rise",
+        "word_count_text": "44.79万字",
+        "word_count": 447900,
+        "heat": 32000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【种田+美食+木系+家长里短+先婚后爱+养娃】\n许清禾本是异世界的一缕亡魂，好不容易找到个穿越的机会。\n谁知一睁眼就成了罪臣家的婢女，被官府统一收编往外卖。\n看着集市上那油腻腻的眼神，一股恶心感油然而生。\n就在她想着怎么摆脱此时的困境时，一个目光凌厉的刀疤脸突然走上前指着她道:“我要买她。”\n就这样许清禾成了沈知买来的媳妇，跟他一起回了家。\n结果刚进家门就引起了老沈家的轩然大波，还没反应过来就被沈大嫂连人带东西赶了出去。\n沈知望着自己分批带回来的一大两小，有些无奈道:“你放心，我一定能养得活你们。”\n就这样沈知开始了自己的牛马生活，谁知他带回来的那个小媳妇竟然这么能干。\n洗衣做饭收拾屋子带孩子不说，还能挣钱。\n沈知看着家里不断扩张的土地，数不清的钱财，第一次有些不好意思道:“媳妇，我想跟着造反，缺点钱。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4220/12658929_360x480.jpg?time=1790648938",
-        "latest_chapter": " 第219章  分赃",
-        "updated_at": "2026-10-20 09:07:03",
+        "latest_chapter": " 第221章  继续安排",
+        "updated_at": "2026-10-21 07:47:03",
         "rank_change": 1,
-        "heat_change": 1000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": false,
+        "category": "种田经商"
+      },
+      {
+        "rank": 16,
+        "title": "流民医女：开荒把残夫养成战神",
+        "book_id": 13157514,
+        "url": "https://www.qimao.com/shuku/13157514/",
+        "author": "姜不厌",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%A7%9C%E4%B8%8D%E5%8E%8C_14/",
+        "major": "古代言情",
+        "minor": "种田经商",
+        "major_id": 2,
+        "minor_id": 16,
+        "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "31.56万字",
+        "word_count": 315600,
+        "heat": 28000,
+        "platform_trend": "rise",
+        "badge": "飙升20名",
+        "intro": "【边关开荒+甜宠+先婚后爱+强势逆袭+家里长短+金手指】\n人间清醒女主VS忠犬憨憨男主\n现代首席中草药研究员沈青芜穿成边关流民，为了护住自己和幼弟，被迫嫁给全村唾弃的坡脚退伍军人谢珩。\n所有人都在笑话她嫁给一个废人，注定一辈子苦熬。\n新婚夜，谢珩低声道歉，“和我成亲，委屈你了。”\n沈青芜笑了，这人高马大，八块腹肌，长相硬朗帅气的男人，谁委屈谁还不一定。\n全村家家户户连也野菜都抢？家里顿顿大口吃肉到撑！\n极品亲戚上门抢粮食？沈青芜软硬兼施让他们狼狈滚蛋！\n所有人都以为她只是运气好捡了点吃食，只有沈青芜知道，她手握金手指，进山如进货，而她那不善言辞却护短的夫君，更是她最大的底牌。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4386/13157514_360x480.jpg?time=1786945735",
+        "latest_chapter": " 第150章  土豆开垦",
+        "updated_at": "2026-10-21 23:55:05",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "种田经商"
       }

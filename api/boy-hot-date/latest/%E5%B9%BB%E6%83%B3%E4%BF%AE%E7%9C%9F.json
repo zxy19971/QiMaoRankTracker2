@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 283000,
+    "total_heat": 280000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,7 +23,7 @@
         {
           "title": "聚宝仙炉",
           "book_id": 12452187,
-          "rank_change": 4
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
@@ -31,15 +31,15 @@
         {
           "title": "聚宝仙炉",
           "book_id": 12452187,
-          "heat_change": 37000
+          "heat_change": -3000
         }
       ],
-      "summary": "「幻想修真」《聚宝仙炉》上升4位领涨；《聚宝仙炉》热度+37000。",
+      "summary": "「幻想修真」《聚宝仙炉》上升1位领涨；《聚宝仙炉》热度-3000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 11,
         "title": "聚宝仙炉",
         "book_id": 12452187,
         "url": "https://www.qimao.com/shuku/12452187/",
@@ -51,17 +51,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "58.71万字",
-        "word_count": 587100,
-        "heat": 283000,
-        "platform_trend": "rise",
+        "word_count_text": "59.12万字",
+        "word_count": 591200,
+        "heat": 280000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
-        "latest_chapter": " 第279章  肝脑涂地！",
-        "updated_at": "2026-10-20 22:48:04",
-        "rank_change": 4,
-        "heat_change": 37000,
+        "latest_chapter": " 第281章  突破与状况",
+        "updated_at": "2026-10-21 21:26:03",
+        "rank_change": 1,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 41000,
+    "total_heat": 34000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "野性攀登",
-          "book_id": 13408218,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "野性攀登",
           "book_id": 13408218,
-          "heat_change": 41000
+          "heat_change": -7000
         }
       ],
-      "summary": "「商战职场」《野性攀登》上升1位领涨；《野性攀登》热度+41000。",
+      "summary": "「商战职场」《野性攀登》热度-7000。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,19 +45,19 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.03万字",
-        "word_count": 310300,
-        "heat": 41000,
+        "word_count_text": "31.93万字",
+        "word_count": 319300,
+        "heat": 34000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "地产公司小职员陈爽，为凑巨额彩礼，夜跑代驾，被身份不凡的美女强征，被人误会有背景，从此踏上逆袭之路，上司极品老婆，温柔女领导，娇媚女下属，刁蛮小魔女，各路美女被命运安排，和陈爽走到一起\n被心爱女友背叛，陈爽彻底激发野性，和众美女携手，野性攀峰……",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4470/13408218_360x480.jpg?time=1789371629",
-        "latest_chapter": " 第141章  上位了，终于如意了",
-        "updated_at": "2026-10-21 04:02:03",
-        "rank_change": 1,
-        "heat_change": 41000,
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4470/13408218_360x480.jpg?time=1792546689",
+        "latest_chapter": " 第145章  见谁都叫嫂子是吧",
+        "updated_at": "2026-10-22 04:02:03",
+        "rank_change": 0,
+        "heat_change": -7000,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "商战职场"
       }

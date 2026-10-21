@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 364000,
+    "total_heat": 374000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "步步登阶",
           "book_id": 1982360,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "步步登阶",
           "book_id": 1982360,
-          "heat_change": -21000
+          "heat_change": 10000
         }
       ],
-      "summary": "「都市生活」《步步登阶》下滑1位；《步步登阶》热度-21000。",
+      "summary": "「都市生活」《步步登阶》上升1位领涨；《步步登阶》热度+10000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 5,
+        "rank": 4,
         "title": "步步登阶",
         "book_id": 1982360,
         "url": "https://www.qimao.com/shuku/1982360/",
@@ -51,17 +51,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "297.4万字",
-        "word_count": 2974000,
-        "heat": 364000,
-        "platform_trend": "drop",
+        "word_count_text": "297.85万字",
+        "word_count": 2978500,
+        "heat": 374000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【本作品同名精品有声剧正在热播中，收听平台：懒人听书、QQ音乐、酷狗音乐、酷我音乐，欢迎关注！】那年，高中毕业的我投奔她进城打工，见识到了大城市的灯红酒绿，也见识到了人性的复杂与险恶……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
-        "latest_chapter": " 第1416章  上了一课",
-        "updated_at": "2026-10-20 00:02:17",
-        "rank_change": -1,
-        "heat_change": -21000,
+        "latest_chapter": " 第1418章  你听不懂我说话？",
+        "updated_at": "2026-10-22 00:57:11",
+        "rank_change": 1,
+        "heat_change": 10000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-new-date",
+    "name": "男生新书日榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-10-22",
+  "category": {
+    "name": "王朝争霸",
+    "major": "玄幻奇幻",
+    "count": 1,
+    "total_heat": 13000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "铸神朝",
+          "book_id": 13527720
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「王朝争霸」新上榜 《铸神朝》。",
+      "ai_source": "rule"
+    },
+    "books": [
+      {
+        "rank": 20,
+        "title": "铸神朝",
+        "book_id": 13527720,
+        "url": "https://www.qimao.com/shuku/13527720/",
+        "author": "只出三剑",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%8F%AA%E5%87%BA%E4%B8%89%E5%89%91_14/",
+        "major": "玄幻奇幻",
+        "minor": "王朝争霸",
+        "major_id": 202,
+        "minor_id": 218,
+        "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "22.2万字",
+        "word_count": 222000,
+        "heat": 13000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "前一世，镇北侯方瑾年被小公主和她的青梅竹马联手污蔑造反，家破人亡。\n这一世，重生在与小公主洞房花烛之夜，那么，先阉了她的青梅竹马。\n然后，造反。\n他要建立最大最强的——神朝。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4510/13527720_360x480.jpg?time=1789977110",
+        "latest_chapter": " 第96章  周砚北的人头",
+        "updated_at": "2026-10-21 13:32:02",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "王朝争霸"
+      }
+    ]
+  }
+}

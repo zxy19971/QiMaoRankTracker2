@@ -8,48 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
-    "count": 2,
-    "total_heat": 38000,
+    "count": 3,
+    "total_heat": 51000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "说好的纨绔，怎么正魔两道全是他红颜",
+          "book_id": 13427316
+        }
+      ],
       "dropped_books": [],
       "top_risers": [
         {
           "title": "阴阳天帝诀",
           "book_id": 12749622,
-          "rank_change": 2
-        },
-        {
-          "title": "魔天鼎：我能炼化万物",
-          "book_id": 13297746,
-          "rank_change": 2
+          "rank_change": 1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_fallers": [
         {
           "title": "魔天鼎：我能炼化万物",
           "book_id": 13297746,
-          "heat_change": -2000
-        },
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
         {
           "title": "阴阳天帝诀",
           "book_id": 12749622,
+          "heat_change": 1000
+        },
+        {
+          "title": "魔天鼎：我能炼化万物",
+          "book_id": 13297746,
           "heat_change": -1000
         }
       ],
-      "summary": "「东方玄幻」《阴阳天帝诀》上升2位领涨；《魔天鼎：我能炼化万物》热度-2000。",
+      "summary": "「东方玄幻」新上榜 《说好的纨绔，怎么正魔两道全是他红颜》；《阴阳天帝诀》上升1位领涨；《魔天鼎：我能炼化万物》下滑1位；《阴阳天帝诀》热度+1000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 13,
         "title": "阴阳天帝诀",
         "book_id": 12749622,
         "url": "https://www.qimao.com/shuku/12749622/",
@@ -61,24 +67,24 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.47万字",
-        "word_count": 464700,
-        "heat": 21000,
-        "platform_trend": "drop",
+        "word_count_text": "46.92万字",
+        "word_count": 469200,
+        "heat": 22000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "一代神帝秦风，自九天陨落，重生在了被毒妇妻子采补至死的苏家赘婿身上！\n反手运转阴阳天帝诀，掠其阴元，夺其修为！\n毒妇妻子的灵泉玉体？\n嫂子的花神灵韵？\n妖族女帝的天凤真血？\n……\n统统为我所用！\n这一世，他要以无数红颜为炉鼎，斩尽世间一切敌，登诸天万界之巅！\n本书境界：炼气、筑基、金丹、紫府、洞虚、真人、王者、皇者、尊者、圣者、圣王、大圣、准帝、大帝……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4250/12749622_360x480.jpg?time=1783665949",
-        "latest_chapter": " 第218章  暴怒的大炎神主！",
-        "updated_at": "2026-10-20 14:00:03",
-        "rank_change": 2,
-        "heat_change": -1000,
+        "latest_chapter": " 第220章  云机山大营，战神榜！",
+        "updated_at": "2026-10-21 14:32:04",
+        "rank_change": 1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "东方玄幻"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "title": "魔天鼎：我能炼化万物",
         "book_id": 13297746,
         "url": "https://www.qimao.com/shuku/13297746/",
@@ -90,18 +96,47 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "30万字",
-        "word_count": 300000,
-        "heat": 17000,
+        "word_count_text": "30.82万字",
+        "word_count": 308200,
+        "heat": 16000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【玄幻】【无系统】\n穿越成为镇国侯府弃子，秦绝意外邂逅了玄灵界两大女宫主，虽元阳尽失，却习得绝世魔功，被家族放弃。\n旁人争灵药、炼神丹，苦苦熬修为；唯有秦绝手握魔天鼎：别人炼丹，我炼魔躯！\n鼎内三百六十五倍流速，岁月随手可取，更能炼化世间万物糟粕废料，铸就无敌之身。\n他在八位风华各异的绝色姐姐辅助下，在侯府夹缝求生，斗朝堂奸佞，战虚火邪宗，一路跨越位面壁垒。\n鼎中苦修出世，一剑横压万界，斩域外邪魔，逆袭称霸诸天。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4433/13297746_360x480.jpg?time=1788333030",
-        "latest_chapter": " 第141章  秦争的眼泪",
-        "updated_at": "2026-10-20 12:02:10",
-        "rank_change": 2,
-        "heat_change": -2000,
+        "latest_chapter": " 第145章  密谋，杨崇简的野心！",
+        "updated_at": "2026-10-21 12:12:05",
+        "rank_change": -1,
+        "heat_change": -1000,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "东方玄幻"
+      },
+      {
+        "rank": 19,
+        "title": "说好的纨绔，怎么正魔两道全是他红颜",
+        "book_id": 13427316,
+        "url": "https://www.qimao.com/shuku/13427316/",
+        "author": "月光大妖怪",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%9C%88%E5%85%89%E5%A4%A7%E5%A6%96%E6%80%AA_14/",
+        "major": "玄幻奇幻",
+        "minor": "东方玄幻",
+        "major_id": 202,
+        "minor_id": 37,
+        "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "21.73万字",
+        "word_count": 217300,
+        "heat": 13000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【穿越游戏+游戏系统+多女主+纨绔+江湖】\n穿成纨绔反派，开局就差点玷污正道仙子！\n什么？她大哥还是未来剑神？\n为求活命，我被迫上演浪子回头、为爱痴狂的戏码！\n天天送花，日日表白，眼看就要把冰山仙子暖化，让她忘了我的黑历史！\n谁知，我当初为表忠心拒之门外的魔教妖女，竟乔装成她，骗我爬上神女峰！\n悬崖之上，面对魔女“你跳我就放了她”的致命考验，我心一横，纵身一跃！\n这一跳，跳得正道仙子泪崩表白，跳得魔教妖女心神摇曳！\n可我万万没想到，启动秘境传送时，本想拉着仙子私奔，却抓错了人，和那媚眼如丝的魔女一起掉了进去！\n看着怀里笑得花枝乱颤的妖女，我人麻了：救命！拉错人了啊！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4476/13427316_360x480.jpg?time=1791623614",
+        "latest_chapter": " 第91章  只用两根手指",
+        "updated_at": "2026-10-22 00:01:07",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "东方玄幻"

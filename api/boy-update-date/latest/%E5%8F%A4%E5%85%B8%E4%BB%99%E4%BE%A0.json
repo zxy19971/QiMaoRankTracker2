@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-09-02",
+  "date": "2026-10-22",
   "category": {
     "name": "古典仙侠",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 4,
     "trend": {
       "new_count": 1,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [
         {
           "title": "快老死了，圣女上门赐仙缘",
           "book_id": 12670524
         }
       ],
-      "dropped_books": [
-        {
-          "title": "众仙俯首",
-          "book_id": 1971590,
-          "intro": "前世，林落尘因与玉女宗圣女的孽缘，被囚禁至死；\n今生，他斩情绝爱，一心向道，不料造化弄人。\n魔女指尖燃起业火：“本宫朱砂痣的位置...你倒是记得清楚。”\n玉女宗圣女剑锋凝霜：“你破了我的太上忘情，就想"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势**：仙侠文呈现“老龄化+系统流”的独特趋势，通过“大龄主角+天降机缘”的设定快速切入爽点。\n**读者偏好**：读者更青睐“开局即满级”或“极速获得超凡能力”的快节奏修仙，对传统苦修模式兴趣减弱。\n**变动解读**：《快老死了，圣女上门赐仙缘》新上榜并挤走《众仙俯首》，体现了读者对“艳遇式修仙”及轻松解压风格的青睐。\n**值得关注**：关注此类以“高龄主角+多女性角色互动”为核心驱动的修仙文，这类题材在吸引读者停留时长方面表现突出。",
-      "ai_source": "ai"
+      "summary": "「古典仙侠」新上榜 《快老死了，圣女上门赐仙缘》。",
+      "ai_source": "rule"
     },
     "books": [
       {
@@ -50,19 +44,19 @@
         "minor_id": 52,
         "minor_url": "https://www.qimao.com/shuku/a-205-52-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.05万字",
-        "word_count": 410500,
-        "heat": 1,
+        "word_count_text": "85.33万字",
+        "word_count": 853300,
+        "heat": 4,
         "platform_trend": "rise",
         "badge": "",
         "intro": "八十岁老头和圣女有了一次荒唐邂逅。\n从此踏上修仙之路。\n一口祖传的化仙炉，让他能获得无限的寿命，还能秒懂法术，秒懂符箓，秒懂炼器，秒懂炼丹，秒懂玄奥艰难的功法和招式。\n无数女修、仙子、妖女、圣女蜂拥而来，向他这个游戏红尘的大佬请教，求他指点。\n老头：“我真就是个炼气期的小修士啊，你们能不能别这么热情？”\n……………………………………\n仙人夺天地之造化，炼万物之本源，终至大道崩塌，诸天倾覆。\n所有行星被天道意志铸为炉壁，无数太阳被融为炉火，名曰化仙炉。一炉焚尽天上仙。万古仙道，一火成灰。本源重归混沌，宇宙得以新生。\n新的纪元，仙道再兴！\n有个憋屈一生的凡人老头，无意中炼化了一口锈迹斑斑的破火炉。\n于是——\n一人一剑，踏上仙路。\n一炉一火，葬尽诸仙。\n仙帝如何？炉火之中，不过一捧劫灰。\n圣人又如何？炉口一开，任尔万古不朽，化为一缕青烟。\n想要长生不死？\n得向他祈求！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4224/12670524_360x480.jpg?time=1786101590",
-        "latest_chapter": " 第196章  天呀，前辈你竟然是炼丹宗师！",
-        "updated_at": "2026-09-01 16:31:04",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4224/12670524_360x480.jpg?time=1789529043",
+        "latest_chapter": " 第408章  张元傻眼了！",
+        "updated_at": "2026-10-21 18:07:06",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": true,
-        "boards_count": 3,
+        "boards_count": 1,
         "stale_update": false,
         "category": "古典仙侠"
       }

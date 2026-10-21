@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-22",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 126950,
+    "total_heat": 2539000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "披婚纱改嫁，爹系老公他超爱",
+            "book_id": 12862740
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "孕难产还要她AA，去父留子你活该绝嗣",
+            "book_id": 12728424,
+            "intro": "最相爱的时候，丈夫宋靖俞丢给林知雾一份AA协议，从此感情冰冷。林知雾甚至因为掏不出一千块钱的无痛针费用，差点死在产床上。\n宋靖俞的突然冷落成了林知雾无法解开的谜，她倾尽全力，卑微乞求，换来的却是他的漠"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "rank_change": 2
+          },
+          {
+            "title": "裴先生，暗恋她已十二年",
+            "book_id": 13010484,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "唯她是图",
+            "book_id": 12860100,
+            "rank_change": -2
+          },
+          {
+            "title": "暗渡春潮",
+            "book_id": 12784170,
+            "rank_change": -1
+          },
+          {
+            "title": "骗我假结婚？改嫁顶级大佬虐哭你",
+            "book_id": 12743124,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "heat_change": 56000
+          },
+          {
+            "title": "裴先生，暗恋她已十二年",
+            "book_id": 13010484,
+            "heat_change": 54000
+          },
+          {
+            "title": "唯她是图",
+            "book_id": 12860100,
+            "heat_change": -11000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《披婚纱改嫁，爹系老公他超爱》；《孕难产还要她AA，去父留子你活该绝嗣》 掉出榜单；《夫人反差太大，司总沦陷了！》上升2位领涨；《唯她是图》下滑2位；《夫人反差太大，司总沦陷了！》热度+56000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "heat_change": -3000
+          },
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "heat_change": -2000
+          },
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「古代情缘」《嫡姐惨死？王妃她杀爆京城》下滑1位；《娇软美人出嫁后》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "神算王妃薅功德，转嫁绝嗣皇叔一胎三宝",
+            "book_id": 11718921,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "heat_change": 11000
+          },
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「宫闱宅斗」《皇上开门，福宝带物资来送温暖啦》上升1位领涨；《神算王妃薅功德，转嫁绝嗣皇叔一胎三宝》下滑1位；《皇上开门，福宝带物资来送温暖啦》热度+11000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "带空间跟爹抱大腿，别人吃糠我吃肉",
+            "book_id": 12952116,
+            "intro": "【双重生】【年代】【空间】【灵泉】【团宠】【金手指】【嫁爹】【暴富】【医学奇才】\n李若溪和姐姐一起重生了。\n前世，她跟着亲妈改嫁住进顾家，被当作白老鼠试药，被折磨得不成人样。\n跟亲爹留在乡下的姐姐嫉妒"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "婚后分床睡，冷面军官他急了",
+            "book_id": 12856086,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": -11000
+          }
+        ],
+        "summary": "「年代重生」《带空间跟爹抱大腿，别人吃糠我吃肉》 掉出榜单；《婚后分床睡，冷面军官他急了》下滑1位；《错嫁随军：新婚夜冷面军少沦陷了》热度-11000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「种田经商」新上榜 《流民医女：开荒把残夫养成战神》；《悍妇穿边关，一手烂牌打出王炸》上升1位领涨；《悍妇穿边关，一手烂牌打出王炸》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "不做替身后，小师妹一剑可破天",
+            "book_id": 12908322
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」新上榜 《不做替身后，小师妹一剑可破天》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》热度-5000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
