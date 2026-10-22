@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "category": {
     "name": "恐怖灵异",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 3,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,7 +23,7 @@
         {
           "title": "我的出马往事",
           "book_id": 13343607,
-          "rank_change": 3
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
@@ -31,15 +31,15 @@
         {
           "title": "我的出马往事",
           "book_id": 13343607,
-          "heat_change": 3
+          "heat_change": -2
         }
       ],
-      "summary": "「恐怖灵异」《我的出马往事》上升3位领涨；《我的出马往事》热度+3。",
+      "summary": "「恐怖灵异」《我的出马往事》上升1位领涨；《我的出马往事》热度-2。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 12,
         "title": "我的出马往事",
         "book_id": 13343607,
         "url": "https://www.qimao.com/shuku/13343607/",
@@ -51,17 +51,17 @@
         "minor_id": 229,
         "minor_url": "https://www.qimao.com/shuku/a-204-229-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.48万字",
-        "word_count": 334800,
-        "heat": 3,
+        "word_count_text": "33.88万字",
+        "word_count": 338800,
+        "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "大千世界，无奇不有。\n我严良唯有一堂仙，可斩妖，降魔，荡恶，镇鬼，弑神，灭仙。\n我叫严良，一个年轻的出马仙",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4448/13343607_360x480.jpg?time=1788317033",
-        "latest_chapter": " 第79章  惊喜",
-        "updated_at": "2026-10-21 08:46:02",
-        "rank_change": 3,
-        "heat_change": 3,
+        "latest_chapter": " 第80章  李月失踪",
+        "updated_at": "2026-10-22 09:10:05",
+        "rank_change": 1,
+        "heat_change": -2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

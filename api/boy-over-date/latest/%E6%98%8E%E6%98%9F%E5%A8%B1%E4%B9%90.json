@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "category": {
     "name": "明星娱乐",
     "major": "都市",
     "count": 1,
-    "total_heat": 64000,
+    "total_heat": 67000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "天后老婆狂卷工作，我躺平被全网直播",
           "book_id": 1952564,
-          "rank_change": -1
+          "rank_change": 3
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "天后老婆狂卷工作，我躺平被全网直播",
           "book_id": 1952564,
-          "heat_change": -1000
+          "heat_change": 3000
         }
       ],
-      "summary": "「明星娱乐」《天后老婆狂卷工作，我躺平被全网直播》下滑1位；《天后老婆狂卷工作，我躺平被全网直播》热度-1000。",
+      "summary": "「明星娱乐」《天后老婆狂卷工作，我躺平被全网直播》上升3位领涨；《天后老婆狂卷工作，我躺平被全网直播》热度+3000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 14,
         "title": "天后老婆狂卷工作，我躺平被全网直播",
         "book_id": 1952564,
         "url": "https://www.qimao.com/shuku/1952564/",
@@ -53,15 +53,15 @@
         "status": "已完结",
         "word_count_text": "207.15万字",
         "word_count": 2071500,
-        "heat": 64000,
-        "platform_trend": "drop",
+        "heat": 67000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "抠门贪财的沈旗最大的梦想就是跟着天后女总裁吃软饭，却被天后李欢歌发现沈旗并不简单。\n于是天后领养了一个男孩，并且偷偷报名了一档直播带娃的节目。\n平时五音不全的沈旗，变成了堪比国家队的演唱能力。\n平时最无感乐器，十八般乐器却手到擒来。\n不仅能弹会唱，竟然还会创作。\n天后不在家，沈旗教育孩子的方式完全超出了所有人的认知。\n当沈旗沾沾自喜之时，岂不知他的全能已经被全网曝光。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/695/2084260_360x480.jpg?time=1747624134",
         "latest_chapter": " 第930章  大翘嘴想这样说——【终篇感言】",
         "updated_at": "2025-12-31 00:12:37",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "rank_change": 3,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

@@ -1,0 +1,355 @@
+{
+  "date": "2026-10-23",
+  "board": "boy-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 132350,
+    "total_heat": 2647000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "逍遥四公子",
+            "book_id": 1809361
+          },
+          {
+            "title": "寒门枭士",
+            "book_id": 215169
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "世子无双",
+            "book_id": 1860026,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "打到北极圈了，你让我继承皇位？",
+            "book_id": 1864493,
+            "rank_change": -1
+          },
+          {
+            "title": "无敌六皇子",
+            "book_id": 1747899,
+            "rank_change": -1
+          },
+          {
+            "title": "被贬边疆，成就最强藩王",
+            "book_id": 1965987,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "被贬边疆，成就最强藩王",
+            "book_id": 1965987,
+            "heat_change": 4000
+          },
+          {
+            "title": "无敌六皇子",
+            "book_id": 1747899,
+            "heat_change": -3000
+          },
+          {
+            "title": "世子无双",
+            "book_id": 1860026,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「架空历史」新上榜 《逍遥四公子》、《寒门枭士》；《世子无双》上升1位领涨；《打到北极圈了，你让我继承皇位？》下滑1位；《被贬边疆，成就最强藩王》热度+4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "荒古圣体：在娘胎开始悟道",
+            "book_id": 1849458,
+            "intro": "赵平安穿越重生了，但发现自己穿越得有点早，竟还是胎儿。\n成为胎儿也好，那咱就先赢在起跑线上：\n首先，成为最强血脉——荒古圣体。\n其次，娘胎修练入道，打通全身经脉，成为先天通脉，再开辟元海，成为先天元海"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "rank_change": -1
+          },
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "rank_change": -1
+          },
+          {
+            "title": "玲珑塔",
+            "book_id": 1754203,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "heat_change": -3000
+          },
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "heat_change": 3000
+          },
+          {
+            "title": "玲珑塔",
+            "book_id": 1754203,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「东方玄幻」《荒古圣体：在娘胎开始悟道》 掉出榜单；《荒古武神》下滑1位；《荒古武神》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "小司机的美女总裁老婆",
+            "book_id": 2052700,
+            "rank_change": -1
+          },
+          {
+            "title": "警报！龙国出现SSS级修仙者！",
+            "book_id": 1812053,
+            "rank_change": -1
+          },
+          {
+            "title": "镇天神医",
+            "book_id": 1675640,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "警报！龙国出现SSS级修仙者！",
+            "book_id": 1812053,
+            "heat_change": 3000
+          },
+          {
+            "title": "镇天神医",
+            "book_id": 1675640,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「都市高武」《小司机的美女总裁老婆》下滑1位；《警报！龙国出现SSS级修仙者！》热度+3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "heat_change": -3000
+          },
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「奇门秘术」《民间诡闻实录》上升1位领涨；《山野诡闻笔记》下滑3位；《山野诡闻笔记》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "我和软萌女友的恋爱日常",
+            "book_id": 214789,
+            "intro": "甜甜的治愈文，带你重回校园时代！"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "重生2000：从追求青涩校花同桌开始",
+            "book_id": 1758273,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "重生2000：从追求青涩校花同桌开始",
+            "book_id": 1758273,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「热血校园」《我和软萌女友的恋爱日常》 掉出榜单；《重生2000：从追求青涩校花同桌开始》下滑1位；《重生2000：从追求青涩校花同桌开始》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世危机」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "明星娱乐",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "天后老婆狂卷工作，我躺平被全网直播",
+            "book_id": 1952564,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "天后老婆狂卷工作，我躺平被全网直播",
+            "book_id": 1952564,
+            "heat_change": 3000
+          }
+        ],
+        "summary": "「明星娱乐」《天后老婆狂卷工作，我躺平被全网直播》上升3位领涨；《天后老婆狂卷工作，我躺平被全网直播》热度+3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+            "book_id": 2027749,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+            "book_id": 2027749,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「异世大陆」《刚抽中SSS级天赋，你跟我说游戏停服》下滑4位；《刚抽中SSS级天赋，你跟我说游戏停服》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "让你带问题女兵，你全养成特种兵王了？",
+            "book_id": 2091811,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "让你带问题女兵，你全养成特种兵王了？",
+            "book_id": 2091811,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「现代军事」《让你带问题女兵，你全养成特种兵王了？》下滑1位；《让你带问题女兵，你全养成特种兵王了？》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "SSS级狂龙归来，全球戒备！",
+            "book_id": 2060177,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "SSS级狂龙归来，全球戒备！",
+            "book_id": 2060177,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「都市高手」《SSS级狂龙归来，全球戒备！》上升1位领涨；《SSS级狂龙归来，全球戒备！》热度-1000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "types": [
     {
       "name": "全部",
@@ -27,6 +27,10 @@
       "url": "api/boy-new-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
     },
     {
+      "name": "都市高武",
+      "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
+    },
+    {
       "name": "东方玄幻",
       "url": "api/boy-new-date/latest/%E4%B8%9C%E6%96%B9%E7%8E%84%E5%B9%BB.json"
     },
@@ -41,14 +45,6 @@
     {
       "name": "虚拟网游",
       "url": "api/boy-new-date/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
-    },
-    {
-      "name": "都市高武",
-      "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
-    },
-    {
-      "name": "王朝争霸",
-      "url": "api/boy-new-date/latest/%E7%8E%8B%E6%9C%9D%E4%BA%89%E9%9C%B8.json"
     }
   ]
 }

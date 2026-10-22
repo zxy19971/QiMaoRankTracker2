@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-23",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 161650,
+    "total_heat": 3233000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "消失十五年，孩子妈穿回来了！",
+            "book_id": 1843770
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "诱情染指，疯批宠娇入怀",
+            "book_id": 1876752,
+            "intro": "【强取豪夺、强制爱、双洁、身材颜值天花板、身高差、体型差、性张力全线拉满】\n【东南亚第一财阀家族继承人/特战队最高指挥官VS娇软清醒小白兔】\n黎萋萋遇到祁枭野那天，克那钦迎来了初冬的第一场雪。\n她亲眼"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "rank_change": 1
+          },
+          {
+            "title": "京夜心动",
+            "book_id": 2024344,
+            "rank_change": 1
+          },
+          {
+            "title": "惯坏她",
+            "book_id": 10034568,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "盛总，太太让您签的是去父留子协议",
+            "book_id": 9903723,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "盛总，太太让您签的是去父留子协议",
+            "book_id": 9903723,
+            "heat_change": -15000
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": -9000
+          },
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "heat_change": -4000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《消失十五年，孩子妈穿回来了！》；《诱情染指，疯批宠娇入怀》 掉出榜单；《八年冷淡你提离婚，我签字你疯什么》上升1位领涨；《盛总，太太让您签的是去父留子协议》下滑3位；《盛总，太太让您签的是去父留子协议》热度-15000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "rank_change": 1
+          },
+          {
+            "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+            "book_id": 2019227,
+            "rank_change": 1
+          },
+          {
+            "title": "第一凤女",
+            "book_id": 1803136,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "裂春风",
+            "book_id": 10024089,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "裂春风",
+            "book_id": 10024089,
+            "heat_change": -46000
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": -12000
+          },
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「宫闱宅斗」《被逼自刎，嫡女重生撕婚书覆皇朝》上升1位领涨；《裂春风》下滑1位；《裂春风》热度-46000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「玄幻仙侠」《第一瞳术师》上升1位领涨；《第一瞳术师》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "「都市奇幻」《阴当》上升1位领涨；《阴当》热度+4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "小娇媳要随军，禁欲指挥官心慌慌",
+            "book_id": 1952077,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「年代重生」《小娇媳要随军，禁欲指挥官心慌慌》热度+2000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

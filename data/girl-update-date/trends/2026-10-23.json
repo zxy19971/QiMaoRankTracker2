@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-23",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 2,
+    "total_heat": 42,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "玉帐春",
+            "book_id": 11663199,
+            "intro": "【娇软奶娘x冷情权臣】\n郑时芙入山采药时，捡到了失忆的周培方。\n成婚三年，郑时芙为他生女育儿、劳心劳力，甚至不惜掏空家底供他读书。\n终于，周培方高中状元，带她赴京入职。\n原以为苦尽甘来，不想丈夫却在京"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": 3
+          },
+          {
+            "title": "宫女朔宁",
+            "book_id": 12315174,
+            "rank_change": 3
+          },
+          {
+            "title": "母凭女贵",
+            "book_id": 12800205,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "全家夺我军功，重生嫡女屠了满门",
+            "book_id": 1968910,
+            "heat_change": -3
+          },
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "heat_change": -2
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「宫闱宅斗」《玉帐春》 掉出榜单；《皇叔借点功德，王妃把符画猛了》上升3位领涨；《全家夺我军功，重生嫡女屠了满门》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "大佬十代单传，我为他一胎生四宝",
+            "book_id": 1726987,
+            "intro": "六年前，唐暖宁意外失身，薄宴沉说她不守妇道，一纸离婚协议书将她扫地出门，净身出户。\n六年后，她带着孩子归来，看到她身边缩小版的自己，某人才知道当年那个野男人就是他本尊。\n他追悔莫及，又惊又喜，从此高冷"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "rank_change": 2
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《离婚当天，和京圈太子爷闪婚了》、《霍二爷，新婚请克制！》；《大佬十代单传，我为他一胎生四宝》 掉出榜单；《离婚后她惊艳了世界》上升2位领涨；《她玩火》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "heat_change": -12
+          },
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "heat_change": 2
+          },
+          {
+            "title": "王妃一身妖骨，京城百祟俯首",
+            "book_id": 12328977,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「古代情缘」《娇软美人出嫁后》上升3位领涨；《新婚夜流放，飒爽太子妃种出西北大仓！》热度-12。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "重生八零嫁给全军第一硬汉",
+            "book_id": 1683831
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "七零娇娇十八，喜当萌娃亲妈",
+            "book_id": 13282398,
+            "intro": "【不是后妈文！孩子是亲生的！】\n【年代+空间+养娃+先婚后爱】\n遭遇医闹而死的医学博士云薇一睁眼，穿成个八代贫农，一门七烈士的孤儿。\n还没被这身世的光芒闪瞎眼，就来了个萌娃说是她亲生儿子，时不时爆出惊"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "军婚超甜！闪婚后成了首长的心尖宠",
+            "book_id": 12803265,
+            "rank_change": 4
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "军婚超甜！闪婚后成了首长的心尖宠",
+            "book_id": 12803265,
+            "heat_change": 3
+          }
+        ],
+        "summary": "「年代重生」新上榜 《重生八零嫁给全军第一硬汉》；《七零娇娇十八，喜当萌娃亲妈》 掉出榜单；《军婚超甜！闪婚后成了首长的心尖宠》上升4位领涨；《军婚超甜！闪婚后成了首长的心尖宠》热度+3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "乱世被流放，我在深山造温泉！",
+            "book_id": 13123812,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「种田经商」《乱世被流放，我在深山造温泉！》上升2位领涨；《大雪封山闹饥荒，福宝开挂富全村》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市奇幻」《家有玄妻，百邪不侵！》热度-1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 29000,
+    "total_heat": 51000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "不做替身后，小师妹一剑可破天",
-          "book_id": 12908322
+          "book_id": 12908322,
+          "rank_change": 3
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「玄幻仙侠」新上榜 《不做替身后，小师妹一剑可破天》。",
+      "heat_leaders": [
+        {
+          "title": "不做替身后，小师妹一剑可破天",
+          "book_id": 12908322,
+          "heat_change": 22000
+        }
+      ],
+      "summary": "「玄幻仙侠」《不做替身后，小师妹一剑可破天》上升3位领涨；《不做替身后，小师妹一剑可破天》热度+22000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 11,
         "title": "不做替身后，小师妹一剑可破天",
         "book_id": 12908322,
         "url": "https://www.qimao.com/shuku/12908322/",
@@ -44,18 +51,18 @@
         "minor_id": 21,
         "minor_url": "https://www.qimao.com/shuku/a-4-21-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.32万字",
-        "word_count": 383200,
-        "heat": 29000,
+        "word_count_text": "38.72万字",
+        "word_count": 387200,
+        "heat": 51000,
         "platform_trend": "rise",
-        "badge": "飙升25名",
+        "badge": "",
         "intro": "岑元清为宗门奉献了一辈子，临死才知自己是假死大师姐的替身。\n大师姐明明样样不如她，可他们却挖她灵根，夺她剑骨，要将她的一切血肉都夺给大师姐。\n她不甘心地活活自爆而死。\n重来一世，她改拜第一宗，选择握紧手中那把剑。\n一剑，可破天，可改命，让这天地都俯首。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4303/12908322_360x480.jpg?time=1785119302",
-        "latest_chapter": " 第190章  ：请你原谅爹的自私",
-        "updated_at": "2026-10-21 23:57:04",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第192章  ：有缘人皆可来",
+        "updated_at": "2026-10-23 00:17:05",
+        "rank_change": 3,
+        "heat_change": 22000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "玄幻仙侠"

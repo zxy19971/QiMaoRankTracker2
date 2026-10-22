@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T07:59:15",
-  "date": "2026-10-22",
+  "generated_at": "2026-10-23T07:57:44",
+  "date": "2026-10-23",
   "authors": [
     {
       "author": "化十",
@@ -29,10 +29,21 @@
       "author_url": "https://www.qimao.com/zuozhe/%E5%8D%81%E4%BA%8C%E5%A6%96_14/",
       "books": 2,
       "boards": 3,
-      "total_heat": 4064000,
+      "total_heat": 4018000,
       "titles": [
         "第一凤女",
         "裂春风"
+      ]
+    },
+    {
+      "author": "贪睡的虫儿",
+      "author_url": "https://www.qimao.com/zuozhe/%E8%B4%AA%E7%9D%A1%E7%9A%84%E8%99%AB%E5%84%BF_14/",
+      "books": 2,
+      "boards": 3,
+      "total_heat": 3112000,
+      "titles": [
+        "SSS级狂龙归来，全球戒备！",
+        "真龙下山，我体内有头绝世凶兽"
       ]
     },
     {
@@ -51,7 +62,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2287000,
+      "total_heat": 2287002,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
@@ -61,7 +72,7 @@
       "author": "佛系和尚",
       "author_url": "https://www.qimao.com/zuozhe/%E4%BD%9B%E7%B3%BB%E5%92%8C%E5%B0%9A_14/",
       "books": 2,
-      "boards": 3,
+      "boards": 2,
       "total_heat": 2167000,
       "titles": [
         "最强学霸系统",
@@ -110,6 +121,16 @@
       ]
     },
     {
+      "author": "修果",
+      "author_url": "https://www.qimao.com/zuozhe/%E4%BF%AE%E6%9E%9C_14/",
+      "books": 1,
+      "boards": 2,
+      "total_heat": 21309000,
+      "titles": [
+        "逍遥四公子"
+      ]
+    },
+    {
       "author": "琼玉",
       "author_url": "https://www.qimao.com/zuozhe/%E7%90%BC%E7%8E%89_14/",
       "books": 1,
@@ -153,7 +174,7 @@
       "author": "白生米",
       "author_url": "https://www.qimao.com/zuozhe/%E7%99%BD%E7%94%9F%E7%B1%B3_14/",
       "books": 1,
-      "boards": 3,
+      "boards": 2,
       "total_heat": 12850000,
       "titles": [
         "大佬十代单传，我为他一胎生四宝"
@@ -223,7 +244,7 @@
       "author": "秋仪",
       "author_url": "https://www.qimao.com/zuozhe/%E7%A7%8B%E4%BB%AA_14/",
       "books": 1,
-      "boards": 2,
+      "boards": 1,
       "total_heat": 10209000,
       "titles": [
         "玉帐春"
@@ -287,26 +308,6 @@
       "total_heat": 8910000,
       "titles": [
         "解春衫"
-      ]
-    },
-    {
-      "author": "雪落听风",
-      "author_url": "https://www.qimao.com/zuozhe/%E9%9B%AA%E8%90%BD%E5%90%AC%E9%A3%8E_14/",
-      "books": 1,
-      "boards": 3,
-      "total_heat": 8567000,
-      "titles": [
-        "家有玄妻，百邪不侵！"
-      ]
-    },
-    {
-      "author": "墨墨卿卿",
-      "author_url": "https://www.qimao.com/zuozhe/%E5%A2%A8%E5%A2%A8%E5%8D%BF%E5%8D%BF_14/",
-      "books": 1,
-      "boards": 2,
-      "total_heat": 8525000,
-      "titles": [
-        "霍二爷，新婚请克制！"
       ]
     }
   ]

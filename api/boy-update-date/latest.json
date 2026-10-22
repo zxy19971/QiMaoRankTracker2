@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "types": [
     {
       "name": "全部",
@@ -31,12 +31,16 @@
       "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
     },
     {
+      "name": "都市生活",
+      "url": "api/boy-update-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
+    },
+    {
       "name": "商战职场",
       "url": "api/boy-update-date/latest/%E5%95%86%E6%88%98%E8%81%8C%E5%9C%BA.json"
     },
     {
-      "name": "古典仙侠",
-      "url": "api/boy-update-date/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
+      "name": "奇门秘术",
+      "url": "api/boy-update-date/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
     },
     {
       "name": "恐怖灵异",
@@ -47,12 +51,8 @@
       "url": "api/boy-update-date/latest/%E6%9E%B6%E7%A9%BA%E5%8E%86%E5%8F%B2.json"
     },
     {
-      "name": "穿越历史",
-      "url": "api/boy-update-date/latest/%E7%A9%BF%E8%B6%8A%E5%8E%86%E5%8F%B2.json"
-    },
-    {
-      "name": "奇门秘术",
-      "url": "api/boy-update-date/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
+      "name": "古典仙侠",
+      "url": "api/boy-update-date/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
     }
   ]
 }

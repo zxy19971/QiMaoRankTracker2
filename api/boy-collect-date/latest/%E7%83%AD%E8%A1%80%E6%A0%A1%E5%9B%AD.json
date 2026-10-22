@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "category": {
     "name": "热血校园",
     "major": "都市",
@@ -80,7 +80,7 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 3,
+        "boards_count": 2,
         "stale_update": true,
         "category": "热血校园"
       }

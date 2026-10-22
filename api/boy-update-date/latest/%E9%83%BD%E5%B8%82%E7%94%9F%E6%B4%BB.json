@@ -8,61 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-21",
+  "date": "2026-10-23",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 1,
-    "total_heat": 3,
+    "total_heat": 7,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "她们眼中穷校草，竟是资本真大佬",
+          "book_id": 10138443
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "离婚后，前妻闺蜜找上我",
-          "book_id": 12671994,
-          "rank_change": 3
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "离婚后，前妻闺蜜找上我",
-          "book_id": 12671994,
-          "heat_change": -20
-        }
-      ],
-      "summary": "「都市生活」《离婚后，前妻闺蜜找上我》上升3位领涨；《离婚后，前妻闺蜜找上我》热度-20。",
+      "heat_leaders": [],
+      "summary": "「都市生活」新上榜 《她们眼中穷校草，竟是资本真大佬》。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 17,
-        "title": "离婚后，前妻闺蜜找上我",
-        "book_id": 12671994,
-        "url": "https://www.qimao.com/shuku/12671994/",
-        "author": "无色",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%97%A0%E8%89%B2_14/",
+        "rank": 18,
+        "title": "她们眼中穷校草，竟是资本真大佬",
+        "book_id": 10138443,
+        "url": "https://www.qimao.com/shuku/10138443/",
+        "author": "及时晴",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%8F%8A%E6%97%B6%E6%99%B4_14/",
         "major": "都市",
         "minor": "都市生活",
         "major_id": 203,
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "67.54万字",
-        "word_count": 675400,
-        "heat": 3,
+        "word_count_text": "156.73万字",
+        "word_count": 1567300,
+        "heat": 7,
         "platform_trend": "rise",
         "badge": "",
-        "intro": "本书又名：《本想冒充假少爷，没想到我竟是真少爷》，《你出轨室友，我找他老婆算账，你又急了？》\n---\n大学室友的未婚妻找上门的时候，夏天才知道自己看似冰清玉洁的妻子早就出轨了。为了复仇，他与大学室友的美女总裁未婚妻组成了‘复仇者联盟’。首先，复仇的第一步...",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4224/12671994_360x480.jpg?time=1783762882",
-        "latest_chapter": " 第104章  出去，女流氓",
-        "updated_at": "2026-10-20 09:04:03",
-        "rank_change": 3,
-        "heat_change": -20,
-        "is_new": false,
+        "intro": "上一世，韩学涛被女人陷害，蒙冤入狱，家破人亡。\n铁窗三年，远走海外，他在华尔街与加勒比海之间，一手铸就千亿帝国，成为令黑白两道都敬畏的传奇。\n再睁眼，竟重回1996年高考结束那天，回到那个皮带正被解开的肮脏隔间。\n这一世，所有耳光，由他亲手奉还！\n他再也不是那个任人摆布的穷学生。\n大伯想用五千块买断他的大学名额，还摆出施舍姿态？\n校花和她的闺蜜团，仍在用怜悯轻蔑的目光，打量他那双洗得发白的旧球鞋？\n韩学涛笑了。\n摊牌了，不装了。\n当国际原油期货的第一桶金悄然落袋，\n当港岛教父因他一通电话噤若寒蝉，华尔街巨头深夜候命，\n当那些曾经看不起他的人，在电视上看见他与各国名流谈笑风生，并惊恐地发现——连这座城最大的地下势力，都只敢尊称他一声“大佬”时……\n他们才终于醒悟：\n那个被她们看不起的穷校草，\n早已是屹立于云端之上，一念掌风云、一手定黑白的——资本真大佬。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3380/10138443_360x480.jpg?time=1770778478",
+        "latest_chapter": " 第621章  南珠的建议",
+        "updated_at": "2026-10-22 17:02:13",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"
