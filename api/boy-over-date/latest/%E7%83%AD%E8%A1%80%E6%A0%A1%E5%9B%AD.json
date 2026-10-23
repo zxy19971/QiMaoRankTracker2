@@ -8,23 +8,22 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "category": {
     "name": "热血校园",
     "major": "都市",
-    "count": 1,
-    "total_heat": 73000,
+    "count": 2,
+    "total_heat": 132000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
         {
           "title": "我和软萌女友的恋爱日常",
-          "book_id": 214789,
-          "intro": "甜甜的治愈文，带你重回校园时代！"
+          "book_id": 214789
         }
       ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [
         {
@@ -33,19 +32,13 @@
           "rank_change": -1
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "重生2000：从追求青涩校花同桌开始",
-          "book_id": 1758273,
-          "heat_change": -1000
-        }
-      ],
-      "summary": "「热血校园」《我和软萌女友的恋爱日常》 掉出榜单；《重生2000：从追求青涩校花同桌开始》下滑1位；《重生2000：从追求青涩校花同桌开始》热度-1000。",
+      "heat_leaders": [],
+      "summary": "「热血校园」新上榜 《我和软萌女友的恋爱日常》；《重生2000：从追求青涩校花同桌开始》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 12,
         "title": "重生2000：从追求青涩校花同桌开始",
         "book_id": 1758273,
         "url": "https://www.qimao.com/shuku/1758273/",
@@ -67,9 +60,38 @@
         "latest_chapter": " 第1992章  讣告",
         "updated_at": "2025-12-10 14:02:20",
         "rank_change": -1,
-        "heat_change": -1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": true,
+        "category": "热血校园"
+      },
+      {
+        "rank": 20,
+        "title": "我和软萌女友的恋爱日常",
+        "book_id": 214789,
+        "url": "https://www.qimao.com/shuku/214789/",
+        "author": "佛系和尚",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BD%9B%E7%B3%BB%E5%92%8C%E5%B0%9A_14/",
+        "major": "都市",
+        "minor": "热血校园",
+        "major_id": 203,
+        "minor_id": 222,
+        "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "299.99万字",
+        "word_count": 2999900,
+        "heat": 59000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "甜甜的治愈文，带你重回校园时代！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
+        "latest_chapter": " 第1338章  完结感言",
+        "updated_at": "2023-02-18 08:11:26",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 3,
         "stale_update": true,
         "category": "热血校园"
       }

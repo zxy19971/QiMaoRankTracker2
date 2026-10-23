@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-24",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 1,
+    "total_heat": 22,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "嫌我保安穷，你错失真龙！",
+            "book_id": 13420554
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "rank_change": 2
+          },
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "heat_change": 1
+          },
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高手」新上榜 《嫌我保安穷，你错失真龙！》；《爷爷托梦后，我靠戒指掌控万界》上升2位领涨；《医武双绝：下山捡个总裁当老婆》下滑1位；《爷爷托梦后，我靠戒指掌控万界》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "炼天图",
+            "book_id": 9697470,
+            "intro": "楚枫遭三位女弟子联手背叛，手持炼天图重生归来，炼化万物，踏上成帝之路。\n婚内不同房？\n反手炼化毒妇的玄阴之体，一夜筑基！\n魔头女帝要将我炼为傀儡？\n炼天图炼化心魔，女帝见我也需俯首！\n龙族公主追杀？\n"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」《炼天图》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "九转仙葫",
+            "book_id": 12212670,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「幻想修真」《九转仙葫》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "重生1999：重启火星计划",
+            "book_id": 13263771
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「商战职场」新上榜 《重生1999：重启火星计划》；《野性攀登》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "被陷害后，我被迫成了送子天官！",
+            "book_id": 12984576
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「架空历史」新上榜 《被陷害后，我被迫成了送子天官！》；《太监凶猛》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "rank_change": 1
+          },
+          {
+            "title": "被关女子监狱五年，出狱后我医武双绝",
+            "book_id": 12514650,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "heat_change": -1
+          },
+          {
+            "title": "被关女子监狱五年，出狱后我医武双绝",
+            "book_id": 12514650,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市高武」《神武天下之睚眦》上升1位领涨；《神武天下之睚眦》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "快老死了，圣女上门赐仙缘",
+            "book_id": 12670524,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "快老死了，圣女上门赐仙缘",
+            "book_id": 12670524,
+            "heat_change": 3
+          }
+        ],
+        "summary": "「古典仙侠」《快老死了，圣女上门赐仙缘》上升3位领涨；《快老死了，圣女上门赐仙缘》热度+3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「奇门秘术」《天黑请点灯》下滑1位；《天黑请点灯》热度-1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

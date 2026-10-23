@@ -8,42 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 6,
     "total_heat": 36798000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "逍遥四公子",
-          "book_id": 1809361
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
-          "rank_change": -1
-        },
-        {
-          "title": "边关猎户，我粮肉满仓富甲一方",
-          "book_id": 2093494,
-          "rank_change": -1
-        },
-        {
-          "title": "无敌六皇子",
-          "book_id": 1747899,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「架空历史」新上榜 《逍遥四公子》；《打到北极圈了，你让我继承皇位？》下滑1位。",
+      "summary": "「架空历史」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -64,15 +43,15 @@
         "word_count": 6351100,
         "heat": 21309000,
         "platform_trend": "drop",
-        "badge": "最新上榜",
+        "badge": "",
         "intro": "网剧《逍遥四公子》原著改编，腾讯独播。\n短剧《逍遥四公子》原著，已上线。\n又名《阁下不讲道理，在下也略懂拳脚》《逍遥小郎君》《极品四公子》\n宁宸穿越到了一个历史中从未出现过的朝代，本想一心搞钱，做个快乐逍遥的富家翁，三妻四妾，安度余生...可结果一不小心声名鹊起，名动大玄皇朝。\n少年扬刀，诛奸臣，平四夷，南征北战，再回首已是‘封狼居胥’，名动天下！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/520/1558519_360x480.jpg?time=1719540912",
         "latest_chapter": " 第2996章  往后余生，逍遥无拘",
         "updated_at": "2026-10-23 07:02:23",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
-        "boards_count": 2,
+        "is_new": false,
+        "boards_count": 4,
         "stale_update": false,
         "category": "架空历史"
       },
@@ -98,7 +77,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -127,7 +106,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/928/2783540_360x480.jpg?time=1778655622",
         "latest_chapter": " 第823章  山高路远，还是那句话，江湖再见吧",
         "updated_at": "2026-09-23 23:31:09",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -156,7 +135,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -185,7 +164,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -214,7 +193,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/728/2181111_360x480.jpg?time=1751623525",
         "latest_chapter": " 第1222章  完本",
         "updated_at": "2026-10-05 10:07:10",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

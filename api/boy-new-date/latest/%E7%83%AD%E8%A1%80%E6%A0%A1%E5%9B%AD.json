@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 1,
-    "total_heat": 95000,
+    "total_heat": 89000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -25,10 +25,10 @@
         {
           "title": "趁校花一贫如洗，忽悠她以身相许",
           "book_id": 12896292,
-          "heat_change": 2000
+          "heat_change": -6000
         }
       ],
-      "summary": "「热血校园」《趁校花一贫如洗，忽悠她以身相许》热度+2000。",
+      "summary": "「热血校园」《趁校花一贫如洗，忽悠她以身相许》热度-6000。",
       "ai_source": "rule"
     },
     "books": [
@@ -45,17 +45,17 @@
         "minor_id": 222,
         "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.87万字",
-        "word_count": 418700,
-        "heat": 95000,
-        "platform_trend": "rise",
+        "word_count_text": "42.53万字",
+        "word_count": 425300,
+        "heat": 89000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "重回2010年的大学城。\n这一年，未来的“最美女教授”还在奶茶店兼职。\n这一年，未来的女团顶流尚在校园，却已初露锋芒。\n这一年，未来的机车女神还只是个有点拜金的小姑娘。\n这一年，未来的商业女强人，还是个恋爱脑。\n这一年，阳光正好，微风不燥，遗憾来得及弥补，野心正蓄势待发。\n这一年，刘寻发誓，这辈子不再循规循距，要将前世没享过的福，统统体验一遍！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
-        "latest_chapter": " 第183章  沈曼：Battle！敢不敢！",
-        "updated_at": "2026-10-22 08:12:13",
+        "latest_chapter": " 第186章  沈曼：刘寻，要了我吧！",
+        "updated_at": "2026-10-23 08:12:14",
         "rank_change": 0,
-        "heat_change": 2000,
+        "heat_change": -6000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

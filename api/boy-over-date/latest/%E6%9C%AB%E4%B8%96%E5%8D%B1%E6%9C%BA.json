@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "category": {
     "name": "末世危机",
     "major": "科幻",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "全球灾变之末日游戏",
+          "book_id": 219542,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「末世危机」榜单结构稳定，无明显变动。",
+      "summary": "「末世危机」《全球灾变之末日游戏》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 13,
         "title": "全球灾变之末日游戏",
         "book_id": 219542,
         "url": "https://www.qimao.com/shuku/219542/",
@@ -42,13 +48,13 @@
         "word_count_text": "502.3万字",
         "word_count": 5023000,
         "heat": 68000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【2026年最火末日神作】\n如果仁慈和善良不能拯救世人。\n那么这一次，我选择杀戮。\n我于死亡中重生，亦如烈日下的罪恶。\n-----------\n新书《末日剑神：我震惊全球》已在快看漫画上线，感兴趣的兄弟可以搜漫画名在线观看。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,

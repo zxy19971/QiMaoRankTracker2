@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-24",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 1,
+    "total_heat": 29,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "错撩反派，被疯批摄政王强娶豪夺",
+            "book_id": 12593919,
+            "rank_change": -5
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "宫女朔宁",
+            "book_id": 12315174,
+            "heat_change": -3
+          },
+          {
+            "title": "母凭女贵",
+            "book_id": 12800205,
+            "heat_change": -3
+          },
+          {
+            "title": "错撩反派，被疯批摄政王强娶豪夺",
+            "book_id": 12593919,
+            "heat_change": 3
+          }
+        ],
+        "summary": "「宫闱宅斗」《劝爹入赘公主府，玄学嫡女被团宠》上升1位领涨；《错撩反派，被疯批摄政王强娶豪夺》下滑5位；《宫女朔宁》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": 2
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "rank_change": -3
+          },
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "heat_change": -4
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "heat_change": 1
+          },
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《疯犬玫瑰》；《她玩火》上升2位领涨；《离婚当天，和京圈太子爷闪婚了》下滑3位；《离婚当天，和京圈太子爷闪婚了》热度-4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "heat_change": 3
+          },
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "heat_change": -3
+          }
+        ],
+        "summary": "「古代情缘」《新婚夜流放，飒爽太子妃种出西北大仓！》上升3位领涨；《新婚夜流放，飒爽太子妃种出西北大仓！》热度+3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "rank_change": -1
+          },
+          {
+            "title": "乱世被流放，我在深山造温泉！",
+            "book_id": 13123812,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "heat_change": 1
+          },
+          {
+            "title": "乱世被流放，我在深山造温泉！",
+            "book_id": 13123812,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「种田经商」《大雪封山闹饥荒，福宝开挂富全村》下滑1位；《大雪封山闹饥荒，福宝开挂富全村》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "重生八零嫁给全军第一硬汉",
+            "book_id": 1683831,
+            "intro": "【八零肥妻+驻地随夫+甜宠+无金手指+无空间+女主凭实力逆袭创业】\n扑街网文作者姜绾一朝穿越，重生成八十年代一个体重300斤的黑胖村姑。\n没有金手指，没有空间！\n原主奸懒馋滑，嗜赌成性，又穷凶极恶的拐"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "军婚超甜！闪婚后成了首长的心尖宠",
+            "book_id": 12803265,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "军婚超甜！闪婚后成了首长的心尖宠",
+            "book_id": 12803265,
+            "heat_change": -3
+          }
+        ],
+        "summary": "「年代重生」《重生八零嫁给全军第一硬汉》 掉出榜单；《军婚超甜！闪婚后成了首长的心尖宠》下滑1位；《军婚超甜！闪婚后成了首长的心尖宠》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市奇幻」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

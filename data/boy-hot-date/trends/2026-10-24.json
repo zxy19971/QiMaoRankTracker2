@@ -1,0 +1,293 @@
+{
+  "date": "2026-10-24",
+  "board": "boy-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 392850,
+    "total_heat": 7857000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "九阴九阳",
+            "book_id": 2063605,
+            "intro": "吞噬阴元即可提升修为？\n林辰九世轮回归来，觉醒混沌鼎，并成为极乐峰上唯一的男弟子！\n小师妹的纯阴之体？炼作灵源！\n大师姐的玄冰灵根？炼为道基！\n宗门圣女的星辰血脉？炼入己身！\n女帝的至尊道骨？炼成无上"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "rank_change": -2
+          },
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "rank_change": -2
+          },
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "heat_change": -7000
+          },
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "heat_change": -3000
+          },
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「东方玄幻」《九阴九阳》 掉出榜单；《吞噬九重天》上升1位领涨；《荒古武神》下滑2位；《葬神棺》热度-7000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "逍遥四公子",
+            "book_id": 1809361
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "让你当个替身，你咋君临天下",
+            "book_id": 12647139,
+            "rank_change": -1
+          },
+          {
+            "title": "大乾第一豪强",
+            "book_id": 12465015,
+            "rank_change": -1
+          },
+          {
+            "title": "边军悍卒",
+            "book_id": 1882754,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "大乾第一豪强",
+            "book_id": 12465015,
+            "heat_change": 15000
+          },
+          {
+            "title": "让你当个替身，你咋君临天下",
+            "book_id": 12647139,
+            "heat_change": -10000
+          },
+          {
+            "title": "边军悍卒",
+            "book_id": 1882754,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「架空历史」新上榜 《逍遥四公子》；《让你当个替身，你咋君临天下》下滑1位；《大乾第一豪强》热度+15000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "舔狗反派只想苟，女主不按套路走！",
+            "book_id": 1710753,
+            "rank_change": -3
+          },
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "rank_change": -1
+          },
+          {
+            "title": "逼我新婚冲喜，丑妻变仙女！",
+            "book_id": 11675421,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "heat_change": 26000
+          },
+          {
+            "title": "警报！真龙出狱！",
+            "book_id": 1834789,
+            "heat_change": 18000
+          },
+          {
+            "title": "舔狗反派只想苟，女主不按套路走！",
+            "book_id": 1710753,
+            "heat_change": -4000
+          }
+        ],
+        "summary": "「都市高手」《舔狗反派只想苟，女主不按套路走！》下滑3位；《傲世潜龙》热度+26000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "盖世神医",
+            "book_id": 195958,
+            "heat_change": -17000
+          }
+        ],
+        "summary": "「都市高武」《盖世神医》热度-17000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "桃花劫",
+            "book_id": 2028957,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "桃花劫",
+            "book_id": 2028957,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「商战职场」《桃花劫》下滑1位；《桃花劫》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "步步登阶",
+            "book_id": 1982360,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "步步登阶",
+            "book_id": 1982360,
+            "heat_change": 33000
+          }
+        ],
+        "summary": "「都市生活」《步步登阶》上升1位领涨；《步步登阶》热度+33000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "王朝争霸",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "大周第一武夫",
+            "book_id": 2074426,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "大周第一武夫",
+            "book_id": 2074426,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「王朝争霸」《大周第一武夫》上升1位领涨；《大周第一武夫》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "聚宝仙炉",
+            "book_id": 12452187,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "聚宝仙炉",
+            "book_id": 12452187,
+            "heat_change": -10000
+          }
+        ],
+        "summary": "「幻想修真」《聚宝仙炉》下滑4位；《聚宝仙炉》热度-10000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

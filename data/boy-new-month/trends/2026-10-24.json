@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-24",
+  "board": "boy-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 307550,
+    "total_heat": 6151000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "都重生了谁还老实创业啊？",
+            "book_id": 12594366
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "重生70：大国栋梁，从正阳门下开始",
+            "book_id": 12867831,
+            "rank_change": 1
+          },
+          {
+            "title": "离婚后，高冷前妻日日求我复合",
+            "book_id": 12938433,
+            "rank_change": 1
+          },
+          {
+            "title": "重生70：我在空间狩猎，狂宠妻儿",
+            "book_id": 13340112,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市生活」新上榜 《都重生了谁还老实创业啊？》；《重生70：大国栋梁，从正阳门下开始》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "咱家世代从军，到你这成文圣了？",
+            "book_id": 13194165,
+            "rank_change": 1
+          },
+          {
+            "title": "寇天子",
+            "book_id": 12817968,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」《咱家世代从军，到你这成文圣了？》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 2,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "女总裁的小邪医",
+            "book_id": 12932601,
+            "intro": "退伍保安跑滴滴，遭未婚妻与奸夫下药谋害，祖传玉佩觉醒青囊神武......\n“你喜欢阿姨吗？”\n“喜欢。”\n许平安从不介意姐弟恋"
+          },
+          {
+            "title": "冒充豪门大少，拐个美女总裁当老婆",
+            "book_id": 12905160,
+            "intro": "陈阳，代号“阎王”，厌倦了海外的腥风血雨，伪装成普通人回归都市。\n岂料第一天，就美女上司抓住把柄，逼他冒充百亿豪门的小少爷。\n他表面扮演纨绔，暗中布局天下！\n冰山老婆、美艳上司、高冷御姐、邻家妹妹……"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "血脉觉醒后，美女总裁赖上我",
+            "book_id": 13089795,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」《女总裁的小邪医》、《冒充豪门大少，拐个美女总裁当老婆》 掉出榜单；《血脉觉醒后，美女总裁赖上我》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "都市极品狂龙！",
+            "book_id": 13012533
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」新上榜 《都市极品狂龙！》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「热血校园」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "虚拟网游",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "网游：全是数值，你管这叫圣骑士？",
+            "book_id": 12801060,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「虚拟网游」《网游：全是数值，你管这叫圣骑士？》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

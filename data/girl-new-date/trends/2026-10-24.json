@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-24",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 131750,
+    "total_heat": 2635000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "婚前不熟，婚后失控",
+            "book_id": 13300485
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "骗我假结婚？改嫁顶级大佬虐哭你",
+            "book_id": 12743124,
+            "intro": "恢复视力这天，宋茉亲眼看见相爱三年的丈夫，正与别的女人举办盛大婚礼。\n原来，结婚证是假的，三年痴情付出不过一场精心策划的骗局。\n宋茉清醒了，扔掉婚戒撕毁婚纱画，转头答应了养母的荒唐要求——替姐姐联姻，"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "冷婚七年，夫人带娃离婚他悔疯了",
+            "book_id": 12996819,
+            "rank_change": 2
+          },
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "rank_change": 1
+          },
+          {
+            "title": "暗渡春潮",
+            "book_id": 12784170,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "heat_change": 86000
+          },
+          {
+            "title": "裴先生，暗恋她已十二年",
+            "book_id": 13010484,
+            "heat_change": -71000
+          },
+          {
+            "title": "唯她是图",
+            "book_id": 12860100,
+            "heat_change": -16000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《婚前不熟，婚后失控》；《骗我假结婚？改嫁顶级大佬虐哭你》 掉出榜单；《冷婚七年，夫人带娃离婚他悔疯了》上升2位领涨；《夫人反差太大，司总沦陷了！》热度+86000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "heat_change": -11000
+          },
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "heat_change": -2000
+          },
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「古代情缘」《嫡姐惨死？王妃她杀爆京城》热度-11000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "被父弃？做罪妻？赌婚换命赚翻天",
+            "book_id": 13057029
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514,
+            "heat_change": -2000
+          },
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「种田经商」新上榜 《被父弃？做罪妻？赌婚换命赚翻天》；《流民医女：开荒把残夫养成战神》下滑1位；《流民医女：开荒把残夫养成战神》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "婚后分床睡，冷面军官他急了",
+            "book_id": 12856086,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": -12000
+          },
+          {
+            "title": "婚后分床睡，冷面军官他急了",
+            "book_id": 12856086,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「年代重生」《婚后分床睡，冷面军官他急了》上升1位领涨；《错嫁随军：新婚夜冷面军少沦陷了》下滑1位；《错嫁随军：新婚夜冷面军少沦陷了》热度-12000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "神算王妃薅功德，转嫁绝嗣皇叔一胎三宝",
+            "book_id": 11718921,
+            "intro": "【双洁+先婚后爱+玄学改命+全员团宠+打脸虐渣+疯批皇叔独宠】\n世人都说靖王绝嗣，终生无后，皇帝怜惜，朝野叹惋。\n一朝赐婚，人人都等着看楚云汐的笑话。\n嫁个不能生育的皇叔，这辈子只能守活寡。\n新婚夜，"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "heat_change": -12000
+          },
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "heat_change": -7000
+          }
+        ],
+        "summary": "「宫闱宅斗」《神算王妃薅功德，转嫁绝嗣皇叔一胎三宝》 掉出榜单；《皇上开门，福宝带物资来送温暖啦》下滑1位；《劝爹入赘公主府，玄学嫡女被团宠》热度-12000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "不做替身后，小师妹一剑可破天",
+            "book_id": 12908322,
+            "heat_change": 5000
+          }
+        ],
+        "summary": "「玄幻仙侠」《不做替身后，小师妹一剑可破天》热度+5000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

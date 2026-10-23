@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 276000,
+    "total_heat": 266000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,22 +24,22 @@
         {
           "title": "聚宝仙炉",
           "book_id": 12452187,
-          "rank_change": -1
+          "rank_change": -4
         }
       ],
       "heat_leaders": [
         {
           "title": "聚宝仙炉",
           "book_id": 12452187,
-          "heat_change": -4000
+          "heat_change": -10000
         }
       ],
-      "summary": "「幻想修真」《聚宝仙炉》下滑1位；《聚宝仙炉》热度-4000。",
+      "summary": "「幻想修真」《聚宝仙炉》下滑4位；《聚宝仙炉》热度-10000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 16,
         "title": "聚宝仙炉",
         "book_id": 12452187,
         "url": "https://www.qimao.com/shuku/12452187/",
@@ -51,17 +51,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "59.56万字",
-        "word_count": 595600,
-        "heat": 276000,
+        "word_count_text": "59.98万字",
+        "word_count": 599800,
+        "heat": 266000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
-        "latest_chapter": " 第283章  驰援凤鸣洲",
-        "updated_at": "2026-10-22 22:55:04",
-        "rank_change": -1,
-        "heat_change": -4000,
+        "latest_chapter": " 第285章  大阵炼器",
+        "updated_at": "2026-10-23 22:35:04",
+        "rank_change": -4,
+        "heat_change": -10000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
