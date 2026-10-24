@@ -8,49 +8,48 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 5,
-    "total_heat": 961000,
+    "total_heat": 1038000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "寒门枭士",
-          "book_id": 215169,
-          "intro": "《王牌对王牌》推荐！\n突然穿越到了古代，饭都吃不饱怎么办？什么，男人快被打完了，官府发了个漂亮老婆，明年必须生孩子？什么，外族又来入侵中原？……\n没关系，学好数理化，走遍天下都不怕！\n草原骑兵势不可挡"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [],
-      "heat_leaders": [
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "被贬边疆，成就最强藩王",
           "book_id": 1965987,
-          "heat_change": -13000
+          "rank_change": -3
         },
+        {
+          "title": "世子无双",
+          "book_id": 1860026,
+          "rank_change": -2
+        }
+      ],
+      "heat_leaders": [
         {
           "title": "逍遥四公子",
           "book_id": 1809361,
-          "heat_change": -2000
+          "heat_change": 90000
+        },
+        {
+          "title": "被贬边疆，成就最强藩王",
+          "book_id": 1965987,
+          "heat_change": -8000
         },
         {
           "title": "无敌六皇子",
           "book_id": 1747899,
-          "heat_change": -1000
+          "heat_change": -3000
         }
       ],
-      "summary": "「架空历史」《寒门枭士》 掉出榜单；《打到北极圈了，你让我继承皇位？》上升1位领涨；《被贬边疆，成就最强藩王》热度-13000。",
+      "summary": "「架空历史」《被贬边疆，成就最强藩王》下滑3位；《逍遥四公子》热度+90000。",
       "ai_source": "rule"
     },
     "books": [
@@ -69,15 +68,15 @@
         "status": "已完结",
         "word_count_text": "635.11万字",
         "word_count": 6351100,
-        "heat": 588000,
-        "platform_trend": "drop",
+        "heat": 678000,
+        "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "网剧《逍遥四公子》原著改编，腾讯独播。\n短剧《逍遥四公子》原著，已上线。\n又名《阁下不讲道理，在下也略懂拳脚》《逍遥小郎君》《极品四公子》\n宁宸穿越到了一个历史中从未出现过的朝代，本想一心搞钱，做个快乐逍遥的富家翁，三妻四妾，安度余生...可结果一不小心声名鹊起，名动大玄皇朝。\n少年扬刀，诛奸臣，平四夷，南征北战，再回首已是‘封狼居胥’，名动天下！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/520/1558519_360x480.jpg?time=1719540912",
         "latest_chapter": " 第2996章  往后余生，逍遥无拘",
         "updated_at": "2026-10-23 07:02:23",
         "rank_change": 0,
-        "heat_change": -2000,
+        "heat_change": 90000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": false,
@@ -105,7 +104,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
-        "rank_change": 1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -127,7 +126,7 @@
         "status": "已完结",
         "word_count_text": "350.25万字",
         "word_count": 3502500,
-        "heat": 101000,
+        "heat": 98000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "新书《天命纨绔》已经上传，《你好种地少年2》推荐的爆款权谋爽文\n云铮穿越成大乾王朝六皇子，不夺嫡，不宫斗，只想安心搞军权当老六！军权在手，天下我有！\n文帝：老六，你那几哥哥越来不像话了，借父皇十万兵马收拾他们！\n太子：老弟，有话好好说，别带着兵马回来吓你哥啊！\n大臣：六殿下，你觉得微臣那小女儿怎么样？",
@@ -135,14 +134,14 @@
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
         "category": "架空历史"
       },
       {
-        "rank": 10,
+        "rank": 13,
         "title": "被贬边疆，成就最强藩王",
         "book_id": 1965987,
         "url": "https://www.qimao.com/shuku/1965987/",
@@ -156,22 +155,22 @@
         "status": "已完结",
         "word_count_text": "258.32万字",
         "word_count": 2583200,
-        "heat": 75000,
+        "heat": 67000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "开局穿越遭遇仙人跳，被贬边疆吃土。\n皇帝想困我在边城？朝臣想看我笑话？\n却不知我手握现代知识，开荒田、炼精钢、训铁骑！\n三年后，铁骑踏平草原，连敌国公主都跪求联姻……\n龙椅上的那位才后悔：\n他亲手流放的不是弃子，而是大周真正的潜龙！\n“陛下，这万里边疆……现在归我了！”\n原来流放，才是他称霸的开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/728/2181111_360x480.jpg?time=1751623525",
         "latest_chapter": " 第1222章  完本",
         "updated_at": "2026-10-05 10:07:10",
-        "rank_change": 0,
-        "heat_change": -13000,
+        "rank_change": -3,
+        "heat_change": -8000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "架空历史"
       },
       {
-        "rank": 17,
+        "rank": 19,
         "title": "世子无双",
         "book_id": 1860026,
         "url": "https://www.qimao.com/shuku/1860026/",
@@ -185,15 +184,15 @@
         "status": "已完结",
         "word_count_text": "284万字",
         "word_count": 2840000,
-        "heat": 63000,
+        "heat": 61000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "有声剧《世子无双》已上线喜马拉雅，欢迎收听！\n短剧《世子无双》原著，已上线。\n由腾讯音乐独家改编的《世子无双》同名多人有声剧在QQ音乐、酷狗音乐、酷我音乐、懒人听书APP火热播出中！每日更新10集起，欢迎前去收听！\n穿越架空历史，成为在青楼猝死的废材纨绔。\n王公家独苗，爷爷更是位高权重，手握兵马的军神。\n本想勾栏听曲，花船找女，纸醉金迷，夜夜笙歌……\n但……\n番邦蛮夷想他死。\n世家门阀想他死。\n就连皇帝也做局想弄死他。\n卫渊很慌，但却不完全慌。\n以纨绔人设，一路横冲直撞，从京师到江南，从庙宇到朝堂，从边关到草原，留下赫赫威名。\n当所有人反应过来时，发现他追随者名将如云，手握百万雄师，拥兵自重。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
-        "rank_change": 0,
-        "heat_change": -1000,
+        "rank_change": -2,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

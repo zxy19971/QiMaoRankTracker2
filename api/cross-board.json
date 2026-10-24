@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T07:50:12",
-  "date": "2026-10-24",
+  "generated_at": "2026-10-25T06:59:53",
+  "date": "2026-10-25",
   "books": [
     {
       "book_id": 1809361,
@@ -216,7 +216,7 @@
         "女生新书月榜"
       ],
       "best_rank": 1,
-      "total_heat": 592000
+      "total_heat": 617000
     },
     {
       "book_id": 12792057,
@@ -359,11 +359,11 @@
       "total_heat": 19907000
     },
     {
-      "book_id": 12860100,
-      "title": "唯她是图",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4287/12860100_360x480.jpg?time=1791625120",
-      "author": "毛兮",
-      "minor": "总裁豪门",
+      "book_id": 13021647,
+      "title": "嫡姐惨死？王妃她杀爆京城",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4341/13021647_360x480.jpg?time=1791515044",
+      "author": "青黛",
+      "minor": "古代情缘",
       "boards_count": 3,
       "boards": [
         "girl-hot-date",
@@ -376,7 +376,7 @@
         "女生新书月榜"
       ],
       "best_rank": 3,
-      "total_heat": 395000
+      "total_heat": 337000
     },
     {
       "book_id": 11820759,
@@ -399,11 +399,11 @@
       "total_heat": 8567000
     },
     {
-      "book_id": 13021647,
-      "title": "嫡姐惨死？王妃她杀爆京城",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4341/13021647_360x480.jpg?time=1791515044",
-      "author": "青黛",
-      "minor": "古代情缘",
+      "book_id": 12860100,
+      "title": "唯她是图",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4287/12860100_360x480.jpg?time=1791625120",
+      "author": "毛兮",
+      "minor": "总裁豪门",
       "boards_count": 3,
       "boards": [
         "girl-hot-date",
@@ -416,7 +416,7 @@
         "女生新书月榜"
       ],
       "best_rank": 4,
-      "total_heat": 337000
+      "total_heat": 395000
     },
     {
       "book_id": 12718566,
@@ -519,26 +519,6 @@
       "total_heat": 12721000
     },
     {
-      "book_id": 214789,
-      "title": "我和软萌女友的恋爱日常",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
-      "author": "佛系和尚",
-      "minor": "热血校园",
-      "boards_count": 3,
-      "boards": [
-        "boy-over-date",
-        "boy-over-month",
-        "boy-collect-date"
-      ],
-      "board_names": [
-        "男生完结日榜",
-        "男生完结月榜",
-        "男生收藏日榜"
-      ],
-      "best_rank": 6,
-      "total_heat": 2167000
-    },
-    {
       "book_id": 1658048,
       "title": "六年后，我携四个幼崽炸翻前夫家",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/92/275615_1659923211_360x480.jpg",
@@ -619,26 +599,6 @@
       "total_heat": 7937000
     },
     {
-      "book_id": 219542,
-      "title": "全球灾变之末日游戏",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
-      "author": "我爱吃猫片",
-      "minor": "末世危机",
-      "boards_count": 3,
-      "boards": [
-        "boy-over-date",
-        "boy-over-month",
-        "boy-collect-date"
-      ],
-      "board_names": [
-        "男生完结日榜",
-        "男生完结月榜",
-        "男生收藏日榜"
-      ],
-      "best_rank": 13,
-      "total_heat": 2100000
-    },
-    {
       "book_id": 1699328,
       "title": "大佬归来，假千金她不装了",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/410/1229482_360x480.jpg?time=1683772413",
@@ -679,24 +639,24 @@
       "total_heat": 8525000
     },
     {
-      "book_id": 1968910,
-      "title": "全家夺我军功，重生嫡女屠了满门",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/732/2193635_360x480.jpg?time=1745394296",
-      "author": "我吃饱饱",
-      "minor": "宫闱宅斗",
+      "book_id": 219542,
+      "title": "全球灾变之末日游戏",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
+      "author": "我爱吃猫片",
+      "minor": "末世危机",
       "boards_count": 3,
       "boards": [
-        "girl-hot-date",
-        "girl-hot-month",
-        "girl-update-date"
+        "boy-over-date",
+        "boy-over-month",
+        "boy-collect-date"
       ],
       "board_names": [
-        "女生大热日榜",
-        "女生大热月榜",
-        "女生更新日榜"
+        "男生完结日榜",
+        "男生完结月榜",
+        "男生收藏日榜"
       ],
-      "best_rank": 18,
-      "total_heat": 6619000
+      "best_rank": 16,
+      "total_heat": 2100000
     },
     {
       "book_id": 12973059,
@@ -789,6 +749,24 @@
       "total_heat": 1692000
     },
     {
+      "book_id": 213697,
+      "title": "葬天神帝",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/212005_360x480.jpg?time=1638353695",
+      "author": "我爱弹棉花",
+      "minor": "东方玄幻",
+      "boards_count": 2,
+      "boards": [
+        "boy-hot-date",
+        "boy-over-date"
+      ],
+      "board_names": [
+        "男生大热日榜",
+        "男生完结日榜"
+      ],
+      "best_rank": 3,
+      "total_heat": 195000
+    },
+    {
       "book_id": 13089795,
       "title": "血脉觉醒后，美女总裁赖上我",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4364/13089795_360x480.jpg?time=1792115432",
@@ -840,7 +818,7 @@
         "女生完结日榜"
       ],
       "best_rank": 3,
-      "total_heat": 290000
+      "total_heat": 287000
     },
     {
       "book_id": 12784170,
@@ -876,7 +854,7 @@
         "男生更新日榜"
       ],
       "best_rank": 4,
-      "total_heat": 42000
+      "total_heat": 40000
     },
     {
       "book_id": 13008696,
@@ -915,24 +893,6 @@
       "total_heat": 4691000
     },
     {
-      "book_id": 12264417,
-      "title": "她玩火",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4089/12264417_360x480.jpg?time=1782701378",
-      "author": "如鱼",
-      "minor": "总裁豪门",
-      "boards_count": 2,
-      "boards": [
-        "girl-hot-date",
-        "girl-update-date"
-      ],
-      "board_names": [
-        "女生大热日榜",
-        "女生更新日榜"
-      ],
-      "best_rank": 4,
-      "total_heat": 212000
-    },
-    {
       "book_id": 12647139,
       "title": "让你当个替身，你咋君临天下",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4216/12647139_360x480.jpg?time=1786559398",
@@ -951,11 +911,11 @@
       "total_heat": 6363000
     },
     {
-      "book_id": 13340112,
-      "title": "重生70：我在空间狩猎，狂宠妻儿",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4447/13340112_360x480.jpg?time=1788276072",
-      "author": "煜煜吃鱼鱼",
-      "minor": "都市生活",
+      "book_id": 12948825,
+      "title": "边军悍卒：一把长弓定天下！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4317/12948825_360x480.jpg?time=1785383216",
+      "author": "清风拂星辰",
+      "minor": "架空历史",
       "boards_count": 2,
       "boards": [
         "boy-new-date",
@@ -966,7 +926,7 @@
         "男生新书月榜"
       ],
       "best_rank": 5,
-      "total_heat": 179000
+      "total_heat": 402000
     },
     {
       "book_id": 12706761,
@@ -1023,11 +983,29 @@
       "total_heat": 675000
     },
     {
-      "book_id": 12948825,
-      "title": "边军悍卒：一把长弓定天下！",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4317/12948825_360x480.jpg?time=1785383216",
-      "author": "清风拂星辰",
-      "minor": "架空历史",
+      "book_id": 1982360,
+      "title": "步步登阶",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
+      "author": "江湖如梦",
+      "minor": "都市生活",
+      "boards_count": 2,
+      "boards": [
+        "boy-hot-date",
+        "boy-hot-month"
+      ],
+      "board_names": [
+        "男生大热日榜",
+        "男生大热月榜"
+      ],
+      "best_rank": 6,
+      "total_heat": 11858000
+    },
+    {
+      "book_id": 13340112,
+      "title": "重生70：我在空间狩猎，狂宠妻儿",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4447/13340112_360x480.jpg?time=1788276072",
+      "author": "煜煜吃鱼鱼",
+      "minor": "都市生活",
       "boards_count": 2,
       "boards": [
         "boy-new-date",
@@ -1038,7 +1016,25 @@
         "男生新书月榜"
       ],
       "best_rank": 6,
-      "total_heat": 402000
+      "total_heat": 179000
+    },
+    {
+      "book_id": 214789,
+      "title": "我和软萌女友的恋爱日常",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
+      "author": "佛系和尚",
+      "minor": "热血校园",
+      "boards_count": 2,
+      "boards": [
+        "boy-over-month",
+        "boy-collect-date"
+      ],
+      "board_names": [
+        "男生完结月榜",
+        "男生收藏日榜"
+      ],
+      "best_rank": 6,
+      "total_heat": 2167000
     },
     {
       "book_id": 1726987,
@@ -1059,6 +1055,24 @@
       "total_heat": 12850000
     },
     {
+      "book_id": 12264417,
+      "title": "她玩火",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4089/12264417_360x480.jpg?time=1782701378",
+      "author": "如鱼",
+      "minor": "总裁豪门",
+      "boards_count": 2,
+      "boards": [
+        "girl-hot-date",
+        "girl-update-date"
+      ],
+      "board_names": [
+        "女生大热日榜",
+        "女生更新日榜"
+      ],
+      "best_rank": 6,
+      "total_heat": 196000
+    },
+    {
       "book_id": 13123386,
       "title": "劝爹入赘公主府，玄学嫡女被团宠",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4375/13123386_360x480.jpg?time=1789283551",
@@ -1074,7 +1088,7 @@
         "女生更新日榜"
       ],
       "best_rank": 6,
-      "total_heat": 128000
+      "total_heat": 111000
     },
     {
       "book_id": 2028957,
@@ -1093,42 +1107,6 @@
       ],
       "best_rank": 7,
       "total_heat": 10591000
-    },
-    {
-      "book_id": 1982360,
-      "title": "步步登阶",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
-      "author": "江湖如梦",
-      "minor": "都市生活",
-      "boards_count": 2,
-      "boards": [
-        "boy-hot-date",
-        "boy-hot-month"
-      ],
-      "board_names": [
-        "男生大热日榜",
-        "男生大热月榜"
-      ],
-      "best_rank": 7,
-      "total_heat": 11858000
-    },
-    {
-      "book_id": 12949137,
-      "title": "北疆最狂纨绔：从赐婚进京开始",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4317/12949137_360x480.jpg?time=1785316538",
-      "author": "七弦",
-      "minor": "架空历史",
-      "boards_count": 2,
-      "boards": [
-        "boy-new-date",
-        "boy-new-month"
-      ],
-      "board_names": [
-        "男生新书日榜",
-        "男生新书月榜"
-      ],
-      "best_rank": 7,
-      "total_heat": 318000
     },
     {
       "book_id": 12708261,
@@ -1183,6 +1161,24 @@
       ],
       "best_rank": 7,
       "total_heat": 4825000
+    },
+    {
+      "book_id": 12949137,
+      "title": "北疆最狂纨绔：从赐婚进京开始",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4317/12949137_360x480.jpg?time=1785316538",
+      "author": "七弦",
+      "minor": "架空历史",
+      "boards_count": 2,
+      "boards": [
+        "boy-new-date",
+        "boy-new-month"
+      ],
+      "board_names": [
+        "男生新书日榜",
+        "男生新书月榜"
+      ],
+      "best_rank": 8,
+      "total_heat": 318000
     },
     {
       "book_id": 12898650,
@@ -1257,6 +1253,24 @@
       "total_heat": 7573000
     },
     {
+      "book_id": 1836527,
+      "title": "凰宫梦",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/545/1634043_360x480.jpg?time=1758178885",
+      "author": "蓝九九",
+      "minor": "宫闱宅斗",
+      "boards_count": 2,
+      "boards": [
+        "girl-hot-date",
+        "girl-hot-month"
+      ],
+      "board_names": [
+        "女生大热日榜",
+        "女生大热月榜"
+      ],
+      "best_rank": 9,
+      "total_heat": 9834000
+    },
+    {
       "book_id": 2048050,
       "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/856/2566014_360x480.jpg?time=1756189899",
@@ -1273,6 +1287,24 @@
       ],
       "best_rank": 9,
       "total_heat": 10564000
+    },
+    {
+      "book_id": 12465015,
+      "title": "大乾第一豪强",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4156/12465015_360x480.jpg?time=1792544444",
+      "author": "一嘟噜葡萄",
+      "minor": "架空历史",
+      "boards_count": 2,
+      "boards": [
+        "boy-hot-date",
+        "boy-hot-month"
+      ],
+      "board_names": [
+        "男生大热日榜",
+        "男生大热月榜"
+      ],
+      "best_rank": 10,
+      "total_heat": 9318000
     },
     {
       "book_id": 1995023,
@@ -1293,11 +1325,11 @@
       "total_heat": 10085000
     },
     {
-      "book_id": 1965987,
-      "title": "被贬边疆，成就最强藩王",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/728/2181111_360x480.jpg?time=1751623525",
-      "author": "绯雨",
-      "minor": "架空历史",
+      "book_id": 1758273,
+      "title": "重生2000：从追求青涩校花同桌开始",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
+      "author": "痞子老妖",
+      "minor": "热血校园",
       "boards_count": 2,
       "boards": [
         "boy-over-date",
@@ -1308,43 +1340,7 @@
         "男生完结月榜"
       ],
       "best_rank": 10,
-      "total_heat": 2002000
-    },
-    {
-      "book_id": 1836527,
-      "title": "凰宫梦",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/545/1634043_360x480.jpg?time=1758178885",
-      "author": "蓝九九",
-      "minor": "宫闱宅斗",
-      "boards_count": 2,
-      "boards": [
-        "girl-hot-date",
-        "girl-hot-month"
-      ],
-      "board_names": [
-        "女生大热日榜",
-        "女生大热月榜"
-      ],
-      "best_rank": 10,
-      "total_heat": 9834000
-    },
-    {
-      "book_id": 12465015,
-      "title": "大乾第一豪强",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4156/12465015_360x480.jpg?time=1792544444",
-      "author": "一嘟噜葡萄",
-      "minor": "架空历史",
-      "boards_count": 2,
-      "boards": [
-        "boy-hot-date",
-        "boy-hot-month"
-      ],
-      "board_names": [
-        "男生大热日榜",
-        "男生大热月榜"
-      ],
-      "best_rank": 11,
-      "total_heat": 9318000
+      "total_heat": 2407000
     },
     {
       "book_id": 2074426,
@@ -1399,24 +1395,6 @@
       ],
       "best_rank": 11,
       "total_heat": 239000
-    },
-    {
-      "book_id": 1758273,
-      "title": "重生2000：从追求青涩校花同桌开始",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
-      "author": "痞子老妖",
-      "minor": "热血校园",
-      "boards_count": 2,
-      "boards": [
-        "boy-over-date",
-        "boy-over-month"
-      ],
-      "board_names": [
-        "男生完结日榜",
-        "男生完结月榜"
-      ],
-      "best_rank": 11,
-      "total_heat": 2407000
     },
     {
       "book_id": 1882754,
@@ -1488,7 +1466,7 @@
         "女生更新日榜"
       ],
       "best_rank": 12,
-      "total_heat": 39000
+      "total_heat": 38000
     },
     {
       "book_id": 2093961,
@@ -1507,6 +1485,24 @@
       ],
       "best_rank": 12,
       "total_heat": 4505000
+    },
+    {
+      "book_id": 1965987,
+      "title": "被贬边疆，成就最强藩王",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/728/2181111_360x480.jpg?time=1751623525",
+      "author": "绯雨",
+      "minor": "架空历史",
+      "boards_count": 2,
+      "boards": [
+        "boy-over-date",
+        "boy-over-month"
+      ],
+      "board_names": [
+        "男生完结日榜",
+        "男生完结月榜"
+      ],
+      "best_rank": 13,
+      "total_heat": 2002000
     },
     {
       "book_id": 207105,
@@ -1581,6 +1577,24 @@
       "total_heat": 2155000
     },
     {
+      "book_id": 2053898,
+      "title": "皑如山上雪",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/861/2580857_360x480.jpg?time=1779267111",
+      "author": "街灯读我",
+      "minor": "总裁豪门",
+      "boards_count": 2,
+      "boards": [
+        "girl-over-date",
+        "girl-over-month"
+      ],
+      "board_names": [
+        "女生完结日榜",
+        "女生完结月榜"
+      ],
+      "best_rank": 16,
+      "total_heat": 2890000
+    },
+    {
       "book_id": 10034568,
       "title": "惯坏她",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3345/10034568_360x480.jpg?time=1776046465",
@@ -1599,6 +1613,24 @@
       "total_heat": 3074000
     },
     {
+      "book_id": 1968910,
+      "title": "全家夺我军功，重生嫡女屠了满门",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/732/2193635_360x480.jpg?time=1745394296",
+      "author": "我吃饱饱",
+      "minor": "宫闱宅斗",
+      "boards_count": 2,
+      "boards": [
+        "girl-hot-date",
+        "girl-hot-month"
+      ],
+      "board_names": [
+        "女生大热日榜",
+        "女生大热月榜"
+      ],
+      "best_rank": 17,
+      "total_heat": 6619000
+    },
+    {
       "book_id": 1767940,
       "title": "混沌塔",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/483/1446010_360x480.jpg?time=1720575032",
@@ -1615,24 +1647,6 @@
       ],
       "best_rank": 18,
       "total_heat": 7546000
-    },
-    {
-      "book_id": 2053898,
-      "title": "皑如山上雪",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/861/2580857_360x480.jpg?time=1779267111",
-      "author": "街灯读我",
-      "minor": "总裁豪门",
-      "boards_count": 2,
-      "boards": [
-        "girl-over-date",
-        "girl-over-month"
-      ],
-      "board_names": [
-        "女生完结日榜",
-        "女生完结月榜"
-      ],
-      "best_rank": 18,
-      "total_heat": 2890000
     },
     {
       "book_id": 1979356,

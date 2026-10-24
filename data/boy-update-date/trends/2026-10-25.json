@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-25",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 0,
+    "total_heat": 13,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "炼天图",
+            "book_id": 9697470
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」新上榜 《炼天图》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "嫌我保安穷，你错失真龙！",
+            "book_id": 13420554,
+            "heat_change": -4
+          },
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "heat_change": 1
+          },
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市高手」《医武双绝：下山捡个总裁当老婆》上升2位领涨；《爷爷托梦后，我靠戒指掌控万界》下滑1位；《嫌我保安穷，你错失真龙！》热度-4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "被陷害后，我被迫成了送子天官！",
+            "book_id": 12984576,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」《被陷害后，我被迫成了送子天官！》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "重生1999：重启火星计划",
+            "book_id": 13263771,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "heat_change": -2
+          },
+          {
+            "title": "重生1999：重启火星计划",
+            "book_id": 13263771,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「商战职场」《重生1999：重启火星计划》下滑1位；《野性攀登》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」《天黑请点灯》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "被关女子监狱五年，出狱后我医武双绝",
+            "book_id": 12514650,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」《神武天下之睚眦》 掉出榜单；《被关女子监狱五年，出狱后我医武双绝》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "快老死了，圣女上门赐仙缘",
+            "book_id": 12670524,
+            "heat_change": -3
+          }
+        ],
+        "summary": "「古典仙侠」《快老死了，圣女上门赐仙缘》热度-3。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

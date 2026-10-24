@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
@@ -20,15 +20,9 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "大周第一武夫",
-          "book_id": 2074426,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「王朝争霸」《大周第一武夫》下滑1位。",
+      "summary": "「王朝争霸」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -45,16 +39,16 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "236.27万字",
-        "word_count": 2362700,
+        "word_count_text": "236.96万字",
+        "word_count": 2369600,
         "heat": 9503000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第1090章  完整的仙人传承",
-        "updated_at": "2026-10-23 20:21:09",
-        "rank_change": -1,
+        "latest_chapter": " 第1093章  以吾之魂，号令天地",
+        "updated_at": "2026-10-24 19:37:07",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

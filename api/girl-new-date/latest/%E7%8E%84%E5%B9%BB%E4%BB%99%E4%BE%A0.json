@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 56000,
+    "total_heat": 42000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "不做替身后，小师妹一剑可破天",
+          "book_id": 12908322,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "不做替身后，小师妹一剑可破天",
           "book_id": 12908322,
-          "heat_change": 5000
+          "heat_change": -14000
         }
       ],
-      "summary": "「玄幻仙侠」《不做替身后，小师妹一剑可破天》热度+5000。",
+      "summary": "「玄幻仙侠」《不做替身后，小师妹一剑可破天》下滑1位；《不做替身后，小师妹一剑可破天》热度-14000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 12,
         "title": "不做替身后，小师妹一剑可破天",
         "book_id": 12908322,
         "url": "https://www.qimao.com/shuku/12908322/",
@@ -45,17 +51,17 @@
         "minor_id": 21,
         "minor_url": "https://www.qimao.com/shuku/a-4-21-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.12万字",
-        "word_count": 391200,
-        "heat": 56000,
-        "platform_trend": "rise",
+        "word_count_text": "39.53万字",
+        "word_count": 395300,
+        "heat": 42000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "岑元清为宗门奉献了一辈子，临死才知自己是假死大师姐的替身。\n大师姐明明样样不如她，可他们却挖她灵根，夺她剑骨，要将她的一切血肉都夺给大师姐。\n她不甘心地活活自爆而死。\n重来一世，她改拜第一宗，选择握紧手中那把剑。\n一剑，可破天，可改命，让这天地都俯首。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4303/12908322_360x480.jpg?time=1785119302",
-        "latest_chapter": " 第194章  ：悲痛难当",
-        "updated_at": "2026-10-23 22:27:03",
-        "rank_change": 0,
-        "heat_change": 5000,
+        "latest_chapter": " 第196章  ：剑心剑魂",
+        "updated_at": "2026-10-24 21:44:02",
+        "rank_change": -1,
+        "heat_change": -14000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

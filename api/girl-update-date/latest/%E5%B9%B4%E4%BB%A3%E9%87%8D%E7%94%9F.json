@@ -8,44 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
-    "count": 1,
-    "total_heat": 1,
+    "count": 2,
+    "total_heat": 9,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
         {
-          "title": "重生八零嫁给全军第一硬汉",
-          "book_id": 1683831,
-          "intro": "【八零肥妻+驻地随夫+甜宠+无金手指+无空间+女主凭实力逆袭创业】\n扑街网文作者姜绾一朝穿越，重生成八十年代一个体重300斤的黑胖村姑。\n没有金手指，没有空间！\n原主奸懒馋滑，嗜赌成性，又穷凶极恶的拐"
+          "title": "国医圣手穿七零，重生军少求上位",
+          "book_id": 13352190
         }
       ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [
         {
           "title": "军婚超甜！闪婚后成了首长的心尖宠",
           "book_id": 12803265,
-          "rank_change": -1
+          "rank_change": -3
         }
       ],
       "heat_leaders": [
         {
           "title": "军婚超甜！闪婚后成了首长的心尖宠",
           "book_id": 12803265,
-          "heat_change": -3
+          "heat_change": 2
         }
       ],
-      "summary": "「年代重生」《重生八零嫁给全军第一硬汉》 掉出榜单；《军婚超甜！闪婚后成了首长的心尖宠》下滑1位；《军婚超甜！闪婚后成了首长的心尖宠》热度-3。",
+      "summary": "「年代重生」新上榜 《国医圣手穿七零，重生军少求上位》；《军婚超甜！闪婚后成了首长的心尖宠》下滑3位；《军婚超甜！闪婚后成了首长的心尖宠》热度+2。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 18,
         "title": "军婚超甜！闪婚后成了首长的心尖宠",
         "book_id": 12803265,
         "url": "https://www.qimao.com/shuku/12803265/",
@@ -57,18 +56,47 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "61.26万字",
-        "word_count": 612600,
-        "heat": 1,
+        "word_count_text": "61.48万字",
+        "word_count": 614800,
+        "heat": 3,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【虐渣打脸+冷面军少+日久生情+双强+无金手指+无重生+逆袭】\n一朝寻夫，苏婉清发现自己被骗了五年。\n她擦干眼泪，一拳撂倒渣夫林默，敢算计她，那是要付出代价的。\n于是，苏婉清利用林默算计自己的把柄在军区活下来，\n阴差阳错，她住进了战功赫赫却冷厉可怖的团长商颂年的宿舍。\n原本只是一次偶然，却意外治好了这位极品军官严重的厌食症。\n从此以后，苏婉清成了商颂年的小厨娘……\n可日子一长，男人的眼神却越来越不对劲，吃醋、护短、甚至连她看别人一眼都要黑脸。\n直到有一天，平日里高高在上、令人闻风丧胆的商团长，把他的小厨娘抵在灶台边：“清清，我吃饱了，现在该喂你了……”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4268/12803265_360x480.jpg?time=1790125642",
-        "latest_chapter": " 第250章  一起睡",
-        "updated_at": "2026-10-24 00:12:12",
-        "rank_change": -1,
-        "heat_change": -3,
+        "latest_chapter": " 第251章  逼自己死心",
+        "updated_at": "2026-10-24 21:32:04",
+        "rank_change": -3,
+        "heat_change": 2,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "年代重生"
+      },
+      {
+        "rank": 20,
+        "title": "国医圣手穿七零，重生军少求上位",
+        "book_id": 13352190,
+        "url": "https://www.qimao.com/shuku/13352190/",
+        "author": "雕雕子",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%9B%95%E9%9B%95%E5%AD%90_14/",
+        "major": "现代言情",
+        "minor": "年代重生",
+        "major_id": 1,
+        "minor_id": 278,
+        "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "28.61万字",
+        "word_count": 286100,
+        "heat": 6,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "沈明珠穿成七零年代文里的恶毒继姐。\n原主为了抢未婚夫，给继妹下药，结果被继妹反算计，冻死在公社卫生院后院。\n她醒来时，身边却多了一个重伤昏迷的男人。\n按照原书，这人三年后会成为军区最年轻的院长，也是男女主最大的靠山。\n面对即将冲进来的家人，沈明珠果断撕开了眼前男人的衣服。\n继妹哭诉她恶毒？她当众拿出残留药渣。\n后妈想吞她的工作名额？她直接请厂里查档案。\n未婚夫回头求复合？不好意思，她已经带着祖传药柜随军。\n只是男人醒来后，看她的眼神越来越奇怪：“这套针法，我上辈子见你用过。”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4451/13352190_360x480.jpg?time=1788341291",
+        "latest_chapter": " 第124章  海归博士的荒唐梦",
+        "updated_at": "2026-10-24 23:34:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"

@@ -8,58 +8,63 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "category": {
     "name": "都市高武",
     "major": "都市",
-    "count": 3,
-    "total_heat": 58000,
+    "count": 4,
+    "total_heat": 76000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "都市之极品修仙",
+          "book_id": 13525731
+        }
+      ],
       "dropped_books": [],
       "top_risers": [
         {
           "title": "真龙下山，我体内有头绝世凶兽",
           "book_id": 13335867,
-          "rank_change": 3
-        },
-        {
-          "title": "都市大猛仙",
-          "book_id": 12947607,
-          "rank_change": 3
+          "rank_change": 2
         },
         {
           "title": "透视鉴宝：美女财富两不误",
           "book_id": 12708261,
+          "rank_change": 1
+        },
+        {
+          "title": "都市大猛仙",
+          "book_id": 12947607,
           "rank_change": 1
         }
       ],
       "top_fallers": [],
       "heat_leaders": [
         {
-          "title": "都市大猛仙",
-          "book_id": 12947607,
+          "title": "真龙下山，我体内有头绝世凶兽",
+          "book_id": 13335867,
           "heat_change": 3000
         },
         {
           "title": "透视鉴宝：美女财富两不误",
           "book_id": 12708261,
-          "heat_change": -1000
+          "heat_change": 1000
         },
         {
-          "title": "真龙下山，我体内有头绝世凶兽",
-          "book_id": 13335867,
+          "title": "都市大猛仙",
+          "book_id": 12947607,
           "heat_change": 1000
         }
       ],
-      "summary": "「都市高武」《真龙下山，我体内有头绝世凶兽》上升3位领涨；《都市大猛仙》热度+3000。",
+      "summary": "「都市高武」新上榜 《都市之极品修仙》；《真龙下山，我体内有头绝世凶兽》上升2位领涨；《真龙下山，我体内有头绝世凶兽》热度+3000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 7,
         "title": "透视鉴宝：美女财富两不误",
         "book_id": 12708261,
         "url": "https://www.qimao.com/shuku/12708261/",
@@ -71,24 +76,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.56万字",
-        "word_count": 405600,
-        "heat": 26000,
-        "platform_trend": "drop",
+        "word_count_text": "40.98万字",
+        "word_count": 409800,
+        "heat": 27000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "叶尘努力三年送外卖，喜提一顶绿油油的帽子。\n前女友傍上部门领导，以为是跨越了阶层，却不知道叶尘是身怀绝技的入世高人。\n三年之期已到，叶尘终于可以毫无顾忌，一门望气术玩转珠宝玉石界，顶尖武力力压群雄。\n美女，金钱，我叶尘全都要……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4237/12708261_360x480.jpg?time=1783410543",
-        "latest_chapter": " 第192章  我大哥是杜江",
-        "updated_at": "2026-10-24 00:17:04",
+        "latest_chapter": " 第194章  叫我小江就行",
+        "updated_at": "2026-10-25 00:36:04",
         "rank_change": 1,
-        "heat_change": -1000,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 14,
+        "rank": 12,
         "title": "真龙下山，我体内有头绝世凶兽",
         "book_id": 13335867,
         "url": "https://www.qimao.com/shuku/13335867/",
@@ -100,24 +105,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.28万字",
-        "word_count": 352800,
-        "heat": 16000,
+        "word_count_text": "35.97万字",
+        "word_count": 359700,
+        "heat": 19000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "五年前，秦家满门被屠，二少秦天侥幸生还，拜入蓬莱仙山习得医武通神。\n五年后，他携祖龙血脉强势归来，却发现爷爷被欺、祖宅被夺，嫂子苏晚晴含辛茹苦。\n为查灭门真相，他脚踏江城，医术震神医，武力压群雄，更与冰山总裁林梦溪立下婚约。\n真龙出世，风云涌动！\n他誓要血债血偿，重铸秦家辉煌！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4446/13335867_360x480.jpg?time=1788172753",
-        "latest_chapter": " 第155章  非礼勿视",
-        "updated_at": "2026-10-23 12:02:13",
-        "rank_change": 3,
-        "heat_change": 1000,
+        "latest_chapter": " 第158章  我的规矩才是规矩",
+        "updated_at": "2026-10-24 12:02:11",
+        "rank_change": 2,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "title": "都市大猛仙",
         "book_id": 12947607,
         "url": "https://www.qimao.com/shuku/12947607/",
@@ -129,18 +134,47 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.58万字",
-        "word_count": 325800,
-        "heat": 16000,
+        "word_count_text": "33.04万字",
+        "word_count": 330400,
+        "heat": 17000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "陆玄，虽然因为太穷被女友甩了，可他却天赋异禀，自从觉醒了家族传承，修炼了阴阳秘术之后，身上散发出了更令异性着迷的气息……从此，他医武同修，无论是医术、修为、还是身为男人……他都勇猛无敌，总有美女慕名而来！他从小县城一路崛起，开启了无敌热血路，重现上古医道荣光！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4316/12947607_360x480.jpg?time=1785232542",
-        "latest_chapter": " 第122章  杀人于无形",
-        "updated_at": "2026-10-23 15:17:02",
-        "rank_change": 3,
-        "heat_change": 3000,
+        "latest_chapter": " 第123章  美女主任",
+        "updated_at": "2026-10-24 16:25:03",
+        "rank_change": 1,
+        "heat_change": 1000,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高武"
+      },
+      {
+        "rank": 18,
+        "title": "都市之极品修仙",
+        "book_id": 13525731,
+        "url": "https://www.qimao.com/shuku/13525731/",
+        "author": "神选码字人",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%A5%9E%E9%80%89%E7%A0%81%E5%AD%97%E4%BA%BA_14/",
+        "major": "都市",
+        "minor": "都市高武",
+        "major_id": 203,
+        "minor_id": 219,
+        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "21.88万字",
+        "word_count": 218800,
+        "heat": 13000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "陈山河遭女友背叛，意外获得修仙传承，本以为自己能跟小说里面的主角一样被极品美女环绕，暮然回首，自己怎么就成了她们的后爹？！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4509/13525731_360x480.jpg?time=1789983868",
+        "latest_chapter": " 第106章  陈山河，你闯祸了！",
+        "updated_at": "2026-10-24 17:24:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"

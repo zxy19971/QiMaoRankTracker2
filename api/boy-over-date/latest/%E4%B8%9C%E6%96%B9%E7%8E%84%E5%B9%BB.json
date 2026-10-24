@@ -8,24 +8,39 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
-    "count": 3,
-    "total_heat": 678000,
+    "count": 5,
+    "total_heat": 801000,
     "trend": {
-      "new_count": 0,
+      "new_count": 2,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "九转星辰诀",
+          "book_id": 202636
+        },
+        {
+          "title": "一秒十级，从边关小卒开始横推",
+          "book_id": 2056131
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "玲珑塔",
+          "book_id": 1754203,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
-          "title": "葬天神帝",
-          "book_id": 213697,
-          "heat_change": 8000
+          "title": "荒古武神",
+          "book_id": 216404,
+          "heat_change": -9000
         },
         {
           "title": "玲珑塔",
@@ -33,12 +48,12 @@
           "heat_change": -4000
         },
         {
-          "title": "荒古武神",
-          "book_id": 216404,
-          "heat_change": -3000
+          "title": "葬天神帝",
+          "book_id": 213697,
+          "heat_change": 1000
         }
       ],
-      "summary": "「东方玄幻」《葬天神帝》热度+8000。",
+      "summary": "「东方玄幻」新上榜 《九转星辰诀》、《一秒十级，从边关小卒开始横推》；《玲珑塔》上升1位领涨；《荒古武神》热度-9000。",
       "ai_source": "rule"
     },
     "books": [
@@ -57,7 +72,7 @@
         "status": "已完结",
         "word_count_text": "864.16万字",
         "word_count": 8641600,
-        "heat": 336000,
+        "heat": 327000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "武灵被夺，修为被废，意外获得荒古秘境，从而脚踏凡域，刀破古神域……一代古武神，刀之所向，无人可敌。神挡杀神！魔阻斩魔！",
@@ -65,7 +80,7 @@
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": -3000,
+        "heat_change": -9000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -86,7 +101,7 @@
         "status": "已完结",
         "word_count_text": "1007.28万字",
         "word_count": 10072800,
-        "heat": 194000,
+        "heat": 195000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "少年苏尘，被抽取天龙血脉，毁去丹田，送往北荒城叶家，成为叶家的赘婿。\n万念俱灰之际，融合了母亲留下的葬天古戒，成为葬天古戒之主，修葬天神功，悟绝世神通，从此走上了一条横扫万界天骄的无敌之路。\n若这天地不公，我便埋葬诸天！",
@@ -94,14 +109,14 @@
         "latest_chapter": " 第3704章  前路在何方？（大结局）",
         "updated_at": "2026-10-01 20:51:29",
         "rank_change": 0,
-        "heat_change": 8000,
+        "heat_change": 1000,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": true,
         "category": "东方玄幻"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "玲珑塔",
         "book_id": 1754203,
         "url": "https://www.qimao.com/shuku/1754203/",
@@ -115,17 +130,75 @@
         "status": "已完结",
         "word_count_text": "701.84万字",
         "word_count": 7018400,
-        "heat": 148000,
+        "heat": 144000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【女帝+多女主+剑道+无敌暴爽+快节奏】\n“林尘，你可愿与我结为道侣？”\n“我拒绝！”\n少年林尘惨遭红颜背刺，武魂被废，机缘巧合之下开启神秘小塔，进入塔内世界，结识绝美女帝！\n却没想到女帝凶猛，予取予求，林尘被迫沦为炉鼎！\n绝望之际，林尘觉醒至尊神龙武魂，收获绝世神剑，从此逆天改命，剑武双修，万界独尊！一剑在手，任你漫天仙魔，我自一剑斩之！\n原书名《剑武独尊》",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/464/1391957_360x480.jpg?time=1734693379",
         "latest_chapter": " 第2753章  前往上苍之上（大结局）",
         "updated_at": "2026-08-31 16:32:19",
-        "rank_change": 0,
+        "rank_change": 1,
         "heat_change": -4000,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": true,
+        "category": "东方玄幻"
+      },
+      {
+        "rank": 12,
+        "title": "九转星辰诀",
+        "book_id": 202636,
+        "url": "https://www.qimao.com/shuku/202636/",
+        "author": "晨弈",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%99%A8%E5%BC%88_14/",
+        "major": "玄幻奇幻",
+        "minor": "东方玄幻",
+        "major_id": 202,
+        "minor_id": 37,
+        "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "842.8万字",
+        "word_count": 8428000,
+        "heat": 68000,
+        "platform_trend": "rise",
+        "badge": "飙升13名",
+        "intro": "新书【魔天鼎：我能炼化万物】已发，热血玄幻，精彩好看，请哥哥姐姐们照顾照顾。多谢🙏🙏\n一代战神，重生觉醒九世记忆。\n绝世天才，万古人杰？不过是我崛起的踏脚石！\n真爱守护，才是我心之所向。\n仗剑碾压万界，只为一心向前！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204938_360x480.jpg?time=1766104371",
+        "latest_chapter": " 第3793章  碎天道，去束缚，得自由！（大结局）",
+        "updated_at": "2024-03-11 19:37:28",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": true,
+        "category": "东方玄幻"
+      },
+      {
+        "rank": 14,
+        "title": "一秒十级，从边关小卒开始横推",
+        "book_id": 2056131,
+        "url": "https://www.qimao.com/shuku/2056131/",
+        "author": "今天写书了吗",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BB%8A%E5%A4%A9%E5%86%99%E4%B9%A6%E4%BA%86%E5%90%97_14/",
+        "major": "玄幻奇幻",
+        "minor": "东方玄幻",
+        "major_id": 202,
+        "minor_id": 37,
+        "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "273.66万字",
+        "word_count": 2736600,
+        "heat": 67000,
+        "platform_trend": "rise",
+        "badge": "飙升12名",
+        "intro": "一觉醒来，江北成为了边关小卒，蛮族不断入侵，危险重重！\n　　索幸觉醒了“功德面板”！\n　　只要斩杀罪孽缠身之辈，就能够获得功德点，提升武功！\n　　原本不知该如何存活下去的江北兴奋了。\n　　边关一带蛮族肆虐，贼人无数，杀敌就爆功德，这还不简单？\n　　看我一秒十级，直接无敌！\n　　【你击杀一名作恶多端的蛮兵，功德点+1！】\n　　【你击杀一名蛮族万夫长，功德点+1000！】\n　　……\n　　【发现武功·天罡正气刀，可提升，需功德100点，是否提升？】\n　　【发现武功·神象镇狱劲，可提升，需功德1000点，是否提升？】\n　　……\n　　【发现物品·天帝石像，可炼化，需功德10000点，是否炼化？】\n　　【注：炼化可得修真级武学·他化自在法】\n　　……\n　　江北踏着累累尸骨，一路杀穿。\n　　从边关小卒到北疆大将，再到大乾武神，无敌天上地下！\n　　那仙府之中，漫天神佛见到江北浑身金光璀璨，功德盖世，发出了惊叹：\n　　“我们口诵佛经，超度众生，尚且如此！”\n　　“你浑身沾满血腥，杀气腾腾，怎么就功德成圣了？！”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/866/2596353_360x480.jpg?time=1758437337",
+        "latest_chapter": " 第870章  九环至高神！最终之战！（大结局）",
+        "updated_at": "2026-10-17 21:31:07",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": true,
         "category": "东方玄幻"
       }

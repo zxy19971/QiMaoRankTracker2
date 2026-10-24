@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 276000,
+    "total_heat": 278000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "嫡姐惨死？王妃她杀爆京城",
+          "book_id": 13021647,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "嫡姐惨死？王妃她杀爆京城",
           "book_id": 13021647,
-          "heat_change": -11000
+          "heat_change": 2000
         }
       ],
-      "summary": "「古代情缘」《嫡姐惨死？王妃她杀爆京城》热度-11000。",
+      "summary": "「古代情缘」《嫡姐惨死？王妃她杀爆京城》上升1位领涨；《嫡姐惨死？王妃她杀爆京城》热度+2000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 11,
         "title": "嫡姐惨死？王妃她杀爆京城",
         "book_id": 13021647,
         "url": "https://www.qimao.com/shuku/13021647/",
@@ -45,17 +51,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.17万字",
-        "word_count": 371700,
-        "heat": 276000,
-        "platform_trend": "drop",
+        "word_count_text": "37.58万字",
+        "word_count": 375800,
+        "heat": 278000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "女强爽文+打脸虐渣+复仇+马甲\n宋南枝嫡姐被人凌辱致死，婆家以七出之罪将她尸体送回将军府。\n祖母以有辱门风之名，不准嫡姐下葬！\n宋南枝教他们做人！\n镇国公世子毁背信弃义，娶平妻，辱阿姐？\n宋南枝当众废了他，让他断子绝孙。\n她手执长剑矗立于风中，“萧世子，你要好好活着，我替阿姐祝你多子多福。”\n镇国公告御状，皇上亲自拿人。\n宋南枝“皇上，您缺钱吗？”\n皇上大怒，谁人不知他是周边几国最穷的皇上？\n宋南枝这是拿刀戳他的心口。\n然而，不等他发作，宋南枝掏出一堆银票，“五百万两，买皇上睁只眼闭只眼。”\n皇上激动的手在颤抖。\n五百万两！！\n足以支撑北雁国十年的五百万两！\n这哪是传闻中的女魔头？\n分明是他的财神爷！\n宋南枝犯下滔天祸事，老夫人要将她逐出家门。\n宋南枝慵懒的斜靠在躺椅上，“祖母年纪大了，不宜掌家，日后安心养老吧！”\n有人花五百万两买摄政王一条命。\n宋南枝唇角微勾，“杀我男人？去，把下单之人送去喂狗！”\n郡主公主以权欺人。\n宋南枝婢女反手卸了对方手脚，“我家小姐身娇体弱，各位贵女还是管好自己的手，免得断手断脚，不划算。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4341/13021647_360x480.jpg?time=1791515044",
-        "latest_chapter": " 第161章  靖王今日抽什么疯了？",
-        "updated_at": "2026-10-23 23:41:03",
-        "rank_change": 0,
-        "heat_change": -11000,
+        "latest_chapter": " 第163章  有一问题赐教王妃",
+        "updated_at": "2026-10-24 23:37:04",
+        "rank_change": 1,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,
