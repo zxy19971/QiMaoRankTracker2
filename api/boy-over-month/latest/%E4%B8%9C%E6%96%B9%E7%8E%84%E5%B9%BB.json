@@ -8,21 +8,32 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
-    "count": 4,
-    "total_heat": 20553000,
+    "count": 5,
+    "total_heat": 22765000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "极道剑尊",
+          "book_id": 219040
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "噬神鼎",
+          "book_id": 1868453,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
+      "summary": "「东方玄幻」新上榜 《极道剑尊》；《噬神鼎》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
@@ -114,7 +125,36 @@
         "category": "东方玄幻"
       },
       {
-        "rank": 17,
+        "rank": 14,
+        "title": "极道剑尊",
+        "book_id": 219040,
+        "url": "https://www.qimao.com/shuku/219040/",
+        "author": "二十七杯酒",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BA%8C%E5%8D%81%E4%B8%83%E6%9D%AF%E9%85%92_14/",
+        "major": "玄幻奇幻",
+        "minor": "东方玄幻",
+        "major_id": 202,
+        "minor_id": 37,
+        "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "1032.37万字",
+        "word_count": 10323700,
+        "heat": 2212000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "踏天骄，镇万道！\n问鼎极道，唯我剑尊！\n我这一剑平平无奇，但你们绝对会死！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/229983_360x480.jpg?time=1716793734",
+        "latest_chapter": " 第4680章  无限世界，终极真正的源头！",
+        "updated_at": "2026-10-24 08:17:32",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "东方玄幻"
+      },
+      {
+        "rank": 18,
         "title": "噬神鼎",
         "book_id": 1868453,
         "url": "https://www.qimao.com/shuku/1868453/",
@@ -130,12 +170,12 @@
         "word_count": 4167100,
         "heat": 2133000,
         "platform_trend": "rise",
-        "badge": "飙升18名",
+        "badge": "飙升17名",
         "intro": "林煜贵为大汉王朝皇子，遭人陷害，南征惨败，修为被废，被罚看守皇陵，永世不得翻身。\n然而他在皇陵中却激活了上古神器，能够炼化万物的噬神鼎。\n炼化人皇剑，获得圣皇剑体！\n炼化万千妖兽，修为突飞猛进！\n炼化万卷秘笈，领悟神级剑法！\n……\n多年之后，妖族再度入侵，天下大乱，人族危在旦夕。\n就在这时，一道煌煌剑气，由皇陵中横空出世，扫荡群魔，天下无敌！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/602/1804403_360x480.jpg?time=1731377147",
         "latest_chapter": " 第2024章  斩杀妖神（大结局）",
         "updated_at": "2026-08-21 13:02:14",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

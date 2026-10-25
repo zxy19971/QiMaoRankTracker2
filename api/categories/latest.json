@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "categories": [
     {
       "name": "都市高武",
@@ -37,14 +37,14 @@
       "url": "api/categories/latest/%E7%8E%8B%E6%9C%9D%E4%BA%89%E9%9C%B8.json"
     },
     {
-      "name": "幻想修真",
-      "major": "武侠仙侠",
-      "url": "api/categories/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
-    },
-    {
       "name": "现代军事",
       "major": "军事",
       "url": "api/categories/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
+    },
+    {
+      "name": "幻想修真",
+      "major": "武侠仙侠",
+      "url": "api/categories/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
     },
     {
       "name": "热血校园",
@@ -135,6 +135,11 @@
       "name": "权谋天下",
       "major": "古代言情",
       "url": "api/categories/latest/%E6%9D%83%E8%B0%8B%E5%A4%A9%E4%B8%8B.json"
+    },
+    {
+      "name": "现实故事",
+      "major": "现实主义",
+      "url": "api/categories/latest/%E7%8E%B0%E5%AE%9E%E6%95%85%E4%BA%8B.json"
     }
   ]
 }

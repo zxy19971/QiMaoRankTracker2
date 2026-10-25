@@ -8,38 +8,37 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "category": {
     "name": "都市高武",
     "major": "都市",
-    "count": 1,
-    "total_heat": 1,
+    "count": 2,
+    "total_heat": 16,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
         {
-          "title": "神武天下之睚眦",
-          "book_id": 1977738,
-          "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起"
+          "title": "女子监狱五年，出狱即无敌",
+          "book_id": 12791886
         }
       ],
-      "top_risers": [
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "被关女子监狱五年，出狱后我医武双绝",
           "book_id": 12514650,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高武」《神武天下之睚眦》 掉出榜单；《被关女子监狱五年，出狱后我医武双绝》上升1位领涨。",
+      "summary": "「都市高武」新上榜 《女子监狱五年，出狱即无敌》；《被关女子监狱五年，出狱后我医武双绝》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 16,
         "title": "被关女子监狱五年，出狱后我医武双绝",
         "book_id": 12514650,
         "url": "https://www.qimao.com/shuku/12514650/",
@@ -51,18 +50,47 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "78.9万字",
-        "word_count": 789000,
+        "word_count_text": "79.51万字",
+        "word_count": 795100,
         "heat": 1,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让他们千万倍偿还这滔天血债。同时他也要好好保护养姐等族中女眷和他的四个未婚妻，一定让她们过上好日子！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
-        "latest_chapter": " 第370章  想故技重施？没门！",
-        "updated_at": "2026-10-25 00:04:06",
-        "rank_change": 1,
+        "latest_chapter": " 第373章  叶辰团队二把手的威严气度",
+        "updated_at": "2026-10-25 21:45:05",
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高武"
+      },
+      {
+        "rank": 17,
+        "title": "女子监狱五年，出狱即无敌",
+        "book_id": 12791886,
+        "url": "https://www.qimao.com/shuku/12791886/",
+        "author": "提笔忘情",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%8F%90%E7%AC%94%E5%BF%98%E6%83%85_14/",
+        "major": "都市",
+        "minor": "都市高武",
+        "major_id": 203,
+        "minor_id": 219,
+        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "67.59万字",
+        "word_count": 675900,
+        "heat": 15,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
+        "latest_chapter": " 第287章  不是一路人",
+        "updated_at": "2026-10-25 22:12:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"

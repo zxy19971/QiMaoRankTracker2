@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "category": {
     "name": "乡村生活",
     "major": "都市",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "重回六十年代，从挖何首乌开始",
+          "book_id": 2064995,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「乡村生活」榜单结构稳定，无明显变动。",
+      "summary": "「乡村生活」《重回六十年代，从挖何首乌开始》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 20,
         "title": "重回六十年代，从挖何首乌开始",
         "book_id": 2064995,
         "url": "https://www.qimao.com/shuku/2064995/",
@@ -48,7 +54,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/883/2646049_360x480.jpg?time=1778656188",
         "latest_chapter": " 第1035章  十七年后",
         "updated_at": "2026-09-10 09:51:07",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

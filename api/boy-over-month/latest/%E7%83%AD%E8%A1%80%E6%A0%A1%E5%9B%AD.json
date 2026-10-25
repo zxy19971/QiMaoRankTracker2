@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "category": {
     "name": "热血校园",
     "major": "都市",
@@ -20,9 +20,15 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "我和软萌女友的恋爱日常",
+          "book_id": 214789,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「热血校园」榜单结构稳定，无明显变动。",
+      "summary": "「热血校园」《我和软萌女友的恋爱日常》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
@@ -56,7 +62,7 @@
         "category": "热血校园"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "title": "我和软萌女友的恋爱日常",
         "book_id": 214789,
         "url": "https://www.qimao.com/shuku/214789/",
@@ -77,10 +83,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
         "latest_chapter": " 第1338章  完结感言",
         "updated_at": "2023-02-18 08:11:26",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 3,
         "stale_update": true,
         "category": "热血校园"
       }

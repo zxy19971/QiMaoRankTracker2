@@ -1,0 +1,262 @@
+{
+  "date": "2026-10-26",
+  "board": "boy-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 30300,
+    "total_heat": 606000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "红妆贵人",
+            "book_id": 13231977
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "高冷校花香香软软，凭啥还舔你啊",
+            "book_id": 13220790,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "透视神眼：看尽天下玉，揽尽世上美",
+            "book_id": 12898650,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "透视神眼：看尽天下玉，揽尽世上美",
+            "book_id": 12898650,
+            "heat_change": -3000
+          },
+          {
+            "title": "重生70：我在空间狩猎，狂宠妻儿",
+            "book_id": 13340112,
+            "heat_change": -2000
+          },
+          {
+            "title": "重生70：大国栋梁，从正阳门下开始",
+            "book_id": 12867831,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「都市生活」新上榜 《红妆贵人》；《高冷校花香香软软，凭啥还舔你啊》上升2位领涨；《透视神眼：看尽天下玉，揽尽世上美》下滑1位；《透视神眼：看尽天下玉，揽尽世上美》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+            "book_id": 13241454
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "都市之极品修仙",
+            "book_id": 13525731,
+            "intro": "陈山河遭女友背叛，意外获得修仙传承，本以为自己能跟小说里面的主角一样被极品美女环绕，暮然回首，自己怎么就成了她们的后爹？！"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "真龙下山，我体内有头绝世凶兽",
+            "book_id": 13335867,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "透视鉴宝：美女财富两不误",
+            "book_id": 12708261,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "透视鉴宝：美女财富两不误",
+            "book_id": 12708261,
+            "heat_change": -5000
+          },
+          {
+            "title": "都市大猛仙",
+            "book_id": 12947607,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「都市高武」新上榜 《都荒岛求生了，一群绿茶还想让我当舔狗》；《都市之极品修仙》 掉出榜单；《真龙下山，我体内有头绝世凶兽》上升2位领涨；《透视鉴宝：美女财富两不误》下滑1位；《透视鉴宝：美女财富两不误》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "下山第一天，逮个美女总裁暴力宠",
+            "book_id": 13008696,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "我的倾城野妻",
+            "book_id": 12973059,
+            "heat_change": -7000
+          },
+          {
+            "title": "血脉觉醒后，美女总裁赖上我",
+            "book_id": 13089795,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「都市高手」《下山第一天，逮个美女总裁暴力宠》上升1位领涨；《我的倾城野妻》热度-7000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "北疆最狂纨绔：从赐婚进京开始",
+            "book_id": 12949137,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "边军小卒：杀敌爆气血，我无限破镜！",
+            "book_id": 12958296,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "边军小卒：杀敌爆气血，我无限破镜！",
+            "book_id": 12958296,
+            "heat_change": -4000
+          },
+          {
+            "title": "北疆最狂纨绔：从赐婚进京开始",
+            "book_id": 12949137,
+            "heat_change": -2000
+          },
+          {
+            "title": "边军悍卒：一把长弓定天下！",
+            "book_id": 12948825,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「架空历史」《北疆最狂纨绔：从赐婚进京开始》上升1位领涨；《边军小卒：杀敌爆气血，我无限破镜！》下滑3位；《边军小卒：杀敌爆气血，我无限破镜！》热度-4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "阴阳天帝诀",
+            "book_id": 12749622,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "魔天鼎：我能炼化万物",
+            "book_id": 13297746,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「东方玄幻」《阴阳天帝诀》下滑1位；《魔天鼎：我能炼化万物》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "趁校花一贫如洗，忽悠她以身相许",
+            "book_id": 12896292,
+            "heat_change": -11000
+          }
+        ],
+        "summary": "「热血校园」《趁校花一贫如洗，忽悠她以身相许》热度-11000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「商战职场」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "诡异民国，从缝尸开始长生",
+            "book_id": 12706761,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「幻想修真」《诡异民国，从缝尸开始长生》热度-1000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

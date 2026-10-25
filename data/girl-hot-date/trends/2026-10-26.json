@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-26",
+  "board": "girl-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 352750,
+    "total_heat": 7055000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "裂春风",
+            "book_id": 10024089,
+            "rank_change": -2
+          },
+          {
+            "title": "全家夺我军功，重生嫡女屠了满门",
+            "book_id": 1968910,
+            "rank_change": -2
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "裂春风",
+            "book_id": 10024089,
+            "heat_change": -23000
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": -17000
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": -12000
+          }
+        ],
+        "summary": "「宫闱宅斗」《裂春风》下滑2位；《裂春风》热度-23000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "谢总，夫人已改嫁，让你跪远点",
+            "book_id": 13156719
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "裴先生，暗恋她已十二年",
+            "book_id": 13010484,
+            "intro": "温晞暗恋了裴湛十二年。\n从青梅竹马到约定同一所大学，她以为这辈子非他不可。\n可高三那年盛夏，他消失得干干净净——没有解释，没有告别。\n八年光阴流转，她把恨磨成习惯，把想念吞进肚子里。\n她以为，自己早已"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "rank_change": 3
+          },
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "唯她是图",
+            "book_id": 12860100,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "heat_change": 83000
+          },
+          {
+            "title": "大佬十代单传，我为他一胎生四宝",
+            "book_id": 1726987,
+            "heat_change": -40000
+          },
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": -17000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《谢总，夫人已改嫁，让你跪远点》；《裴先生，暗恋她已十二年》 掉出榜单；《第五年重逢，驰先生再度失控》上升3位领涨；《唯她是图》下滑2位；《夫人反差太大，司总沦陷了！》热度+83000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": -25000
+          }
+        ],
+        "summary": "「年代重生」《错嫁随军：新婚夜冷面军少沦陷了》热度-25000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「古代情缘」《嫡姐惨死？王妃她杀爆京城》上升2位领涨；《嫡姐惨死？王妃她杀爆京城》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "heat_change": -9000
+          }
+        ],
+        "summary": "「都市奇幻」《家有玄妻，百邪不侵！》下滑1位；《家有玄妻，百邪不侵！》热度-9000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

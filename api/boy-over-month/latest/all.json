@@ -8,8 +8,8 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-25",
-  "prev_date": "2026-10-24",
+  "date": "2026-10-26",
+  "prev_date": "2026-10-25",
   "books": [
     {
       "rank": 1,
@@ -37,7 +37,7 @@
       "heat_change": 0,
       "is_new": false,
       "boards_count": 4,
-      "stale_update": false,
+      "stale_update": true,
       "category": "架空历史"
     },
     {
@@ -239,7 +239,7 @@
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 1,
       "stale_update": true,
       "category": "都市高手"
     },
@@ -390,6 +390,35 @@
     },
     {
       "rank": 14,
+      "title": "极道剑尊",
+      "book_id": 219040,
+      "url": "https://www.qimao.com/shuku/219040/",
+      "author": "二十七杯酒",
+      "author_url": "https://www.qimao.com/zuozhe/%E4%BA%8C%E5%8D%81%E4%B8%83%E6%9D%AF%E9%85%92_14/",
+      "major": "玄幻奇幻",
+      "minor": "东方玄幻",
+      "major_id": 202,
+      "minor_id": 37,
+      "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
+      "status": "连载中",
+      "word_count_text": "1032.37万字",
+      "word_count": 10323700,
+      "heat": 2212000,
+      "platform_trend": "drop",
+      "badge": "",
+      "intro": "踏天骄，镇万道！\n问鼎极道，唯我剑尊！\n我这一剑平平无奇，但你们绝对会死！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/229983_360x480.jpg?time=1716793734",
+      "latest_chapter": " 第4680章  无限世界，终极真正的源头！",
+      "updated_at": "2026-10-24 08:17:32",
+      "rank_change": 0,
+      "heat_change": 0,
+      "is_new": true,
+      "boards_count": 2,
+      "stale_update": false,
+      "category": "东方玄幻"
+    },
+    {
+      "rank": 15,
       "title": "世子无双",
       "book_id": 1860026,
       "url": "https://www.qimao.com/shuku/1860026/",
@@ -410,15 +439,15 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
       "latest_chapter": " 第1063章  大结局（下）",
       "updated_at": "2026-03-08 01:17:14",
-      "rank_change": 0,
+      "rank_change": -1,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 1,
       "stale_update": true,
       "category": "架空历史"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "我和软萌女友的恋爱日常",
       "book_id": 214789,
       "url": "https://www.qimao.com/shuku/214789/",
@@ -439,15 +468,15 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
       "latest_chapter": " 第1338章  完结感言",
       "updated_at": "2023-02-18 08:11:26",
-      "rank_change": 0,
+      "rank_change": -1,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 3,
       "stale_update": true,
       "category": "热血校园"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "山野诡闻笔记",
       "book_id": 214783,
       "url": "https://www.qimao.com/shuku/214783/",
@@ -468,7 +497,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
       "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
       "updated_at": "2024-05-11 07:57:09",
-      "rank_change": 0,
+      "rank_change": -1,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
@@ -476,7 +505,7 @@
       "category": "奇门秘术"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "噬神鼎",
       "book_id": 1868453,
       "url": "https://www.qimao.com/shuku/1868453/",
@@ -492,12 +521,12 @@
       "word_count": 4167100,
       "heat": 2133000,
       "platform_trend": "rise",
-      "badge": "飙升18名",
+      "badge": "飙升17名",
       "intro": "林煜贵为大汉王朝皇子，遭人陷害，南征惨败，修为被废，被罚看守皇陵，永世不得翻身。\n然而他在皇陵中却激活了上古神器，能够炼化万物的噬神鼎。\n炼化人皇剑，获得圣皇剑体！\n炼化万千妖兽，修为突飞猛进！\n炼化万卷秘笈，领悟神级剑法！\n……\n多年之后，妖族再度入侵，天下大乱，人族危在旦夕。\n就在这时，一道煌煌剑气，由皇陵中横空出世，扫荡群魔，天下无敌！",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/602/1804403_360x480.jpg?time=1731377147",
       "latest_chapter": " 第2024章  斩杀妖神（大结局）",
       "updated_at": "2026-08-21 13:02:14",
-      "rank_change": 0,
+      "rank_change": -1,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
@@ -505,7 +534,7 @@
       "category": "东方玄幻"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "全球灾变之末日游戏",
       "book_id": 219542,
       "url": "https://www.qimao.com/shuku/219542/",
@@ -526,7 +555,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
       "latest_chapter": " 第2210章  星耀终结",
       "updated_at": "2024-08-28 22:04:25",
-      "rank_change": 0,
+      "rank_change": -1,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
@@ -534,7 +563,7 @@
       "category": "末世危机"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "重回六十年代，从挖何首乌开始",
       "book_id": 2064995,
       "url": "https://www.qimao.com/shuku/2064995/",
@@ -555,58 +584,41 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/883/2646049_360x480.jpg?time=1778656188",
       "latest_chapter": " 第1035章  十七年后",
       "updated_at": "2026-09-10 09:51:07",
-      "rank_change": 0,
+      "rank_change": -1,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
       "stale_update": true,
       "category": "乡村生活"
-    },
-    {
-      "rank": 20,
-      "title": "被贬边疆，成就最强藩王",
-      "book_id": 1965987,
-      "url": "https://www.qimao.com/shuku/1965987/",
-      "author": "绯雨",
-      "author_url": "https://www.qimao.com/zuozhe/%E7%BB%AF%E9%9B%A8_14/",
-      "major": "历史",
-      "minor": "架空历史",
-      "major_id": 56,
-      "minor_id": 58,
-      "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
-      "status": "已完结",
-      "word_count_text": "258.32万字",
-      "word_count": 2583200,
-      "heat": 2002000,
-      "platform_trend": "drop",
-      "badge": "",
-      "intro": "开局穿越遭遇仙人跳，被贬边疆吃土。\n皇帝想困我在边城？朝臣想看我笑话？\n却不知我手握现代知识，开荒田、炼精钢、训铁骑！\n三年后，铁骑踏平草原，连敌国公主都跪求联姻……\n龙椅上的那位才后悔：\n他亲手流放的不是弃子，而是大周真正的潜龙！\n“陛下，这万里边疆……现在归我了！”\n原来流放，才是他称霸的开始！",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/728/2181111_360x480.jpg?time=1751623525",
-      "latest_chapter": " 第1222章  完本",
-      "updated_at": "2026-10-05 10:07:10",
-      "rank_change": 0,
-      "heat_change": 0,
-      "is_new": false,
-      "boards_count": 2,
-      "stale_update": true,
-      "category": "架空历史"
     }
   ],
   "categories": [
     {
       "name": "架空历史",
       "major": "历史",
-      "count": 6,
-      "total_heat": 36798000,
+      "count": 5,
+      "total_heat": 34796000,
       "trend": {
         "new_count": 0,
-        "dropped_count": 0,
+        "dropped_count": 1,
         "new_books": [],
-        "dropped_books": [],
+        "dropped_books": [
+          {
+            "title": "被贬边疆，成就最强藩王",
+            "book_id": 1965987,
+            "intro": "开局穿越遭遇仙人跳，被贬边疆吃土。\n皇帝想困我在边城？朝臣想看我笑话？\n却不知我手握现代知识，开荒田、炼精钢、训铁骑！\n三年后，铁骑踏平草原，连敌国公主都跪求联姻……\n龙椅上的那位才后悔：\n他亲手流放"
+          }
+        ],
         "top_risers": [],
-        "top_fallers": [],
+        "top_fallers": [
+          {
+            "title": "世子无双",
+            "book_id": 1860026,
+            "rank_change": -1
+          }
+        ],
         "heat_leaders": [],
-        "summary": "「架空历史」榜单结构稳定，无明显变动。",
+        "summary": "「架空历史」《被贬边疆，成就最强藩王》 掉出榜单；《世子无双》下滑1位。",
         "ai_source": "rule"
       },
       "books": [
@@ -636,7 +648,7 @@
           "heat_change": 0,
           "is_new": false,
           "boards_count": 4,
-          "stale_update": false,
+          "stale_update": true,
           "category": "架空历史"
         },
         {
@@ -727,7 +739,7 @@
           "category": "架空历史"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "title": "世子无双",
           "book_id": 1860026,
           "url": "https://www.qimao.com/shuku/1860026/",
@@ -748,39 +760,10 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
           "latest_chapter": " 第1063章  大结局（下）",
           "updated_at": "2026-03-08 01:17:14",
-          "rank_change": 0,
+          "rank_change": -1,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
-          "stale_update": true,
-          "category": "架空历史"
-        },
-        {
-          "rank": 20,
-          "title": "被贬边疆，成就最强藩王",
-          "book_id": 1965987,
-          "url": "https://www.qimao.com/shuku/1965987/",
-          "author": "绯雨",
-          "author_url": "https://www.qimao.com/zuozhe/%E7%BB%AF%E9%9B%A8_14/",
-          "major": "历史",
-          "minor": "架空历史",
-          "major_id": 56,
-          "minor_id": 58,
-          "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
-          "status": "已完结",
-          "word_count_text": "258.32万字",
-          "word_count": 2583200,
-          "heat": 2002000,
-          "platform_trend": "drop",
-          "badge": "",
-          "intro": "开局穿越遭遇仙人跳，被贬边疆吃土。\n皇帝想困我在边城？朝臣想看我笑话？\n却不知我手握现代知识，开荒田、炼精钢、训铁骑！\n三年后，铁骑踏平草原，连敌国公主都跪求联姻……\n龙椅上的那位才后悔：\n他亲手流放的不是弃子，而是大周真正的潜龙！\n“陛下，这万里边疆……现在归我了！”\n原来流放，才是他称霸的开始！",
-          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/728/2181111_360x480.jpg?time=1751623525",
-          "latest_chapter": " 第1222章  完本",
-          "updated_at": "2026-10-05 10:07:10",
-          "rank_change": 0,
-          "heat_change": 0,
-          "is_new": false,
-          "boards_count": 2,
+          "boards_count": 1,
           "stale_update": true,
           "category": "架空历史"
         }
@@ -789,17 +772,28 @@
     {
       "name": "东方玄幻",
       "major": "玄幻奇幻",
-      "count": 4,
-      "total_heat": 20553000,
+      "count": 5,
+      "total_heat": 22765000,
       "trend": {
-        "new_count": 0,
+        "new_count": 1,
         "dropped_count": 0,
-        "new_books": [],
+        "new_books": [
+          {
+            "title": "极道剑尊",
+            "book_id": 219040
+          }
+        ],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [],
+        "top_fallers": [
+          {
+            "title": "噬神鼎",
+            "book_id": 1868453,
+            "rank_change": -1
+          }
+        ],
         "heat_leaders": [],
-        "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
+        "summary": "「东方玄幻」新上榜 《极道剑尊》；《噬神鼎》下滑1位。",
         "ai_source": "rule"
       },
       "books": [
@@ -891,7 +885,36 @@
           "category": "东方玄幻"
         },
         {
-          "rank": 17,
+          "rank": 14,
+          "title": "极道剑尊",
+          "book_id": 219040,
+          "url": "https://www.qimao.com/shuku/219040/",
+          "author": "二十七杯酒",
+          "author_url": "https://www.qimao.com/zuozhe/%E4%BA%8C%E5%8D%81%E4%B8%83%E6%9D%AF%E9%85%92_14/",
+          "major": "玄幻奇幻",
+          "minor": "东方玄幻",
+          "major_id": 202,
+          "minor_id": 37,
+          "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
+          "status": "连载中",
+          "word_count_text": "1032.37万字",
+          "word_count": 10323700,
+          "heat": 2212000,
+          "platform_trend": "drop",
+          "badge": "",
+          "intro": "踏天骄，镇万道！\n问鼎极道，唯我剑尊！\n我这一剑平平无奇，但你们绝对会死！",
+          "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/229983_360x480.jpg?time=1716793734",
+          "latest_chapter": " 第4680章  无限世界，终极真正的源头！",
+          "updated_at": "2026-10-24 08:17:32",
+          "rank_change": 0,
+          "heat_change": 0,
+          "is_new": true,
+          "boards_count": 2,
+          "stale_update": false,
+          "category": "东方玄幻"
+        },
+        {
+          "rank": 18,
           "title": "噬神鼎",
           "book_id": 1868453,
           "url": "https://www.qimao.com/shuku/1868453/",
@@ -907,12 +930,12 @@
           "word_count": 4167100,
           "heat": 2133000,
           "platform_trend": "rise",
-          "badge": "飙升18名",
+          "badge": "飙升17名",
           "intro": "林煜贵为大汉王朝皇子，遭人陷害，南征惨败，修为被废，被罚看守皇陵，永世不得翻身。\n然而他在皇陵中却激活了上古神器，能够炼化万物的噬神鼎。\n炼化人皇剑，获得圣皇剑体！\n炼化万千妖兽，修为突飞猛进！\n炼化万卷秘笈，领悟神级剑法！\n……\n多年之后，妖族再度入侵，天下大乱，人族危在旦夕。\n就在这时，一道煌煌剑气，由皇陵中横空出世，扫荡群魔，天下无敌！",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/602/1804403_360x480.jpg?time=1731377147",
           "latest_chapter": " 第2024章  斩杀妖神（大结局）",
           "updated_at": "2026-08-21 13:02:14",
-          "rank_change": 0,
+          "rank_change": -1,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
@@ -1009,9 +1032,15 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [],
+        "top_fallers": [
+          {
+            "title": "我和软萌女友的恋爱日常",
+            "book_id": 214789,
+            "rank_change": -1
+          }
+        ],
         "heat_leaders": [],
-        "summary": "「热血校园」榜单结构稳定，无明显变动。",
+        "summary": "「热血校园」《我和软萌女友的恋爱日常》下滑1位。",
         "ai_source": "rule"
       },
       "books": [
@@ -1045,7 +1074,7 @@
           "category": "热血校园"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "title": "我和软萌女友的恋爱日常",
           "book_id": 214789,
           "url": "https://www.qimao.com/shuku/214789/",
@@ -1066,10 +1095,10 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
           "latest_chapter": " 第1338章  完结感言",
           "updated_at": "2023-02-18 08:11:26",
-          "rank_change": 0,
+          "rank_change": -1,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
+          "boards_count": 3,
           "stale_update": true,
           "category": "热血校园"
         }
@@ -1086,9 +1115,15 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [],
+        "top_fallers": [
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "rank_change": -1
+          }
+        ],
         "heat_leaders": [],
-        "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
+        "summary": "「奇门秘术」《山野诡闻笔记》下滑1位。",
         "ai_source": "rule"
       },
       "books": [
@@ -1122,7 +1157,7 @@
           "category": "奇门秘术"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "title": "山野诡闻笔记",
           "book_id": 214783,
           "url": "https://www.qimao.com/shuku/214783/",
@@ -1143,7 +1178,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
           "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
           "updated_at": "2024-05-11 07:57:09",
-          "rank_change": 0,
+          "rank_change": -1,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
@@ -1194,7 +1229,7 @@
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
+          "boards_count": 1,
           "stale_update": true,
           "category": "都市高手"
         }
@@ -1259,14 +1294,20 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [],
+        "top_fallers": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "rank_change": -1
+          }
+        ],
         "heat_leaders": [],
-        "summary": "「末世危机」榜单结构稳定，无明显变动。",
+        "summary": "「末世危机」《全球灾变之末日游戏》下滑1位。",
         "ai_source": "rule"
       },
       "books": [
         {
-          "rank": 18,
+          "rank": 19,
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
           "url": "https://www.qimao.com/shuku/219542/",
@@ -1287,7 +1328,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
           "latest_chapter": " 第2210章  星耀终结",
           "updated_at": "2024-08-28 22:04:25",
-          "rank_change": 0,
+          "rank_change": -1,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
@@ -1307,14 +1348,20 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [],
+        "top_fallers": [
+          {
+            "title": "重回六十年代，从挖何首乌开始",
+            "book_id": 2064995,
+            "rank_change": -1
+          }
+        ],
         "heat_leaders": [],
-        "summary": "「乡村生活」榜单结构稳定，无明显变动。",
+        "summary": "「乡村生活」《重回六十年代，从挖何首乌开始》下滑1位。",
         "ai_source": "rule"
       },
       "books": [
         {
-          "rank": 19,
+          "rank": 20,
           "title": "重回六十年代，从挖何首乌开始",
           "book_id": 2064995,
           "url": "https://www.qimao.com/shuku/2064995/",
@@ -1335,7 +1382,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/883/2646049_360x480.jpg?time=1778656188",
           "latest_chapter": " 第1035章  十七年后",
           "updated_at": "2026-09-10 09:51:07",
-          "rank_change": 0,
+          "rank_change": -1,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
@@ -1347,28 +1394,28 @@
   ],
   "stats": {
     "total_books": 20,
-    "new_count": 0,
-    "dropped_count": 0,
-    "avg_heat": 4223050,
-    "total_heat": 84461000,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 4233550,
+    "total_heat": 84671000,
     "first_day": false
   },
   "keywords": [
     {
       "word": "穿越",
-      "count": 9
-    },
-    {
-      "word": "历史",
       "count": 8
     },
     {
+      "word": "历史",
+      "count": 7
+    },
+    {
       "word": "东方玄幻",
-      "count": 4
+      "count": 5
     },
     {
       "word": "玄幻",
-      "count": 4
+      "count": 5
     },
     {
       "word": "重生",

@@ -8,21 +8,33 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "category": {
     "name": "架空历史",
     "major": "历史",
-    "count": 6,
-    "total_heat": 36798000,
+    "count": 5,
+    "total_heat": 34796000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "被贬边疆，成就最强藩王",
+          "book_id": 1965987,
+          "intro": "开局穿越遭遇仙人跳，被贬边疆吃土。\n皇帝想困我在边城？朝臣想看我笑话？\n却不知我手握现代知识，开荒田、炼精钢、训铁骑！\n三年后，铁骑踏平草原，连敌国公主都跪求联姻……\n龙椅上的那位才后悔：\n他亲手流放"
+        }
+      ],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "世子无双",
+          "book_id": 1860026,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「架空历史」榜单结构稳定，无明显变动。",
+      "summary": "「架空历史」《被贬边疆，成就最强藩王》 掉出榜单；《世子无双》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
@@ -52,7 +64,7 @@
         "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
-        "stale_update": false,
+        "stale_update": true,
         "category": "架空历史"
       },
       {
@@ -143,7 +155,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "title": "世子无双",
         "book_id": 1860026,
         "url": "https://www.qimao.com/shuku/1860026/",
@@ -164,39 +176,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
-        "stale_update": true,
-        "category": "架空历史"
-      },
-      {
-        "rank": 20,
-        "title": "被贬边疆，成就最强藩王",
-        "book_id": 1965987,
-        "url": "https://www.qimao.com/shuku/1965987/",
-        "author": "绯雨",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%BB%AF%E9%9B%A8_14/",
-        "major": "历史",
-        "minor": "架空历史",
-        "major_id": 56,
-        "minor_id": 58,
-        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "258.32万字",
-        "word_count": 2583200,
-        "heat": 2002000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "开局穿越遭遇仙人跳，被贬边疆吃土。\n皇帝想困我在边城？朝臣想看我笑话？\n却不知我手握现代知识，开荒田、炼精钢、训铁骑！\n三年后，铁骑踏平草原，连敌国公主都跪求联姻……\n龙椅上的那位才后悔：\n他亲手流放的不是弃子，而是大周真正的潜龙！\n“陛下，这万里边疆……现在归我了！”\n原来流放，才是他称霸的开始！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/728/2181111_360x480.jpg?time=1751623525",
-        "latest_chapter": " 第1222章  完本",
-        "updated_at": "2026-10-05 10:07:10",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": true,
         "category": "架空历史"
       }
