@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-27",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 142750,
+    "total_heat": 2855000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "谢总，夫人已改嫁，让你跪远点",
+            "book_id": 13156719,
+            "rank_change": 2
+          },
+          {
+            "title": "冷婚七年，夫人带娃离婚他悔疯了",
+            "book_id": 12996819,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "唯她是图",
+            "book_id": 12860100,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "谢总，夫人已改嫁，让你跪远点",
+            "book_id": 13156719,
+            "heat_change": 54000
+          },
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "heat_change": 29000
+          },
+          {
+            "title": "分居三年，高冷商总跪地求不离",
+            "book_id": 13034412,
+            "heat_change": -7000
+          }
+        ],
+        "summary": "「总裁豪门」《谢总，夫人已改嫁，让你跪远点》上升2位领涨；《唯她是图》下滑1位；《谢总，夫人已改嫁，让你跪远点》热度+54000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "rank_change": -1
+          },
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "heat_change": -3000
+          },
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「古代情缘」《嫡姐惨死？王妃她杀爆京城》下滑1位；《嫡姐惨死？王妃她杀爆京城》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "heat_change": -7000
+          }
+        ],
+        "summary": "「宫闱宅斗」新上榜 《皇上开门，福宝带物资来送温暖啦》；《劝爹入赘公主府，玄学嫡女被团宠》热度-7000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "被父弃？做罪妻？赌婚换命赚翻天",
+            "book_id": 13057029,
+            "intro": "【流放+罪妻危机+边疆生活+水系+开荒种田+经商暴富+女性互助+双强直球夫妇】\n穿越当天，宁昭昕被亲生父亲舍弃，与母亲一同随外祖母家流放南疆做罪奴。\n人人都说罪奴卑贱如泥，进了兵营不出三日就会被折辱死"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "rank_change": -3
+          },
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514,
+            "heat_change": -1000
+          },
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「种田经商」《被父弃？做罪妻？赌婚换命赚翻天》 掉出榜单；《悍妇穿边关，一手烂牌打出王炸》下滑3位；《流民医女：开荒把残夫养成战神》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "婚后分床睡，冷面军官他急了",
+            "book_id": 12856086,
+            "intro": "前世沈青禾眼盲心瞎，错信渣男！\n手握祖传绝世送子神方，是真正的隐世神医，却倾尽一切，将周明远捧成人人尊敬的中医圣手。\n至死才知，这一切从头到尾都是一场歹毒算计！\n周明远为骗秘方，亲手下药设计她失身。\n"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「年代重生」《婚后分床睡，冷面军官他急了》 掉出榜单；《错嫁随军：新婚夜冷面军少沦陷了》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "不做替身后，小师妹一剑可破天",
+            "book_id": 12908322,
+            "heat_change": 5000
+          }
+        ],
+        "summary": "「玄幻仙侠」《不做替身后，小师妹一剑可破天》热度+5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」新上榜 《年下弟弟，人前乖软人后野》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

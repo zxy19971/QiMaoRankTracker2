@@ -8,66 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 16,
+    "total_heat": 4,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "女子监狱五年，出狱即无敌",
-          "book_id": 12791886
-        }
-      ],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+          "book_id": 12791886,
+          "rank_change": 3
+        },
         {
           "title": "被关女子监狱五年，出狱后我医武双绝",
           "book_id": 12514650,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
-      "heat_leaders": [],
-      "summary": "「都市高武」新上榜 《女子监狱五年，出狱即无敌》；《被关女子监狱五年，出狱后我医武双绝》下滑1位。",
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "女子监狱五年，出狱即无敌",
+          "book_id": 12791886,
+          "heat_change": -12
+        }
+      ],
+      "summary": "「都市高武」《女子监狱五年，出狱即无敌》上升3位领涨；《女子监狱五年，出狱即无敌》热度-12。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 16,
-        "title": "被关女子监狱五年，出狱后我医武双绝",
-        "book_id": 12514650,
-        "url": "https://www.qimao.com/shuku/12514650/",
-        "author": "蓝莓是只猫",
-        "author_url": "https://www.qimao.com/zuozhe/%E8%93%9D%E8%8E%93%E6%98%AF%E5%8F%AA%E7%8C%AB_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "79.51万字",
-        "word_count": 795100,
-        "heat": 1,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让他们千万倍偿还这滔天血债。同时他也要好好保护养姐等族中女眷和他的四个未婚妻，一定让她们过上好日子！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
-        "latest_chapter": " 第373章  叶辰团队二把手的威严气度",
-        "updated_at": "2026-10-25 21:45:05",
-        "rank_change": -1,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 17,
+        "rank": 14,
         "title": "女子监狱五年，出狱即无敌",
         "book_id": 12791886,
         "url": "https://www.qimao.com/shuku/12791886/",
@@ -79,18 +56,47 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "67.59万字",
-        "word_count": 675900,
-        "heat": 15,
+        "word_count_text": "68.51万字",
+        "word_count": 685100,
+        "heat": 3,
         "platform_trend": "rise",
         "badge": "",
         "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第287章  不是一路人",
-        "updated_at": "2026-10-25 22:12:03",
-        "rank_change": 0,
+        "latest_chapter": " 第291章  借势",
+        "updated_at": "2026-10-26 22:22:05",
+        "rank_change": 3,
+        "heat_change": -12,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高武"
+      },
+      {
+        "rank": 15,
+        "title": "被关女子监狱五年，出狱后我医武双绝",
+        "book_id": 12514650,
+        "url": "https://www.qimao.com/shuku/12514650/",
+        "author": "蓝莓是只猫",
+        "author_url": "https://www.qimao.com/zuozhe/%E8%93%9D%E8%8E%93%E6%98%AF%E5%8F%AA%E7%8C%AB_14/",
+        "major": "都市",
+        "minor": "都市高武",
+        "major_id": 203,
+        "minor_id": 219,
+        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "80.12万字",
+        "word_count": 801200,
+        "heat": 1,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让他们千万倍偿还这滔天血债。同时他也要好好保护养姐等族中女眷和他的四个未婚妻，一定让她们过上好日子！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
+        "latest_chapter": " 第376章  醒来就结婚，彻底解开心中芥蒂",
+        "updated_at": "2026-10-26 21:26:05",
+        "rank_change": 1,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"

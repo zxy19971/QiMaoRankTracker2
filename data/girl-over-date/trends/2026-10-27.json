@@ -1,0 +1,183 @@
+{
+  "date": "2026-10-27",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 155300,
+    "total_heat": 3106000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "京夜心动",
+            "book_id": 2024344,
+            "intro": "蒋检长跌入凡尘，对那个被他接回家的小姑娘着了魔。\n刚发现自己竟有这样要命的念头，他无法接受，他隐忍，他克制。\n可一切的一切，都在她跟一个男人夜不归宿后破功。\n大雨过后的清晨，念初被堵在女寝楼下，本不该"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "婚后上瘾",
+            "book_id": 1994117,
+            "rank_change": 1
+          },
+          {
+            "title": "嫌我不孕？另嫁京圈首富一胎又一胎",
+            "book_id": 2093961,
+            "rank_change": 1
+          },
+          {
+            "title": "惯坏她",
+            "book_id": 10034568,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "六年后，我携四个幼崽炸翻前夫家",
+            "book_id": 1658048,
+            "rank_change": -1
+          },
+          {
+            "title": "盛总，太太让您签的是去父留子协议",
+            "book_id": 9903723,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "消失十五年，孩子妈穿回来了！",
+            "book_id": 1843770,
+            "heat_change": 11000
+          },
+          {
+            "title": "盛总，太太让您签的是去父留子协议",
+            "book_id": 9903723,
+            "heat_change": -11000
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": 6000
+          }
+        ],
+        "summary": "「总裁豪门」《京夜心动》 掉出榜单；《婚后上瘾》上升1位领涨；《六年后，我携四个幼崽炸翻前夫家》下滑1位；《消失十五年，孩子妈穿回来了！》热度+11000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "第一凤女",
+            "book_id": 1803136,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "裂春风",
+            "book_id": 10024089,
+            "heat_change": -9000
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": -7000
+          },
+          {
+            "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+            "book_id": 2019227,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「宫闱宅斗」《第一凤女》上升2位领涨；《裂春风》热度-9000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "老祖宗如此多娇，王爷乖乖折腰",
+            "book_id": 11593215,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "为奴三年后，整个侯府跪求我原谅",
+            "book_id": 1872563,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "为奴三年后，整个侯府跪求我原谅",
+            "book_id": 1872563,
+            "heat_change": -6000
+          },
+          {
+            "title": "老祖宗如此多娇，王爷乖乖折腰",
+            "book_id": 11593215,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「古代情缘」《老祖宗如此多娇，王爷乖乖折腰》上升1位领涨；《为奴三年后，整个侯府跪求我原谅》下滑2位；《为奴三年后，整个侯府跪求我原谅》热度-6000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "神算真千金，傅太太被豪门圈宠爆",
+            "book_id": 1891818
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市奇幻」新上榜 《神算真千金，傅太太被豪门圈宠爆》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

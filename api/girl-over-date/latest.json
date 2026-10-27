@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "types": [
     {
       "name": "全部",
@@ -29,6 +29,10 @@
     {
       "name": "玄幻仙侠",
       "url": "api/girl-over-date/latest/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0.json"
+    },
+    {
+      "name": "都市奇幻",
+      "url": "api/girl-over-date/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
     }
   ]
 }

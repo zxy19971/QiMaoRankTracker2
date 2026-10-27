@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "categories": [
     {
       "name": "都市高武",
@@ -112,14 +112,14 @@
       "url": "api/categories/latest/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0.json"
     },
     {
-      "name": "种田经商",
-      "major": "古代言情",
-      "url": "api/categories/latest/%E7%A7%8D%E7%94%B0%E7%BB%8F%E5%95%86.json"
-    },
-    {
       "name": "职场情缘",
       "major": "现代言情",
       "url": "api/categories/latest/%E8%81%8C%E5%9C%BA%E6%83%85%E7%BC%98.json"
+    },
+    {
+      "name": "种田经商",
+      "major": "古代言情",
+      "url": "api/categories/latest/%E7%A7%8D%E7%94%B0%E7%BB%8F%E5%95%86.json"
     },
     {
       "name": "末世求生",

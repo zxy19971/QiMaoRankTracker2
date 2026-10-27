@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "category": {
     "name": "现实故事",
     "major": "现实主义",
     "count": 1,
-    "total_heat": 11,
+    "total_heat": 4,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "明月照天山",
-          "book_id": 13571145
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「现实故事」新上榜 《明月照天山》。",
+      "top_fallers": [
+        {
+          "title": "明月照天山",
+          "book_id": 13571145,
+          "rank_change": -4
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "明月照天山",
+          "book_id": 13571145,
+          "heat_change": -7
+        }
+      ],
+      "summary": "「现实故事」《明月照天山》下滑4位；《明月照天山》热度-7。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 15,
         "title": "明月照天山",
         "book_id": 13571145,
         "url": "https://www.qimao.com/shuku/13571145/",
@@ -44,18 +51,18 @@
         "minor_id": 309,
         "minor_url": "https://www.qimao.com/shuku/a-307-309-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "23.78万字",
-        "word_count": 237800,
-        "heat": 11,
-        "platform_trend": "rise",
+        "word_count_text": "24.28万字",
+        "word_count": 242800,
+        "heat": 4,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "她本可以在临江市按部就班地当她的检察官，等一场体面的婚礼。\n可她退了婚，报了名，一脚踏进八千里外的风沙——接她的人，没来。\n有人说援疆是镀金，她偏要种树。\n一片枯死的胡杨林，牵出纳税大户的弥天大案；一个被网暴的维吾尔族姑娘，让她懂得法律要有牙齿，更要有体温。\n周远说：\"你们来三年就走了，我们要守一辈子。\"\n后来他说：\"等胡杨苗长过膝盖，你嫁给我。\"\n这是一个关于留下与归来的故事，也是千千万万援疆人、守边人的故事。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4524/13571145_360x480.jpg?time=1790248160",
-        "latest_chapter": " 第96章  庭审前夜",
-        "updated_at": "2026-10-25 17:02:07",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第98章  对质",
+        "updated_at": "2026-10-26 17:02:04",
+        "rank_change": -4,
+        "heat_change": -7,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "现实故事"

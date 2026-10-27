@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -16,25 +16,13 @@
     "total_heat": 34796000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "被贬边疆，成就最强藩王",
-          "book_id": 1965987,
-          "intro": "开局穿越遭遇仙人跳，被贬边疆吃土。\n皇帝想困我在边城？朝臣想看我笑话？\n却不知我手握现代知识，开荒田、炼精钢、训铁骑！\n三年后，铁骑踏平草原，连敌国公主都跪求联姻……\n龙椅上的那位才后悔：\n他亲手流放"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "世子无双",
-          "book_id": 1860026,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「架空历史」《被贬边疆，成就最强藩王》 掉出榜单；《世子无双》下滑1位。",
+      "summary": "「架空历史」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -176,10 +164,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": true,
         "category": "架空历史"
       }

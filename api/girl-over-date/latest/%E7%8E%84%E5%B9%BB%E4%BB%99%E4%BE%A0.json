@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
@@ -21,14 +21,8 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "第一瞳术师",
-          "book_id": 215243,
-          "heat_change": 2000
-        }
-      ],
-      "summary": "「玄幻仙侠」《第一瞳术师》热度+2000。",
+      "heat_leaders": [],
+      "summary": "「玄幻仙侠」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,7 +49,7 @@
         "latest_chapter": " 第1903章  婚后番外（下）",
         "updated_at": "2025-11-11 17:12:29",
         "rank_change": 0,
-        "heat_change": 2000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
