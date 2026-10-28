@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 2,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,7 +23,7 @@
         {
           "title": "被陷害后，我被迫成了送子天官！",
           "book_id": 12984576,
-          "rank_change": 1
+          "rank_change": 2
         }
       ],
       "top_fallers": [],
@@ -31,15 +31,10 @@
         {
           "title": "被陷害后，我被迫成了送子天官！",
           "book_id": 12984576,
-          "heat_change": -3
-        },
-        {
-          "title": "太监凶猛",
-          "book_id": 11674809,
-          "heat_change": -1
+          "heat_change": 1
         }
       ],
-      "summary": "「架空历史」《被陷害后，我被迫成了送子天官！》上升1位领涨；《被陷害后，我被迫成了送子天官！》热度-3。",
+      "summary": "「架空历史」《被陷害后，我被迫成了送子天官！》上升2位领涨；《被陷害后，我被迫成了送子天官！》热度+1。",
       "ai_source": "rule"
     },
     "books": [
@@ -56,24 +51,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "135.35万字",
-        "word_count": 1353500,
+        "word_count_text": "135.95万字",
+        "word_count": 1359500,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第404章  十万铁骑来临！",
-        "updated_at": "2026-10-27 00:32:05",
+        "latest_chapter": " 第406章  辽族断粮！",
+        "updated_at": "2026-10-28 00:32:04",
         "rank_change": 0,
-        "heat_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 19,
+        "rank": 17,
         "title": "被陷害后，我被迫成了送子天官！",
         "book_id": 12984576,
         "url": "https://www.qimao.com/shuku/12984576/",
@@ -85,17 +80,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "57.61万字",
-        "word_count": 576100,
-        "heat": 1,
+        "word_count_text": "58.25万字",
+        "word_count": 582500,
+        "heat": 2,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【朝堂权谋】+【杀伐果断】+【智商在线】+【多女主】+【不好看你揍我！】\n胎穿十八年，萧策成为大炎皇朝最没存在的七皇子！\n本想着彻底躺平摆烂，混吃等死，不料一觉醒来，被大皇子陷害！\n为活命，他急中生智：“父皇，儿臣是送子天官转世！”\n纯属胡扯。\n可皇帝信了，满朝信了，连敌人都信了。\n萧策：“……我就是随口一说啊！”\n那就当真天官吧。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4329/12984576_360x480.jpg?time=1785745185",
-        "latest_chapter": " 第261章  请你看烟花！",
-        "updated_at": "2026-10-26 09:02:07",
-        "rank_change": 1,
-        "heat_change": -3,
+        "latest_chapter": " 第264章  穿云弩，大破敌军！",
+        "updated_at": "2026-10-27 09:02:10",
+        "rank_change": 2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

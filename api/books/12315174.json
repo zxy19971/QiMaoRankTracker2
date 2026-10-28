@@ -11,7 +11,7 @@
     {
       "board": "girl-update-date",
       "board_name": "女生更新日榜",
-      "rank": 10,
+      "rank": 11,
       "heat": 1
     }
   ],
@@ -254,6 +254,12 @@
       "d": "2026-10-27",
       "b": "girl-update-date",
       "r": 10,
+      "h": 1
+    },
+    {
+      "d": "2026-10-28",
+      "b": "girl-update-date",
+      "r": 11,
       "h": 1
     }
   ]

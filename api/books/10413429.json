@@ -11,8 +11,8 @@
     {
       "board": "boy-hot-date",
       "board_name": "男生大热日榜",
-      "rank": 20,
-      "heat": 207000
+      "rank": 17,
+      "heat": 231000
     }
   ],
   "history": [
@@ -21,6 +21,12 @@
       "b": "boy-hot-date",
       "r": 20,
       "h": 207000
+    },
+    {
+      "d": "2026-10-28",
+      "b": "boy-hot-date",
+      "r": 17,
+      "h": 231000
     }
   ]
 }

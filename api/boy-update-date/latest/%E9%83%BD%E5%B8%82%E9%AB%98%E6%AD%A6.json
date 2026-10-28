@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 4,
+    "total_heat": 3,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,59 +21,31 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "女子监狱五年，出狱即无敌",
-          "book_id": 12791886,
-          "rank_change": 3
-        },
-        {
           "title": "被关女子监狱五年，出狱后我医武双绝",
           "book_id": 12514650,
           "rank_change": 1
         }
       ],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "女子监狱五年，出狱即无敌",
+          "book_id": 12791886,
+          "rank_change": -2
+        }
+      ],
       "heat_leaders": [
         {
           "title": "女子监狱五年，出狱即无敌",
           "book_id": 12791886,
-          "heat_change": -12
+          "heat_change": -1
         }
       ],
-      "summary": "「都市高武」《女子监狱五年，出狱即无敌》上升3位领涨；《女子监狱五年，出狱即无敌》热度-12。",
+      "summary": "「都市高武」《被关女子监狱五年，出狱后我医武双绝》上升1位领涨；《女子监狱五年，出狱即无敌》下滑2位；《女子监狱五年，出狱即无敌》热度-1。",
       "ai_source": "rule"
     },
     "books": [
       {
         "rank": 14,
-        "title": "女子监狱五年，出狱即无敌",
-        "book_id": 12791886,
-        "url": "https://www.qimao.com/shuku/12791886/",
-        "author": "提笔忘情",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%8F%90%E7%AC%94%E5%BF%98%E6%83%85_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "68.51万字",
-        "word_count": 685100,
-        "heat": 3,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第291章  借势",
-        "updated_at": "2026-10-26 22:22:05",
-        "rank_change": 3,
-        "heat_change": -12,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 15,
         "title": "被关女子监狱五年，出狱后我医武双绝",
         "book_id": 12514650,
         "url": "https://www.qimao.com/shuku/12514650/",
@@ -85,17 +57,46 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "80.12万字",
-        "word_count": 801200,
+        "word_count_text": "80.73万字",
+        "word_count": 807300,
         "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让他们千万倍偿还这滔天血债。同时他也要好好保护养姐等族中女眷和他的四个未婚妻，一定让她们过上好日子！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
-        "latest_chapter": " 第376章  醒来就结婚，彻底解开心中芥蒂",
-        "updated_at": "2026-10-26 21:26:05",
+        "latest_chapter": " 第379章  甜蜜的烦恼，晚上到底该宠幸谁？",
+        "updated_at": "2026-10-27 23:57:07",
         "rank_change": 1,
         "heat_change": 0,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高武"
+      },
+      {
+        "rank": 16,
+        "title": "女子监狱五年，出狱即无敌",
+        "book_id": 12791886,
+        "url": "https://www.qimao.com/shuku/12791886/",
+        "author": "提笔忘情",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%8F%90%E7%AC%94%E5%BF%98%E6%83%85_14/",
+        "major": "都市",
+        "minor": "都市高武",
+        "major_id": 203,
+        "minor_id": 219,
+        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "69.4万字",
+        "word_count": 694000,
+        "heat": 2,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
+        "latest_chapter": " 第295章  立威",
+        "updated_at": "2026-10-27 22:12:04",
+        "rank_change": -2,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,37 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 3,
-    "total_heat": 208000,
+    "total_heat": 213000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_risers": [
         {
-          "title": "我的倾城野妻",
-          "book_id": 12973059,
-          "heat_change": 7000
-        },
+          "title": "下山第一天，逮个美女总裁暴力宠",
+          "book_id": 13008696,
+          "rank_change": 1
+        }
+      ],
+      "top_fallers": [
         {
           "title": "血脉觉醒后，美女总裁赖上我",
           "book_id": 13089795,
-          "heat_change": -4000
+          "rank_change": -2
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "血脉觉醒后，美女总裁赖上我",
+          "book_id": 13089795,
+          "heat_change": 6000
+        },
+        {
+          "title": "我的倾城野妻",
+          "book_id": 12973059,
+          "heat_change": -3000
         },
         {
           "title": "下山第一天，逮个美女总裁暴力宠",
           "book_id": 13008696,
-          "heat_change": 1000
+          "heat_change": 2000
         }
       ],
-      "summary": "「都市高手」《我的倾城野妻》热度+7000。",
+      "summary": "「都市高手」《下山第一天，逮个美女总裁暴力宠》上升1位领涨；《血脉觉醒后，美女总裁赖上我》下滑2位；《血脉觉醒后，美女总裁赖上我》热度+6000。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,24 +67,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.55万字",
-        "word_count": 375500,
-        "heat": 146000,
-        "platform_trend": "rise",
+        "word_count_text": "38.24万字",
+        "word_count": 382400,
+        "heat": 143000,
+        "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "大学生秦东代替富二代室友相亲，竟意外与极品女神一夜风情，觉醒了圣龙之体，自此从龙飞九天，逆势而起，冷艳女总裁，豪门千金，绝美校花等各路红颜纷至沓来，且看秦东凭借一身本事搅动都市风云，活出个快意人生……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12973059_360x480.jpg?time=1786152834",
-        "latest_chapter": " 第173章  叶君瑶的真龙天子！",
-        "updated_at": "2026-10-26 22:45:04",
+        "latest_chapter": " 第176章  疯狂的丈母娘！",
+        "updated_at": "2026-10-27 23:00:03",
         "rank_change": 0,
-        "heat_change": 7000,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "title": "血脉觉醒后，美女总裁赖上我",
         "book_id": 13089795,
         "url": "https://www.qimao.com/shuku/13089795/",
@@ -84,24 +96,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.61万字",
-        "word_count": 426100,
-        "heat": 44000,
-        "platform_trend": "drop",
+        "word_count_text": "43.3万字",
+        "word_count": 433000,
+        "heat": 50000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "林默被恋爱多年的女友戴绿帽，因祸得福，觉醒神皇血脉。\n从此走向人生巅峰。\n得多位美女青睞。\n沈知寒：“林默，我只有一个要求，随叫随到。”\n苏嫣嫣：“怎么，看入迷了？”\n顾佳雨：“林默哥哥......”\n江雪：“打住！”\n......\n“吾之后裔，今日觉我血脉，便承我衣钵。”\n“传你医道九章，可窥生死玄机，武道九式，可撼天地乾坤；”\n“术法三千，可役鬼神风雨，丹阵符箓，可掌造化之机。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4364/13089795_360x480.jpg?time=1792115432",
-        "latest_chapter": " 第102章  居然在洗澡！【五章合二】",
-        "updated_at": "2026-10-27 00:02:29",
-        "rank_change": 0,
-        "heat_change": -4000,
+        "latest_chapter": " 第103章  林默，你的死期，到了！",
+        "updated_at": "2026-10-28 00:02:30",
+        "rank_change": -2,
+        "heat_change": 6000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "title": "下山第一天，逮个美女总裁暴力宠",
         "book_id": 13008696,
         "url": "https://www.qimao.com/shuku/13008696/",
@@ -113,17 +125,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.09万字",
-        "word_count": 380900,
-        "heat": 18000,
+        "word_count_text": "38.52万字",
+        "word_count": 385200,
+        "heat": 20000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第173章  你摊上大事了",
-        "updated_at": "2026-10-27 05:02:03",
-        "rank_change": 0,
-        "heat_change": 1000,
+        "latest_chapter": " 第175章  肥水不流外人田",
+        "updated_at": "2026-10-28 05:02:03",
+        "rank_change": 1,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

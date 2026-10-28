@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-28",
+  "board": "boy-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 379100,
+    "total_heat": 7582000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "葬天神帝",
+            "book_id": 213697
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "混沌塔",
+            "book_id": 1767940,
+            "rank_change": 2
+          },
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "rank_change": 1
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "heat_change": 20000
+          },
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "heat_change": 14000
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": 8000
+          }
+        ],
+        "summary": "「东方玄幻」新上榜 《葬天神帝》；《混沌塔》上升2位领涨；《吞噬九重天》下滑1位；《葬神棺》热度+20000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "边军悍卒",
+            "book_id": 1882754,
+            "rank_change": 2
+          },
+          {
+            "title": "让你当个替身，你咋君临天下",
+            "book_id": 12647139,
+            "rank_change": 1
+          },
+          {
+            "title": "大乾第一豪强",
+            "book_id": 12465015,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "逍遥四公子",
+            "book_id": 1809361,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "让你当个替身，你咋君临天下",
+            "book_id": 12647139,
+            "heat_change": 29000
+          },
+          {
+            "title": "逍遥四公子",
+            "book_id": 1809361,
+            "heat_change": -12000
+          },
+          {
+            "title": "大乾第一豪强",
+            "book_id": 12465015,
+            "heat_change": 8000
+          }
+        ],
+        "summary": "「架空历史」《边军悍卒》上升2位领涨；《逍遥四公子》下滑1位；《让你当个替身，你咋君临天下》热度+29000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "舔狗反派只想苟，女主不按套路走！",
+            "book_id": 1710753,
+            "rank_change": 3
+          },
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "警报！真龙出狱！",
+            "book_id": 1834789,
+            "heat_change": -43000
+          },
+          {
+            "title": "舔狗反派只想苟，女主不按套路走！",
+            "book_id": 1710753,
+            "heat_change": 15000
+          },
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "heat_change": 12000
+          }
+        ],
+        "summary": "「都市高手」《舔狗反派只想苟，女主不按套路走！》上升3位领涨；《警报！真龙出狱！》热度-43000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "聚宝仙炉",
+            "book_id": 12452187
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "凡人：从拔刀三十万次开始",
+            "book_id": 10413429,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "凡人：从拔刀三十万次开始",
+            "book_id": 10413429,
+            "heat_change": 24000
+          }
+        ],
+        "summary": "「幻想修真」新上榜 《聚宝仙炉》；《凡人：从拔刀三十万次开始》上升3位领涨；《凡人：从拔刀三十万次开始》热度+24000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "盖世神医",
+            "book_id": 195958,
+            "heat_change": 23000
+          }
+        ],
+        "summary": "「都市高武」《盖世神医》热度+23000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "桃花劫",
+            "book_id": 2028957,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "桃花劫",
+            "book_id": 2028957,
+            "heat_change": 10000
+          }
+        ],
+        "summary": "「商战职场」《桃花劫》上升1位领涨；《桃花劫》热度+10000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "王朝争霸",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "大周第一武夫",
+            "book_id": 2074426,
+            "heat_change": 7000
+          }
+        ],
+        "summary": "「王朝争霸」《大周第一武夫》热度+7000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

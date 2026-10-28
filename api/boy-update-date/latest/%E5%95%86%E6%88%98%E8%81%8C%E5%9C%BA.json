@@ -8,33 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "category": {
     "name": "商战职场",
     "major": "都市",
-    "count": 1,
-    "total_heat": 1,
+    "count": 2,
+    "total_heat": 3,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
         {
           "title": "重生1999：重启火星计划",
-          "book_id": 13263771,
-          "intro": "【别名：新纪元规则缔造者】\n唐勇重生后从一个寂寂无闻的网管，干成互联网话事人。\n带着华夏航天从零开始，一跃成为世界之巅的航天巨头。\n且看他是如何一步一步地布局互联网生态化。\n又是如何一步步地冲出大气层"
+          "book_id": 13263771
         }
       ],
-      "top_risers": [
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [
         {
           "title": "野性攀登",
           "book_id": 13408218,
-          "rank_change": 1
+          "heat_change": -1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「商战职场」《重生1999：重启火星计划》 掉出榜单；《野性攀登》上升1位领涨。",
+      "summary": "「商战职场」新上榜 《重生1999：重启火星计划》；《野性攀登》热度-1。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,19 +50,48 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.4万字",
-        "word_count": 364000,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "37.29万字",
+        "word_count": 372900,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "地产公司小职员陈爽，为凑巨额彩礼，夜跑代驾，被身份不凡的美女强征，被人误会有背景，从此踏上逆袭之路，上司极品老婆，温柔女领导，娇媚女下属，刁蛮小魔女，各路美女被命运安排，和陈爽走到一起\n被心爱女友背叛，陈爽彻底激发野性，和众美女携手，野性攀峰……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4470/13408218_360x480.jpg?time=1792546689",
-        "latest_chapter": " 第165章  容颜可以打到120分的女孩",
-        "updated_at": "2026-10-27 04:02:02",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第169章  你这旺仔，老子没兴趣",
+        "updated_at": "2026-10-28 04:02:03",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": false,
+        "category": "商战职场"
+      },
+      {
+        "rank": 18,
+        "title": "重生1999：重启火星计划",
+        "book_id": 13263771,
+        "url": "https://www.qimao.com/shuku/13263771/",
+        "author": "随心鱼",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%9A%8F%E5%BF%83%E9%B1%BC_14/",
+        "major": "都市",
+        "minor": "商战职场",
+        "major_id": 203,
+        "minor_id": 221,
+        "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "34.37万字",
+        "word_count": 343700,
+        "heat": 3,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【别名：新纪元规则缔造者】\n唐勇重生后从一个寂寂无闻的网管，干成互联网话事人。\n带着华夏航天从零开始，一跃成为世界之巅的航天巨头。\n且看他是如何一步一步地布局互联网生态化。\n又是如何一步步地冲出大气层在月球建基地、载人登火星的。\n读者须知：本书非无脑打脸爽文，剧情循序渐进，偏慢热。\n如果想看打脸爽文的大佬请勿入，谢谢！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4422/13263771_360x480.jpg?time=1787541230",
+        "latest_chapter": " 第140章  银狼晋升",
+        "updated_at": "2026-10-28 00:02:11",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "商战职场"
       }

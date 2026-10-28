@@ -1,0 +1,253 @@
+{
+  "date": "2026-10-28",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 2,
+    "total_heat": 45,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "错撩反派，被疯批摄政王强娶豪夺",
+            "book_id": 12593919,
+            "rank_change": 10
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": 3
+          },
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "宫女朔宁",
+            "book_id": 12315174,
+            "rank_change": -1
+          },
+          {
+            "title": "母凭女贵",
+            "book_id": 12800205,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "错撩反派，被疯批摄政王强娶豪夺",
+            "book_id": 12593919,
+            "heat_change": 10
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": 2
+          },
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「宫闱宅斗」《错撩反派，被疯批摄政王强娶豪夺》上升10位领涨；《宫女朔宁》下滑1位；《错撩反派，被疯批摄政王强娶豪夺》热度+10。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902,
+            "intro": "梵音落魄那日，去了个破落小镇\n她肤白貌美大长腿，十指不沾阳春水，很快成了这个地方的焦点\n所有男人都对她趋之若鹜，独独一人对她退避三舍\n梵音看那人一眼，随他去，懒得理\n后来，男人醉酒敲开她的房门，掐着她"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "rank_change": -8
+          },
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": 8
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "heat_change": 3
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「总裁豪门」《疯犬玫瑰》 掉出榜单；《她玩火》上升5位领涨；《离婚后她惊艳了世界》下滑8位；《离婚后她惊艳了世界》热度+8。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "国医圣手穿七零，重生军少求上位",
+            "book_id": 13352190,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "军婚超甜！闪婚后成了首长的心尖宠",
+            "book_id": 12803265,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "军婚超甜！闪婚后成了首长的心尖宠",
+            "book_id": 12803265,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「年代重生」《国医圣手穿七零，重生军少求上位》上升2位领涨；《军婚超甜！闪婚后成了首长的心尖宠》下滑1位；《军婚超甜！闪婚后成了首长的心尖宠》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "山神在上，阴棺见喜",
+            "book_id": 12752880
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市奇幻」新上榜 《山神在上，阴棺见喜》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「古代情缘」《新婚夜流放，飒爽太子妃种出西北大仓！》下滑1位；《新婚夜流放，飒爽太子妃种出西北大仓！》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "rank_change": -6
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "heat_change": 6
+          }
+        ],
+        "summary": "「种田经商」《大雪封山闹饥荒，福宝开挂富全村》下滑6位；《大雪封山闹饥荒，福宝开挂富全村》热度+6。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现实故事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "明月照天山",
+            "book_id": 13571145,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "明月照天山",
+            "book_id": 13571145,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「现实故事」《明月照天山》下滑2位；《明月照天山》热度-2。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

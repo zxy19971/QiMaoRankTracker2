@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-28",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 159450,
+    "total_heat": 3189000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "六年后，我携四个幼崽炸翻前夫家",
+            "book_id": 1658048,
+            "rank_change": 1
+          },
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "rank_change": 1
+          },
+          {
+            "title": "嫌我不孕？另嫁京圈首富一胎又一胎",
+            "book_id": 2093961,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "消失十五年，孩子妈穿回来了！",
+            "book_id": 1843770,
+            "rank_change": -3
+          },
+          {
+            "title": "婚后上瘾",
+            "book_id": 1994117,
+            "rank_change": -1
+          },
+          {
+            "title": "大佬归来，假千金她不装了",
+            "book_id": 1699328,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": 41000
+          },
+          {
+            "title": "消失十五年，孩子妈穿回来了！",
+            "book_id": 1843770,
+            "heat_change": -35000
+          },
+          {
+            "title": "六年后，我携四个幼崽炸翻前夫家",
+            "book_id": 1658048,
+            "heat_change": 6000
+          }
+        ],
+        "summary": "「总裁豪门」《六年后，我携四个幼崽炸翻前夫家》上升1位领涨；《消失十五年，孩子妈穿回来了！》下滑3位；《第五年重逢，驰先生再度失控》热度+41000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+            "book_id": 2019227,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "第一凤女",
+            "book_id": 1803136,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": 27000
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": 6000
+          },
+          {
+            "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+            "book_id": 2019227,
+            "heat_change": 6000
+          }
+        ],
+        "summary": "「宫闱宅斗」《随母改嫁旺新家，重生嫡女嘎嘎乱杀》上升1位领涨；《第一凤女》下滑1位；《凤池生春》热度+27000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「玄幻仙侠」《第一瞳术师》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "为奴三年后，整个侯府跪求我原谅",
+            "book_id": 1872563,
+            "intro": "又名《念昭归》\n乔念做了侯府十五年的掌上明珠，却在那日突然被告知自己只是个假千金。\n从此，疼爱她的爹娘成了林鸢的，宠溺她的阿兄为了林鸢亲手将她推下小楼，就连她的未婚夫，那位封狼居胥的萧将军都选择站在了"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "老祖宗如此多娇，王爷乖乖折腰",
+            "book_id": 11593215,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "老祖宗如此多娇，王爷乖乖折腰",
+            "book_id": 11593215,
+            "heat_change": 18000
+          }
+        ],
+        "summary": "「古代情缘」《为奴三年后，整个侯府跪求我原谅》 掉出榜单；《老祖宗如此多娇，王爷乖乖折腰》上升5位领涨；《老祖宗如此多娇，王爷乖乖折腰》热度+18000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "七零闪婚不见面，带娃炸翻家属院",
+            "book_id": 2060462
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」新上榜 《七零闪婚不见面，带娃炸翻家属院》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "神算真千金，傅太太被豪门圈宠爆",
+            "book_id": 1891818,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "神算真千金，傅太太被豪门圈宠爆",
+            "book_id": 1891818,
+            "heat_change": 3000
+          }
+        ],
+        "summary": "「都市奇幻」《神算真千金，傅太太被豪门圈宠爆》下滑2位；《神算真千金，傅太太被豪门圈宠爆》热度+3000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
