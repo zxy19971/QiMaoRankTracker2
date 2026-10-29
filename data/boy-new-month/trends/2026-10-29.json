@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-29",
+  "board": "boy-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 267650,
+    "total_heat": 5353000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "透视神眼：看尽天下玉，揽尽世上美",
+            "book_id": 12898650,
+            "rank_change": 2
+          },
+          {
+            "title": "重生70：大国栋梁，从正阳门下开始",
+            "book_id": 12867831,
+            "rank_change": 2
+          },
+          {
+            "title": "离婚后，高冷前妻日日求我复合",
+            "book_id": 12938433,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市生活」《透视神眼：看尽天下玉，揽尽世上美》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "边军小卒：杀敌爆气血，我无限破镜！",
+            "book_id": 12958296
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "北疆最狂纨绔：从赐婚进京开始",
+            "book_id": 12949137,
+            "rank_change": 2
+          },
+          {
+            "title": "咱家世代从军，到你这成文圣了？",
+            "book_id": 13194165,
+            "rank_change": 2
+          },
+          {
+            "title": "寇天子",
+            "book_id": 12817968,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」新上榜 《边军小卒：杀敌爆气血，我无限破镜！》；《北疆最狂纨绔：从赐婚进京开始》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "血脉觉醒后，美女总裁赖上我",
+            "book_id": 13089795,
+            "rank_change": 2
+          },
+          {
+            "title": "捡漏人生：一刀帝王绿，美女竞折腰",
+            "book_id": 12869139,
+            "rank_change": 2
+          },
+          {
+            "title": "下山第一天，逮个美女总裁暴力宠",
+            "book_id": 13008696,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」《血脉觉醒后，美女总裁赖上我》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "趁校花一贫如洗，忽悠她以身相许",
+            "book_id": 12896292,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「热血校园」《趁校花一贫如洗，忽悠她以身相许》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "诡异民国，从缝尸开始长生",
+            "book_id": 12706761,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」《诡异民国，从缝尸开始长生》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "虚拟网游",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "网游：全是数值，你管这叫圣骑士？",
+            "book_id": 12801060,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「虚拟网游」《网游：全是数值，你管这叫圣骑士？》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "透视鉴宝：美女财富两不误",
+            "book_id": 12708261,
+            "intro": "叶尘努力三年送外卖，喜提一顶绿油油的帽子。\n前女友傍上部门领导，以为是跨越了阶层，却不知道叶尘是身怀绝技的入世高人。\n三年之期已到，叶尘终于可以毫无顾忌，一门望气术玩转珠宝玉石界，顶尖武力力压群雄。\n"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "都市极品狂龙！",
+            "book_id": 13012533,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」《透视鉴宝：美女财富两不误》 掉出榜单；《都市极品狂龙！》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "一身吞鬼术，杀遍世间敌！",
+            "book_id": 12678867
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」新上榜 《一身吞鬼术，杀遍世间敌！》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

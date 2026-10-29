@@ -8,27 +8,22 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 2,
-    "total_heat": 440000,
+    "total_heat": 461000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "聚宝仙炉",
-          "book_id": 12452187
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [
         {
           "title": "凡人：从拔刀三十万次开始",
           "book_id": 10413429,
-          "rank_change": 3
+          "rank_change": 2
         }
       ],
       "top_fallers": [],
@@ -36,15 +31,20 @@
         {
           "title": "凡人：从拔刀三十万次开始",
           "book_id": 10413429,
-          "heat_change": 24000
+          "heat_change": 28000
+        },
+        {
+          "title": "聚宝仙炉",
+          "book_id": 12452187,
+          "heat_change": -7000
         }
       ],
-      "summary": "「幻想修真」新上榜 《聚宝仙炉》；《凡人：从拔刀三十万次开始》上升3位领涨；《凡人：从拔刀三十万次开始》热度+24000。",
+      "summary": "「幻想修真」《凡人：从拔刀三十万次开始》上升2位领涨；《凡人：从拔刀三十万次开始》热度+28000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 15,
         "title": "凡人：从拔刀三十万次开始",
         "book_id": 10413429,
         "url": "https://www.qimao.com/shuku/10413429/",
@@ -56,17 +56,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "116.63万字",
-        "word_count": 1166300,
-        "heat": 231000,
+        "word_count_text": "117.86万字",
+        "word_count": 1178600,
+        "heat": 259000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "我辈生而平凡，若是自强不息，亦可自放光芒。\n       当你打开这本书的时候，我可能还在拔刀，为自己而拔，为别人而拔，也或许为你而拔………………       \n       我叫陈时安，退役边疆军人，那一年，我在巡边的时候捡到了一块小石碑，",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3472/10413429_360x480.jpg?time=1773558388",
-        "latest_chapter": " 第427章  丑话说在前头",
-        "updated_at": "2026-10-27 07:11:05",
-        "rank_change": 3,
-        "heat_change": 24000,
+        "latest_chapter": " 第433章  野心",
+        "updated_at": "2026-10-29 08:17:06",
+        "rank_change": 2,
+        "heat_change": 28000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -85,18 +85,18 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "61.68万字",
-        "word_count": 616800,
-        "heat": 209000,
-        "platform_trend": "rise",
+        "word_count_text": "62.1万字",
+        "word_count": 621000,
+        "heat": 202000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【凡人流】【大时间跨越】死瘸子陆凡自幼加入道宗，身怀五行变异杂灵根，筑基无望，最大愿望就是达到炼气十层，不受欺负，却意外获得补天炉，能够补全万物，瘸腿放进去立马正常，一颗丹药掰开放进去，立马变成两颗，残缺功法放进去立刻补全，就这般，一生二，二生四，靠着补天炉，把丹药当饭吃，从此走上一条唯我独尊之路。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
-        "latest_chapter": " 第293章  姜老祖，危！",
-        "updated_at": "2026-10-27 23:40:06",
+        "latest_chapter": " 第295章  黑石重伤",
+        "updated_at": "2026-10-28 21:00:05",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": -7000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "幻想修真"

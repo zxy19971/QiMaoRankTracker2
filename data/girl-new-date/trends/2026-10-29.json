@@ -1,0 +1,212 @@
+{
+  "date": "2026-10-29",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 149700,
+    "total_heat": 2994000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "分居三年，高冷商总跪地求不离",
+            "book_id": 13034412,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "暗渡春潮",
+            "book_id": 12784170,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "谢总，夫人已改嫁，让你跪远点",
+            "book_id": 13156719,
+            "heat_change": 24000
+          },
+          {
+            "title": "裴先生，暗恋她已十二年",
+            "book_id": 13010484,
+            "heat_change": -8000
+          },
+          {
+            "title": "唯她是图",
+            "book_id": 12860100,
+            "heat_change": -6000
+          }
+        ],
+        "summary": "「总裁豪门」《分居三年，高冷商总跪地求不离》上升1位领涨；《暗渡春潮》下滑1位；《谢总，夫人已改嫁，让你跪远点》热度+24000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "被父弃？做罪妻？赌婚换命赚翻天",
+            "book_id": 13057029,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "被父弃？做罪妻？赌婚换命赚翻天",
+            "book_id": 13057029,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「种田经商」新上榜 《悍妇穿边关，一手烂牌打出王炸》；《被父弃？做罪妻？赌婚换命赚翻天》上升2位领涨；《流民医女：开荒把残夫养成战神》下滑1位；《被父弃？做罪妻？赌婚换命赚翻天》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "嫌我丰腴不碰我，我改嫁首长连生三崽",
+            "book_id": 13066845
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": 22000
+          }
+        ],
+        "summary": "「年代重生」新上榜 《嫌我丰腴不碰我，我改嫁首长连生三崽》；《错嫁随军：新婚夜冷面军少沦陷了》热度+22000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "intro": "【肤白貌美娇娇女x忠犬直男糙汉，体型差+家长里短】\n陈娇娇是平安县最漂亮的姑娘，明眸皓齿，一截细腰掐着丰乳肥臀，是十里八村都想娶的美人。\n只可惜陈娇娇眼高于顶，除了饱读诗书的斯文秀才，谁也看不上。\n一"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "heat_change": 19000
+          },
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「古代情缘」《娇软美人出嫁后》 掉出榜单；《春闺小寡妇》下滑1位；《嫡姐惨死？王妃她杀爆京城》热度+19000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "heat_change": -1000
+          },
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「宫闱宅斗」《皇上开门，福宝带物资来送温暖啦》下滑1位；《劝爹入赘公主府，玄学嫡女被团宠》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》上升1位领涨；《年下弟弟，人前乖软人后野》热度+4000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

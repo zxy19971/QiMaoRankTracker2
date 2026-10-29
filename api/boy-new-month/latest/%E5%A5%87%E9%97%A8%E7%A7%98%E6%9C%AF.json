@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-new-month",
+    "name": "男生新书月榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "month",
+    "period_name": "月榜"
+  },
+  "date": "2026-10-29",
+  "category": {
+    "name": "奇门秘术",
+    "major": "奇闻异事",
+    "count": 1,
+    "total_heat": 135000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "一身吞鬼术，杀遍世间敌！",
+          "book_id": 12678867
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「奇门秘术」新上榜 《一身吞鬼术，杀遍世间敌！》。",
+      "ai_source": "rule"
+    },
+    "books": [
+      {
+        "rank": 20,
+        "title": "一身吞鬼术，杀遍世间敌！",
+        "book_id": 12678867,
+        "url": "https://www.qimao.com/shuku/12678867/",
+        "author": "四木三火",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%9B%9B%E6%9C%A8%E4%B8%89%E7%81%AB_14/",
+        "major": "奇闻异事",
+        "minor": "奇门秘术",
+        "major_id": 204,
+        "minor_id": 231,
+        "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "37.37万字",
+        "word_count": 373700,
+        "heat": 135000,
+        "platform_trend": "rise",
+        "badge": "飙升60名",
+        "intro": "南方人好拜神，拜神之地名为神堂，立堂口的大师傅称为坐馆。\n十五岁那年，我被杀爷收为徒弟。\n杀爷传我吞鬼之法。\n此后三十年，我吞鬼修道，与天下邪修斗法，终成玄门最强坐馆。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4227/12678867_360x480.jpg?time=1787913387",
+        "latest_chapter": " 第152章  ，斗阵，抽签",
+        "updated_at": "2026-10-28 18:10:08",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "奇门秘术"
+      }
+    ]
+  }
+}

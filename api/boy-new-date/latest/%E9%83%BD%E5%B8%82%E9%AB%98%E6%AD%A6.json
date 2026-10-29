@@ -8,54 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "category": {
     "name": "都市高武",
     "major": "都市",
-    "count": 3,
-    "total_heat": 85000,
+    "count": 2,
+    "total_heat": 82000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "真龙下山，我体内有头绝世凶兽",
-          "book_id": 13335867,
-          "rank_change": 1
-        },
-        {
-          "title": "都市大猛仙",
-          "book_id": 12947607,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
+      "dropped_books": [
         {
           "title": "透视鉴宝：美女财富两不误",
           "book_id": 12708261,
-          "rank_change": -4
+          "intro": "叶尘努力三年送外卖，喜提一顶绿油油的帽子。\n前女友傍上部门领导，以为是跨越了阶层，却不知道叶尘是身怀绝技的入世高人。\n三年之期已到，叶尘终于可以毫无顾忌，一门望气术玩转珠宝玉石界，顶尖武力力压群雄。\n"
         }
       ],
+      "top_risers": [],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "真龙下山，我体内有头绝世凶兽",
           "book_id": 13335867,
           "heat_change": 11000
-        },
-        {
-          "title": "透视鉴宝：美女财富两不误",
-          "book_id": 12708261,
-          "heat_change": -3000
-        },
-        {
-          "title": "都市大猛仙",
-          "book_id": 12947607,
-          "heat_change": 1000
         }
       ],
-      "summary": "「都市高武」《真龙下山，我体内有头绝世凶兽》上升1位领涨；《透视鉴宝：美女财富两不误》下滑4位；《真龙下山，我体内有头绝世凶兽》热度+11000。",
+      "summary": "「都市高武」《透视鉴宝：美女财富两不误》 掉出榜单；《真龙下山，我体内有头绝世凶兽》热度+11000。",
       "ai_source": "rule"
     },
     "books": [
@@ -72,16 +51,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.03万字",
-        "word_count": 380300,
-        "heat": 53000,
+        "word_count_text": "38.72万字",
+        "word_count": 387200,
+        "heat": 64000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "五年前，秦家满门被屠，二少秦天侥幸生还，拜入蓬莱仙山习得医武通神。\n五年后，他携祖龙血脉强势归来，却发现爷爷被欺、祖宅被夺，嫂子苏晚晴含辛茹苦。\n为查灭门真相，他脚踏江城，医术震神医，武力压群雄，更与冰山总裁林梦溪立下婚约。\n真龙出世，风云涌动！\n他誓要血债血偿，重铸秦家辉煌！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4446/13335867_360x480.jpg?time=1788172753",
-        "latest_chapter": " 第167章  刀办！",
-        "updated_at": "2026-10-27 12:02:16",
-        "rank_change": 1,
+        "latest_chapter": " 第170章  满脸科技与狠活",
+        "updated_at": "2026-10-28 12:02:10",
+        "rank_change": 0,
         "heat_change": 11000,
         "is_new": false,
         "boards_count": 1,
@@ -101,48 +80,19 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.36万字",
-        "word_count": 343600,
+        "word_count_text": "34.81万字",
+        "word_count": 348100,
         "heat": 18000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "陆玄，虽然因为太穷被女友甩了，可他却天赋异禀，自从觉醒了家族传承，修炼了阴阳秘术之后，身上散发出了更令异性着迷的气息……从此，他医武同修，无论是医术、修为、还是身为男人……他都勇猛无敌，总有美女慕名而来！他从小县城一路崛起，开启了无敌热血路，重现上古医道荣光！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4316/12947607_360x480.jpg?time=1785232542",
-        "latest_chapter": " 第126章  硬道理",
-        "updated_at": "2026-10-27 17:04:02",
-        "rank_change": 1,
-        "heat_change": 1000,
+        "latest_chapter": " 第127章  白得耀眼",
+        "updated_at": "2026-10-28 15:51:03",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 18,
-        "title": "透视鉴宝：美女财富两不误",
-        "book_id": 12708261,
-        "url": "https://www.qimao.com/shuku/12708261/",
-        "author": "来碗鸡公煲",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%9D%A5%E7%A2%97%E9%B8%A1%E5%85%AC%E7%85%B2_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "42.32万字",
-        "word_count": 423200,
-        "heat": 14000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "叶尘努力三年送外卖，喜提一顶绿油油的帽子。\n前女友傍上部门领导，以为是跨越了阶层，却不知道叶尘是身怀绝技的入世高人。\n三年之期已到，叶尘终于可以毫无顾忌，一门望气术玩转珠宝玉石界，顶尖武力力压群雄。\n美女，金钱，我叶尘全都要……",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4237/12708261_360x480.jpg?time=1783410543",
-        "latest_chapter": " 第200章  京都来人",
-        "updated_at": "2026-10-28 00:01:14",
-        "rank_change": -4,
-        "heat_change": -3000,
-        "is_new": false,
-        "boards_count": 2,
         "stale_update": false,
         "category": "都市高武"
       }

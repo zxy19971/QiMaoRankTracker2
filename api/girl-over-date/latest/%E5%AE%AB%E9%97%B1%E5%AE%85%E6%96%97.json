@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
     "count": 6,
-    "total_heat": 1453000,
+    "total_heat": 1452000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,36 +21,30 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
-          "book_id": 2019227,
+          "title": "第一凤女",
+          "book_id": 1803136,
           "rank_change": 1
         }
       ],
-      "top_fallers": [
-        {
-          "title": "第一凤女",
-          "book_id": 1803136,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
-        {
-          "title": "凤池生春",
-          "book_id": 1830569,
-          "heat_change": 27000
-        },
         {
           "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
           "book_id": 2074363,
-          "heat_change": 6000
+          "heat_change": -3000
         },
         {
-          "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
-          "book_id": 2019227,
-          "heat_change": 6000
+          "title": "凤池生春",
+          "book_id": 1830569,
+          "heat_change": 2000
+        },
+        {
+          "title": "裂春风",
+          "book_id": 10024089,
+          "heat_change": -2000
         }
       ],
-      "summary": "「宫闱宅斗」《随母改嫁旺新家，重生嫡女嘎嘎乱杀》上升1位领涨；《第一凤女》下滑1位；《凤池生春》热度+27000。",
+      "summary": "「宫闱宅斗」《第一凤女》上升1位领涨；《被逼自刎，嫡女重生撕婚书覆皇朝》热度-3000。",
       "ai_source": "rule"
     },
     "books": [
@@ -69,7 +63,7 @@
         "status": "已完结",
         "word_count_text": "233.9万字",
         "word_count": 2339000,
-        "heat": 460000,
+        "heat": 462000,
         "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "网剧《凤池生春》原著改编，腾讯独播。\n【权谋+宅斗+杀伐果断大女主+爽文】\n许茵茵一生凄苦。\n幼年时被调包，从侯府千金沦落成杀猪匠的女儿。\n回府又被陷害，身败名裂，沦为弃子。\n最终为了活命，成了太孙殿下手中一把好用的刀。\n一睁眼，却又回到了被接回侯府的前夜。\n既如此——\n周遭都是些魑魅魍魉，那就杀出一片清明天！\n苦海无边，唯有自渡！\n只是一不小心，怎么又被上辈子的某位太孙殿下缠上了？\n许茵茵婉拒：殿下，我忙着呢！\n男人却慢条斯理，拥她入怀：你忙什么，孤为你扫尾便是……",
@@ -77,7 +71,7 @@
         "latest_chapter": " 第1152章  ·终章",
         "updated_at": "2025-11-07 14:23:17",
         "rank_change": 0,
-        "heat_change": 27000,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -98,15 +92,15 @@
         "status": "已完结",
         "word_count_text": "186.05万字",
         "word_count": 1860500,
-        "heat": 321000,
-        "platform_trend": "rise",
+        "heat": 318000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【虐渣+追妻+1VS1双洁+女主男配双重生+全家火葬场】\n   帝病危，宫中无皇子。\n   她虞知宁嫁靖王世子裴衡三年，琴瑟和鸣，是太后秘密养在在外的女儿。\n   太后心疼女儿，扶裴衡上位。\n   册封前，虞知宁被靖王府以祈福之名诓骗去寺里上香，半路被掳，鞭挞三日，受尽屈辱后，被劫匪扔在城门口，闹得满城皆知。\n   为保颜面，裴衡不查真相，反逼她自刎，连同腹中孩儿一尸两命。\n \n    断气前堂妹巧笑嫣然的告诉她劫匪不是劫匪，而是家族为堂妹上位找人假扮，夺她性命，踩着她尸骨，让堂妹占有了原本属于她的全部。\n    而这一切，还有裴衡的纵容！\n    \n    虞知宁含恨而死，携怨重生回及笄前一天\n    她抛绣球改嫁纨绔璟王世子裴玄。\n    全京城都在等着看笑话\n    可后来裴玄做了太子，她做了太子妃\n    \n    数日后裴衡造反失败，靖王府全族被抄，囚车路过她身边时，裴衡赤红眼跪在她脚下求原谅：“阿宁，你该嫁我的！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/896/2686789_360x480.jpg?time=1761327901",
         "latest_chapter": " 第822章  终章",
         "updated_at": "2026-09-22 18:39:45",
         "rank_change": 0,
-        "heat_change": 6000,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -127,15 +121,15 @@
         "status": "已完结",
         "word_count_text": "102.93万字",
         "word_count": 1029300,
-        "heat": 256000,
-        "platform_trend": "rise",
+        "heat": 254000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "重生一世，年初九悟了：光有钱不行，还得有势！\n踹了渣渣未婚夫，咱嫁皇族呗。\n选个短命皇子做夫君。他活着，她借势。他死了，她还是王妃。稳赚不赔，挺好！\n初见时，东里长安瘦成纸片人，是个短命的样子。年初九很满意。\n谁知短命鬼不配合：你走吧，我快死了，帮不了你。\n年初九点点头：你死了，我管埋。\n东里长安：……\n年初九继续游说：实在不行，初一十五我给你上香烧纸，让你在那头做个富贵闲人，行吗？\n东里长安红着眼睛别开脸。这世间啊，全是算计，就没个好人！\n年初九看了看趴在一旁的两只狗：我还帮你养狗，养到它们寿终正寝。\n东里长安终于心动：那，行吧。\n后来，龙椅上的新帝将她堵在朱红宫墙下，眼底燃着暗涌的星火，“皇位给你坐，你养我一辈子！”\n女帝宣言：\n我要改的命——\n是教天下粮仓永实，炊烟不断；\n是许巾帼振衣昂首，不输儿男；\n是盼稚子生于光天，长于化日，一生履踏皆堂堂正道。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3342/10024089_360x480.jpg?time=1773758425",
         "latest_chapter": " 第485章  君王非我平生志---东里长安篇（6）",
         "updated_at": "2026-10-07 12:47:06",
         "rank_change": 0,
-        "heat_change": 1000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -164,7 +158,7 @@
         "latest_chapter": " 第762章  夫因妻显",
         "updated_at": "2026-08-19 08:02:20",
         "rank_change": 0,
-        "heat_change": 3000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -192,15 +186,15 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/801/2400937_360x480.jpg?time=1753811344",
         "latest_chapter": " 第493章  番外：是一见倾心，也是非你不可的坚定",
         "updated_at": "2026-02-08 23:58:06",
-        "rank_change": 1,
-        "heat_change": 6000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "title": "第一凤女",
         "book_id": 1803136,
         "url": "https://www.qimao.com/shuku/1803136/",
@@ -214,15 +208,15 @@
         "status": "已完结",
         "word_count_text": "238.38万字",
         "word_count": 2383800,
-        "heat": 82000,
+        "heat": 84000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "《奔跑吧》同款热门重生文，孟子义、高瀚宇推荐。\n北翼国的一代传奇人物惠正皇太后重生回到侯府。\n上一世时安夏眼瞎，对无能又自私凉薄的晋王一见钟情，还把他费力推上皇位，害苦了老百姓。熬到他死后，还得给他收拾烂摊子。\n这一世她只想守着母亲和失而复得的哥哥安安静静过完一生，谁知天生凤命，随手捡个上门夫婿竟然是西梁国死了十年的幼帝。\n她哀叹自己好命苦，忍痛放一纸和离书给他自由。\n而他却将和离书撕得稀烂，怒斥她：“你当朕是什么，想扔就扔？”\n扔不掉能怎么办？陪他走上夺位之路重操旧业呗。\n只是这一次的夫君强多了，恪守男德，对别的女子目不斜视。时安夏主动给他充盈后宫，他还很生气。\n能干的夫君把前朝管理得井井有条，时安夏非常满意，仍旧过着安安静静的幸福生活。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
         "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
         "updated_at": "2025-08-31 14:41:10",
-        "rank_change": -1,
-        "heat_change": 6000,
+        "rank_change": 1,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

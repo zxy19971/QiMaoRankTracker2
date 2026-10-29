@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
@@ -21,14 +21,8 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "大周第一武夫",
-          "book_id": 2074426,
-          "heat_change": 7000
-        }
-      ],
-      "summary": "「王朝争霸」《大周第一武夫》热度+7000。",
+      "heat_leaders": [],
+      "summary": "「王朝争霸」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -45,17 +39,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "239.02万字",
-        "word_count": 2390200,
+        "word_count_text": "239.67万字",
+        "word_count": 2396700,
         "heat": 281000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第1102章  特殊体质不入九境",
-        "updated_at": "2026-10-27 18:11:08",
+        "latest_chapter": " 第1105章  今日，我便欺你了！",
+        "updated_at": "2026-10-28 19:32:09",
         "rank_change": 0,
-        "heat_change": 7000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

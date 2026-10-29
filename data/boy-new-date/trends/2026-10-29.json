@@ -1,0 +1,260 @@
+{
+  "date": "2026-10-29",
+  "board": "boy-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 37150,
+    "total_heat": 743000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "父皇南逃，不是！你不带嫔妃走？",
+            "book_id": 13201554
+          },
+          {
+            "title": "边军营长",
+            "book_id": 13407990
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "让你当个纨绔，你咋毒谋天下",
+            "book_id": 13400022,
+            "rank_change": 3
+          },
+          {
+            "title": "寇天子",
+            "book_id": 12817968,
+            "rank_change": 1
+          },
+          {
+            "title": "咱家世代从军，到你这成文圣了？",
+            "book_id": 13194165,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "北疆最狂纨绔：从赐婚进京开始",
+            "book_id": 12949137,
+            "rank_change": -1
+          },
+          {
+            "title": "边军小卒：杀敌爆气血，我无限破镜！",
+            "book_id": 12958296,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "寇天子",
+            "book_id": 12817968,
+            "heat_change": 5000
+          },
+          {
+            "title": "边军悍卒：一把长弓定天下！",
+            "book_id": 12948825,
+            "heat_change": -3000
+          },
+          {
+            "title": "咱家世代从军，到你这成文圣了？",
+            "book_id": 13194165,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「架空历史」新上榜 《父皇南逃，不是！你不带嫔妃走？》、《边军营长》；《让你当个纨绔，你咋毒谋天下》上升3位领涨；《北疆最狂纨绔：从赐婚进京开始》下滑1位；《寇天子》热度+5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "红妆贵人",
+            "book_id": 13231977,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "透视神眼：看尽天下玉，揽尽世上美",
+            "book_id": 12898650,
+            "rank_change": -2
+          },
+          {
+            "title": "高冷校花香香软软，凭啥还舔你啊",
+            "book_id": 13220790,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "重生70：我在空间狩猎，狂宠妻儿",
+            "book_id": 13340112,
+            "heat_change": 4000
+          },
+          {
+            "title": "红妆贵人",
+            "book_id": 13231977,
+            "heat_change": 2000
+          },
+          {
+            "title": "透视神眼：看尽天下玉，揽尽世上美",
+            "book_id": 12898650,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「都市生活」《红妆贵人》上升3位领涨；《透视神眼：看尽天下玉，揽尽世上美》下滑2位；《重生70：我在空间狩猎，狂宠妻儿》热度+4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "下山第一天，逮个美女总裁暴力宠",
+            "book_id": 13008696,
+            "rank_change": 2
+          },
+          {
+            "title": "血脉觉醒后，美女总裁赖上我",
+            "book_id": 13089795,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "我的倾城野妻",
+            "book_id": 12973059,
+            "heat_change": 3000
+          },
+          {
+            "title": "血脉觉醒后，美女总裁赖上我",
+            "book_id": 13089795,
+            "heat_change": 2000
+          },
+          {
+            "title": "下山第一天，逮个美女总裁暴力宠",
+            "book_id": 13008696,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「都市高手」《下山第一天，逮个美女总裁暴力宠》上升2位领涨；《我的倾城野妻》热度+3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "透视鉴宝：美女财富两不误",
+            "book_id": 12708261,
+            "intro": "叶尘努力三年送外卖，喜提一顶绿油油的帽子。\n前女友傍上部门领导，以为是跨越了阶层，却不知道叶尘是身怀绝技的入世高人。\n三年之期已到，叶尘终于可以毫无顾忌，一门望气术玩转珠宝玉石界，顶尖武力力压群雄。\n"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "真龙下山，我体内有头绝世凶兽",
+            "book_id": 13335867,
+            "heat_change": 11000
+          }
+        ],
+        "summary": "「都市高武」《透视鉴宝：美女财富两不误》 掉出榜单；《真龙下山，我体内有头绝世凶兽》热度+11000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「热血校园」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "阴阳天帝诀",
+            "book_id": 12749622,
+            "intro": "一代神帝秦风，自九天陨落，重生在了被毒妇妻子采补至死的苏家赘婿身上！\n反手运转阴阳天帝诀，掠其阴元，夺其修为！\n毒妇妻子的灵泉玉体？\n嫂子的花神灵韵？\n妖族女帝的天凤真血？\n……\n统统为我所用！\n这一"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "魔天鼎：我能炼化万物",
+            "book_id": 13297746,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」《阴阳天帝诀》 掉出榜单；《魔天鼎：我能炼化万物》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「商战职场」《野性攀登》下滑1位；《野性攀登》热度-1000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

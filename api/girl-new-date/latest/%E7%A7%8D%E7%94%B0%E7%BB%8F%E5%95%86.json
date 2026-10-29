@@ -8,49 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "category": {
     "name": "种田经商",
     "major": "古代言情",
-    "count": 2,
-    "total_heat": 61000,
+    "count": 3,
+    "total_heat": 91000,
     "trend": {
       "new_count": 1,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [
         {
-          "title": "被父弃？做罪妻？赌婚换命赚翻天",
-          "book_id": 13057029
-        }
-      ],
-      "dropped_books": [
-        {
           "title": "悍妇穿边关，一手烂牌打出王炸",
-          "book_id": 12658929,
-          "intro": "【种田+美食+木系+家长里短+先婚后爱+养娃】\n许清禾本是异世界的一缕亡魂，好不容易找到个穿越的机会。\n谁知一睁眼就成了罪臣家的婢女，被官府统一收编往外卖。\n看着集市上那油腻腻的眼神，一股恶心感油然而"
+          "book_id": 12658929
         }
       ],
+      "dropped_books": [],
       "top_risers": [
         {
-          "title": "流民医女：开荒把残夫养成战神",
-          "book_id": 13157514,
+          "title": "被父弃？做罪妻？赌婚换命赚翻天",
+          "book_id": 13057029,
           "rank_change": 2
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_fallers": [
         {
           "title": "流民医女：开荒把残夫养成战神",
           "book_id": 13157514,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "被父弃？做罪妻？赌婚换命赚翻天",
+          "book_id": 13057029,
           "heat_change": 1000
         }
       ],
-      "summary": "「种田经商」新上榜 《被父弃？做罪妻？赌婚换命赚翻天》；《悍妇穿边关，一手烂牌打出王炸》 掉出榜单；《流民医女：开荒把残夫养成战神》上升2位领涨；《流民医女：开荒把残夫养成战神》热度+1000。",
+      "summary": "「种田经商」新上榜 《悍妇穿边关，一手烂牌打出王炸》；《被父弃？做罪妻？赌婚换命赚翻天》上升2位领涨；《流民医女：开荒把残夫养成战神》下滑1位；《被父弃？做罪妻？赌婚换命赚翻天》热度+1000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 17,
         "title": "流民医女：开荒把残夫养成战神",
         "book_id": 13157514,
         "url": "https://www.qimao.com/shuku/13157514/",
@@ -62,24 +62,24 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.12万字",
-        "word_count": 341200,
+        "word_count_text": "34.52万字",
+        "word_count": 345200,
         "heat": 32000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【边关开荒+甜宠+先婚后爱+强势逆袭+家里长短+金手指】\n人间清醒女主VS忠犬憨憨男主\n现代首席中草药研究员沈青芜穿成边关流民，为了护住自己和幼弟，被迫嫁给全村唾弃的坡脚退伍军人谢珩。\n所有人都在笑话她嫁给一个废人，注定一辈子苦熬。\n新婚夜，谢珩低声道歉，“和我成亲，委屈你了。”\n沈青芜笑了，这人高马大，八块腹肌，长相硬朗帅气的男人，谁委屈谁还不一定。\n全村家家户户连也野菜都抢？家里顿顿大口吃肉到撑！\n极品亲戚上门抢粮食？沈青芜软硬兼施让他们狼狈滚蛋！\n所有人都以为她只是运气好捡了点吃食，只有沈青芜知道，她手握金手指，进山如进货，而她那不善言辞却护短的夫君，更是她最大的底牌。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4386/13157514_360x480.jpg?time=1786945735",
-        "latest_chapter": " 第162章  教育扦插",
-        "updated_at": "2026-10-27 23:57:05",
-        "rank_change": 2,
-        "heat_change": 1000,
+        "latest_chapter": " 第164章  媳妇在身边就好",
+        "updated_at": "2026-10-29 00:03:03",
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "种田经商"
       },
       {
-        "rank": 20,
+        "rank": 18,
         "title": "被父弃？做罪妻？赌婚换命赚翻天",
         "book_id": 13057029,
         "url": "https://www.qimao.com/shuku/13057029/",
@@ -91,19 +91,48 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.89万字",
-        "word_count": 368900,
-        "heat": 29000,
+        "word_count_text": "37.8万字",
+        "word_count": 378000,
+        "heat": 30000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【流放+罪妻危机+边疆生活+水系+开荒种田+经商暴富+女性互助+双强直球夫妇】\n穿越当天，宁昭昕被亲生父亲舍弃，与母亲一同随外祖母家流放南疆做罪奴。\n人人都说罪奴卑贱如泥，进了兵营不出三日就会被折辱死。\n为了救病重的表姐，宁昭昕拦住立功的萧家兄弟：“你们要媳妇不要？”\n萧家兄弟：“我们养不起女人，就算要，也挑一个壮实能干活的，不会要一个这么瘦弱还带一个病秧子的。”\n宁昭昕坚定直言：“我们姐妹不要你们养，我能种地，能打猎，能识得药材，表姐识字能持家，男人选择妻子就是给孩子选母亲，我们养的活自己，以后也能教养好儿女。”\n自此南诏多了两对名声四起的夫妇。\n兄弟拿刀横扫敌军护百姓安危。\n姐妹种地经商兜底百姓吃饱穿暖。\n山地陡峭贫瘠只能饿死？\n宁昭昕带着南诏百姓将药材种满山野，经济致富人人小康。\n粮食产量低，癸水滋润种子改良高产出，从此百姓顿顿饱腹。\n高粱米酒、果醪香遍大夏。\n就在宁昭昕成为首富时，偶然发现，自己这个从士兵小卒一路杀成大将军的夫君身份很不简单。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4353/13057029_360x480.jpg?time=1791895768",
-        "latest_chapter": " 第166章  算账也太快了",
-        "updated_at": "2026-10-27 12:00:08",
+        "latest_chapter": " 第170章  我要跟你同归于尽",
+        "updated_at": "2026-10-28 11:40:03",
+        "rank_change": 2,
+        "heat_change": 1000,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "种田经商"
+      },
+      {
+        "rank": 19,
+        "title": "悍妇穿边关，一手烂牌打出王炸",
+        "book_id": 12658929,
+        "url": "https://www.qimao.com/shuku/12658929/",
+        "author": "狐狸爱吃素",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%8B%90%E7%8B%B8%E7%88%B1%E5%90%83%E7%B4%A0_14/",
+        "major": "古代言情",
+        "minor": "种田经商",
+        "major_id": 2,
+        "minor_id": 16,
+        "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "47.63万字",
+        "word_count": 476300,
+        "heat": 29000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【种田+美食+木系+家长里短+先婚后爱+养娃】\n许清禾本是异世界的一缕亡魂，好不容易找到个穿越的机会。\n谁知一睁眼就成了罪臣家的婢女，被官府统一收编往外卖。\n看着集市上那油腻腻的眼神，一股恶心感油然而生。\n就在她想着怎么摆脱此时的困境时，一个目光凌厉的刀疤脸突然走上前指着她道:“我要买她。”\n就这样许清禾成了沈知买来的媳妇，跟他一起回了家。\n结果刚进家门就引起了老沈家的轩然大波，还没反应过来就被沈大嫂连人带东西赶了出去。\n沈知望着自己分批带回来的一大两小，有些无奈道:“你放心，我一定能养得活你们。”\n就这样沈知开始了自己的牛马生活，谁知他带回来的那个小媳妇竟然这么能干。\n洗衣做饭收拾屋子带孩子不说，还能挣钱。\n沈知看着家里不断扩张的土地，数不清的钱财，第一次有些不好意思道:“媳妇，我想跟着造反，缺点钱。”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4220/12658929_360x480.jpg?time=1790648938",
+        "latest_chapter": " 第235章  想法实现",
+        "updated_at": "2026-10-28 15:07:04",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": true,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "种田经商"
       }

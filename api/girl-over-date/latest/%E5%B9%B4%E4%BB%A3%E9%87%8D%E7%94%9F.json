@@ -8,26 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
     "count": 1,
-    "total_heat": 79000,
+    "total_heat": 82000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "七零闪婚不见面，带娃炸翻家属院",
-          "book_id": 2060462
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「年代重生」新上榜 《七零闪婚不见面，带娃炸翻家属院》。",
+      "heat_leaders": [
+        {
+          "title": "七零闪婚不见面，带娃炸翻家属院",
+          "book_id": 2060462,
+          "heat_change": 3000
+        }
+      ],
+      "summary": "「年代重生」《七零闪婚不见面，带娃炸翻家属院》热度+3000。",
       "ai_source": "rule"
     },
     "books": [
@@ -46,7 +47,7 @@
         "status": "已完结",
         "word_count_text": "124.21万字",
         "word_count": 1242100,
-        "heat": 79000,
+        "heat": 82000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【肥妻变瘦变美逆袭+带娃随军+追妻火葬场】​\n锦城军区家属院来了个惹眼的乡下保姆乔星月。\n她身姿窈窕，眉眼清艳，会做饭，会针灸，会医术，连高难度的英文资料也会翻译。\n谢中铭和乔星月第一次见面时，他正伤了命根子疼的冷汗直冒。\n乔星月干脆利落，脱了他裤子，手起刀落，救他于危难之间。\n第二次见面，乔星月竟然成了他家的住家保姆。\n“乔同志，你为什么会出现在我们谢家？”\n难道，是故意接近套他情报的女特务？\n可别说套取情报了，乔星月看见他就避如蛇蝎。\n她带着两个双胞胎女儿，成了军区家属院人人争着稀罕的香饽饽。\n看着两个孩子长得和他越发相似。\n谢中铭惊了：“乔同志，难道你是我老婆？那两个孩子，是我闺女？”\n乔星月抬脚就踹：“五年不露面的渣男，现在想认亲？晚了！”\n谢中铭却死死抱着不撒手：“老婆我错了……孩子爹，我当定了！”",
@@ -54,8 +55,8 @@
         "latest_chapter": " 第282章  回来了！！",
         "updated_at": "2026-10-18 21:26:04",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": 3000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "年代重生"
