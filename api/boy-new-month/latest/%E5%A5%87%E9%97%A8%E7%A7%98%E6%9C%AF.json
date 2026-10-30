@@ -8,26 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
     "total_heat": 135000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "一身吞鬼术，杀遍世间敌！",
-          "book_id": 12678867
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「奇门秘术」新上榜 《一身吞鬼术，杀遍世间敌！》。",
+      "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -44,18 +39,18 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.37万字",
-        "word_count": 373700,
+        "word_count_text": "37.61万字",
+        "word_count": 376100,
         "heat": 135000,
         "platform_trend": "rise",
         "badge": "飙升60名",
         "intro": "南方人好拜神，拜神之地名为神堂，立堂口的大师傅称为坐馆。\n十五岁那年，我被杀爷收为徒弟。\n杀爷传我吞鬼之法。\n此后三十年，我吞鬼修道，与天下邪修斗法，终成玄门最强坐馆。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4227/12678867_360x480.jpg?time=1787913387",
-        "latest_chapter": " 第152章  ，斗阵，抽签",
-        "updated_at": "2026-10-28 18:10:08",
+        "latest_chapter": " 第153章  ，识香算运之术",
+        "updated_at": "2026-10-29 17:14:02",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "奇门秘术"

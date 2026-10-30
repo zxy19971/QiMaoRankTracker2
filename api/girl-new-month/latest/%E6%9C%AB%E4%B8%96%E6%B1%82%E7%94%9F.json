@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "category": {
     "name": "末世求生",
     "major": "幻想言情",
@@ -16,19 +16,13 @@
     "total_heat": 339000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "我在末世当农场主",
-          "book_id": 12719736,
-          "intro": "姜黎穿成末世里的垫脚石炮灰，刚陪渣男奋斗赚钱买上安全区的房子，就被分手。\n看着家徒四壁的屋子，姜黎决定用最后的积蓄买安全区外的一块地。\n从一块地开始，建造属于自己的农场——\n民宿区、餐饮区、果林、咖啡"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「末世求生」《我在末世当农场主》 掉出榜单。",
+      "summary": "「末世求生」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -45,15 +39,15 @@
         "minor_id": 284,
         "minor_url": "https://www.qimao.com/shuku/a-4-284-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.09万字",
-        "word_count": 410900,
+        "word_count_text": "41.71万字",
+        "word_count": 417100,
         "heat": 339000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【末世+男主重生+恶女+训狗+1vn雄竞】\n前世，末世来临。\n作为孟溪棠贴身保镖的他，护她安全，将她捧在手心宠爱。\n然而她水性杨花，裙下之臣无数，最后伙同另一个男人设下毒计，害的他死无葬身之地。\n重来一世，他发誓定让这个女人付出代价。\n重生第一章：孟溪棠，我一定要杀了你。\n重生第二章：大小姐的巴掌好香。\n*\n后来，一切继续重蹈覆辙。\n看着孟溪棠身边出现越来越多的男人，言九自荐枕席。\n他：大小姐，我不是来破坏你们的，我是来加入你们的。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4272/12813204_360x480.jpg?time=1792984764",
-        "latest_chapter": " 第197章  个比个的会装",
-        "updated_at": "2026-10-28 23:38:03",
+        "latest_chapter": " 第199章  你比他重要多了",
+        "updated_at": "2026-10-29 23:48:06",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

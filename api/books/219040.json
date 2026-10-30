@@ -6,13 +6,13 @@
   "intro": "踏天骄，镇万道！\n问鼎极道，唯我剑尊！\n我这一剑平平无奇，但你们绝对会死！",
   "minor": "东方玄幻",
   "status": "连载中",
-  "word_count_text": "1033.66万字",
+  "word_count_text": "1034.27万字",
   "latest": [
     {
       "board": "boy-over-date",
       "board_name": "男生完结日榜",
-      "rank": 12,
-      "heat": 70000
+      "rank": 10,
+      "heat": 83000
     },
     {
       "board": "boy-over-month",
@@ -60,6 +60,18 @@
     },
     {
       "d": "2026-10-29",
+      "b": "boy-over-month",
+      "r": 14,
+      "h": 2212000
+    },
+    {
+      "d": "2026-10-30",
+      "b": "boy-over-date",
+      "r": 10,
+      "h": 83000
+    },
+    {
+      "d": "2026-10-30",
       "b": "boy-over-month",
       "r": 14,
       "h": 2212000

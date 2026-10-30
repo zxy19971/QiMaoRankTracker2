@@ -8,43 +8,53 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 3,
     "total_heat": 6,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "嫡姐惨死？王妃她杀爆京城",
-          "book_id": 13021647
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [
         {
           "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
           "book_id": 13463133,
-          "rank_change": -2
+          "rank_change": -5
+        },
+        {
+          "title": "王妃一身妖骨，京城百祟俯首",
+          "book_id": 12328977,
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
+          "title": "嫡姐惨死？王妃她杀爆京城",
+          "book_id": 13021647,
+          "heat_change": -4
+        },
+        {
           "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
           "book_id": 13463133,
+          "heat_change": 3
+        },
+        {
+          "title": "王妃一身妖骨，京城百祟俯首",
+          "book_id": 12328977,
           "heat_change": 1
         }
       ],
-      "summary": "「古代情缘」新上榜 《嫡姐惨死？王妃她杀爆京城》；《新婚夜流放，飒爽太子妃种出西北大仓！》下滑2位；《新婚夜流放，飒爽太子妃种出西北大仓！》热度+1。",
+      "summary": "「古代情缘」《新婚夜流放，飒爽太子妃种出西北大仓！》下滑5位；《嫡姐惨死？王妃她杀爆京城》热度-4。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 2,
+        "rank": 3,
         "title": "王妃一身妖骨，京城百祟俯首",
         "book_id": 12328977,
         "url": "https://www.qimao.com/shuku/12328977/",
@@ -58,22 +68,22 @@
         "status": "已完结",
         "word_count_text": "63.33万字",
         "word_count": 633300,
-        "heat": 0,
-        "platform_trend": "",
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "沈家十年前送去关外老宅的大小姐沈宁回京后，被退婚了。\n于是传言四起。\n有人说沈宁离经叛道，不守闺训，生父不喜，继母厌弃，姊妹反目，落得退婚下场，都是她自找的。\n偏偏她又最好命。\n国公府护着，谢小公爷要与她作拜把兄弟，裴丞相要做她的蓝颜知己，连几位皇子都要寻由头想方设法见她一面。\n于是京城又传言，说她是红颜祸水，早晚遭天谴。\n天谴没等到。\n倒是等来了病秧子晋王元澈，抱着个奶娃娃，红着一双矜贵的凤眼，堵在沈宁的医馆门口讨说法。\n“说好的，我替你抓邪祟，给你晋王妃的身份横行京城，你替我治心疾，养我半生。可你却……”\n他站在门槛外，薄唇微抿，欲言又止。\n京城众妖啧啧咂嘴，直呼沈宁渣女。\n沈宁大为震撼：“不是，咱俩当初白纸黑字写得清清楚楚，八十万两买你王妃的位子，一手交钱一手交货，怎么还翻脸不认了？”\n京城众妖瞠目结舌，直呼元澈奸商。\n元澈垂眸看着怀里咿呀伸手要娘的奶团子，声音很轻，却一字一顿。\n“王妃的位子八十万，和离书，千金不卖。”\n沈宁愣住了。\n那一纸婚书上表天庭，下鸣地府，纵然是她这上古大妖怪也不能强行解除。\n她只是来京城吃自助餐的，可没想过要被人吃干抹净啊！\n怎么办？在线等，挺急的。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4110/12328977_360x480.jpg?time=1782836388",
         "latest_chapter": " 第284章  【IF线】世界的另一种可能13【全文完】",
         "updated_at": "2026-10-27 08:15:05",
-        "rank_change": 0,
-        "heat_change": 0,
+        "rank_change": -1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
-        "stale_update": false,
+        "stale_update": true,
         "category": "古代情缘"
       },
       {
-        "rank": 9,
+        "rank": 14,
         "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
         "book_id": 13463133,
         "url": "https://www.qimao.com/shuku/13463133/",
@@ -85,17 +95,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.66万字",
-        "word_count": 326600,
-        "heat": 2,
+        "word_count_text": "33.27万字",
+        "word_count": 332700,
+        "heat": 5,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【替嫁流放+打脸爽文+基建+双向救赎】\n沈婉宁拿着证据去公司的路上，被车撞飞了，一睁眼，成了书中的炮灰太子妃，刚醒来就发现自己竟然被渣爹和姨娘算计，替代残废太子，新婚夜还强了短命太子！\n沈婉宁气不过，直接将渣爹一家拉来作伴，流放路上，别人饿成皮包骨，她一路上吃香喝辣，还赚得盆满钵满！\n二皇子派人暗杀，不好意思！一枪一个解决，杀进京扫荡国库，连个裤叉子都没给皇帝老儿留下！\n皇帝老儿站在西北城墙下可怜兮兮！\n“儿媳妇，我错了，你就让我入城，收我为徒吧！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4488/13463133_360x480.jpg?time=1789452098",
-        "latest_chapter": " 第158章  肯定是眼花了",
-        "updated_at": "2026-10-29 08:32:04",
-        "rank_change": -2,
-        "heat_change": 1,
+        "latest_chapter": " 第161章  不愧是二百五",
+        "updated_at": "2026-10-30 08:32:04",
+        "rank_change": -5,
+        "heat_change": 3,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -114,18 +124,18 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.25万字",
-        "word_count": 392500,
-        "heat": 4,
-        "platform_trend": "rise",
+        "word_count_text": "39.68万字",
+        "word_count": 396800,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "女强爽文+打脸虐渣+复仇+马甲\n宋南枝嫡姐被人凌辱致死，婆家以七出之罪将她尸体送回将军府。\n祖母以有辱门风之名，不准嫡姐下葬！\n宋南枝教他们做人！\n镇国公世子毁背信弃义，娶平妻，辱阿姐？\n宋南枝当众废了他，让他断子绝孙。\n她手执长剑矗立于风中，“萧世子，你要好好活着，我替阿姐祝你多子多福。”\n镇国公告御状，皇上亲自拿人。\n宋南枝“皇上，您缺钱吗？”\n皇上大怒，谁人不知他是周边几国最穷的皇上？\n宋南枝这是拿刀戳他的心口。\n然而，不等他发作，宋南枝掏出一堆银票，“五百万两，买皇上睁只眼闭只眼。”\n皇上激动的手在颤抖。\n五百万两！！\n足以支撑北雁国十年的五百万两！\n这哪是传闻中的女魔头？\n分明是他的财神爷！\n宋南枝犯下滔天祸事，老夫人要将她逐出家门。\n宋南枝慵懒的斜靠在躺椅上，“祖母年纪大了，不宜掌家，日后安心养老吧！”\n有人花五百万两买摄政王一条命。\n宋南枝唇角微勾，“杀我男人？去，把下单之人送去喂狗！”\n郡主公主以权欺人。\n宋南枝婢女反手卸了对方手脚，“我家小姐身娇体弱，各位贵女还是管好自己的手，免得断手断脚，不划算。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4341/13021647_360x480.jpg?time=1791515044",
-        "latest_chapter": " 第171章  瑞王与狗不得入内",
-        "updated_at": "2026-10-28 23:17:03",
+        "latest_chapter": " 第173章  母妃，您小心王嫂又误会",
+        "updated_at": "2026-10-29 22:47:03",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": -4,
+        "is_new": false,
         "boards_count": 4,
         "stale_update": false,
         "category": "古代情缘"

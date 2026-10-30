@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 51000,
+    "total_heat": 61000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "阴阳天帝诀",
-          "book_id": 12749622,
-          "intro": "一代神帝秦风，自九天陨落，重生在了被毒妇妻子采补至死的苏家赘婿身上！\n反手运转阴阳天帝诀，掠其阴元，夺其修为！\n毒妇妻子的灵泉玉体？\n嫂子的花神灵韵？\n妖族女帝的天凤真血？\n……\n统统为我所用！\n这一"
-        }
-      ],
-      "top_risers": [],
-      "top_fallers": [
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "魔天鼎：我能炼化万物",
           "book_id": 13297746,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
-      "heat_leaders": [],
-      "summary": "「东方玄幻」《阴阳天帝诀》 掉出榜单；《魔天鼎：我能炼化万物》下滑1位。",
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "魔天鼎：我能炼化万物",
+          "book_id": 13297746,
+          "heat_change": 10000
+        }
+      ],
+      "summary": "「东方玄幻」《魔天鼎：我能炼化万物》上升1位领涨；《魔天鼎：我能炼化万物》热度+10000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 5,
+        "rank": 4,
         "title": "魔天鼎：我能炼化万物",
         "book_id": 13297746,
         "url": "https://www.qimao.com/shuku/13297746/",
@@ -51,17 +51,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.71万字",
-        "word_count": 357100,
-        "heat": 51000,
+        "word_count_text": "36.54万字",
+        "word_count": 365400,
+        "heat": 61000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【玄幻】【无系统】\n穿越成为镇国侯府弃子，秦绝意外邂逅了玄灵界两大女宫主，虽元阳尽失，却习得绝世魔功，被家族放弃。\n旁人争灵药、炼神丹，苦苦熬修为；唯有秦绝手握魔天鼎：别人炼丹，我炼魔躯！\n鼎内三百六十五倍流速，岁月随手可取，更能炼化世间万物糟粕废料，铸就无敌之身。\n他在八位风华各异的绝色姐姐辅助下，在侯府夹缝求生，斗朝堂奸佞，战虚火邪宗，一路跨越位面壁垒。\n鼎中苦修出世，一剑横压万界，斩域外邪魔，逆袭称霸诸天。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4433/13297746_360x480.jpg?time=1788333030",
-        "latest_chapter": " 第168章  冰宫凶戾之物！",
-        "updated_at": "2026-10-28 12:12:03",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第172章  超品灵植，冰心莲！",
+        "updated_at": "2026-10-30 03:08:15",
+        "rank_change": 1,
+        "heat_change": 10000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

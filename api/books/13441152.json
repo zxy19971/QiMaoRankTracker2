@@ -12,7 +12,7 @@
       "board": "boy-update-date",
       "board_name": "男生更新日榜",
       "rank": 6,
-      "heat": 1
+      "heat": 0
     }
   ],
   "history": [
@@ -123,6 +123,12 @@
       "b": "boy-update-date",
       "r": 6,
       "h": 1
+    },
+    {
+      "d": "2026-10-30",
+      "b": "boy-update-date",
+      "r": 6,
+      "h": 0
     }
   ]
 }

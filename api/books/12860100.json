@@ -12,7 +12,7 @@
       "board": "girl-new-date",
       "board_name": "女生新书日榜",
       "rank": 5,
-      "heat": 256000
+      "heat": 237000
     },
     {
       "board": "girl-new-month",
@@ -23,8 +23,8 @@
     {
       "board": "girl-hot-date",
       "board_name": "女生大热日榜",
-      "rank": 14,
-      "heat": 256000
+      "rank": 16,
+      "heat": 237000
     }
   ],
   "history": [
@@ -384,6 +384,24 @@
     },
     {
       "d": "2026-10-29",
+      "b": "girl-new-month",
+      "r": 8,
+      "h": 395000
+    },
+    {
+      "d": "2026-10-30",
+      "b": "girl-hot-date",
+      "r": 16,
+      "h": 237000
+    },
+    {
+      "d": "2026-10-30",
+      "b": "girl-new-date",
+      "r": 5,
+      "h": 237000
+    },
+    {
+      "d": "2026-10-30",
       "b": "girl-new-month",
       "r": 8,
       "h": 395000

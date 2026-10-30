@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 5,
-    "total_heat": 1732000,
+    "total_heat": 1745000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,34 +23,34 @@
         {
           "title": "大乾第一豪强",
           "book_id": 12465015,
-          "rank_change": 1
+          "rank_change": 2
         }
       ],
       "top_fallers": [
         {
           "title": "边关兵王",
           "book_id": 1995023,
-          "rank_change": -2
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
           "title": "大乾第一豪强",
           "book_id": 12465015,
-          "heat_change": 14000
+          "heat_change": 13000
         },
         {
-          "title": "逍遥四公子",
-          "book_id": 1809361,
-          "heat_change": -12000
+          "title": "让你当个替身，你咋君临天下",
+          "book_id": 12647139,
+          "heat_change": 5000
         },
         {
           "title": "边关兵王",
           "book_id": 1995023,
-          "heat_change": -10000
+          "heat_change": -3000
         }
       ],
-      "summary": "「架空历史」《大乾第一豪强》上升1位领涨；《边关兵王》下滑2位；《大乾第一豪强》热度+14000。",
+      "summary": "「架空历史」《大乾第一豪强》上升2位领涨；《边关兵王》下滑1位；《大乾第一豪强》热度+13000。",
       "ai_source": "rule"
     },
     "books": [
@@ -69,7 +69,7 @@
         "status": "已完结",
         "word_count_text": "635.11万字",
         "word_count": 6351100,
-        "heat": 471000,
+        "heat": 469000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "网剧《逍遥四公子》原著改编，腾讯独播。\n短剧《逍遥四公子》原著，已上线。\n又名《阁下不讲道理，在下也略懂拳脚》《逍遥小郎君》《极品四公子》\n宁宸穿越到了一个历史中从未出现过的朝代，本想一心搞钱，做个快乐逍遥的富家翁，三妻四妾，安度余生...可结果一不小心声名鹊起，名动大玄皇朝。\n少年扬刀，诛奸臣，平四夷，南征北战，再回首已是‘封狼居胥’，名动天下！",
@@ -77,7 +77,7 @@
         "latest_chapter": " 第2996章  往后余生，逍遥无拘",
         "updated_at": "2026-10-23 07:02:23",
         "rank_change": 0,
-        "heat_change": -12000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -96,15 +96,15 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "67.42万字",
-        "word_count": 674200,
-        "heat": 385000,
+        "word_count_text": "68.04万字",
+        "word_count": 680400,
+        "heat": 390000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "现在特种兵林玄穿越到大乾王朝，成为太子的替身。\n\n　　太子为了让林玄替他受罚：“太子妃闲着也是闲着，你替孤照料一下。”\n\n　　林玄淡然一笑：“呸！什么太子妃，那是朕的皇后！”\n\n　　一开始皇帝是想用林玄削弱外戚，结果事情越来越不对。\n\n　　乾帝：“太子，你六个摩托化兵团，真的是来京城给朕贺寿的？”\n\n　　太子妃：“林玄，我闺蜜是你的人，就连她嫂嫂……”\n\n　　林玄双手插兜，北狄公主肚子都大了，想让我给她个名分呢！\n\n怎么办？挺急的！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4216/12647139_360x480.jpg?time=1786559398",
-        "latest_chapter": " 第320章  黑风山围杀",
-        "updated_at": "2026-10-28 09:37:05",
+        "latest_chapter": " 第323章  秦正被俘",
+        "updated_at": "2026-10-29 09:37:05",
         "rank_change": 0,
         "heat_change": 5000,
         "is_new": false,
@@ -113,7 +113,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 8,
+        "rank": 6,
         "title": "大乾第一豪强",
         "book_id": 12465015,
         "url": "https://www.qimao.com/shuku/12465015/",
@@ -125,17 +125,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "86.96万字",
-        "word_count": 869600,
-        "heat": 341000,
+        "word_count_text": "87.58万字",
+        "word_count": 875800,
+        "heat": 354000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "家道中落，陈实被卖入靖安侯府，成为一名低贱骑奴。\n别人穿越是奇遇不断，可身处封建底层的陈实却面临着各种肮脏卑劣。\n“老子见人说人话，见鬼说鬼话总能活着吧？”\n他从市井泥泞之中走出，问鼎大乾武圣！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4156/12465015_360x480.jpg?time=1792544444",
-        "latest_chapter": " 第409章  立功机会",
-        "updated_at": "2026-10-29 08:01:06",
-        "rank_change": 1,
-        "heat_change": 14000,
+        "latest_chapter": " 第412章  擢升陈实为中郎将，封左庶长！",
+        "updated_at": "2026-10-30 08:15:05",
+        "rank_change": 2,
+        "heat_change": 13000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -164,14 +164,14 @@
         "latest_chapter": " 第1998章  训练新军",
         "updated_at": "2026-10-29 08:20:19",
         "rank_change": 0,
-        "heat_change": 2000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "title": "边关兵王",
         "book_id": 1995023,
         "url": "https://www.qimao.com/shuku/1995023/",
@@ -183,17 +183,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "306.66万字",
-        "word_count": 3066600,
-        "heat": 252000,
+        "word_count_text": "307.27万字",
+        "word_count": 3072700,
+        "heat": 249000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "又名《边关兵王：从领娶罪女开始崛起》《边军武神》\n现代人凌川穿越成大周王朝的一名边关小卒，凭一己之力为民族铸骨凝魂，打造沙场雄甲，刀锋所指，战旗所至，便是敌人噩梦的开始！\n边关的烽火铁骑，江湖的快意风流，朝堂的纵横捭阖，请诸君入坑！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/773/2318640_360x480.jpg?time=1751479525",
-        "latest_chapter": " 第1484章  诡异孤岛",
-        "updated_at": "2026-10-29 06:02:12",
-        "rank_change": -2,
-        "heat_change": -10000,
+        "latest_chapter": " 第1487章  魔树",
+        "updated_at": "2026-10-30 06:02:12",
+        "rank_change": -1,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

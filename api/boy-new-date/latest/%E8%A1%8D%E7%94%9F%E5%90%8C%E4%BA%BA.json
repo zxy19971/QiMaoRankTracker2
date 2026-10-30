@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-new-date",
+    "name": "男生新书日榜",
+    "channel": "male",
+    "type": "new",
+    "type_name": "新书榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-10-30",
+  "category": {
+    "name": "衍生同人",
+    "major": "N次元",
+    "count": 1,
+    "total_heat": 15000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "四合院：杀禽抢房，战天斗地！",
+          "book_id": 13418244
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「衍生同人」新上榜 《四合院：杀禽抢房，战天斗地！》。",
+      "ai_source": "rule"
+    },
+    "books": [
+      {
+        "rank": 18,
+        "title": "四合院：杀禽抢房，战天斗地！",
+        "book_id": 13418244,
+        "url": "https://www.qimao.com/shuku/13418244/",
+        "author": "一把破键盘",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E6%8A%8A%E7%A0%B4%E9%94%AE%E7%9B%98_14/",
+        "major": "N次元",
+        "minor": "衍生同人",
+        "major_id": 207,
+        "minor_id": 239,
+        "minor_url": "https://www.qimao.com/shuku/a-207-239-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "20.92万字",
+        "word_count": 209200,
+        "heat": 15000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "社畜何雨峰接管了傻柱堂哥的身体，回到了那个火红的年代。\n回到四合院时觉醒了大地主系统，一间房子一次奖励，妥妥的爽文系统！\n禽兽们总是惦记别人家房子，现在被何雨峰惦记上也很合理吧？\n“人，我得打，房子，我也要，谁赞成，谁反对？”\n面对一众禽兽，何雨峰双手插兜不知道什么是收敛。\n大地主系统：“讲话了，宿主你别光打，要不嘎几个试试呢？”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4473/13418244_360x480.jpg?time=1788942846",
+        "latest_chapter": " 第103章  没受委屈，净遭罪了",
+        "updated_at": "2026-10-29 10:02:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "衍生同人"
+      }
+    ]
+  }
+}

@@ -8,40 +8,35 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 3,
-    "total_heat": 220000,
+    "total_heat": 224000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "下山第一天，逮个美女总裁暴力宠",
-          "book_id": 13008696,
-          "rank_change": 2
-        },
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "血脉觉醒后，美女总裁赖上我",
           "book_id": 13089795,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "我的倾城野妻",
           "book_id": 12973059,
-          "heat_change": 3000
+          "heat_change": 4000
         },
         {
           "title": "血脉觉醒后，美女总裁赖上我",
           "book_id": 13089795,
-          "heat_change": 2000
+          "heat_change": -2000
         },
         {
           "title": "下山第一天，逮个美女总裁暴力宠",
@@ -49,7 +44,7 @@
           "heat_change": 2000
         }
       ],
-      "summary": "「都市高手」《下山第一天，逮个美女总裁暴力宠》上升2位领涨；《我的倾城野妻》热度+3000。",
+      "summary": "「都市高手」《血脉觉醒后，美女总裁赖上我》下滑1位；《我的倾城野妻》热度+4000。",
       "ai_source": "rule"
     },
     "books": [
@@ -68,7 +63,7 @@
         "status": "连载中",
         "word_count_text": "39.32万字",
         "word_count": 393200,
-        "heat": 146000,
+        "heat": 150000,
         "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "大学生秦东代替富二代室友相亲，竟意外与极品女神一夜风情，觉醒了圣龙之体，自此从龙飞九天，逆势而起，冷艳女总裁，豪门千金，绝美校花等各路红颜纷至沓来，且看秦东凭借一身本事搅动都市风云，活出个快意人生……",
@@ -76,14 +71,14 @@
         "latest_chapter": " 第181章  并蒂同元体！",
         "updated_at": "2026-10-29 07:56:03",
         "rank_change": 0,
-        "heat_change": 3000,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "血脉觉醒后，美女总裁赖上我",
         "book_id": 13089795,
         "url": "https://www.qimao.com/shuku/13089795/",
@@ -95,17 +90,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.92万字",
-        "word_count": 439200,
-        "heat": 52000,
-        "platform_trend": "rise",
+        "word_count_text": "44.57万字",
+        "word_count": 445700,
+        "heat": 50000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "林默被恋爱多年的女友戴绿帽，因祸得福，觉醒神皇血脉。\n从此走向人生巅峰。\n得多位美女青睞。\n沈知寒：“林默，我只有一个要求，随叫随到。”\n苏嫣嫣：“怎么，看入迷了？”\n顾佳雨：“林默哥哥......”\n江雪：“打住！”\n......\n“吾之后裔，今日觉我血脉，便承我衣钵。”\n“传你医道九章，可窥生死玄机，武道九式，可撼天地乾坤；”\n“术法三千，可役鬼神风雨，丹阵符箓，可掌造化之机。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4364/13089795_360x480.jpg?time=1792115432",
-        "latest_chapter": " 第104章  沈霏，沈知寒见面，姐妹！",
-        "updated_at": "2026-10-29 00:00:09",
-        "rank_change": 1,
-        "heat_change": 2000,
+        "latest_chapter": " 第105章  苏嫣嫣：今晚不去酒店，来我家！",
+        "updated_at": "2026-10-30 00:06:03",
+        "rank_change": -1,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -124,16 +119,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.94万字",
-        "word_count": 389400,
-        "heat": 22000,
+        "word_count_text": "39.41万字",
+        "word_count": 394100,
+        "heat": 24000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第177章  断不可留",
-        "updated_at": "2026-10-29 05:02:03",
-        "rank_change": 2,
+        "latest_chapter": " 第179章  江南朱家也入不了你的眼",
+        "updated_at": "2026-10-30 05:02:03",
+        "rank_change": 0,
         "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,

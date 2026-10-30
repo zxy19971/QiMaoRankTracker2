@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "category": {
     "name": "种田经商",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 4,
+    "total_heat": 3,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "大雪封山闹饥荒，福宝开挂富全村",
           "book_id": 13264440,
-          "rank_change": -4
+          "rank_change": 3
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "大雪封山闹饥荒，福宝开挂富全村",
           "book_id": 13264440,
-          "heat_change": -2
+          "heat_change": -1
         }
       ],
-      "summary": "「种田经商」《大雪封山闹饥荒，福宝开挂富全村》下滑4位；《大雪封山闹饥荒，福宝开挂富全村》热度-2。",
+      "summary": "「种田经商」《大雪封山闹饥荒，福宝开挂富全村》上升3位领涨；《大雪封山闹饥荒，福宝开挂富全村》热度-1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 15,
         "title": "大雪封山闹饥荒，福宝开挂富全村",
         "book_id": 13264440,
         "url": "https://www.qimao.com/shuku/13264440/",
@@ -51,17 +51,17 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.76万字",
-        "word_count": 367600,
-        "heat": 4,
-        "platform_trend": "drop",
+        "word_count_text": "37.42万字",
+        "word_count": 374200,
+        "heat": 3,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【治愈温馨+家长里短+非情绪流+美食+全村逆袭+认亲】\n大雪封山，又遭山崩断路，清露村彻底断了与外界的联系。\n小糯糯在山神庙祈福，被山神爷爷赋予“神力”，她穿梭两界卖野菜买米肉，把早就空了粮仓的村子盘活了。\n糯糯脚踩小凳子，声音奶呼呼的：“咱们吃饱了有力气，不能坐以待毙！”\n“没糯糯大家都活不成，听糯糯的。”\n“糯糯就是咱们村的小福星，她说什么就是什么。大家伙儿支棱起来，咱们耕地修路！”\n后来最宠糯糯的村长家哥哥谢寻，被送到镇上读书了，多年后再见时，他成熟稳重，将她护在身后，有求必应，糯糯不知道，谢寻哥哥早就是她的毒唯了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4422/13264440_360x480.jpg?time=1791771814",
-        "latest_chapter": " 第72章  真正的动机",
-        "updated_at": "2026-10-28 23:27:03",
-        "rank_change": -4,
-        "heat_change": -2,
+        "latest_chapter": " 第73章  要买的东西多，糯糯晕乎乎",
+        "updated_at": "2026-10-29 21:05:04",
+        "rank_change": 3,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
