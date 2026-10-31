@@ -8,21 +8,37 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "category": {
     "name": "架空历史",
     "major": "历史",
-    "count": 5,
-    "total_heat": 34796000,
+    "count": 6,
+    "total_heat": 38286000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "天命纨绔",
+          "book_id": 9839805
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "无敌六皇子",
+          "book_id": 1747899,
+          "rank_change": -1
+        },
+        {
+          "title": "世子无双",
+          "book_id": 1860026,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「架空历史」榜单结构稳定，无明显变动。",
+      "summary": "「架空历史」新上榜 《天命纨绔》；《无敌六皇子》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
@@ -114,7 +130,36 @@
         "category": "架空历史"
       },
       {
-        "rank": 9,
+        "rank": 8,
+        "title": "天命纨绔",
+        "book_id": 9839805,
+        "url": "https://www.qimao.com/shuku/9839805/",
+        "author": "梁山老鬼",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%A2%81%E5%B1%B1%E8%80%81%E9%AC%BC_14/",
+        "major": "历史",
+        "minor": "架空历史",
+        "major_id": 56,
+        "minor_id": 58,
+        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "205.26万字",
+        "word_count": 2052600,
+        "heat": 3490000,
+        "platform_trend": "drop",
+        "badge": "最新上榜",
+        "intro": "秦遇穿越大宁王朝，却因一记猴子偷桃而得罪冷血嗜杀的女帝。\n从此，女帝成为了他挥之不去的梦魇。\n直到有一天，他意外发现了自己与女帝痛觉相通的秘密。\n秦遇“桀桀”怪笑：陛下，从今往后，攻守易势了！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3280/9839805_360x480.jpg?time=1772734262",
+        "latest_chapter": " 第938章  必须支援",
+        "updated_at": "2026-10-31 00:07:13",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "架空历史"
+      },
+      {
+        "rank": 10,
         "title": "无敌六皇子",
         "book_id": 1747899,
         "url": "https://www.qimao.com/shuku/1747899/",
@@ -135,7 +180,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -143,7 +188,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "title": "世子无双",
         "book_id": 1860026,
         "url": "https://www.qimao.com/shuku/1860026/",
@@ -164,7 +209,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

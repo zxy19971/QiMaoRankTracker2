@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "category": {
     "name": "都市奇幻",
     "major": "现代言情",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "阴当",
+          "book_id": 1979356,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「都市奇幻」榜单结构稳定，无明显变动。",
+      "summary": "「都市奇幻」《阴当》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 19,
         "title": "阴当",
         "book_id": 1979356,
         "url": "https://www.qimao.com/shuku/1979356/",
@@ -48,7 +54,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
         "latest_chapter": " 第1010章  阿熏，嫁给我",
         "updated_at": "2026-07-19 00:07:14",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

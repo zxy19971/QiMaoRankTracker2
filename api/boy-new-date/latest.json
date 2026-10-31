@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "types": [
     {
       "name": "全部",
@@ -45,6 +45,10 @@
     {
       "name": "衍生同人",
       "url": "api/boy-new-date/latest/%E8%A1%8D%E7%94%9F%E5%90%8C%E4%BA%BA.json"
+    },
+    {
+      "name": "乡村生活",
+      "url": "api/boy-new-date/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "幻想修真",

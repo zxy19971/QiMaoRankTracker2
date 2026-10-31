@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-31",
+  "board": "boy-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 121000,
+    "total_heat": 2420000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "天命纨绔",
+            "book_id": 9839805
+          },
+          {
+            "title": "帝国皇太子，老子不干了！",
+            "book_id": 1801623
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "无敌六皇子",
+            "book_id": 1747899,
+            "rank_change": -1
+          },
+          {
+            "title": "世子无双",
+            "book_id": 1860026,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "逍遥四公子",
+            "book_id": 1809361,
+            "heat_change": -4000
+          },
+          {
+            "title": "打到北极圈了，你让我继承皇位？",
+            "book_id": 1864493,
+            "heat_change": -3000
+          },
+          {
+            "title": "无敌六皇子",
+            "book_id": 1747899,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「架空历史」新上榜 《天命纨绔》、《帝国皇太子，老子不干了！》；《无敌六皇子》下滑1位；《逍遥四公子》热度-4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "极道剑尊",
+            "book_id": 219040,
+            "rank_change": -3
+          },
+          {
+            "title": "一秒十级，从边关小卒开始横推",
+            "book_id": 2056131,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "极道剑尊",
+            "book_id": 219040,
+            "heat_change": -10000
+          },
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "heat_change": 4000
+          },
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「东方玄幻」《极道剑尊》下滑3位；《极道剑尊》热度-10000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "镇天神医",
+            "book_id": 1675640,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "警报！龙国出现SSS级修仙者！",
+            "book_id": 1812053,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "警报！龙国出现SSS级修仙者！",
+            "book_id": 1812053,
+            "heat_change": -2000
+          },
+          {
+            "title": "镇天神医",
+            "book_id": 1675640,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「都市高武」《镇天神医》上升1位领涨；《警报！龙国出现SSS级修仙者！》下滑1位；《警报！龙国出现SSS级修仙者！》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「奇门秘术」《山野诡闻笔记》下滑1位；《民间诡闻实录》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "我和软萌女友的恋爱日常",
+            "book_id": 214789,
+            "intro": "甜甜的治愈文，带你重回校园时代！"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "重生2000：从追求青涩校花同桌开始",
+            "book_id": 1758273,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「热血校园」《我和软萌女友的恋爱日常》 掉出榜单；《重生2000：从追求青涩校花同桌开始》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+            "book_id": 2027749,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+            "book_id": 2027749,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「异世大陆」《刚抽中SSS级天赋，你跟我说游戏停服》下滑2位；《刚抽中SSS级天赋，你跟我说游戏停服》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「末世危机」《全球灾变之末日游戏》下滑1位；《全球灾变之末日游戏》热度-1000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,43 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 3,
-    "total_heat": 105000,
+    "total_heat": 113000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "都市极品狂龙！",
-          "book_id": 13012533
-        }
-      ],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "都市大猛仙",
-          "book_id": 12947607,
-          "rank_change": -2
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "真龙下山，我体内有头绝世凶兽",
-          "book_id": 13335867,
-          "heat_change": 5000
+          "book_id": 13012533,
+          "rank_change": 4
         },
         {
           "title": "都市大猛仙",
           "book_id": 12947607,
-          "heat_change": -2000
+          "rank_change": 2
         }
       ],
-      "summary": "「都市高武」新上榜 《都市极品狂龙！》；《都市大猛仙》下滑2位；《真龙下山，我体内有头绝世凶兽》热度+5000。",
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "真龙下山，我体内有头绝世凶兽",
+          "book_id": 13335867,
+          "heat_change": 4000
+        },
+        {
+          "title": "都市极品狂龙！",
+          "book_id": 13012533,
+          "heat_change": 4000
+        }
+      ],
+      "summary": "「都市高武」《都市极品狂龙！》上升4位领涨；《真龙下山，我体内有头绝世凶兽》热度+4000。",
       "ai_source": "rule"
     },
     "books": [
@@ -61,24 +61,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.4万字",
-        "word_count": 394000,
-        "heat": 69000,
+        "word_count_text": "40.09万字",
+        "word_count": 400900,
+        "heat": 73000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "五年前，秦家满门被屠，二少秦天侥幸生还，拜入蓬莱仙山习得医武通神。\n五年后，他携祖龙血脉强势归来，却发现爷爷被欺、祖宅被夺，嫂子苏晚晴含辛茹苦。\n为查灭门真相，他脚踏江城，医术震神医，武力压群雄，更与冰山总裁林梦溪立下婚约。\n真龙出世，风云涌动！\n他誓要血债血偿，重铸秦家辉煌！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4446/13335867_360x480.jpg?time=1788172753",
-        "latest_chapter": " 第173章  这不科学",
-        "updated_at": "2026-10-29 12:02:12",
+        "latest_chapter": " 第176章  回去找师父",
+        "updated_at": "2026-10-30 12:02:12",
         "rank_change": 0,
-        "heat_change": 5000,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 14,
+        "rank": 10,
         "title": "都市极品狂龙！",
         "book_id": 13012533,
         "url": "https://www.qimao.com/shuku/13012533/",
@@ -90,24 +90,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.67万字",
-        "word_count": 406700,
-        "heat": 20000,
+        "word_count_text": "41.09万字",
+        "word_count": 410900,
+        "heat": 24000,
         "platform_trend": "rise",
-        "badge": "飙升22名",
+        "badge": "",
         "intro": "王龙没想到与绝色女总裁一夜荒唐后，变成了各种美女争抢的香饽饽……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4338/13012533_360x480.jpg?time=1792657997",
-        "latest_chapter": " 第191章  新的传承",
-        "updated_at": "2026-10-29 23:58:04",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第193章  与柳宗师切磋",
+        "updated_at": "2026-10-30 23:35:03",
+        "rank_change": 4,
+        "heat_change": 4000,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 17,
+        "rank": 15,
         "title": "都市大猛仙",
         "book_id": 12947607,
         "url": "https://www.qimao.com/shuku/12947607/",
@@ -119,17 +119,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.25万字",
-        "word_count": 352500,
+        "word_count_text": "35.7万字",
+        "word_count": 357000,
         "heat": 16000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "陆玄，虽然因为太穷被女友甩了，可他却天赋异禀，自从觉醒了家族传承，修炼了阴阳秘术之后，身上散发出了更令异性着迷的气息……从此，他医武同修，无论是医术、修为、还是身为男人……他都勇猛无敌，总有美女慕名而来！他从小县城一路崛起，开启了无敌热血路，重现上古医道荣光！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4316/12947607_360x480.jpg?time=1785232542",
-        "latest_chapter": " 第128章  你让我干什么都行",
-        "updated_at": "2026-10-29 15:54:03",
-        "rank_change": -2,
-        "heat_change": -2000,
+        "latest_chapter": " 第129章  女人堆",
+        "updated_at": "2026-10-30 16:02:04",
+        "rank_change": 2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

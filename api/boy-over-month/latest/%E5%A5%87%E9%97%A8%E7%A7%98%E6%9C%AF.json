@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
@@ -20,14 +20,25 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "民间诡闻实录",
+          "book_id": 197091,
+          "rank_change": -1
+        },
+        {
+          "title": "山野诡闻笔记",
+          "book_id": 214783,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
+      "summary": "「奇门秘术」《民间诡闻实录》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 14,
         "title": "民间诡闻实录",
         "book_id": 197091,
         "url": "https://www.qimao.com/shuku/197091/",
@@ -48,7 +59,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
         "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
         "updated_at": "2021-10-12 11:14:06",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -56,7 +67,7 @@
         "category": "奇门秘术"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "title": "山野诡闻笔记",
         "book_id": 214783,
         "url": "https://www.qimao.com/shuku/214783/",
@@ -77,7 +88,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
         "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
         "updated_at": "2024-05-11 07:57:09",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

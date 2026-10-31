@@ -8,19 +8,30 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "category": {
     "name": "职场情缘",
     "major": "现代言情",
-    "count": 1,
-    "total_heat": 48000,
+    "count": 2,
+    "total_heat": 148000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "南音无尽夏",
+          "book_id": 13913373
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "年下弟弟，人前乖软人后野",
+          "book_id": 13117872,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "年下弟弟，人前乖软人后野",
@@ -28,12 +39,41 @@
           "heat_change": 2000
         }
       ],
-      "summary": "「职场情缘」《年下弟弟，人前乖软人后野》热度+2000。",
+      "summary": "「职场情缘」新上榜 《南音无尽夏》；《年下弟弟，人前乖软人后野》下滑1位；《年下弟弟，人前乖软人后野》热度+2000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 7,
+        "title": "南音无尽夏",
+        "book_id": 13913373,
+        "url": "https://www.qimao.com/shuku/13913373/",
+        "author": "星月相随",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%98%9F%E6%9C%88%E7%9B%B8%E9%9A%8F_14/",
+        "major": "现代言情",
+        "minor": "职场情缘",
+        "major_id": 1,
+        "minor_id": 11,
+        "minor_url": "https://www.qimao.com/shuku/a-1-11-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "3.58万字",
+        "word_count": 35800,
+        "heat": 98000,
+        "platform_trend": "rise",
+        "badge": "最新上榜",
+        "intro": "【蓄谋已久+先婚后爱，久别重逢，上位者低头】\n“明总，我有一个合作要谈吗？”\n时隔多年，他站在她面前，只说了一句：\n\"八年了，夏南音，你总算撞进我的地盘了……\"\n不是请求，是强求。\n夏南音来新加坡，本以为是奔赴所爱，结果是一场彻头彻尾的背叛。\n结束六年的婚姻，一段长达八年的感情，转身时却被一场延迟八年的重逢，唤醒了新加坡的夏天。\n他是赤道的风，似暖还寒。飞了八年的蝴蝶，越过海，终落在万代兰上。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4638/13913373_360x480.jpg?time=1793069457",
+        "latest_chapter": " 第17章  吃啥呢",
+        "updated_at": "2026-10-30 16:50:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "职场情缘"
+      },
+      {
+        "rank": 13,
         "title": "年下弟弟，人前乖软人后野",
         "book_id": 13117872,
         "url": "https://www.qimao.com/shuku/13117872/",
@@ -45,16 +85,16 @@
         "minor_id": 11,
         "minor_url": "https://www.qimao.com/shuku/a-1-11-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.61万字",
-        "word_count": 376100,
-        "heat": 48000,
+        "word_count_text": "37.81万字",
+        "word_count": 378100,
+        "heat": 50000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "她以为的一夜放纵，是他等了八年的久别重逢。\n那晚，清昭跨坐在乔聿身上，拇指按在他最要命的地方，低头咬他耳朵：“乖，帮姐姐。”\n男人喉结滚了又滚，从嗓子眼里挤出两个字：“确定？”\n一夜温存后，林清昭甩了一千块走人。乔聿拿了钱但没花。他藏了八年门票，找到她第一夜是来还愿的，不是来交易的。\n“钱抵不了，姐姐欠我的，只能慢慢还。”\n第二天电梯重逢。他把她堵在角落，白衬衫扣到顶，眼神干干净净的，跟昨晚那个濒临失控的男人判若两人。\n“姐姐不认得我了吗？”\n她把一千块拍在桌上，他推回来。\n“这钱我不敢花，花了就真成交易了。”\n整个办公室都在传：八楼那个新来的实习生，天天追在项目经理后面跑腿，跑得心甘情愿，笑得像只被遛爽了的狗。\n没人知道他兜里放着一张八年前的景区门票，门票背后写着一行蓝墨小字：\n“我想娶她。虽然不知道她叫什么，但我长大了想娶她。”\n她以为他追来是为了报复那一夜。\n后来才发现，那晚在车里他问她“确定”，问的不是一夜温存，是八年前她弯腰，娇俏灵动对他说“小郎君愿不愿意娶我呀？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4373/13117872_360x480.jpg?time=1786499430",
-        "latest_chapter": " 第159章  对我满不满意",
-        "updated_at": "2026-10-30 08:02:14",
-        "rank_change": 0,
+        "latest_chapter": " 第160章  别人我不管，就管你",
+        "updated_at": "2026-10-30 12:02:04",
+        "rank_change": -1,
         "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,

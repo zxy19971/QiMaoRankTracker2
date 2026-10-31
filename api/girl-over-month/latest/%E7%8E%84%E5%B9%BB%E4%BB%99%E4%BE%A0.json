@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
@@ -20,9 +20,15 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "柔弱医修今天也在背地里暴打魔尊",
+          "book_id": 1981956,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「玄幻仙侠」榜单结构稳定，无明显变动。",
+      "summary": "「玄幻仙侠」《柔弱医修今天也在背地里暴打魔尊》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
@@ -56,7 +62,7 @@
         "category": "玄幻仙侠"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "title": "柔弱医修今天也在背地里暴打魔尊",
         "book_id": 1981956,
         "url": "https://www.qimao.com/shuku/1981956/",
@@ -77,7 +83,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/754/2260672_360x480.jpg?time=1745544770",
         "latest_chapter": " 第767章  番外",
         "updated_at": "2026-08-05 22:21:07",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

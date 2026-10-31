@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-31",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 157550,
+    "total_heat": 3151000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "消失十五年，孩子妈穿回来了！",
+            "book_id": 1843770
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "皑如山上雪",
+            "book_id": 2053898,
+            "intro": "【短剧《皑如山上雪》原著，原书名《他的小撩精》】\n那一夜，她哭肿了眼，也抓伤了孟淮津的背……\n男人小心翼翼把人搂到怀里，亲吻她的眼泪，声音浑厚磁性：“不喜欢我了吗？”\n——\n舒晚是父母临终前，托孤给孟"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "嫌我不孕？另嫁京圈首富一胎又一胎",
+            "book_id": 2093961,
+            "rank_change": -3
+          },
+          {
+            "title": "盛总，太太让您签的是去父留子协议",
+            "book_id": 9903723,
+            "rank_change": -3
+          },
+          {
+            "title": "大佬归来，假千金她不装了",
+            "book_id": 1699328,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": 27000
+          },
+          {
+            "title": "嫌我不孕？另嫁京圈首富一胎又一胎",
+            "book_id": 2093961,
+            "heat_change": -20000
+          },
+          {
+            "title": "盛总，太太让您签的是去父留子协议",
+            "book_id": 9903723,
+            "heat_change": -6000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《消失十五年，孩子妈穿回来了！》；《皑如山上雪》 掉出榜单；《第五年重逢，驰先生再度失控》上升1位领涨；《嫌我不孕？另嫁京圈首富一胎又一胎》下滑3位；《第五年重逢，驰先生再度失控》热度+27000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "裂春风",
+            "book_id": 10024089,
+            "heat_change": -22000
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": -10000
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": 3000
+          }
+        ],
+        "summary": "「宫闱宅斗」《被逼自刎，嫡女重生撕婚书覆皇朝》下滑1位；《裂春风》热度-22000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "骗婚三年？我转身搬空家产嫁你上司！",
+            "book_id": 9912513,
+            "rank_change": 2
+          },
+          {
+            "title": "七零闪婚不见面，带娃炸翻家属院",
+            "book_id": 2060462,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "骗婚三年？我转身搬空家产嫁你上司！",
+            "book_id": 9912513,
+            "heat_change": 9000
+          },
+          {
+            "title": "七零闪婚不见面，带娃炸翻家属院",
+            "book_id": 2060462,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「年代重生」《骗婚三年？我转身搬空家产嫁你上司！》上升2位领涨；《骗婚三年？我转身搬空家产嫁你上司！》热度+9000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「玄幻仙侠」《第一瞳术师》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "老祖宗如此多娇，王爷乖乖折腰",
+            "book_id": 11593215,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "老祖宗如此多娇，王爷乖乖折腰",
+            "book_id": 11593215,
+            "heat_change": -4000
+          }
+        ],
+        "summary": "「古代情缘」《老祖宗如此多娇，王爷乖乖折腰》上升1位领涨；《老祖宗如此多娇，王爷乖乖折腰》热度-4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "神算真千金，傅太太被豪门圈宠爆",
+            "book_id": 1891818,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "神算真千金，傅太太被豪门圈宠爆",
+            "book_id": 1891818,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「都市奇幻」《神算真千金，傅太太被豪门圈宠爆》下滑2位；《神算真千金，傅太太被豪门圈宠爆》热度-2000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

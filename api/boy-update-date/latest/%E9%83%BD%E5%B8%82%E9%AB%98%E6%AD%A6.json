@@ -8,27 +8,22 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 3,
-    "total_heat": 30,
+    "total_heat": 4,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "神武天下之睚眦",
-          "book_id": 1977738
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [
         {
           "title": "女子监狱五年，出狱即无敌",
           "book_id": 12791886,
-          "rank_change": 2
+          "rank_change": 1
         }
       ],
       "top_fallers": [
@@ -36,13 +31,18 @@
           "title": "被关女子监狱五年，出狱后我医武双绝",
           "book_id": 12514650,
           "rank_change": -2
+        },
+        {
+          "title": "神武天下之睚眦",
+          "book_id": 1977738,
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
-          "title": "被关女子监狱五年，出狱后我医武双绝",
-          "book_id": 12514650,
-          "heat_change": 2
+          "title": "神武天下之睚眦",
+          "book_id": 1977738,
+          "heat_change": -25
         },
         {
           "title": "女子监狱五年，出狱即无敌",
@@ -50,12 +50,12 @@
           "heat_change": -1
         }
       ],
-      "summary": "「都市高武」新上榜 《神武天下之睚眦》；《女子监狱五年，出狱即无敌》上升2位领涨；《被关女子监狱五年，出狱后我医武双绝》下滑2位；《被关女子监狱五年，出狱后我医武双绝》热度+2。",
+      "summary": "「都市高武」《女子监狱五年，出狱即无敌》上升1位领涨；《被关女子监狱五年，出狱后我医武双绝》下滑2位；《神武天下之睚眦》热度-25。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 11,
         "title": "神武天下之睚眦",
         "book_id": 1977738,
         "url": "https://www.qimao.com/shuku/1977738/",
@@ -67,53 +67,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "462.37万字",
-        "word_count": 4623700,
-        "heat": 26,
-        "platform_trend": "rise",
+        "word_count_text": "462.8万字",
+        "word_count": 4628000,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起。为隐藏身份，他进入工厂当保安，却意外卷入与武者余刚的冲突，见识到超凡力量的世界，也因硬接对方重拳留下内伤。\n在痛苦与挣扎中，温羽凡逐渐接受系统，通过修炼晋级，同时得知家人的悲剧可能与　“新神会”　有关。他一边用保安身份掩饰，一边偷偷变强，更在老中医帮助下调理伤势，决心踏上复仇之路，誓要为逝去的亲人讨回公道，揭开灾难背后的真相。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/746/2237791_360x480.jpg?time=1747831667",
-        "latest_chapter": " 第1065章  光宗耀祖",
-        "updated_at": "2026-10-29 09:02:14",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 16,
-        "title": "被关女子监狱五年，出狱后我医武双绝",
-        "book_id": 12514650,
-        "url": "https://www.qimao.com/shuku/12514650/",
-        "author": "蓝莓是只猫",
-        "author_url": "https://www.qimao.com/zuozhe/%E8%93%9D%E8%8E%93%E6%98%AF%E5%8F%AA%E7%8C%AB_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "81.34万字",
-        "word_count": 813400,
-        "heat": 2,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让他们千万倍偿还这滔天血债。同时他也要好好保护养姐等族中女眷和他的四个未婚妻，一定让她们过上好日子！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
-        "latest_chapter": " 第382章  妖魔封印松动，巨大危机降临",
-        "updated_at": "2026-10-29 23:59:06",
-        "rank_change": -2,
-        "heat_change": 2,
+        "latest_chapter": " 第1066章  神仙看不见蝼蚁",
+        "updated_at": "2026-10-30 09:02:15",
+        "rank_change": -1,
+        "heat_change": -25,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "title": "女子监狱五年，出狱即无敌",
         "book_id": 12791886,
         "url": "https://www.qimao.com/shuku/12791886/",
@@ -125,17 +96,46 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "71.45万字",
-        "word_count": 714500,
-        "heat": 2,
+        "word_count_text": "72.54万字",
+        "word_count": 725400,
+        "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第304章  残图",
-        "updated_at": "2026-10-30 08:12:10",
-        "rank_change": 2,
+        "latest_chapter": " 第308章  萧尘夜访关家",
+        "updated_at": "2026-10-31 08:12:10",
+        "rank_change": 1,
         "heat_change": -1,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高武"
+      },
+      {
+        "rank": 18,
+        "title": "被关女子监狱五年，出狱后我医武双绝",
+        "book_id": 12514650,
+        "url": "https://www.qimao.com/shuku/12514650/",
+        "author": "蓝莓是只猫",
+        "author_url": "https://www.qimao.com/zuozhe/%E8%93%9D%E8%8E%93%E6%98%AF%E5%8F%AA%E7%8C%AB_14/",
+        "major": "都市",
+        "minor": "都市高武",
+        "major_id": 203,
+        "minor_id": 219,
+        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "81.95万字",
+        "word_count": 819500,
+        "heat": 2,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让他们千万倍偿还这滔天血债。同时他也要好好保护养姐等族中女眷和他的四个未婚妻，一定让她们过上好日子！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
+        "latest_chapter": " 第385章  冰魄神雷",
+        "updated_at": "2026-10-30 23:54:05",
+        "rank_change": -2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -1,0 +1,301 @@
+{
+  "date": "2026-10-31",
+  "board": "boy-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 38300,
+    "total_heat": 766000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "北疆最狂纨绔：从赐婚进京开始",
+            "book_id": 12949137,
+            "intro": "商界传奇林烨，庆功宴上醉倒，一睁眼却成了大夏北疆的纨绔少爷。\n老爹是镇北大将军，手握二十万铁骑。\n开局就当街拦了公主銮驾，喊人家跳十八摸。\n满朝文武上书弹劾，秦王府恨不得将他剥皮抽筋，连十二岁的小太子"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "让你当个纨绔，你咋毒谋天下",
+            "book_id": 13400022,
+            "rank_change": 2
+          },
+          {
+            "title": "边军悍卒：一把长弓定天下！",
+            "book_id": 12948825,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "寇天子",
+            "book_id": 12817968,
+            "heat_change": 3000
+          },
+          {
+            "title": "边军小卒：杀敌爆气血，我无限破镜！",
+            "book_id": 12958296,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「架空历史」《北疆最狂纨绔：从赐婚进京开始》 掉出榜单；《让你当个纨绔，你咋毒谋天下》上升2位领涨；《寇天子》热度+3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "血脉觉醒后，美女总裁赖上我",
+            "book_id": 13089795,
+            "rank_change": 1
+          },
+          {
+            "title": "下山第一天，逮个美女总裁暴力宠",
+            "book_id": 13008696,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "我的倾城野妻",
+            "book_id": 12973059,
+            "heat_change": 11000
+          },
+          {
+            "title": "血脉觉醒后，美女总裁赖上我",
+            "book_id": 13089795,
+            "heat_change": 11000
+          },
+          {
+            "title": "下山第一天，逮个美女总裁暴力宠",
+            "book_id": 13008696,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「都市高手」《血脉觉醒后，美女总裁赖上我》上升1位领涨；《我的倾城野妻》热度+11000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "都市极品狂龙！",
+            "book_id": 13012533,
+            "rank_change": 4
+          },
+          {
+            "title": "都市大猛仙",
+            "book_id": 12947607,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "真龙下山，我体内有头绝世凶兽",
+            "book_id": 13335867,
+            "heat_change": 4000
+          },
+          {
+            "title": "都市极品狂龙！",
+            "book_id": 13012533,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "「都市高武」《都市极品狂龙！》上升4位领涨；《真龙下山，我体内有头绝世凶兽》热度+4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "透视神眼：看尽天下玉，揽尽世上美",
+            "book_id": 12898650
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "重生70：我在空间狩猎，狂宠妻儿",
+            "book_id": 13340112,
+            "intro": "【重生年代+空间打猎+纯爽致富线+老婆孩子热炕头！】\n王阳重生70，还随身附带个狩猎空间！\n上一世，因为性格懦弱，只能眼睁睁看着妻女被人欺负，悔恨终生。\n重活一次，王阳觉得挺起腰杆做男人，无能丈夫滚一"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "红妆贵人",
+            "book_id": 13231977,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "红妆贵人",
+            "book_id": 13231977,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「都市生活」新上榜 《透视神眼：看尽天下玉，揽尽世上美》；《重生70：我在空间狩猎，狂宠妻儿》 掉出榜单；《红妆贵人》上升2位领涨；《红妆贵人》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "趁校花一贫如洗，忽悠她以身相许",
+            "book_id": 12896292,
+            "heat_change": 3000
+          }
+        ],
+        "summary": "「热血校园」《趁校花一贫如洗，忽悠她以身相许》热度+3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "魔天鼎：我能炼化万物",
+            "book_id": 13297746,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "魔天鼎：我能炼化万物",
+            "book_id": 13297746,
+            "heat_change": -7000
+          }
+        ],
+        "summary": "「东方玄幻」《魔天鼎：我能炼化万物》下滑1位；《魔天鼎：我能炼化万物》热度-7000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「商战职场」《野性攀登》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "衍生同人",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "四合院：杀禽抢房，战天斗地！",
+            "book_id": 13418244,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「衍生同人」《四合院：杀禽抢房，战天斗地！》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "分家当天，带着媳妇赶山暴富",
+            "book_id": 13594890
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「乡村生活」新上榜 《分家当天，带着媳妇赶山暴富》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "诡异民国，从缝尸开始长生",
+            "book_id": 12706761,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "诡异民国，从缝尸开始长生",
+            "book_id": 12706761,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「幻想修真」《诡异民国，从缝尸开始长生》上升1位领涨；《诡异民国，从缝尸开始长生》热度-1000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "SSS级狂龙归来，全球戒备！",
+          "book_id": 2060177,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「都市高手」榜单结构稳定，无明显变动。",
+      "summary": "「都市高手」《SSS级狂龙归来，全球戒备！》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 8,
+        "rank": 9,
         "title": "SSS级狂龙归来，全球戒备！",
         "book_id": 2060177,
         "url": "https://www.qimao.com/shuku/2060177/",
@@ -43,15 +49,15 @@
         "word_count": 2693100,
         "heat": 3097000,
         "platform_trend": "rise",
-        "badge": "飙升19名",
+        "badge": "飙升18名",
         "intro": "本书又名《警报！真龙在世》\n \n 拥兵百万，北境之主。\n 叶天回到江城，调查父母死因。\n\n　　可没想到的是，他回来后，形形色色的女人蜂拥而至。\n\n　　高冷女总裁，单身少妇，黑道大姐，歌坛歌后等等！\n\n　　她们都成为了叶天最坚实的后盾。\n\n　　父母的“死因”也慢慢浮出水面，是阴谋，更是血海深仇！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/876/2627518_360x480.jpg?time=1787649238",
         "latest_chapter": " 第1110章  九龙抬棺",
         "updated_at": "2026-09-05 12:02:13",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": true,
         "category": "都市高手"
       }

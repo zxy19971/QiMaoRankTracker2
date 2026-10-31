@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-31",
+  "board": "boy-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 255700,
+    "total_heat": 5114000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "重生70：我在空间狩猎，狂宠妻儿",
+            "book_id": 13340112,
+            "intro": "【重生年代+空间打猎+纯爽致富线+老婆孩子热炕头！】\n王阳重生70，还随身附带个狩猎空间！\n上一世，因为性格懦弱，只能眼睁睁看着妻女被人欺负，悔恨终生。\n重活一次，王阳觉得挺起腰杆做男人，无能丈夫滚一"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "高冷校花香香软软，凭啥还舔你啊",
+            "book_id": 13220790,
+            "rank_change": 2
+          },
+          {
+            "title": "都重生了谁还老实创业啊？",
+            "book_id": 12594366,
+            "rank_change": 2
+          },
+          {
+            "title": "重生70：大国栋梁，从正阳门下开始",
+            "book_id": 12867831,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市生活」《重生70：我在空间狩猎，狂宠妻儿》 掉出榜单；《高冷校花香香软软，凭啥还舔你啊》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "捡漏人生：一刀帝王绿，美女竞折腰",
+            "book_id": 12869139,
+            "rank_change": 2
+          },
+          {
+            "title": "血脉觉醒后，美女总裁赖上我",
+            "book_id": 13089795,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」《捡漏人生：一刀帝王绿，美女竞折腰》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "北疆最狂纨绔：从赐婚进京开始",
+            "book_id": 12949137,
+            "intro": "商界传奇林烨，庆功宴上醉倒，一睁眼却成了大夏北疆的纨绔少爷。\n老爹是镇北大将军，手握二十万铁骑。\n开局就当街拦了公主銮驾，喊人家跳十八摸。\n满朝文武上书弹劾，秦王府恨不得将他剥皮抽筋，连十二岁的小太子"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "边军小卒：杀敌爆气血，我无限破镜！",
+            "book_id": 12958296,
+            "rank_change": 2
+          },
+          {
+            "title": "咱家世代从军，到你这成文圣了？",
+            "book_id": 13194165,
+            "rank_change": 1
+          },
+          {
+            "title": "寇天子",
+            "book_id": 12817968,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」《北疆最狂纨绔：从赐婚进京开始》 掉出榜单；《边军小卒：杀敌爆气血，我无限破镜！》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+            "book_id": 13241454
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "都市极品狂龙！",
+            "book_id": 13012533,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」新上榜 《都荒岛求生了，一群绿茶还想让我当舔狗》；《都市极品狂龙！》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「热血校园」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "虚拟网游",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "网游：全是数值，你管这叫圣骑士？",
+            "book_id": 12801060,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「虚拟网游」《网游：全是数值，你管这叫圣骑士？》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "一身吞鬼术，杀遍世间敌！",
+            "book_id": 12678867,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」《一身吞鬼术，杀遍世间敌！》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "凡人修仙：从造化万物开始",
+            "book_id": 13016304
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」新上榜 《凡人修仙：从造化万物开始》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

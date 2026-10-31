@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 61000,
+    "total_heat": 54000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "魔天鼎：我能炼化万物",
           "book_id": 13297746,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "魔天鼎：我能炼化万物",
           "book_id": 13297746,
-          "heat_change": 10000
+          "heat_change": -7000
         }
       ],
-      "summary": "「东方玄幻」《魔天鼎：我能炼化万物》上升1位领涨；《魔天鼎：我能炼化万物》热度+10000。",
+      "summary": "「东方玄幻」《魔天鼎：我能炼化万物》下滑1位；《魔天鼎：我能炼化万物》热度-7000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 4,
+        "rank": 5,
         "title": "魔天鼎：我能炼化万物",
         "book_id": 13297746,
         "url": "https://www.qimao.com/shuku/13297746/",
@@ -51,17 +51,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.54万字",
-        "word_count": 365400,
-        "heat": 61000,
-        "platform_trend": "rise",
+        "word_count_text": "37.16万字",
+        "word_count": 371600,
+        "heat": 54000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【玄幻】【无系统】\n穿越成为镇国侯府弃子，秦绝意外邂逅了玄灵界两大女宫主，虽元阳尽失，却习得绝世魔功，被家族放弃。\n旁人争灵药、炼神丹，苦苦熬修为；唯有秦绝手握魔天鼎：别人炼丹，我炼魔躯！\n鼎内三百六十五倍流速，岁月随手可取，更能炼化世间万物糟粕废料，铸就无敌之身。\n他在八位风华各异的绝色姐姐辅助下，在侯府夹缝求生，斗朝堂奸佞，战虚火邪宗，一路跨越位面壁垒。\n鼎中苦修出世，一剑横压万界，斩域外邪魔，逆袭称霸诸天。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4433/13297746_360x480.jpg?time=1788333030",
-        "latest_chapter": " 第172章  超品灵植，冰心莲！",
-        "updated_at": "2026-10-30 03:08:15",
-        "rank_change": 1,
-        "heat_change": 10000,
+        "latest_chapter": " 第175章  凝脉武宗之威",
+        "updated_at": "2026-10-30 12:02:08",
+        "rank_change": -1,
+        "heat_change": -7000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

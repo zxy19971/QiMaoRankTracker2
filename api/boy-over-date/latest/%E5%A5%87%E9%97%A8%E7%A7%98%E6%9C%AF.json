@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 2,
-    "total_heat": 136000,
+    "total_heat": 134000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -22,8 +22,8 @@
       "top_risers": [],
       "top_fallers": [
         {
-          "title": "民间诡闻实录",
-          "book_id": 197091,
+          "title": "山野诡闻笔记",
+          "book_id": 214783,
           "rank_change": -1
         }
       ],
@@ -34,7 +34,7 @@
           "heat_change": -2000
         }
       ],
-      "summary": "「奇门秘术」《民间诡闻实录》下滑1位；《民间诡闻实录》热度-2000。",
+      "summary": "「奇门秘术」《山野诡闻笔记》下滑1位；《民间诡闻实录》热度-2000。",
       "ai_source": "rule"
     },
     "books": [
@@ -53,14 +53,14 @@
         "status": "已完结",
         "word_count_text": "243.5万字",
         "word_count": 2435000,
-        "heat": 76000,
+        "heat": 74000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "产婴灵，避阳关，胎足月，赋诲名，十二月，香烛贡，接阴生……\n我继承奶奶衣钵，成了一个男接阴婆。\n讲述我这些年见过的奇闻诡事……\n【本故事纯属虚构】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
         "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
         "updated_at": "2021-10-12 11:14:06",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": -2000,
         "is_new": false,
         "boards_count": 3,
@@ -68,7 +68,7 @@
         "category": "奇门秘术"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "title": "山野诡闻笔记",
         "book_id": 214783,
         "url": "https://www.qimao.com/shuku/214783/",
@@ -89,7 +89,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
         "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
         "updated_at": "2024-05-11 07:57:09",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
