@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T08:30:42",
-  "date": "2026-10-31",
+  "generated_at": "2026-11-01T08:01:08",
+  "date": "2026-11-01",
   "authors": [
     {
       "author": "化十",
@@ -36,11 +36,22 @@
       ]
     },
     {
+      "author": "柠萌茶",
+      "author_url": "https://www.qimao.com/zuozhe/%E6%9F%A0%E8%90%8C%E8%8C%B6_14/",
+      "books": 2,
+      "boards": 3,
+      "total_heat": 4505002,
+      "titles": [
+        "嫌我不孕？另嫁京圈首富一胎又一胎",
+        "白天刚孕吐，晚上前夫就敲门求复婚"
+      ]
+    },
+    {
       "author": "十二妖",
       "author_url": "https://www.qimao.com/zuozhe/%E5%8D%81%E4%BA%8C%E5%A6%96_14/",
       "books": 2,
       "boards": 3,
-      "total_heat": 3917000,
+      "total_heat": 3899000,
       "titles": [
         "第一凤女",
         "裂春风"
@@ -50,8 +61,8 @@
       "author": "贪睡的虫儿",
       "author_url": "https://www.qimao.com/zuozhe/%E8%B4%AA%E7%9D%A1%E7%9A%84%E8%99%AB%E5%84%BF_14/",
       "books": 2,
-      "boards": 2,
-      "total_heat": 3170000,
+      "boards": 3,
+      "total_heat": 3165000,
       "titles": [
         "SSS级狂龙归来，全球戒备！",
         "真龙下山，我体内有头绝世凶兽"
@@ -73,7 +84,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2287003,
+      "total_heat": 2287002,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
@@ -83,7 +94,7 @@
       "author": "佛系和尚",
       "author_url": "https://www.qimao.com/zuozhe/%E4%BD%9B%E7%B3%BB%E5%92%8C%E5%B0%9A_14/",
       "books": 2,
-      "boards": 2,
+      "boards": 3,
       "total_heat": 2167000,
       "titles": [
         "最强学霸系统",
@@ -95,7 +106,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%99%A8%E5%BC%88_14/",
       "books": 2,
       "boards": 2,
-      "total_heat": 133000,
+      "total_heat": 114000,
       "titles": [
         "九转星辰诀",
         "魔天鼎：我能炼化万物"
@@ -299,16 +310,6 @@
       "total_heat": 9032000,
       "titles": [
         "八年冷淡你提离婚，我签字你疯什么"
-      ]
-    },
-    {
-      "author": "随山月",
-      "author_url": "https://www.qimao.com/zuozhe/%E9%9A%8F%E5%B1%B1%E6%9C%88_14/",
-      "books": 1,
-      "boards": 4,
-      "total_heat": 8910000,
-      "titles": [
-        "解春衫"
       ]
     }
   ]

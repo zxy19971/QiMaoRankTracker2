@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "categories": [
     {
       "name": "都市高武",
@@ -50,16 +50,6 @@
       "name": "都市生活",
       "major": "都市",
       "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
-    },
-    {
-      "name": "衍生同人",
-      "major": "N次元",
-      "url": "api/categories/latest/%E8%A1%8D%E7%94%9F%E5%90%8C%E4%BA%BA.json"
-    },
-    {
-      "name": "乡村生活",
-      "major": "都市",
-      "url": "api/categories/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "虚拟网游",

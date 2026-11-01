@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
@@ -20,20 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_fallers": [
         {
           "title": "凡人：从拔刀三十万次开始",
           "book_id": 10413429,
-          "heat_change": 3000
+          "rank_change": -1
         }
       ],
-      "summary": "「幻想修真」《凡人：从拔刀三十万次开始》热度+3000。",
+      "heat_leaders": [],
+      "summary": "「幻想修真」《凡人：从拔刀三十万次开始》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 16,
         "title": "凡人：从拔刀三十万次开始",
         "book_id": 10413429,
         "url": "https://www.qimao.com/shuku/10413429/",
@@ -54,8 +54,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3472/10413429_360x480.jpg?time=1773558388",
         "latest_chapter": " 第439章  安千素",
         "updated_at": "2026-10-31 08:07:06",
-        "rank_change": 0,
-        "heat_change": 3000,
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

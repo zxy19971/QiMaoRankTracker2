@@ -8,42 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
     "count": 12,
     "total_heat": 71896000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "他先失控",
-          "book_id": 9685722
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "不务正夜",
-          "book_id": 1996931,
-          "rank_change": -1
-        },
-        {
-          "title": "惯坏她",
-          "book_id": 10034568,
-          "rank_change": -1
-        },
-        {
-          "title": "皑如山上雪",
-          "book_id": 2053898,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「总裁豪门」新上榜 《他先失控》；《不务正夜》下滑1位。",
+      "summary": "「总裁豪门」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -159,7 +138,7 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 4,
+        "boards_count": 3,
         "stale_update": true,
         "category": "总裁豪门"
       },
@@ -292,18 +271,18 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "97.76万字",
-        "word_count": 977600,
+        "word_count_text": "97.97万字",
+        "word_count": 979700,
         "heat": 3593000,
         "platform_trend": "drop",
         "badge": "最新上榜",
         "intro": "原书名：《婚夜渐浓》\n【美艳隐婚妻子VS高冷权贵人夫】\n【久别重逢，追妻火葬场，1V1极限拉扯】\n一夜荒唐后他们结婚了。\n孟韫在这段感情里小心翼翼，捧着真心想捂热贺忱洲。\n可一场突如其来的“床照”丑闻，孟韫被赶出家门。\n久别重逢，他身边有了门当户对的未婚妻。\n而她得到的却是一封离婚协议书。\n孟韫知道该放手了，果断地在离婚书上签字。\n所有人都以为位高权重的贺忱洲对孟韫只是一时兴起，谁知离婚手续迟迟没有办好。\n直到一段小视频火遍全网。\n那个高不可攀的贺部长把人死死护在怀里，红着眼哽咽哀求求：“宝贝，不要离开我好不好？”\n原来他藏了数年深爱，只盼她回头看一眼身后从未挪开的目光。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3229/9685722_360x480.jpg?time=1775741956",
-        "latest_chapter": " 第496章  在我手底下做事，不行",
-        "updated_at": "2026-10-31 00:12:08",
+        "latest_chapter": " 第497章  你生我气了？",
+        "updated_at": "2026-11-01 01:17:05",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "总裁豪门"
@@ -330,7 +309,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/723/2167268_360x480.jpg?time=1760702132",
         "latest_chapter": " 第500章  人间风月，万般美好（全书完）",
         "updated_at": "2026-08-25 17:14:05",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -359,7 +338,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3345/10034568_360x480.jpg?time=1776046465",
         "latest_chapter": " 第290章  冰山会为你哗然（完）",
         "updated_at": "2026-07-01 08:01:07",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -388,10 +367,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/861/2580857_360x480.jpg?time=1779267111",
         "latest_chapter": " 第398章  ——津晚大结局（下）",
         "updated_at": "2026-04-22 18:18:05",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": true,
         "category": "总裁豪门"
       }

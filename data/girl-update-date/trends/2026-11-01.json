@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-01",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 1,
+    "total_heat": 30,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "宫女朔宁",
+            "book_id": 12315174,
+            "intro": "古言权谋+宫斗+女强男强+双向奔赴+虐到心肝\n这是一场以江山为注的豪赌。\n赌赢了，她送他登基。\n赌输了，她赔上自己。\n长门宫里有个哑奴，是被褫夺身份的九皇子。\n人人都能踩一脚，人人都能啐一口。\n她递给"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": 6
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "母凭女贵",
+            "book_id": 12800205,
+            "rank_change": -1
+          },
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "heat_change": 6
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": -3
+          },
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「宫闱宅斗」《宫女朔宁》 掉出榜单；《凰宫梦》上升6位领涨；《母凭女贵》下滑1位；《凰宫梦》热度+6。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "白天刚孕吐，晚上前夫就敲门求复婚",
+            "book_id": 13193829
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902,
+            "heat_change": -11
+          },
+          {
+            "title": "为她失控",
+            "book_id": 13425795,
+            "heat_change": -3
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《白天刚孕吐，晚上前夫就敲门求复婚》；《霍二爷，新婚请克制！》上升1位领涨；《离婚后她惊艳了世界》下滑2位；《疯犬玫瑰》热度-11。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "rank_change": 4
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "heat_change": 4
+          },
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「古代情缘」《嫡姐惨死？王妃她杀爆京城》上升4位领涨；《新婚夜流放，飒爽太子妃种出西北大仓！》下滑2位；《嫡姐惨死？王妃她杀爆京城》热度+4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "军婚超甜！闪婚后成了首长的心尖宠",
+            "book_id": 12803265,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "国医圣手穿七零，重生军少求上位",
+            "book_id": 13352190,
+            "heat_change": -3
+          },
+          {
+            "title": "军婚超甜！闪婚后成了首长的心尖宠",
+            "book_id": 12803265,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「年代重生」《军婚超甜！闪婚后成了首长的心尖宠》下滑4位；《国医圣手穿七零，重生军少求上位》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "山神在上，阴棺见喜",
+            "book_id": 12752880,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "山神在上，阴棺见喜",
+            "book_id": 12752880,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市奇幻」《山神在上，阴棺见喜》上升3位领涨；《山神在上，阴棺见喜》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「种田经商」《大雪封山闹饥荒，福宝开挂富全村》上升2位领涨；《大雪封山闹饥荒，福宝开挂富全村》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世幻想",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "网恋翻车后，大佬兽夫追着宠",
+            "book_id": 13405101,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "网恋翻车后，大佬兽夫追着宠",
+            "book_id": 13405101,
+            "heat_change": -8
+          }
+        ],
+        "summary": "「异世幻想」《网恋翻车后，大佬兽夫追着宠》上升1位领涨；《网恋翻车后，大佬兽夫追着宠》热度-8。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

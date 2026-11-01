@@ -8,8 +8,8 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-10-31",
-  "prev_date": "2026-10-30",
+  "date": "2026-11-01",
+  "prev_date": "2026-10-31",
   "books": [
     {
       "rank": 1,
@@ -227,18 +227,18 @@
       "minor_id": 58,
       "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
       "status": "连载中",
-      "word_count_text": "205.26万字",
-      "word_count": 2052600,
+      "word_count_text": "205.88万字",
+      "word_count": 2058800,
       "heat": 3490000,
       "platform_trend": "drop",
       "badge": "最新上榜",
       "intro": "秦遇穿越大宁王朝，却因一记猴子偷桃而得罪冷血嗜杀的女帝。\n从此，女帝成为了他挥之不去的梦魇。\n直到有一天，他意外发现了自己与女帝痛觉相通的秘密。\n秦遇“桀桀”怪笑：陛下，从今往后，攻守易势了！",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3280/9839805_360x480.jpg?time=1772734262",
-      "latest_chapter": " 第938章  必须支援",
-      "updated_at": "2026-10-31 00:07:13",
+      "latest_chapter": " 第941章  摸透",
+      "updated_at": "2026-11-01 00:07:15",
       "rank_change": 0,
       "heat_change": 0,
-      "is_new": true,
+      "is_new": false,
       "boards_count": 2,
       "stale_update": false,
       "category": "架空历史"
@@ -265,10 +265,10 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/876/2627518_360x480.jpg?time=1787649238",
       "latest_chapter": " 第1110章  九龙抬棺",
       "updated_at": "2026-09-05 12:02:13",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
+      "boards_count": 2,
       "stale_update": true,
       "category": "都市高手"
     },
@@ -294,7 +294,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
       "latest_chapter": " 第1634章  番外——十年后",
       "updated_at": "2025-03-03 00:03:29",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
@@ -323,7 +323,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
       "latest_chapter": " 第1077章  大结局",
       "updated_at": "2026-06-10 17:01:11",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
@@ -352,7 +352,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
       "latest_chapter": " 第1992章  讣告",
       "updated_at": "2025-12-10 14:02:20",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
@@ -381,7 +381,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/822/2463092_360x480.jpg?time=1761124724",
       "latest_chapter": " 第1074章  仙人也折腰(终)",
       "updated_at": "2026-09-06 08:21:09",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
@@ -410,7 +410,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
       "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
       "updated_at": "2021-10-12 11:14:06",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
@@ -429,17 +429,17 @@
       "major_id": 202,
       "minor_id": 37,
       "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
-      "status": "连载中",
-      "word_count_text": "1034.27万字",
-      "word_count": 10342700,
+      "status": "已完结",
+      "word_count_text": "1035.13万字",
+      "word_count": 10351300,
       "heat": 2212000,
       "platform_trend": "drop",
       "badge": "",
       "intro": "踏天骄，镇万道！\n问鼎极道，唯我剑尊！\n我这一剑平平无奇，但你们绝对会死！",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/229983_360x480.jpg?time=1716793734",
-      "latest_chapter": " 第4683章  终章·无限之路，无限可能（中）。",
-      "updated_at": "2026-10-30 00:42:35",
-      "rank_change": -1,
+      "latest_chapter": " 第4684章  终章·无限之路，无限未来（下）。",
+      "updated_at": "2026-10-31 16:27:31",
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
@@ -468,7 +468,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
       "latest_chapter": " 第1063章  大结局（下）",
       "updated_at": "2026-03-08 01:17:14",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
@@ -497,10 +497,10 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
       "latest_chapter": " 第1338章  完结感言",
       "updated_at": "2023-02-18 08:11:26",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 3,
       "stale_update": true,
       "category": "热血校园"
     },
@@ -526,7 +526,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
       "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
       "updated_at": "2024-05-11 07:57:09",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
@@ -555,7 +555,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/602/1804403_360x480.jpg?time=1731377147",
       "latest_chapter": " 第2024章  斩杀妖神（大结局）",
       "updated_at": "2026-08-21 13:02:14",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
@@ -584,7 +584,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
       "latest_chapter": " 第2210章  星耀终结",
       "updated_at": "2024-08-28 22:04:25",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
@@ -599,30 +599,14 @@
       "count": 6,
       "total_heat": 38286000,
       "trend": {
-        "new_count": 1,
+        "new_count": 0,
         "dropped_count": 0,
-        "new_books": [
-          {
-            "title": "天命纨绔",
-            "book_id": 9839805
-          }
-        ],
+        "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "无敌六皇子",
-            "book_id": 1747899,
-            "rank_change": -1
-          },
-          {
-            "title": "世子无双",
-            "book_id": 1860026,
-            "rank_change": -1
-          }
-        ],
+        "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「架空历史」新上榜 《天命纨绔》；《无敌六皇子》下滑1位。",
+        "summary": "「架空历史」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -726,18 +710,18 @@
           "minor_id": 58,
           "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
           "status": "连载中",
-          "word_count_text": "205.26万字",
-          "word_count": 2052600,
+          "word_count_text": "205.88万字",
+          "word_count": 2058800,
           "heat": 3490000,
           "platform_trend": "drop",
           "badge": "最新上榜",
           "intro": "秦遇穿越大宁王朝，却因一记猴子偷桃而得罪冷血嗜杀的女帝。\n从此，女帝成为了他挥之不去的梦魇。\n直到有一天，他意外发现了自己与女帝痛觉相通的秘密。\n秦遇“桀桀”怪笑：陛下，从今往后，攻守易势了！",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3280/9839805_360x480.jpg?time=1772734262",
-          "latest_chapter": " 第938章  必须支援",
-          "updated_at": "2026-10-31 00:07:13",
+          "latest_chapter": " 第941章  摸透",
+          "updated_at": "2026-11-01 00:07:15",
           "rank_change": 0,
           "heat_change": 0,
-          "is_new": true,
+          "is_new": false,
           "boards_count": 2,
           "stale_update": false,
           "category": "架空历史"
@@ -764,7 +748,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
           "latest_chapter": " 第1634章  番外——十年后",
           "updated_at": "2025-03-03 00:03:29",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
@@ -793,7 +777,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
           "latest_chapter": " 第1063章  大结局（下）",
           "updated_at": "2026-03-08 01:17:14",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
@@ -813,25 +797,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "荒古圣体：在娘胎开始悟道",
-            "book_id": 1849458,
-            "rank_change": -1
-          },
-          {
-            "title": "极道剑尊",
-            "book_id": 219040,
-            "rank_change": -1
-          },
-          {
-            "title": "噬神鼎",
-            "book_id": 1868453,
-            "rank_change": -1
-          }
-        ],
+        "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「东方玄幻」《荒古圣体：在娘胎开始悟道》下滑1位。",
+        "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -915,7 +883,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
           "latest_chapter": " 第1077章  大结局",
           "updated_at": "2026-06-10 17:01:11",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
@@ -934,17 +902,17 @@
           "major_id": 202,
           "minor_id": 37,
           "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
-          "status": "连载中",
-          "word_count_text": "1034.27万字",
-          "word_count": 10342700,
+          "status": "已完结",
+          "word_count_text": "1035.13万字",
+          "word_count": 10351300,
           "heat": 2212000,
           "platform_trend": "drop",
           "badge": "",
           "intro": "踏天骄，镇万道！\n问鼎极道，唯我剑尊！\n我这一剑平平无奇，但你们绝对会死！",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/229983_360x480.jpg?time=1716793734",
-          "latest_chapter": " 第4683章  终章·无限之路，无限可能（中）。",
-          "updated_at": "2026-10-30 00:42:35",
-          "rank_change": -1,
+          "latest_chapter": " 第4684章  终章·无限之路，无限未来（下）。",
+          "updated_at": "2026-10-31 16:27:31",
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
@@ -973,7 +941,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/602/1804403_360x480.jpg?time=1731377147",
           "latest_chapter": " 第2024章  斩杀妖神（大结局）",
           "updated_at": "2026-08-21 13:02:14",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
@@ -1070,20 +1038,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "重生2000：从追求青涩校花同桌开始",
-            "book_id": 1758273,
-            "rank_change": -1
-          },
-          {
-            "title": "我和软萌女友的恋爱日常",
-            "book_id": 214789,
-            "rank_change": -1
-          }
-        ],
+        "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「热血校园」《重生2000：从追求青涩校花同桌开始》下滑1位。",
+        "summary": "「热血校园」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1109,7 +1066,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
           "latest_chapter": " 第1992章  讣告",
           "updated_at": "2025-12-10 14:02:20",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
@@ -1138,10 +1095,10 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
           "latest_chapter": " 第1338章  完结感言",
           "updated_at": "2023-02-18 08:11:26",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
+          "boards_count": 3,
           "stale_update": true,
           "category": "热血校园"
         }
@@ -1158,20 +1115,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "民间诡闻实录",
-            "book_id": 197091,
-            "rank_change": -1
-          },
-          {
-            "title": "山野诡闻笔记",
-            "book_id": 214783,
-            "rank_change": -1
-          }
-        ],
+        "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「奇门秘术」《民间诡闻实录》下滑1位。",
+        "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1197,7 +1143,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
           "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
           "updated_at": "2021-10-12 11:14:06",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
@@ -1226,7 +1172,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
           "latest_chapter": " 第1017章  缘，妙不可言！（大结局）",
           "updated_at": "2024-05-11 07:57:09",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
@@ -1246,15 +1192,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "SSS级狂龙归来，全球戒备！",
-            "book_id": 2060177,
-            "rank_change": -1
-          }
-        ],
+        "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「都市高手」《SSS级狂龙归来，全球戒备！》下滑1位。",
+        "summary": "「都市高手」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1280,10 +1220,10 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/876/2627518_360x480.jpg?time=1787649238",
           "latest_chapter": " 第1110章  九龙抬棺",
           "updated_at": "2026-09-05 12:02:13",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
+          "boards_count": 2,
           "stale_update": true,
           "category": "都市高手"
         }
@@ -1300,15 +1240,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
-            "book_id": 2027749,
-            "rank_change": -1
-          }
-        ],
+        "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「异世大陆」《刚抽中SSS级天赋，你跟我说游戏停服》下滑1位。",
+        "summary": "「异世大陆」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1334,7 +1268,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/822/2463092_360x480.jpg?time=1761124724",
           "latest_chapter": " 第1074章  仙人也折腰(终)",
           "updated_at": "2026-09-06 08:21:09",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
@@ -1354,15 +1288,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "全球灾变之末日游戏",
-            "book_id": 219542,
-            "rank_change": -1
-          }
-        ],
+        "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「末世危机」《全球灾变之末日游戏》下滑1位。",
+        "summary": "「末世危机」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1388,7 +1316,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
           "latest_chapter": " 第2210章  星耀终结",
           "updated_at": "2024-08-28 22:04:25",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
@@ -1400,8 +1328,8 @@
   ],
   "stats": {
     "total_books": 20,
-    "new_count": 1,
-    "dropped_count": 1,
+    "new_count": 0,
+    "dropped_count": 0,
     "avg_heat": 4303300,
     "total_heat": 86066000,
     "first_day": false

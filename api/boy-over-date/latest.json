@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "types": [
     {
       "name": "全部",
@@ -41,6 +41,10 @@
     {
       "name": "末世危机",
       "url": "api/boy-over-date/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
+    },
+    {
+      "name": "都市高手",
+      "url": "api/boy-over-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%89%8B.json"
     }
   ]
 }
