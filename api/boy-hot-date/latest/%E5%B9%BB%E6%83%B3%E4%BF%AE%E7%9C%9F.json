@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 258000,
+    "total_heat": 281000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "凡人：从拔刀三十万次开始",
           "book_id": 10413429,
-          "rank_change": -1
+          "rank_change": 5
         }
       ],
-      "heat_leaders": [],
-      "summary": "「幻想修真」《凡人：从拔刀三十万次开始》下滑1位。",
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "凡人：从拔刀三十万次开始",
+          "book_id": 10413429,
+          "heat_change": 23000
+        }
+      ],
+      "summary": "「幻想修真」《凡人：从拔刀三十万次开始》上升5位领涨；《凡人：从拔刀三十万次开始》热度+23000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 11,
         "title": "凡人：从拔刀三十万次开始",
         "book_id": 10413429,
         "url": "https://www.qimao.com/shuku/10413429/",
@@ -45,17 +51,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "119.08万字",
-        "word_count": 1190800,
-        "heat": 258000,
+        "word_count_text": "119.7万字",
+        "word_count": 1197000,
+        "heat": 281000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "我辈生而平凡，若是自强不息，亦可自放光芒。\n       当你打开这本书的时候，我可能还在拔刀，为自己而拔，为别人而拔，也或许为你而拔………………       \n       我叫陈时安，退役边疆军人，那一年，我在巡边的时候捡到了一块小石碑，",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3472/10413429_360x480.jpg?time=1773558388",
-        "latest_chapter": " 第439章  安千素",
-        "updated_at": "2026-10-31 08:07:06",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第442章  真心不难",
+        "updated_at": "2026-11-01 08:27:05",
+        "rank_change": 5,
+        "heat_change": 23000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

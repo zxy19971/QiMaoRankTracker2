@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "category": {
     "name": "末世危机",
     "major": "科幻",
@@ -19,27 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "全球灾变之末日游戏",
           "book_id": 219542,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "全球灾变之末日游戏",
-          "book_id": 219542,
-          "heat_change": 1000
-        }
-      ],
-      "summary": "「末世危机」《全球灾变之末日游戏》上升1位领涨；《全球灾变之末日游戏》热度+1000。",
+      "heat_leaders": [],
+      "summary": "「末世危机」《全球灾变之末日游戏》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 16,
         "title": "全球灾变之末日游戏",
         "book_id": 219542,
         "url": "https://www.qimao.com/shuku/219542/",
@@ -60,8 +54,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
         "latest_chapter": " 第2210章  星耀终结",
         "updated_at": "2024-08-28 22:04:25",
-        "rank_change": 1,
-        "heat_change": 1000,
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,

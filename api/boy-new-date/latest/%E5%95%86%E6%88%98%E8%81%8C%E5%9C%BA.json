@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "category": {
     "name": "商战职场",
     "major": "都市",
@@ -20,20 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_fallers": [
         {
           "title": "野性攀登",
           "book_id": 13408218,
-          "heat_change": -5000
+          "rank_change": -1
         }
       ],
-      "summary": "「商战职场」《野性攀登》热度-5000。",
+      "heat_leaders": [],
+      "summary": "「商战职场」《野性攀登》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "野性攀登",
         "book_id": 13408218,
         "url": "https://www.qimao.com/shuku/13408218/",
@@ -45,19 +45,19 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.97万字",
-        "word_count": 409700,
+        "word_count_text": "41.85万字",
+        "word_count": 418500,
         "heat": 36000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "地产公司小职员陈爽，为凑巨额彩礼，夜跑代驾，被身份不凡的美女强征，被人误会有背景，从此踏上逆袭之路，上司极品老婆，温柔女领导，娇媚女下属，刁蛮小魔女，各路美女被命运安排，和陈爽走到一起\n被心爱女友背叛，陈爽彻底激发野性，和众美女携手，野性攀峰……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4470/13408218_360x480.jpg?time=1792546689",
-        "latest_chapter": " 第185章  让我尝尝，你的菜",
-        "updated_at": "2026-11-01 04:02:03",
-        "rank_change": 0,
-        "heat_change": -5000,
+        "latest_chapter": " 第189章  大校花的真诚谢意",
+        "updated_at": "2026-11-02 04:02:03",
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 3,
         "stale_update": false,
         "category": "商战职场"
       }

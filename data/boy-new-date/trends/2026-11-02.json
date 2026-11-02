@@ -1,0 +1,315 @@
+{
+  "date": "2026-11-02",
+  "board": "boy-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 39100,
+    "total_heat": 782000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "咱家世代从军，到你这成文圣了？",
+            "book_id": 13194165,
+            "rank_change": 1
+          },
+          {
+            "title": "让你当个纨绔，你咋毒谋天下",
+            "book_id": 13400022,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "边军悍卒：一把长弓定天下！",
+            "book_id": 12948825,
+            "rank_change": -3
+          },
+          {
+            "title": "边军小卒：杀敌爆气血，我无限破镜！",
+            "book_id": 12958296,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "让你当个纨绔，你咋毒谋天下",
+            "book_id": 13400022,
+            "heat_change": 6000
+          },
+          {
+            "title": "寇天子",
+            "book_id": 12817968,
+            "heat_change": 4000
+          },
+          {
+            "title": "咱家世代从军，到你这成文圣了？",
+            "book_id": 13194165,
+            "heat_change": 3000
+          }
+        ],
+        "summary": "「架空历史」《咱家世代从军，到你这成文圣了？》上升1位领涨；《边军悍卒：一把长弓定天下！》下滑3位；《让你当个纨绔，你咋毒谋天下》热度+6000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "下山第一天，逮个美女总裁暴力宠",
+            "book_id": 13008696,
+            "rank_change": -2
+          },
+          {
+            "title": "血脉觉醒后，美女总裁赖上我",
+            "book_id": 13089795,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "血脉觉醒后，美女总裁赖上我",
+            "book_id": 13089795,
+            "heat_change": -6000
+          },
+          {
+            "title": "我的倾城野妻",
+            "book_id": 12973059,
+            "heat_change": -3000
+          },
+          {
+            "title": "下山第一天，逮个美女总裁暴力宠",
+            "book_id": 13008696,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「都市高手」《下山第一天，逮个美女总裁暴力宠》下滑2位；《血脉觉醒后，美女总裁赖上我》热度-6000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "真龙下山，我体内有头绝世凶兽",
+            "book_id": 13335867,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "都市极品狂龙！",
+            "book_id": 13012533,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "真龙下山，我体内有头绝世凶兽",
+            "book_id": 13335867,
+            "heat_change": 2000
+          },
+          {
+            "title": "都市极品狂龙！",
+            "book_id": 13012533,
+            "heat_change": -1000
+          },
+          {
+            "title": "都市大猛仙",
+            "book_id": 12947607,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「都市高武」《真龙下山，我体内有头绝世凶兽》上升1位领涨；《都市极品狂龙！》下滑1位；《真龙下山，我体内有头绝世凶兽》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "荒淫无道？我那是拯救快散的宗门！",
+            "book_id": 13611585,
+            "rank_change": 3
+          },
+          {
+            "title": "魔天鼎：我能炼化万物",
+            "book_id": 13297746,
+            "rank_change": 1
+          },
+          {
+            "title": "凡人修仙：从造化万物开始",
+            "book_id": 13016304,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "荒淫无道？我那是拯救快散的宗门！",
+            "book_id": 13611585,
+            "heat_change": 3000
+          },
+          {
+            "title": "凡人修仙：从造化万物开始",
+            "book_id": 13016304,
+            "heat_change": 3000
+          },
+          {
+            "title": "魔天鼎：我能炼化万物",
+            "book_id": 13297746,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「东方玄幻」《荒淫无道？我那是拯救快散的宗门！》上升3位领涨；《荒淫无道？我那是拯救快散的宗门！》热度+3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "你捧你的干弟弟，我离我的婚",
+            "book_id": 13458249
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "透视神眼：看尽天下玉，揽尽世上美",
+            "book_id": 12898650,
+            "intro": "陆沉为了给女友改善生活，努力克服恐高症去高空擦玻璃赚快钱。\n但不成想，竟亲眼目睹了女友的背叛！\n陆沉在心灰意冷下准备跳江轻生，却意外获得了造化神树，并救下了同样要轻生的美妇！\n自此，陆沉天眼一开，玉石"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "高冷校花香香软软，凭啥还舔你啊",
+            "book_id": 13220790,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "红妆贵人",
+            "book_id": 13231977,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "高冷校花香香软软，凭啥还舔你啊",
+            "book_id": 13220790,
+            "heat_change": 2000
+          },
+          {
+            "title": "红妆贵人",
+            "book_id": 13231977,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「都市生活」新上榜 《你捧你的干弟弟，我离我的婚》；《透视神眼：看尽天下玉，揽尽世上美》 掉出榜单；《高冷校花香香软软，凭啥还舔你啊》上升1位领涨；《红妆贵人》下滑1位；《高冷校花香香软软，凭啥还舔你啊》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "趁校花一贫如洗，忽悠她以身相许",
+            "book_id": 12896292,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "趁校花一贫如洗，忽悠她以身相许",
+            "book_id": 12896292,
+            "heat_change": -16000
+          }
+        ],
+        "summary": "「热血校园」《趁校花一贫如洗，忽悠她以身相许》下滑1位；《趁校花一贫如洗，忽悠她以身相许》热度-16000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「商战职场」《野性攀登》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "诡异民国，从缝尸开始长生",
+            "book_id": 12706761,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "诡异民国，从缝尸开始长生",
+            "book_id": 12706761,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「幻想修真」《诡异民国，从缝尸开始长生》上升2位领涨；《诡异民国，从缝尸开始长生》热度+2000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

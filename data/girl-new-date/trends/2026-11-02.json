@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-02",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 144400,
+    "total_heat": 2888000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "冷婚七年，夫人带娃离婚他悔疯了",
+            "book_id": 12996819,
+            "intro": "【带球跑/先虐后爽/错认/雄竞/追妻火葬场】\n结婚七年，宋知晚怀孕了，老公傅聿修还不知道。\n傅聿修对她冷淡至极，宋知晚仍然深爱着他。\n结婚纪念日，宋知晚拿着孕检单，想把这个好消息告诉傅聿修和儿子。\n却"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "唯她是图",
+            "book_id": 12860100,
+            "rank_change": 1
+          },
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "rank_change": 1
+          },
+          {
+            "title": "暗渡春潮",
+            "book_id": 12784170,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "披婚纱改嫁，爹系老公他超爱",
+            "book_id": 12862740,
+            "rank_change": -4
+          },
+          {
+            "title": "谢总，夫人已改嫁，让你跪远点",
+            "book_id": 13156719,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "heat_change": 112000
+          },
+          {
+            "title": "谢总，夫人已改嫁，让你跪远点",
+            "book_id": 13156719,
+            "heat_change": -19000
+          },
+          {
+            "title": "裴先生，暗恋她已十二年",
+            "book_id": 13010484,
+            "heat_change": -12000
+          }
+        ],
+        "summary": "「总裁豪门」《冷婚七年，夫人带娃离婚他悔疯了》 掉出榜单；《唯她是图》上升1位领涨；《披婚纱改嫁，爹系老公他超爱》下滑4位；《夫人反差太大，司总沦陷了！》热度+112000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+            "book_id": 13123449
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "heat_change": -9000
+          },
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「古代情缘」新上榜 《地狱归，驭百鬼，王妃回京后杀疯了》；《春闺小寡妇》上升3位领涨；《嫡姐惨死？王妃她杀爆京城》热度-9000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": -25000
+          },
+          {
+            "title": "嫌我丰腴不碰我，我改嫁首长连生三崽",
+            "book_id": 13066845,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「年代重生」《错嫁随军：新婚夜冷面军少沦陷了》热度-25000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "南音无尽夏",
+            "book_id": 13913373,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "南音无尽夏",
+            "book_id": 13913373,
+            "heat_change": -37000
+          },
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》上升1位领涨；《南音无尽夏》下滑4位；《南音无尽夏》热度-37000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "被父弃？做罪妻？赌婚换命赚翻天",
+            "book_id": 13057029,
+            "intro": "【流放+罪妻危机+边疆生活+水系+开荒种田+经商暴富+女性互助+双强直球夫妇】\n穿越当天，宁昭昕被亲生父亲舍弃，与母亲一同随外祖母家流放南疆做罪奴。\n人人都说罪奴卑贱如泥，进了兵营不出三日就会被折辱死"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514,
+            "rank_change": 1
+          },
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514,
+            "heat_change": -2000
+          },
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「种田经商」《被父弃？做罪妻？赌婚换命赚翻天》 掉出榜单；《流民医女：开荒把残夫养成战神》上升1位领涨；《流民医女：开荒把残夫养成战神》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "国运求生：娇滴滴上交国家后带飞华夏",
+            "book_id": 13043619
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世求生」新上榜 《国运求生：娇滴滴上交国家后带飞华夏》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
