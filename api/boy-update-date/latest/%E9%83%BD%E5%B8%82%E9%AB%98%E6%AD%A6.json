@@ -8,72 +8,55 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "category": {
     "name": "都市高武",
     "major": "都市",
-    "count": 3,
-    "total_heat": 3,
+    "count": 2,
+    "total_heat": 5,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "女子监狱五年，出狱即无敌",
-          "book_id": 12791886,
-          "rank_change": -2
-        },
+      "dropped_books": [
         {
           "title": "神武天下之睚眦",
           "book_id": 1977738,
+          "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起"
+        }
+      ],
+      "top_risers": [
+        {
+          "title": "女子监狱五年，出狱即无敌",
+          "book_id": 12791886,
+          "rank_change": 4
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "被关女子监狱五年，出狱后我医武双绝",
+          "book_id": 12514650,
           "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
+          "title": "被关女子监狱五年，出狱后我医武双绝",
+          "book_id": 12514650,
+          "heat_change": 2
+        },
+        {
           "title": "女子监狱五年，出狱即无敌",
           "book_id": 12791886,
-          "heat_change": -3
+          "heat_change": 1
         }
       ],
-      "summary": "「都市高武」《女子监狱五年，出狱即无敌》下滑2位；《女子监狱五年，出狱即无敌》热度-3。",
+      "summary": "「都市高武」《神武天下之睚眦》 掉出榜单；《女子监狱五年，出狱即无敌》上升4位领涨；《被关女子监狱五年，出狱后我医武双绝》下滑1位；《被关女子监狱五年，出狱后我医武双绝》热度+2。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 11,
-        "title": "神武天下之睚眦",
-        "book_id": 1977738,
-        "url": "https://www.qimao.com/shuku/1977738/",
-        "author": "笨笨的大笨龙",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%AC%A8%E7%AC%A8%E7%9A%84%E5%A4%A7%E7%AC%A8%E9%BE%99_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "463.93万字",
-        "word_count": 4639300,
-        "heat": 1,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起。为隐藏身份，他进入工厂当保安，却意外卷入与武者余刚的冲突，见识到超凡力量的世界，也因硬接对方重拳留下内伤。\n在痛苦与挣扎中，温羽凡逐渐接受系统，通过修炼晋级，同时得知家人的悲剧可能与　“新神会”　有关。他一边用保安身份掩饰，一边偷偷变强，更在老中医帮助下调理伤势，决心踏上复仇之路，誓要为逝去的亲人讨回公道，揭开灾难背后的真相。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/746/2237791_360x480.jpg?time=1747831667",
-        "latest_chapter": " 第1068章  授人以渔",
-        "updated_at": "2026-11-01 09:02:12",
-        "rank_change": -1,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 13,
+        "rank": 9,
         "title": "女子监狱五年，出狱即无敌",
         "book_id": 12791886,
         "url": "https://www.qimao.com/shuku/12791886/",
@@ -85,24 +68,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "74.38万字",
-        "word_count": 743800,
-        "heat": 2,
-        "platform_trend": "drop",
+        "word_count_text": "75.66万字",
+        "word_count": 756600,
+        "heat": 3,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第315章  孤身上门，胆大妄为",
-        "updated_at": "2026-11-01 22:22:04",
-        "rank_change": -2,
-        "heat_change": -3,
+        "latest_chapter": " 第320章  分赃",
+        "updated_at": "2026-11-03 08:22:03",
+        "rank_change": 4,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "title": "被关女子监狱五年，出狱后我医武双绝",
         "book_id": 12514650,
         "url": "https://www.qimao.com/shuku/12514650/",
@@ -114,17 +97,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "83.18万字",
-        "word_count": 831800,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "83.8万字",
+        "word_count": 838000,
+        "heat": 2,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让他们千万倍偿还这滔天血债。同时他也要好好保护养姐等族中女眷和他的四个未婚妻，一定让她们过上好日子！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
-        "latest_chapter": " 第391章  诛魔大阵发威，愧疚的张薇儿",
-        "updated_at": "2026-11-02 00:20:07",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第394章  叶辰母亲身份曝光",
+        "updated_at": "2026-11-02 22:05:05",
+        "rank_change": -1,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

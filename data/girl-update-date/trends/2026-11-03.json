@@ -1,0 +1,231 @@
+{
+  "date": "2026-11-03",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 1,
+    "total_heat": 34,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "枕边奴",
+            "book_id": 13537935
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": 3
+          },
+          {
+            "title": "宫女朔宁",
+            "book_id": 12315174,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "rank_change": -8
+          },
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "rank_change": -1
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "heat_change": 7
+          },
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "heat_change": 3
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "heat_change": -3
+          }
+        ],
+        "summary": "「宫闱宅斗」新上榜 《枕边奴》；《皇叔借点功德，王妃把符画猛了》上升3位领涨；《劝爹入赘公主府，玄学嫡女被团宠》下滑8位；《劝爹入赘公主府，玄学嫡女被团宠》热度+7。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "渣男骗婚？顶级大佬上门求名分",
+            "book_id": 13344123
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "为她失控",
+            "book_id": 13425795,
+            "rank_change": 3
+          },
+          {
+            "title": "白天刚孕吐，晚上前夫就敲门求复婚",
+            "book_id": 13193829,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902,
+            "rank_change": -8
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902,
+            "heat_change": 3
+          },
+          {
+            "title": "为她失控",
+            "book_id": 13425795,
+            "heat_change": 2
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《渣男骗婚？顶级大佬上门求名分》；《为她失控》上升3位领涨；《疯犬玫瑰》下滑8位；《疯犬玫瑰》热度+3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "山神在上，阴棺见喜",
+            "book_id": 12752880,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "山神在上，阴棺见喜",
+            "book_id": 12752880,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市奇幻」《山神在上，阴棺见喜》下滑1位；《山神在上，阴棺见喜》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "重生八零嫁给全军第一硬汉",
+            "book_id": 1683831,
+            "intro": "【八零肥妻+驻地随夫+甜宠+无金手指+无空间+女主凭实力逆袭创业】\n扑街网文作者姜绾一朝穿越，重生成八十年代一个体重300斤的黑胖村姑。\n没有金手指，没有空间！\n原主奸懒馋滑，嗜赌成性，又穷凶极恶的拐"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "国医圣手穿七零，重生军少求上位",
+            "book_id": 13352190,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "国医圣手穿七零，重生军少求上位",
+            "book_id": 13352190,
+            "heat_change": 4
+          }
+        ],
+        "summary": "「年代重生」《重生八零嫁给全军第一硬汉》 掉出榜单；《国医圣手穿七零，重生军少求上位》下滑4位；《国医圣手穿七零，重生军少求上位》热度+4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「古代情缘」《嫡姐惨死？王妃她杀爆京城》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」《大雪封山闹饥荒，福宝开挂富全村》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

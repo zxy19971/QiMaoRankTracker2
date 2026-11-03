@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
@@ -21,14 +21,8 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "刚抽中SSS级天赋，你跟我说游戏停服",
-          "book_id": 2027749,
-          "heat_change": -114000
-        }
-      ],
-      "summary": "「异世大陆」《刚抽中SSS级天赋，你跟我说游戏停服》热度-114000。",
+      "heat_leaders": [],
+      "summary": "「异世大陆」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,7 +49,7 @@
         "latest_chapter": " 第1074章  仙人也折腰(终)",
         "updated_at": "2026-09-06 08:21:09",
         "rank_change": 0,
-        "heat_change": -114000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

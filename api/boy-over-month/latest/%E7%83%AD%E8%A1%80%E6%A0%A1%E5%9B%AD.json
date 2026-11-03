@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "category": {
     "name": "热血校园",
     "major": "都市",
@@ -16,31 +16,13 @@
     "total_heat": 2284000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "我和软萌女友的恋爱日常",
-          "book_id": 214789,
-          "intro": "甜甜的治愈文，带你重回校园时代！"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "重生2000：从追求青涩校花同桌开始",
-          "book_id": 1758273,
-          "rank_change": 1
-        }
-      ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "重生2000：从追求青涩校花同桌开始",
-          "book_id": 1758273,
-          "heat_change": -123000
-        }
-      ],
-      "summary": "「热血校园」《我和软萌女友的恋爱日常》 掉出榜单；《重生2000：从追求青涩校花同桌开始》上升1位领涨；《重生2000：从追求青涩校花同桌开始》热度-123000。",
+      "heat_leaders": [],
+      "summary": "「热血校园」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -66,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
         "latest_chapter": " 第1992章  讣告",
         "updated_at": "2025-12-10 14:02:20",
-        "rank_change": 1,
-        "heat_change": -123000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

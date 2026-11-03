@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T08:22:57",
-  "date": "2026-11-02",
+  "generated_at": "2026-11-03T10:51:02",
+  "date": "2026-11-03",
   "authors": [
     {
       "author": "化十",
@@ -36,6 +36,17 @@
       ]
     },
     {
+      "author": "随山月",
+      "author_url": "https://www.qimao.com/zuozhe/%E9%9A%8F%E5%B1%B1%E6%9C%88_14/",
+      "books": 2,
+      "boards": 5,
+      "total_heat": 6797000,
+      "titles": [
+        "解春衫",
+        "枕边奴"
+      ]
+    },
+    {
       "author": "梁山老鬼",
       "author_url": "https://www.qimao.com/zuozhe/%E6%A2%81%E5%B1%B1%E8%80%81%E9%AC%BC_14/",
       "books": 2,
@@ -51,7 +62,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%9F%A0%E8%90%8C%E8%8C%B6_14/",
       "books": 2,
       "boards": 3,
-      "total_heat": 3504001,
+      "total_heat": 3504000,
       "titles": [
         "嫌我不孕？另嫁京圈首富一胎又一胎",
         "白天刚孕吐，晚上前夫就敲门求复婚"
@@ -61,7 +72,7 @@
       "author": "贪睡的虫儿",
       "author_url": "https://www.qimao.com/zuozhe/%E8%B4%AA%E7%9D%A1%E7%9A%84%E8%99%AB%E5%84%BF_14/",
       "books": 2,
-      "boards": 4,
+      "boards": 3,
       "total_heat": 2795000,
       "titles": [
         "SSS级狂龙归来，全球戒备！",
@@ -72,7 +83,7 @@
       "author": "晨弈",
       "author_url": "https://www.qimao.com/zuozhe/%E6%99%A8%E5%BC%88_14/",
       "books": 2,
-      "boards": 4,
+      "boards": 3,
       "total_heat": 2691000,
       "titles": [
         "九转星辰诀",
@@ -95,7 +106,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E4%BD%9B%E7%B3%BB%E5%92%8C%E5%B0%9A_14/",
       "books": 2,
       "boards": 2,
-      "total_heat": 65000,
+      "total_heat": 59000,
       "titles": [
         "最强学霸系统",
         "我和软萌女友的恋爱日常"
@@ -238,7 +249,7 @@
       "boards": 2,
       "total_heat": 10396000,
       "titles": [
-        "大乾第一豪强"
+        "从骑奴到大乾武圣"
       ]
     },
     {
@@ -299,16 +310,6 @@
       "total_heat": 8756000,
       "titles": [
         "边军悍卒"
-      ]
-    },
-    {
-      "author": "醉不致死",
-      "author_url": "https://www.qimao.com/zuozhe/%E9%86%89%E4%B8%8D%E8%87%B4%E6%AD%BB_14/",
-      "books": 1,
-      "boards": 2,
-      "total_heat": 8684000,
-      "titles": [
-        "大周第一武夫"
       ]
     }
   ]

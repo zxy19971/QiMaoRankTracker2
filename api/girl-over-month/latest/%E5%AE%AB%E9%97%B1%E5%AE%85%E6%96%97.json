@@ -8,69 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
     "count": 6,
     "total_heat": 45105000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "裂春风",
-          "book_id": 10024089
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "凤池生春",
-          "book_id": 1830569,
-          "rank_change": 3
-        },
-        {
-          "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
-          "book_id": 2074363,
-          "rank_change": 1
-        },
-        {
-          "title": "解春衫",
-          "book_id": 2065888,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "第一凤女",
-          "book_id": 1803136,
-          "rank_change": -3
-        },
-        {
-          "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
-          "book_id": 2019227,
-          "rank_change": -2
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
-          "book_id": 2019227,
-          "heat_change": -2223000
-        },
-        {
-          "title": "解春衫",
-          "book_id": 2065888,
-          "heat_change": -2113000
-        },
-        {
-          "title": "凤池生春",
-          "book_id": 1830569,
-          "heat_change": 1554000
-        }
-      ],
-      "summary": "「宫闱宅斗」新上榜 《裂春风》；《凤池生春》上升3位领涨；《第一凤女》下滑3位；《随母改嫁旺新家，重生嫡女嘎嘎乱杀》热度-2223000。",
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「宫闱宅斗」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -96,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/542/1624570_360x480.jpg?time=1717343578",
         "latest_chapter": " 第1152章  ·终章",
         "updated_at": "2025-11-07 14:23:17",
-        "rank_change": 3,
-        "heat_change": 1554000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -125,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/896/2686789_360x480.jpg?time=1761327901",
         "latest_chapter": " 第822章  终章",
         "updated_at": "2026-09-22 18:39:45",
-        "rank_change": 1,
-        "heat_change": -606000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -154,8 +106,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661154_360x480.jpg?time=1761644493",
         "latest_chapter": " 第762章  夫因妻显",
         "updated_at": "2026-08-19 08:02:20",
-        "rank_change": 1,
-        "heat_change": -2113000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -185,7 +137,7 @@
         "updated_at": "2026-10-07 12:47:06",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 4,
         "stale_update": true,
         "category": "宫闱宅斗"
@@ -212,8 +164,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/801/2400937_360x480.jpg?time=1753811344",
         "latest_chapter": " 第493章  番外：是一见倾心，也是非你不可的坚定",
         "updated_at": "2026-02-08 23:58:06",
-        "rank_change": -2,
-        "heat_change": -2223000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -241,8 +193,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
         "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
         "updated_at": "2025-08-31 14:41:10",
-        "rank_change": -3,
-        "heat_change": -1201000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

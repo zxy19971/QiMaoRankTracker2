@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-03",
+  "board": "girl-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 355400,
+    "total_heat": 7108000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
+            "book_id": 2048050,
+            "rank_change": -1
+          },
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "rank_change": -1
+          },
+          {
+            "title": "全家夺我军功，重生嫡女屠了满门",
+            "book_id": 1968910,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": 55000
+          },
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "heat_change": 23000
+          },
+          {
+            "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
+            "book_id": 2048050,
+            "heat_change": 16000
+          }
+        ],
+        "summary": "「宫闱宅斗」《被逼自刎，嫡女重生撕婚书覆皇朝》上升2位领涨；《抢我婚约嫁太子？我携孕肚嫁皇帝》下滑1位；《皇叔借点功德，王妃把符画猛了》热度+55000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "分手六年，贺律师又沦陷了",
+            "book_id": 2094083
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "唯她是图",
+            "book_id": 12860100,
+            "intro": "原书名《暗恋姜医生的第十年，她离婚了》\n【女非男c，前夫追妻火葬场+男主暗恋又争又抢】\n姜知一直觉得，和季予彻的这段婚姻，开始得有多热烈真挚，结束得就有多惨烈可笑。\n而过程，便如钝刀割肉。\n从抽皮剥骨"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "大佬十代单传，我为他一胎生四宝",
+            "book_id": 1726987,
+            "rank_change": -1
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": -1
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "heat_change": -316000
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": 32000
+          },
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": 23000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《分手六年，贺律师又沦陷了》；《唯她是图》 掉出榜单；《第五年重逢，驰先生再度失控》上升1位领涨；《大佬十代单传，我为他一胎生四宝》下滑1位；《夫人反差太大，司总沦陷了！》热度-316000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "飒美小神医虐渣忙，随军误撩首长被疯宠",
+            "book_id": 2086561,
+            "rank_change": 4
+          },
+          {
+            "title": "领证日换嫁首长，随军后我连生两胎",
+            "book_id": 11835048,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "飒美小神医虐渣忙，随军误撩首长被疯宠",
+            "book_id": 2086561,
+            "heat_change": 45000
+          },
+          {
+            "title": "领证日换嫁首长，随军后我连生两胎",
+            "book_id": 11835048,
+            "heat_change": 38000
+          },
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": -35000
+          }
+        ],
+        "summary": "「年代重生」《飒美小神医虐渣忙，随军误撩首长被疯宠》上升4位领涨；《飒美小神医虐渣忙，随军误撩首长被疯宠》热度+45000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "嫡姐惨死？王妃她杀爆京城",
+            "book_id": 13021647,
+            "heat_change": -43000
+          }
+        ],
+        "summary": "「古代情缘」《嫡姐惨死？王妃她杀爆京城》下滑2位；《嫡姐惨死？王妃她杀爆京城》热度-43000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

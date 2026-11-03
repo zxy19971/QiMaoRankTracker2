@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -16,57 +16,13 @@
     "total_heat": 30297000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "边关猎户，我粮肉满仓富甲一方",
-          "book_id": 2093494,
-          "intro": "“夫君，为了这个家香火着想，妾身又给你安排了一桩婚事，你看可满意？”\n宁远意外穿越到了大乾帝国战事初定的饥荒年，女子地位卑贱远不如一碗白米值钱。\n看着怀中娇滴滴的小娘子又给自己带来小妾，宁远欲哭无泪，"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "天命纨绔",
-          "book_id": 9839805,
-          "rank_change": 1
-        },
-        {
-          "title": "无敌六皇子",
-          "book_id": 1747899,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "世子无双",
-          "book_id": 1860026,
-          "rank_change": -3
-        },
-        {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "逍遥四公子",
-          "book_id": 1809361,
-          "heat_change": -3256000
-        },
-        {
-          "title": "世子无双",
-          "book_id": 1860026,
-          "heat_change": -287000
-        },
-        {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
-          "heat_change": -206000
-        }
-      ],
-      "summary": "「架空历史」《边关猎户，我粮肉满仓富甲一方》 掉出榜单；《天命纨绔》上升1位领涨；《世子无双》下滑3位；《逍遥四公子》热度-3256000。",
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「架空历史」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -93,7 +49,7 @@
         "latest_chapter": " 第2996章  往后余生，逍遥无拘",
         "updated_at": "2026-10-23 07:02:23",
         "rank_change": 0,
-        "heat_change": -3256000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -121,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
-        "rank_change": -1,
-        "heat_change": -206000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -141,17 +97,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "206.53万字",
-        "word_count": 2065300,
+        "word_count_text": "207.16万字",
+        "word_count": 2071600,
         "heat": 3308000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "秦遇穿越大宁王朝，却因一记猴子偷桃而得罪冷血嗜杀的女帝。\n从此，女帝成为了他挥之不去的梦魇。\n直到有一天，他意外发现了自己与女帝痛觉相通的秘密。\n秦遇“桀桀”怪笑：陛下，从今往后，攻守易势了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3280/9839805_360x480.jpg?time=1772734262",
-        "latest_chapter": " 第944章  感觉不对劲",
-        "updated_at": "2026-11-02 00:07:15",
-        "rank_change": 1,
-        "heat_change": -182000,
+        "latest_chapter": " 第947章  决战前夕",
+        "updated_at": "2026-11-03 00:07:13",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -179,8 +135,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
-        "rank_change": 1,
-        "heat_change": -79000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -208,8 +164,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
         "latest_chapter": " 第1063章  大结局（下）",
         "updated_at": "2026-03-08 01:17:14",
-        "rank_change": -3,
-        "heat_change": -287000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

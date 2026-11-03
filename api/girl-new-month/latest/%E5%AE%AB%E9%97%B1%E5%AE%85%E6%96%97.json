@@ -8,37 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
     "count": 1,
     "total_heat": 1244000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 2,
-      "new_books": [
-        {
-          "title": "皇上开门，福宝带物资来送温暖啦",
-          "book_id": 12856758
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "她夺凤钗",
-          "book_id": 12813747,
-          "intro": "锦瑟幼年走失，辗转成了太子府的宫婢，认亲后摇身一变成为五品京官家的嫡女，人人都以为她过上了阖家宠爱的富贵日子。\n可太子一朝遇刺，刺客竟是她。\n全族人头落地，她却笑中带泪，坦然赴死。\n再度睁眼，回到认亲"
-        },
-        {
-          "title": "劝爹入赘公主府，玄学嫡女被团宠",
-          "book_id": 13123386,
-          "intro": "【双重生+玄学甜爽+换府改命对照组】\n前世，爹娘和离，顾令窈因“荣华富贵命”随母改嫁入侯府。\n母亲为了讨好侯府，调换了她与继姐的命格。侯府因此荣光，继父升爵，继兄从龙之功，继姐成了皇后。\n可她却被百鬼"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「宫闱宅斗」新上榜 《皇上开门，福宝带物资来送温暖啦》；《她夺凤钗》、《劝爹入赘公主府，玄学嫡女被团宠》 掉出榜单。",
+      "summary": "「宫闱宅斗」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,18 +39,18 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.29万字",
-        "word_count": 402900,
+        "word_count_text": "40.69万字",
+        "word_count": 406900,
         "heat": 1244000,
         "platform_trend": "rise",
         "badge": "飙升13名",
         "intro": "【萌宝、通古今、团宠、治愈异能】\n暖暖是带着治愈异能出生的。\n亲生父母嫌弃她奇怪，离婚后把她一个人留在老房子里。\n她抱着祖传的铜镜，意外穿越到了古代。\n小将军身中剧毒，她刚好能治！\n百姓吃不饱饭，别怕，她能从现代带来红薯和土豆！\n老太傅眼睛看不清，她回去买个老花镜带过来！\n后宫嫔妃宫斗严重，来点香水和口红，所有人开始闭门研究化妆！\n皇上太稀罕她了，非要封她做公主。\n皇子公主们不同意，暖暖抱来一堆零食奶茶，通通收买！\n皇宫上下再也没有一个反对的声音，所有人都在盼着暖暖什么时候过来。\n暖暖抱着一堆古董回去，住进大别墅，还被顶级豪门收养做继承人。\n之前抛弃她争抢姐姐的父母知道后，肠子都悔青了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4286/12856758_360x480.jpg?time=1788158117",
-        "latest_chapter": " 第198章  收回份子钱",
-        "updated_at": "2026-11-01 00:23:03",
+        "latest_chapter": " 第200章  好朋友来啦",
+        "updated_at": "2026-11-02 23:30:04",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "宫闱宅斗"

@@ -18,7 +18,7 @@
       "board": "girl-over-date",
       "board_name": "女生完结日榜",
       "rank": 8,
-      "heat": 144000
+      "heat": 140000
     },
     {
       "board": "girl-over-month",
@@ -1428,6 +1428,24 @@
     },
     {
       "d": "2026-11-02",
+      "b": "girl-over-month",
+      "r": 11,
+      "h": 4517000
+    },
+    {
+      "d": "2026-11-03",
+      "b": "girl-collect-date",
+      "r": 2,
+      "h": 0
+    },
+    {
+      "d": "2026-11-03",
+      "b": "girl-over-date",
+      "r": 8,
+      "h": 140000
+    },
+    {
+      "d": "2026-11-03",
       "b": "girl-over-month",
       "r": 11,
       "h": 4517000

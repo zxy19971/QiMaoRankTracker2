@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-03",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 1,
+    "total_heat": 20,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "魔宗废老，被师姐炼成绝世大药",
+            "book_id": 11668326,
+            "intro": "穿越天元大陆，在小山村平安度过八十年的陈实，眼看就要入土，却被红鸾峰弟子韩菲儿、韩双儿认为是万中无一的纯阳之体，抓去当了药引。\n三天三夜，人都瘦脱相了！\n就在陈实以为这辈子就要交代在这对姐妹花手里时—"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "吞天混沌经：开局先吞圣女修为",
+            "book_id": 1780785,
+            "rank_change": 18
+          },
+          {
+            "title": "山洞求生：我打造最强洞天福地",
+            "book_id": 13467810,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": -4
+          },
+          {
+            "title": "有帝族背景还开挂，我无敌了！",
+            "book_id": 1924831,
+            "rank_change": -1
+          },
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "吞天混沌经：开局先吞圣女修为",
+            "book_id": 1780785,
+            "heat_change": -19
+          },
+          {
+            "title": "山洞求生：我打造最强洞天福地",
+            "book_id": 13467810,
+            "heat_change": -4
+          },
+          {
+            "title": "有帝族背景还开挂，我无敌了！",
+            "book_id": 1924831,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「东方玄幻」新上榜 《吞噬九重天》；《魔宗废老，被师姐炼成绝世大药》 掉出榜单；《吞天混沌经：开局先吞圣女修为》上升18位领涨；《吞天神体》下滑4位；《吞天混沌经：开局先吞圣女修为》热度-19。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "rank_change": -2
+          },
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "heat_change": 2
+          },
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "heat_change": -2
+          },
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市高手」新上榜 《狂龙出渊，开局拿捏女战神！》；《爷爷托梦后，我靠戒指掌控万界》下滑2位；《SSSSSSSSSSSSS级镇狱狂龙》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "众仙俯首",
+            "book_id": 1971590
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "九转仙葫",
+            "book_id": 12212670,
+            "intro": "本书漫改剧《凡人修仙：九转仙葫》已上线，大家放心入坑！\n凡人少年顾长生，偶然得到上古法宝九转仙葫，从此开启了功德修仙之路……\n人人嫌弃的废丹，经过九转仙葫的净化，变成了极品灵丹，普通的功法经过提升变成"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "全家托举，我苟成盖世仙王",
+            "book_id": 13441152,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "全家托举，我苟成盖世仙王",
+            "book_id": 13441152,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「幻想修真」新上榜 《众仙俯首》；《九转仙葫》 掉出榜单；《全家托举，我苟成盖世仙王》下滑2位；《全家托举，我苟成盖世仙王》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "女子监狱五年，出狱即无敌",
+            "book_id": 12791886,
+            "rank_change": 4
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "被关女子监狱五年，出狱后我医武双绝",
+            "book_id": 12514650,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "被关女子监狱五年，出狱后我医武双绝",
+            "book_id": 12514650,
+            "heat_change": 2
+          },
+          {
+            "title": "女子监狱五年，出狱即无敌",
+            "book_id": 12791886,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高武」《神武天下之睚眦》 掉出榜单；《女子监狱五年，出狱即无敌》上升4位领涨；《被关女子监狱五年，出狱后我医武双绝》下滑1位；《被关女子监狱五年，出狱后我医武双绝》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「商战职场」《野性攀登》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "被陷害后，我被迫成了送子天官！",
+            "book_id": 12984576,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「架空历史」《被陷害后，我被迫成了送子天官！》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "快老死了，圣女上门赐仙缘",
+            "book_id": 12670524,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "快老死了，圣女上门赐仙缘",
+            "book_id": 12670524,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「古典仙侠」《快老死了，圣女上门赐仙缘》下滑1位；《快老死了，圣女上门赐仙缘》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」《天黑请点灯》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "四次入伍，我被军区拉进黑名单！",
+            "book_id": 12179937,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "四次入伍，我被军区拉进黑名单！",
+            "book_id": 12179937,
+            "heat_change": -6
+          }
+        ],
+        "summary": "「现代军事」《四次入伍，我被军区拉进黑名单！》下滑1位；《四次入伍，我被军区拉进黑名单！》热度-6。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
