@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-04",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 3182200,
+    "total_heat": 63644000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "暗渡春潮",
+            "book_id": 12784170,
+            "intro": "真千金回归，一朝之间，楚知渔从掌上明珠变成了寄人篱下的养女。\n恰逢霍家掌权人霍临川回国，许她身份、地位、财富，让她和真千金一般在霍家活着。\n起初，她感激他、仰慕他，想报答他。\n可他却在一个暴雨的深夜里"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "分居三年，高冷商总跪地求不离",
+            "book_id": 13034412,
+            "rank_change": 1
+          },
+          {
+            "title": "裴先生，暗恋她已十二年",
+            "book_id": 13010484,
+            "rank_change": 1
+          },
+          {
+            "title": "谢总，夫人已改嫁，让你跪远点",
+            "book_id": 13156719,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」《暗渡春潮》 掉出榜单；《分居三年，高冷商总跪地求不离》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "春闺小寡妇",
+            "book_id": 12644022,
+            "rank_change": 1
+          },
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」《春闺小寡妇》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "带空间跟爹抱大腿，别人吃糠我吃肉",
+            "book_id": 12952116,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」《带空间跟爹抱大腿，别人吃糠我吃肉》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」新上榜 《流民医女：开荒把残夫养成战神》；《悍妇穿边关，一手烂牌打出王炸》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「宫闱宅斗」《皇上开门，福宝带物资来送温暖啦》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "长得太漂亮，在末世里会被疯狂觊觎",
+            "book_id": 12813204,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世求生」《长得太漂亮，在末世里会被疯狂觊觎》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

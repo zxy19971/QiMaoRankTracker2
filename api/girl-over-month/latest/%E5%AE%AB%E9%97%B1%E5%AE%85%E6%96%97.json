@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
@@ -20,9 +20,15 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "第一凤女",
+          "book_id": 1803136,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「宫闱宅斗」榜单结构稳定，无明显变动。",
+      "summary": "「宫闱宅斗」《第一凤女》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
@@ -172,7 +178,7 @@
         "category": "宫闱宅斗"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "title": "第一凤女",
         "book_id": 1803136,
         "url": "https://www.qimao.com/shuku/1803136/",
@@ -193,7 +199,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
         "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
         "updated_at": "2025-08-31 14:41:10",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T10:51:02",
-  "date": "2026-11-03",
+  "generated_at": "2026-11-04T09:08:10",
+  "date": "2026-11-04",
   "authors": [
     {
       "author": "化十",
@@ -62,7 +62,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%9F%A0%E8%90%8C%E8%8C%B6_14/",
       "books": 2,
       "boards": 3,
-      "total_heat": 3504000,
+      "total_heat": 3504001,
       "titles": [
         "嫌我不孕？另嫁京圈首富一胎又一胎",
         "白天刚孕吐，晚上前夫就敲门求复婚"
@@ -77,17 +77,6 @@
       "titles": [
         "SSS级狂龙归来，全球戒备！",
         "真龙下山，我体内有头绝世凶兽"
-      ]
-    },
-    {
-      "author": "晨弈",
-      "author_url": "https://www.qimao.com/zuozhe/%E6%99%A8%E5%BC%88_14/",
-      "books": 2,
-      "boards": 3,
-      "total_heat": 2691000,
-      "titles": [
-        "九转星辰诀",
-        "魔天鼎：我能炼化万物"
       ]
     },
     {
@@ -249,7 +238,7 @@
       "boards": 2,
       "total_heat": 10396000,
       "titles": [
-        "从骑奴到大乾武圣"
+        "大乾第一豪强"
       ]
     },
     {
@@ -310,6 +299,16 @@
       "total_heat": 8756000,
       "titles": [
         "边军悍卒"
+      ]
+    },
+    {
+      "author": "醉不致死",
+      "author_url": "https://www.qimao.com/zuozhe/%E9%86%89%E4%B8%8D%E8%87%B4%E6%AD%BB_14/",
+      "books": 1,
+      "boards": 2,
+      "total_heat": 8684000,
+      "titles": [
+        "大周第一武夫"
       ]
     }
   ]

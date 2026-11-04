@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
@@ -19,15 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "皇上开门，福宝带物资来送温暖啦",
+          "book_id": 12856758,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「宫闱宅斗」榜单结构稳定，无明显变动。",
+      "summary": "「宫闱宅斗」《皇上开门，福宝带物资来送温暖啦》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 12,
         "title": "皇上开门，福宝带物资来送温暖啦",
         "book_id": 12856758,
         "url": "https://www.qimao.com/shuku/12856758/",
@@ -39,16 +45,16 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.69万字",
-        "word_count": 406900,
+        "word_count_text": "41.1万字",
+        "word_count": 411000,
         "heat": 1244000,
         "platform_trend": "rise",
-        "badge": "飙升13名",
+        "badge": "飙升14名",
         "intro": "【萌宝、通古今、团宠、治愈异能】\n暖暖是带着治愈异能出生的。\n亲生父母嫌弃她奇怪，离婚后把她一个人留在老房子里。\n她抱着祖传的铜镜，意外穿越到了古代。\n小将军身中剧毒，她刚好能治！\n百姓吃不饱饭，别怕，她能从现代带来红薯和土豆！\n老太傅眼睛看不清，她回去买个老花镜带过来！\n后宫嫔妃宫斗严重，来点香水和口红，所有人开始闭门研究化妆！\n皇上太稀罕她了，非要封她做公主。\n皇子公主们不同意，暖暖抱来一堆零食奶茶，通通收买！\n皇宫上下再也没有一个反对的声音，所有人都在盼着暖暖什么时候过来。\n暖暖抱着一堆古董回去，住进大别墅，还被顶级豪门收养做继承人。\n之前抛弃她争抢姐姐的父母知道后，肠子都悔青了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4286/12856758_360x480.jpg?time=1788158117",
-        "latest_chapter": " 第200章  好朋友来啦",
-        "updated_at": "2026-11-02 23:30:04",
-        "rank_change": 0,
+        "latest_chapter": " 第202章  不不不不行",
+        "updated_at": "2026-11-03 23:56:04",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

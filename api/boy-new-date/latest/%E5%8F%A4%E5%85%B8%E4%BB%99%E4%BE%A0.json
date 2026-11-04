@@ -8,26 +8,21 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "category": {
     "name": "古典仙侠",
     "major": "武侠仙侠",
     "count": 1,
     "total_heat": 11000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "长生隐仙",
-          "book_id": 13425288
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「古典仙侠」新上榜 《长生隐仙》。",
+      "summary": "「古典仙侠」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,7 +50,7 @@
         "updated_at": "2026-11-03 10:32:04",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "古典仙侠"

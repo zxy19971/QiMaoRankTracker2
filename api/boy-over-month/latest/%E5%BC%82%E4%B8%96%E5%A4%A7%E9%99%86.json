@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "category": {
     "name": "异世大陆",
     "major": "玄幻奇幻",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+          "book_id": 2027749,
+          "rank_change": -3
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「异世大陆」榜单结构稳定，无明显变动。",
+      "summary": "「异世大陆」《刚抽中SSS级天赋，你跟我说游戏停服》下滑3位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 16,
         "title": "刚抽中SSS级天赋，你跟我说游戏停服",
         "book_id": 2027749,
         "url": "https://www.qimao.com/shuku/2027749/",
@@ -48,7 +54,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/822/2463092_360x480.jpg?time=1761124724",
         "latest_chapter": " 第1074章  仙人也折腰(终)",
         "updated_at": "2026-09-06 08:21:09",
-        "rank_change": 0,
+        "rank_change": -3,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

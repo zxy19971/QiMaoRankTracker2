@@ -1,0 +1,269 @@
+{
+  "date": "2026-11-04",
+  "board": "boy-over-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 4446800,
+    "total_heat": 88936000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 2,
+        "new_books": [
+          {
+            "title": "武逆九千界",
+            "book_id": 215086
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "九转星辰诀",
+            "book_id": 202636,
+            "intro": "新书【魔天鼎：我能炼化万物】已发，热血玄幻，精彩好看，请哥哥姐姐们照顾照顾。多谢🙏🙏\n一代战神，重生觉醒九世记忆。\n绝世天才，万古人杰？不过是我崛起的踏脚石！\n真爱守护，才是我心之所向。\n仗剑碾压万界"
+          },
+          {
+            "title": "荒古圣体：在娘胎开始悟道",
+            "book_id": 1849458,
+            "intro": "赵平安穿越重生了，但发现自己穿越得有点早，竟还是胎儿。\n成为胎儿也好，那咱就先赢在起跑线上：\n首先，成为最强血脉——荒古圣体。\n其次，娘胎修练入道，打通全身经脉，成为先天通脉，再开辟元海，成为先天元海"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "rank_change": -3
+          },
+          {
+            "title": "极道剑尊",
+            "book_id": 219040,
+            "rank_change": -3
+          },
+          {
+            "title": "玲珑塔",
+            "book_id": 1754203,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」新上榜 《武逆九千界》；《九转星辰诀》、《荒古圣体：在娘胎开始悟道》 掉出榜单；《葬天神帝》下滑3位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "世子无双",
+            "book_id": 1860026,
+            "intro": "有声剧《世子无双》已上线喜马拉雅，欢迎收听！\n短剧《世子无双》原著，已上线。\n由腾讯音乐独家改编的《世子无双》同名多人有声剧在QQ音乐、酷狗音乐、酷我音乐、懒人听书APP火热播出中！每日更新10集起，"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "打到北极圈了，你让我继承皇位？",
+            "book_id": 1864493,
+            "rank_change": -3
+          },
+          {
+            "title": "天命纨绔",
+            "book_id": 9839805,
+            "rank_change": -3
+          },
+          {
+            "title": "无敌六皇子",
+            "book_id": 1747899,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「架空历史」《世子无双》 掉出榜单；《打到北极圈了，你让我继承皇位？》下滑3位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "镇天神医",
+            "book_id": 1675640,
+            "rank_change": -3
+          },
+          {
+            "title": "警报！龙国出现SSS级修仙者！",
+            "book_id": 1812053,
+            "rank_change": -3
+          },
+          {
+            "title": "小司机的美女总裁老婆",
+            "book_id": 2052700,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「都市高武」《镇天神医》下滑3位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "rank_change": -3
+          },
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」《山野诡闻笔记》下滑3位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "师叔，你的法宝太不正经了",
+            "book_id": 1867139
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」新上榜 《师叔，你的法宝太不正经了》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "男人野性",
+            "book_id": 2023697
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「商战职场」新上榜 《男人野性》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "重生2000：从追求青涩校花同桌开始",
+            "book_id": 1758273,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「热血校园」《重生2000：从追求青涩校花同桌开始》下滑3位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+            "book_id": 2027749,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「异世大陆」《刚抽中SSS级天赋，你跟我说游戏停服》下滑3位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "SSS级狂龙归来，全球戒备！",
+            "book_id": 2060177,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「都市高手」《SSS级狂龙归来，全球戒备！》下滑3位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「末世危机」《全球灾变之末日游戏》下滑3位。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

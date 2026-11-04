@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "SSS级狂龙归来，全球戒备！",
+          "book_id": 2060177,
+          "rank_change": -3
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「都市高手」榜单结构稳定，无明显变动。",
+      "summary": "「都市高手」《SSS级狂龙归来，全球戒备！》下滑3位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 17,
         "title": "SSS级狂龙归来，全球戒备！",
         "book_id": 2060177,
         "url": "https://www.qimao.com/shuku/2060177/",
@@ -48,7 +54,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/876/2627518_360x480.jpg?time=1787649238",
         "latest_chapter": " 第1110章  九龙抬棺",
         "updated_at": "2026-09-05 12:02:13",
-        "rank_change": 0,
+        "rank_change": -3,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

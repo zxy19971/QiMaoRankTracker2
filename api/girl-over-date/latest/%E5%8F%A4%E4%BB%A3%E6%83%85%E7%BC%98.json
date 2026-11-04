@@ -8,38 +8,21 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 2,
     "total_heat": 171000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "为奴三年后，整个侯府跪求我原谅",
-          "book_id": 1872563
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "老祖宗如此多娇，王爷乖乖折腰",
-          "book_id": 11593215,
-          "rank_change": -2
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "老祖宗如此多娇，王爷乖乖折腰",
-          "book_id": 11593215,
-          "heat_change": 4000
-        }
-      ],
-      "summary": "「古代情缘」新上榜 《为奴三年后，整个侯府跪求我原谅》；《老祖宗如此多娇，王爷乖乖折腰》下滑2位；《老祖宗如此多娇，王爷乖乖折腰》热度+4000。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「古代情缘」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -65,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3865/11593215_360x480.jpg?time=1782450904",
         "latest_chapter": " 第385章  人间，正是好时节",
         "updated_at": "2026-10-15 22:02:06",
-        "rank_change": -2,
-        "heat_change": 4000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -96,7 +79,7 @@
         "updated_at": "2025-11-21 21:47:11",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "古代情缘"

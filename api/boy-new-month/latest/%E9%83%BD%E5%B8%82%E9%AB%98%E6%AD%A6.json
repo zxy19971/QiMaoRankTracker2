@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -19,10 +19,26 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "都市大猛仙",
+          "book_id": 12947607,
+          "rank_change": 1
+        },
+        {
+          "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+          "book_id": 13241454,
+          "rank_change": 1
+        },
+        {
+          "title": "都市极品狂龙！",
+          "book_id": 13012533,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高武」榜单结构稳定，无明显变动。",
+      "summary": "「都市高武」《都市大猛仙》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
@@ -39,15 +55,15 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.17万字",
-        "word_count": 421700,
+        "word_count_text": "42.86万字",
+        "word_count": 428600,
         "heat": 652000,
         "platform_trend": "rise",
         "badge": "飙升20名",
         "intro": "五年前，秦家满门被屠，二少秦天侥幸生还，拜入蓬莱仙山习得医武通神。\n五年后，他携祖龙血脉强势归来，却发现爷爷被欺、祖宅被夺，嫂子苏晚晴含辛茹苦。\n为查灭门真相，他脚踏江城，医术震神医，武力压群雄，更与冰山总裁林梦溪立下婚约。\n真龙出世，风云涌动！\n他誓要血债血偿，重铸秦家辉煌！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4446/13335867_360x480.jpg?time=1788172753",
-        "latest_chapter": " 第185章  你先别急",
-        "updated_at": "2026-11-02 12:02:12",
+        "latest_chapter": " 第188章  秦总想潜规则我？",
+        "updated_at": "2026-11-03 12:02:13",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -56,7 +72,7 @@
         "category": "都市高武"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "title": "都市大猛仙",
         "book_id": 12947607,
         "url": "https://www.qimao.com/shuku/12947607/",
@@ -68,16 +84,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37万字",
-        "word_count": 370000,
+        "word_count_text": "37.45万字",
+        "word_count": 374500,
         "heat": 436000,
         "platform_trend": "rise",
-        "badge": "飙升15名",
+        "badge": "飙升16名",
         "intro": "陆玄，虽然因为太穷被女友甩了，可他却天赋异禀，自从觉醒了家族传承，修炼了阴阳秘术之后，身上散发出了更令异性着迷的气息……从此，他医武同修，无论是医术、修为、还是身为男人……他都勇猛无敌，总有美女慕名而来！他从小县城一路崛起，开启了无敌热血路，重现上古医道荣光！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4316/12947607_360x480.jpg?time=1785232542",
-        "latest_chapter": " 第132章  我的舞好看吗？",
-        "updated_at": "2026-11-02 21:48:02",
-        "rank_change": 0,
+        "latest_chapter": " 第133章  极品中的极品",
+        "updated_at": "2026-11-03 18:02:03",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -85,7 +101,7 @@
         "category": "都市高武"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
         "book_id": 13241454,
         "url": "https://www.qimao.com/shuku/13241454/",
@@ -106,7 +122,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4414/13241454_360x480.jpg?time=1787536194",
         "latest_chapter": " 第169章  简易版胡辣汤",
         "updated_at": "2026-11-03 00:01:04",
-        "rank_change": 0,
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -114,7 +130,7 @@
         "category": "都市高武"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "title": "都市极品狂龙！",
         "book_id": 13012533,
         "url": "https://www.qimao.com/shuku/13012533/",
@@ -126,16 +142,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.55万字",
-        "word_count": 425500,
+        "word_count_text": "43.18万字",
+        "word_count": 431800,
         "heat": 354000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "王龙没想到与绝色女总裁一夜荒唐后，变成了各种美女争抢的香饽饽……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4338/13012533_360x480.jpg?time=1792657997",
-        "latest_chapter": " 第200章  两仪归元诀",
-        "updated_at": "2026-11-02 23:47:04",
-        "rank_change": 0,
+        "latest_chapter": " 第203章  云城危机",
+        "updated_at": "2026-11-03 23:44:05",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

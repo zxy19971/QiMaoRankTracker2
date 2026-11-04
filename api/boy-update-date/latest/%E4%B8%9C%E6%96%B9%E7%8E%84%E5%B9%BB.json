@@ -8,75 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 6,
-    "total_heat": 5,
+    "total_heat": 6,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "吞噬九重天",
-          "book_id": 1655967
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "魔宗废老，被师姐炼成绝世大药",
-          "book_id": 11668326,
-          "intro": "穿越天元大陆，在小山村平安度过八十年的陈实，眼看就要入土，却被红鸾峰弟子韩菲儿、韩双儿认为是万中无一的纯阳之体，抓去当了药引。\n三天三夜，人都瘦脱相了！\n就在陈实以为这辈子就要交代在这对姐妹花手里时—"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
         {
-          "title": "吞天混沌经：开局先吞圣女修为",
-          "book_id": 1780785,
-          "rank_change": 18
-        },
-        {
-          "title": "山洞求生：我打造最强洞天福地",
-          "book_id": 13467810,
-          "rank_change": 3
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "吞天神体",
-          "book_id": 1880008,
-          "rank_change": -4
-        },
-        {
           "title": "有帝族背景还开挂，我无敌了！",
           "book_id": 1924831,
-          "rank_change": -1
-        },
-        {
-          "title": "鸿蒙霸体诀",
-          "book_id": 1655407,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
-          "title": "吞天混沌经：开局先吞圣女修为",
-          "book_id": 1780785,
-          "heat_change": -19
-        },
-        {
-          "title": "山洞求生：我打造最强洞天福地",
-          "book_id": 13467810,
-          "heat_change": -4
-        },
-        {
           "title": "有帝族背景还开挂，我无敌了！",
           "book_id": 1924831,
-          "heat_change": -2
+          "heat_change": 1
         }
       ],
-      "summary": "「东方玄幻」新上榜 《吞噬九重天》；《魔宗废老，被师姐炼成绝世大药》 掉出榜单；《吞天混沌经：开局先吞圣女修为》上升18位领涨；《吞天神体》下滑4位；《吞天混沌经：开局先吞圣女修为》热度-19。",
+      "summary": "「东方玄幻」《有帝族背景还开挂，我无敌了！》上升1位领涨；《有帝族背景还开挂，我无敌了！》热度+1。",
       "ai_source": "rule"
     },
     "books": [
@@ -93,24 +51,24 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "607.03万字",
-        "word_count": 6070300,
+        "word_count_text": "607.93万字",
+        "word_count": 6079300,
         "heat": 0,
         "platform_trend": "",
         "badge": "蝉联榜首",
         "intro": "【热血】【无敌】【情感丰富，不喜勿入】\n万年前，妖族和魔族降临世间，\n它们力可拔山，吞云赶月，以人族为血食，\n人族可生存的区域不断减少，\n现在，天下九片大陆仅剩一域，\n人族武者用血肉筑成城墙，抵御异族，\n在危急存亡之际，\n获得圣人传承的武者江尘迈入战场，\n开启无敌之路，斩妖吞噬，\n杀气纵横百万里，一剑光寒十九州！\n江尘，要为人族杀出个未来，\n屠杀妖族天骄如屠狗，独享逆天机缘，终登绝巅！\n那时，他才发现了隐藏在圣人传承中的秘密，\n登天之路，只有向前，一旦踏上，也许，再也无法回头...",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/496/1485729_360x480.jpg?time=1712714854",
-        "latest_chapter": " 第2164章  盖世神匠？",
-        "updated_at": "2026-11-02 22:37:16",
-        "rank_change": 18,
-        "heat_change": -19,
+        "latest_chapter": " 第2166章  技多不压身",
+        "updated_at": "2026-11-03 21:42:16",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "东方玄幻"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "有帝族背景还开挂，我无敌了！",
         "book_id": 1924831,
         "url": "https://www.qimao.com/shuku/1924831/",
@@ -122,17 +80,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "631.2万字",
-        "word_count": 6312000,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "632.26万字",
+        "word_count": 6322600,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【爽文+无敌+专干天命之子+行事无所顾忌】\n帝族一怒，浮尸亿万里！\n欺我儿背后无人是吧，那本帝今天就让你们的九族死个一干二净！！！\n陈稳刚穿越就陷入必死之局，反手觉醒最强体质混沌序列体，外加金手指天命大熔炉。\n你是荒古圣体，来自天命帝族？\n桀桀桀，给老子熔了他！\n你是万世重生者，来自始皇一族？\n桀桀桀，再老子熔了他！\n你是系统拥有者，来自荒古世家？\n桀桀桀，来嘛，来嘛，全都是老子的……\n我管你来自什么势力，管你拥有什么金手指，统统都得成为我变强的养分。\n比个人实力？不好意思，我直接开挂。\n比背景？那更不好意思了。\n我的父族是天命帝族，我的母族还是天命帝族。\n我哥是元始暴君，一双暴龙手可杀穿万古禁地。\n我姐是红狱女王，一人一枪可镇杀百万异域外敌。\n从这一刻开始，我陈稳要一步一步走到最高！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/654/1960135_360x480.jpg?time=1742464871",
-        "latest_chapter": " 第2407章  你就是梵天，干的就是你",
-        "updated_at": "2026-11-02 23:51:17",
-        "rank_change": -1,
-        "heat_change": -2,
+        "latest_chapter": " 第2411章  温龙人麻了，赠予你一个大造化",
+        "updated_at": "2026-11-03 22:47:18",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -151,17 +109,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "1040.7万字",
-        "word_count": 10407000,
+        "word_count_text": "1041.75万字",
+        "word_count": 10417500,
         "heat": 2,
         "platform_trend": "drop",
         "badge": "",
         "intro": "十万年前，九位风姿卓绝，独断万古的女帝，妖后，被封印于鸿蒙金塔之中。\n十万年后，少年萧诺，被家族迫害，沦为弃子。阴差阳错之下，开启鸿蒙金塔，修炼霸体神诀，成就无上神体。\n自此诸天仙魔，皆将烟消云散。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/91/270336_1659697789_360x480.jpg",
-        "latest_chapter": " 第3760章  镇压，炼器",
-        "updated_at": "2026-11-03 02:02:27",
-        "rank_change": -1,
-        "heat_change": 1,
+        "latest_chapter": " 第3765章  我说过会让你赢，就一定能赢",
+        "updated_at": "2026-11-04 01:55:26",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,
@@ -180,16 +138,16 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "438.97万字",
-        "word_count": 4389700,
+        "word_count_text": "439.42万字",
+        "word_count": 4394200,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【传统玄幻】【杀伐果断】【热血】【剑修】【微群像】\n秦云意外开启太古封神殿，遇到绝色神女，被迫重铸吞天神脉。\n世间万物，皆可吞噬为自身所用。\n天道？\n一样吞噬！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/625/1872928_360x480.jpg?time=1774947942",
-        "latest_chapter": " 第1953章  看来，只能用那种手段了！",
-        "updated_at": "2026-11-03 00:11:16",
-        "rank_change": -4,
+        "latest_chapter": " 第1955章  苏天煌，破开第八层道限的高位强者！",
+        "updated_at": "2026-11-04 00:11:16",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -218,8 +176,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4490/13467810_360x480.jpg?time=1789731495",
         "latest_chapter": " 第150章  斩妖，各显神通！",
         "updated_at": "2026-11-03 10:01:04",
-        "rank_change": 3,
-        "heat_change": -4,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -238,18 +196,18 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "1142.52万字",
-        "word_count": 11425200,
+        "word_count_text": "1144.04万字",
+        "word_count": 11440400,
         "heat": 2,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【传统玄幻：杀伐果断+大帝+剑道+神魔煅体+神念师……】\n少年许辰，遭逢背叛，险些惨死之时，天帝殿现，一朝传承，逆天改命！\n帝阶武学，信手捏来。\n……\n世间一直有天帝殿的传说。\n殿中有绝世大帝传承。\n镇古绝今的噬天大帝。\n《吞噬帝诀》，噬天噬地噬万物，练至大成，连大道都可吞噬。\n战天斗地的战天大帝。\n《战天诀》，天战斗地，盖世无敌，练到大成，战力提升256倍，拳破寰宇，弹指灭星辰。\n气吞寰宇的黄泉大帝。\n惊才绝艳的虚空大帝。\n……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/91/272776_360x480.jpg?time=1689643974",
-        "latest_chapter": " 第4178章  封皇大典，周元出世，亲临周族！",
-        "updated_at": "2026-11-02 22:47:30",
+        "latest_chapter": " 第4184章  雏儿？大赚特赚（加更）",
+        "updated_at": "2026-11-04 00:02:46",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 3,
         "stale_update": false,
         "category": "东方玄幻"

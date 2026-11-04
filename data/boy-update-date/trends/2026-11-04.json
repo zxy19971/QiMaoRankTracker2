@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-04",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 1,
+    "total_heat": 27,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "有帝族背景还开挂，我无敌了！",
+            "book_id": 1924831,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "有帝族背景还开挂，我无敌了！",
+            "book_id": 1924831,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「东方玄幻」《有帝族背景还开挂，我无敌了！》上升1位领涨；《有帝族背景还开挂，我无敌了！》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "rank_change": -1
+          },
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "heat_change": 1
+          },
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高手」《爷爷托梦后，我靠戒指掌控万界》下滑1位；《爷爷托梦后，我靠戒指掌控万界》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "众仙俯首",
+            "book_id": 1971590,
+            "intro": "前世，林落尘因与玉女宗圣女的孽缘，被囚禁至死；\n今生，他斩情绝爱，一心向道，不料造化弄人。\n魔女指尖燃起业火：“本宫朱砂痣的位置...你倒是记得清楚。”\n玉女宗圣女剑锋凝霜：“你破了我的太上忘情，就想"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」新上榜 《乾坤造化诀》；《众仙俯首》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "被陷害后，我被迫成了送子天官！",
+            "book_id": 12984576,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "被陷害后，我被迫成了送子天官！",
+            "book_id": 12984576,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「架空历史」《被陷害后，我被迫成了送子天官！》上升1位领涨；《被陷害后，我被迫成了送子天官！》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「商战职场」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古典仙侠」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「现代军事」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

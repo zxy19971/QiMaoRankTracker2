@@ -8,21 +8,43 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "category": {
     "name": "架空历史",
     "major": "历史",
-    "count": 5,
-    "total_heat": 30297000,
+    "count": 4,
+    "total_heat": 28382000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "世子无双",
+          "book_id": 1860026,
+          "intro": "有声剧《世子无双》已上线喜马拉雅，欢迎收听！\n短剧《世子无双》原著，已上线。\n由腾讯音乐独家改编的《世子无双》同名多人有声剧在QQ音乐、酷狗音乐、酷我音乐、懒人听书APP火热播出中！每日更新10集起，"
+        }
+      ],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "打到北极圈了，你让我继承皇位？",
+          "book_id": 1864493,
+          "rank_change": -3
+        },
+        {
+          "title": "天命纨绔",
+          "book_id": 9839805,
+          "rank_change": -3
+        },
+        {
+          "title": "无敌六皇子",
+          "book_id": 1747899,
+          "rank_change": -3
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「架空历史」榜单结构稳定，无明显变动。",
+      "summary": "「架空历史」《世子无双》 掉出榜单；《打到北极圈了，你让我继承皇位？》下滑3位。",
       "ai_source": "rule"
     },
     "books": [
@@ -56,7 +78,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "title": "打到北极圈了，你让我继承皇位？",
         "book_id": 1864493,
         "url": "https://www.qimao.com/shuku/1864493/",
@@ -77,7 +99,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
-        "rank_change": 0,
+        "rank_change": -3,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -85,7 +107,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "title": "天命纨绔",
         "book_id": 9839805,
         "url": "https://www.qimao.com/shuku/9839805/",
@@ -97,16 +119,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "207.16万字",
-        "word_count": 2071600,
+        "word_count_text": "207.8万字",
+        "word_count": 2078000,
         "heat": 3308000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "秦遇穿越大宁王朝，却因一记猴子偷桃而得罪冷血嗜杀的女帝。\n从此，女帝成为了他挥之不去的梦魇。\n直到有一天，他意外发现了自己与女帝痛觉相通的秘密。\n秦遇“桀桀”怪笑：陛下，从今往后，攻守易势了！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3280/9839805_360x480.jpg?time=1772734262",
-        "latest_chapter": " 第947章  决战前夕",
-        "updated_at": "2026-11-03 00:07:13",
-        "rank_change": 0,
+        "latest_chapter": " 第950章  勇气",
+        "updated_at": "2026-11-04 00:07:13",
+        "rank_change": -3,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -114,7 +136,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 9,
+        "rank": 12,
         "title": "无敌六皇子",
         "book_id": 1747899,
         "url": "https://www.qimao.com/shuku/1747899/",
@@ -135,39 +157,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
-        "rank_change": 0,
+        "rank_change": -3,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
-        "stale_update": true,
-        "category": "架空历史"
-      },
-      {
-        "rank": 19,
-        "title": "世子无双",
-        "book_id": 1860026,
-        "url": "https://www.qimao.com/shuku/1860026/",
-        "author": "宁峥",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%AE%81%E5%B3%A5_14/",
-        "major": "历史",
-        "minor": "架空历史",
-        "major_id": 56,
-        "minor_id": 58,
-        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "284万字",
-        "word_count": 2840000,
-        "heat": 1915000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "有声剧《世子无双》已上线喜马拉雅，欢迎收听！\n短剧《世子无双》原著，已上线。\n由腾讯音乐独家改编的《世子无双》同名多人有声剧在QQ音乐、酷狗音乐、酷我音乐、懒人听书APP火热播出中！每日更新10集起，欢迎前去收听！\n穿越架空历史，成为在青楼猝死的废材纨绔。\n王公家独苗，爷爷更是位高权重，手握兵马的军神。\n本想勾栏听曲，花船找女，纸醉金迷，夜夜笙歌……\n但……\n番邦蛮夷想他死。\n世家门阀想他死。\n就连皇帝也做局想弄死他。\n卫渊很慌，但却不完全慌。\n以纨绔人设，一路横冲直撞，从京师到江南，从庙宇到朝堂，从边关到草原，留下赫赫威名。\n当所有人反应过来时，发现他追随者名将如云，手握百万雄师，拥兵自重。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
-        "latest_chapter": " 第1063章  大结局（下）",
-        "updated_at": "2026-03-08 01:17:14",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
         "stale_update": true,
         "category": "架空历史"
       }

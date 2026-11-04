@@ -8,70 +8,21 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
     "count": 8,
     "total_heat": 1172000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 2,
-      "new_books": [
-        {
-          "title": "形婚两年不同房，改嫁大佬被宠坏",
-          "book_id": 11539740
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "盛总，太太让您签的是去父留子协议",
-          "book_id": 9903723,
-          "intro": "闻舒婚姻里唯二的秘密，一是、盛家看不上她这个媳妇，全家骗盛徵州在婚前签了个他不知情的离婚协议。\n他们的婚姻仅能维持七年。\n二是……她背着盛徵州偷生了个女儿。\n七年婚姻，盛徵州从不知他还有个五岁孩子。\n"
-        },
-        {
-          "title": "皑如山上雪",
-          "book_id": 2053898,
-          "intro": "【短剧《皑如山上雪》原著，原书名《他的小撩精》】\n那一夜，她哭肿了眼，也抓伤了孟淮津的背……\n男人小心翼翼把人搂到怀里，亲吻她的眼泪，声音浑厚磁性：“不喜欢我了吗？”\n——\n舒晚是父母临终前，托孤给孟"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "婚后上瘾",
-          "book_id": 1994117,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "嫌我不孕？另嫁京圈首富一胎又一胎",
-          "book_id": 2093961,
-          "rank_change": -3
-        },
-        {
-          "title": "六年后，我携四个幼崽炸翻前夫家",
-          "book_id": 1658048,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "第五年重逢，驰先生再度失控",
-          "book_id": 2072940,
-          "heat_change": 32000
-        },
-        {
-          "title": "婚后上瘾",
-          "book_id": 1994117,
-          "heat_change": 11000
-        },
-        {
-          "title": "大佬归来，假千金她不装了",
-          "book_id": 1699328,
-          "heat_change": 6000
-        }
-      ],
-      "summary": "「总裁豪门」新上榜 《形婚两年不同房，改嫁大佬被宠坏》；《盛总，太太让您签的是去父留子协议》、《皑如山上雪》 掉出榜单；《婚后上瘾》上升1位领涨；《嫌我不孕？另嫁京圈首富一胎又一胎》下滑3位；《第五年重逢，驰先生再度失控》热度+32000。",
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「总裁豪门」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -98,7 +49,7 @@
         "latest_chapter": " 第418章  大结局",
         "updated_at": "2026-06-12 06:02:04",
         "rank_change": 0,
-        "heat_change": 32000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -126,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/772/2315755_360x480.jpg?time=1768286147",
         "latest_chapter": " 第633章  全剧终✿ヽ(°▽°)ノ✿",
         "updated_at": "2026-03-05 07:01:09",
-        "rank_change": 1,
-        "heat_change": 11000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -155,8 +106,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/92/275615_1659923211_360x480.jpg",
         "latest_chapter": " 第3020章  我都能给你",
         "updated_at": "2026-02-13 22:05:28",
-        "rank_change": -1,
-        "heat_change": 4000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -185,7 +136,7 @@
         "latest_chapter": " 第657章  人间幸福，不过如此",
         "updated_at": "2026-09-28 19:41:06",
         "rank_change": 0,
-        "heat_change": 2000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -214,7 +165,7 @@
         "latest_chapter": " 第1284章  番外：大婚（完）",
         "updated_at": "2025-02-07 02:05:33",
         "rank_change": 0,
-        "heat_change": 6000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -233,19 +184,19 @@
         "minor_id": 8,
         "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "102.63万字",
-        "word_count": 1026300,
+        "word_count_text": "103.05万字",
+        "word_count": 1030500,
         "heat": 87000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【男二上位+隐世大佬+离婚逆袭+追妻火葬场】\n被冷落了两年，江莱从主卧床下摸出一颗女士外用避孕囊。\n那一刻她才明白，她不是贺谨予的妻子，而是他和沈汐月之间的第三者。\n叔叔病重，她只求一颗药。\n他说好，然后丢给秘书。\n秘书给了江莱一颗假药。\n生死攸关之际，病房迎来一位不速之客。\n男人外貌优越，贵气逼人，自称是她哥的朋友。\n可她哥的朋友，她全都认识，除了他。\n他陪她去找药，让她不再低眉求人。\n台风夜整栋楼都在淹水，他把她从洪水里抱出来，第一句话是“别怕，我在”。\n他把所有关于“将来”的话，都换成“江莱”。\n她不懂，他这种云上的神，为什么像个影子一样陪在她身边。\n江莱问盛延洲：“你到底要什么？”\n盛延洲挑眉：“我要你每天陪我遛狗，少一天都不行。”\n离婚那天，走出大厅，他牵着狗子在门口等她。\n那一瞬间，她突然想起来了。\n高中时，每次她去找哥哥，远处总站着一个戴口罩的冷漠男生。\n她以为他讨厌她，现在她才知道——\n他是不敢看她，怕看一眼，就藏不住了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3847/11539740_360x480.jpg?time=1792518363",
-        "latest_chapter": " 第470章  我还是你的金丝雀吗",
-        "updated_at": "2026-11-03 10:02:07",
+        "latest_chapter": " 第472章  在一起",
+        "updated_at": "2026-11-04 00:02:06",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
+        "is_new": false,
+        "boards_count": 2,
         "stale_update": false,
         "category": "总裁豪门"
       },
@@ -272,7 +223,7 @@
         "latest_chapter": " 第290章  冰山会为你哗然（完）",
         "updated_at": "2026-07-01 08:01:07",
         "rank_change": 0,
-        "heat_change": 3000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -300,8 +251,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/931/2791354_360x480.jpg?time=1773457868",
         "latest_chapter": " 第587章  番外：原来你也爱我",
         "updated_at": "2026-10-14 08:01:11",
-        "rank_change": -3,
-        "heat_change": -6000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

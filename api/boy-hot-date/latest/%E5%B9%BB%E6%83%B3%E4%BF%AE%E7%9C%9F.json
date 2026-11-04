@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
@@ -20,21 +20,9 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "凡人：从拔刀三十万次开始",
-          "book_id": 10413429,
-          "rank_change": -5
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "凡人：从拔刀三十万次开始",
-          "book_id": 10413429,
-          "heat_change": -28000
-        }
-      ],
-      "summary": "「幻想修真」《凡人：从拔刀三十万次开始》下滑5位；《凡人：从拔刀三十万次开始》热度-28000。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「幻想修真」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,17 +39,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "120.92万字",
-        "word_count": 1209200,
+        "word_count_text": "121.53万字",
+        "word_count": 1215300,
         "heat": 253000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "我辈生而平凡，若是自强不息，亦可自放光芒。\n       当你打开这本书的时候，我可能还在拔刀，为自己而拔，为别人而拔，也或许为你而拔………………       \n       我叫陈时安，退役边疆军人，那一年，我在巡边的时候捡到了一块小石碑，",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3472/10413429_360x480.jpg?time=1773558388",
-        "latest_chapter": " 第448章  你不是我的对手",
-        "updated_at": "2026-11-03 07:52:06",
-        "rank_change": -5,
-        "heat_change": -28000,
+        "latest_chapter": " 第451章  杀人诛心",
+        "updated_at": "2026-11-04 08:07:05",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

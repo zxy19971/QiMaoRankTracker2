@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
@@ -19,27 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "七零闪婚不见面，带娃炸翻家属院",
-          "book_id": 2060462,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "骗婚三年？我转身搬空家产嫁你上司！",
-          "book_id": 9912513,
-          "heat_change": 13000
-        },
-        {
-          "title": "七零闪婚不见面，带娃炸翻家属院",
-          "book_id": 2060462,
-          "heat_change": 10000
-        }
-      ],
-      "summary": "「年代重生」《七零闪婚不见面，带娃炸翻家属院》上升1位领涨；《骗婚三年？我转身搬空家产嫁你上司！》热度+13000。",
+      "heat_leaders": [],
+      "summary": "「年代重生」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -66,7 +49,7 @@
         "latest_chapter": " 第467章  完结篇下",
         "updated_at": "2026-10-22 15:32:05",
         "rank_change": 0,
-        "heat_change": 13000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -94,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/876/2627647_360x480.jpg?time=1764322492",
         "latest_chapter": " 第282章  回来了！！",
         "updated_at": "2026-10-18 21:26:04",
-        "rank_change": 1,
-        "heat_change": 10000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

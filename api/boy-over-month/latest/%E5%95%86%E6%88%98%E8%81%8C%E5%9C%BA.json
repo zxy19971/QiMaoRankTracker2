@@ -8,57 +8,56 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-09-17",
+  "date": "2026-11-04",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 2220000,
+    "total_heat": 5050000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "new_books": [
         {
-          "title": "极品女神赖上我",
-          "book_id": 2012529,
-          "rank_change": -1
+          "title": "男人野性",
+          "book_id": 2023697
         }
       ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "**题材趋势** 题材高度集中于“短剧+网文”联动模式，强反差、快节奏的都市爽文仍是该细分领域的主流形态。\n**读者偏好** 读者偏好具有强冲突性、高爽感的都市情感类职场故事，尤其青睐带有“逆袭”和“豪门”元素的叙事逻辑。\n**变动解读** 榜单缺乏新鲜血液，仅存的头部作品排名微调，反映出该类目在七猫平台处于存量竞争阶段，缺乏强有力的增量新书支撑。\n**值得关注** 关注短剧IP转化对榜单的影响力，此类作品依赖影视宣发热度，需警惕单一作品过度依赖短剧流量带来的市场波动。",
-      "ai_source": "ai"
+      "summary": "「商战职场」新上榜 《男人野性》。",
+      "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 20,
-        "title": "极品女神赖上我",
-        "book_id": 2012529,
-        "url": "https://www.qimao.com/shuku/2012529/",
-        "author": "陈行者",
-        "author_url": "https://www.qimao.com/zuozhe/%E9%99%88%E8%A1%8C%E8%80%85_14/",
+        "rank": 4,
+        "title": "男人野性",
+        "book_id": 2023697,
+        "url": "https://www.qimao.com/shuku/2023697/",
+        "author": "月下冰河",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%9C%88%E4%B8%8B%E5%86%B0%E6%B2%B3_14/",
         "major": "都市",
         "minor": "商战职场",
         "major_id": 203,
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "297.07万字",
-        "word_count": 2970700,
-        "heat": 2220000,
+        "status": "连载中",
+        "word_count_text": "223.07万字",
+        "word_count": 2230700,
+        "heat": 5050000,
         "platform_trend": "drop",
-        "badge": "",
-        "intro": "短剧《让你当司机，你却走上人生巅峰》原著。\n那晚，女总裁苏墨浓被人下毒，而林远这个司机，恰巧成了苏总唯一的解药。\n林远本以为只是帮苏董解毒而已，可谁知道……苏董竟然……",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/788/2362353_360x480.jpg?time=1768674114",
-        "latest_chapter": " 第829章  千帆尽处，般若归远",
-        "updated_at": "2026-08-15 14:22:08",
-        "rank_change": -1,
+        "badge": "最新上榜",
+        "intro": "又名：《我单身后，富婆姐姐圈蠢蠢欲动》《金鳞》\n周扬遭女友背叛后，果断分手。\n没想到的是，他单身后，人生竟突然开挂。\n各路年轻富婆，各种类型的女强人，各色女神，都在命运的安排下，来到他的身边。\n她们成为周扬坚强的后盾，助他一步步踏上巅峰。\n曾经背叛我的，嘲笑我的，在这一刻，通通跪地膜拜。\n我叫周扬，我终将为王。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/810/2429111_360x480.jpg?time=1757065054",
+        "latest_chapter": " 第1039章  老大来营救",
+        "updated_at": "2026-11-03 22:47:09",
+        "rank_change": 0,
         "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": true,
+        "is_new": true,
+        "boards_count": 2,
+        "stale_update": false,
         "category": "商战职场"
       }
     ]
