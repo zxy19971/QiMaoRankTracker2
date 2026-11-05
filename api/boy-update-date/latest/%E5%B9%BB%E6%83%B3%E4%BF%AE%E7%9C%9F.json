@@ -8,37 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 2,
-    "total_heat": 8,
+    "total_heat": 2,
     "trend": {
       "new_count": 1,
       "dropped_count": 1,
       "new_books": [
         {
-          "title": "乾坤造化诀",
-          "book_id": 12897039
+          "title": "众仙俯首",
+          "book_id": 1971590
         }
       ],
       "dropped_books": [
         {
-          "title": "众仙俯首",
-          "book_id": 1971590,
-          "intro": "前世，林落尘因与玉女宗圣女的孽缘，被囚禁至死；\n今生，他斩情绝爱，一心向道，不料造化弄人。\n魔女指尖燃起业火：“本宫朱砂痣的位置...你倒是记得清楚。”\n玉女宗圣女剑锋凝霜：“你破了我的太上忘情，就想"
+          "title": "乾坤造化诀",
+          "book_id": 12897039,
+          "intro": "我是望仙宗最不起眼的杂役。\n直到那天，宗主被人追杀，身中情毒，从天而降。\n我只是好心救人，却差点被她活活吸干。\n濒死之际，沉寂已久的乾坤诀终于觉醒。\n一夜之间，我连破数境。\n从今日起，我不再认命。\n假"
         }
       ],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "全家托举，我苟成盖世仙王",
+          "book_id": 13441152,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「幻想修真」新上榜 《乾坤造化诀》；《众仙俯首》 掉出榜单。",
+      "summary": "「幻想修真」新上榜 《众仙俯首》；《乾坤造化诀》 掉出榜单；《全家托举，我苟成盖世仙王》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "全家托举，我苟成盖世仙王",
         "book_id": 13441152,
         "url": "https://www.qimao.com/shuku/13441152/",
@@ -59,7 +65,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4481/13441152_360x480.jpg?time=1789494477",
         "latest_chapter": " 第159章  新的征程《大结局》",
         "updated_at": "2026-10-12 00:12:15",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -68,26 +74,26 @@
       },
       {
         "rank": 20,
-        "title": "乾坤造化诀",
-        "book_id": 12897039,
-        "url": "https://www.qimao.com/shuku/12897039/",
-        "author": "凌慕雨",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%87%8C%E6%85%95%E9%9B%A8_14/",
+        "title": "众仙俯首",
+        "book_id": 1971590,
+        "url": "https://www.qimao.com/shuku/1971590/",
+        "author": "咸鱼老白",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%92%B8%E9%B1%BC%E8%80%81%E7%99%BD_14/",
         "major": "武侠仙侠",
         "minor": "幻想修真",
         "major_id": 205,
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "82.06万字",
-        "word_count": 820600,
-        "heat": 7,
+        "word_count_text": "416.82万字",
+        "word_count": 4168200,
+        "heat": 1,
         "platform_trend": "rise",
         "badge": "",
-        "intro": "我是望仙宗最不起眼的杂役。\n直到那天，宗主被人追杀，身中情毒，从天而降。\n我只是好心救人，却差点被她活活吸干。\n濒死之际，沉寂已久的乾坤诀终于觉醒。\n一夜之间，我连破数境。\n从今日起，我不再认命。\n假灵根又如何？杂役又如何？\n这一世，我偏要叩开仙门！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4300/12897039_360x480.jpg?time=1785867415",
-        "latest_chapter": " 第332章  有完没完了啊！",
-        "updated_at": "2026-11-04 00:52:04",
+        "intro": "前世，林落尘因与玉女宗圣女的孽缘，被囚禁至死。\n重生后，一个女子闯入他识海，自称来自未来，来此寻轮回圣君——\n那位亘古长存、能游走时空，却于数百年后陨落的强者。\n她不知道，她要找的人，就在眼前。\n那日起，林落尘的人生重回正轨，却也走向既定的死亡宿命。\n命？他偏不信！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/741/2220705_360x480.jpg?time=1777191636",
+        "latest_chapter": " 第1212章  班门弄斧",
+        "updated_at": "2026-11-05 06:02:13",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": true,

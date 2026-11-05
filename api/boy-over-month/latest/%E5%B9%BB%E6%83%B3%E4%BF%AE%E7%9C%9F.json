@@ -8,26 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
     "total_heat": 5371000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "师叔，你的法宝太不正经了",
-          "book_id": 1867139
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「幻想修真」新上榜 《师叔，你的法宝太不正经了》。",
+      "summary": "「幻想修真」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,7 +50,7 @@
         "updated_at": "2026-11-03 21:21:19",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "幻想修真"

@@ -8,8 +8,8 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-04",
-  "prev_date": "2026-11-03",
+  "date": "2026-11-05",
+  "prev_date": "2026-11-04",
   "books": [
     {
       "rank": 1,
@@ -181,7 +181,7 @@
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 4,
+      "boards_count": 3,
       "stale_update": true,
       "category": "宫闱宅斗"
     },
@@ -297,7 +297,7 @@
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 3,
       "stale_update": true,
       "category": "总裁豪门"
     },
@@ -355,7 +355,7 @@
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 1,
       "stale_update": true,
       "category": "总裁豪门"
     },
@@ -458,19 +458,19 @@
       "major_id": 1,
       "minor_id": 8,
       "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
-      "status": "连载中",
-      "word_count_text": "103.05万字",
-      "word_count": 1030500,
+      "status": "已完结",
+      "word_count_text": "103.48万字",
+      "word_count": 1034800,
       "heat": 2602000,
       "platform_trend": "rise",
       "badge": "",
       "intro": "【男二上位+隐世大佬+离婚逆袭+追妻火葬场】\n被冷落了两年，江莱从主卧床下摸出一颗女士外用避孕囊。\n那一刻她才明白，她不是贺谨予的妻子，而是他和沈汐月之间的第三者。\n叔叔病重，她只求一颗药。\n他说好，然后丢给秘书。\n秘书给了江莱一颗假药。\n生死攸关之际，病房迎来一位不速之客。\n男人外貌优越，贵气逼人，自称是她哥的朋友。\n可她哥的朋友，她全都认识，除了他。\n他陪她去找药，让她不再低眉求人。\n台风夜整栋楼都在淹水，他把她从洪水里抱出来，第一句话是“别怕，我在”。\n他把所有关于“将来”的话，都换成“江莱”。\n她不懂，他这种云上的神，为什么像个影子一样陪在她身边。\n江莱问盛延洲：“你到底要什么？”\n盛延洲挑眉：“我要你每天陪我遛狗，少一天都不行。”\n离婚那天，走出大厅，他牵着狗子在门口等她。\n那一瞬间，她突然想起来了。\n高中时，每次她去找哥哥，远处总站着一个戴口罩的冷漠男生。\n她以为他讨厌她，现在她才知道——\n他是不敢看她，怕看一眼，就藏不住了。",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3847/11539740_360x480.jpg?time=1792518363",
-      "latest_chapter": " 第472章  在一起",
-      "updated_at": "2026-11-04 00:02:06",
+      "latest_chapter": " 第474章  十分感谢",
+      "updated_at": "2026-11-05 00:02:08",
       "rank_change": 0,
       "heat_change": 0,
-      "is_new": true,
+      "is_new": false,
       "boards_count": 2,
       "stale_update": false,
       "category": "总裁豪门"
@@ -497,7 +497,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/861/2580857_360x480.jpg?time=1779267111",
       "latest_chapter": " 第398章  ——津晚大结局（下）",
       "updated_at": "2026-04-22 18:18:05",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
@@ -526,7 +526,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
       "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
       "updated_at": "2025-08-31 14:41:10",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
@@ -555,7 +555,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/607/1818563_360x480.jpg?time=1742967343",
       "latest_chapter": " 第950章  平安幸福就好",
       "updated_at": "2025-11-21 21:47:11",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
@@ -584,7 +584,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
       "latest_chapter": " 第1010章  阿熏，嫁给我",
       "updated_at": "2026-07-19 00:07:14",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
@@ -599,31 +599,14 @@
       "count": 11,
       "total_heat": 50592000,
       "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          {
-            "title": "形婚两年不同房，改嫁大佬被宠坏",
-            "book_id": 11539740
-          }
-        ],
-        "dropped_books": [
-          {
-            "title": "他先失控",
-            "book_id": 9685722,
-            "intro": "原书名：《婚夜渐浓》\n【美艳隐婚妻子VS高冷权贵人夫】\n【久别重逢，追妻火葬场，1V1极限拉扯】\n一夜荒唐后他们结婚了。\n孟韫在这段感情里小心翼翼，捧着真心想捂热贺忱洲。\n可一场突如其来的“床照”丑闻"
-          }
-        ],
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "皑如山上雪",
-            "book_id": 2053898,
-            "rank_change": -1
-          }
-        ],
+        "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「总裁豪门」新上榜 《形婚两年不同房，改嫁大佬被宠坏》；《他先失控》 掉出榜单；《皑如山上雪》下滑1位。",
+        "summary": "「总裁豪门」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -768,7 +751,7 @@
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
+          "boards_count": 3,
           "stale_update": true,
           "category": "总裁豪门"
         },
@@ -797,7 +780,7 @@
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
+          "boards_count": 1,
           "stale_update": true,
           "category": "总裁豪门"
         },
@@ -900,19 +883,19 @@
           "major_id": 1,
           "minor_id": 8,
           "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
-          "status": "连载中",
-          "word_count_text": "103.05万字",
-          "word_count": 1030500,
+          "status": "已完结",
+          "word_count_text": "103.48万字",
+          "word_count": 1034800,
           "heat": 2602000,
           "platform_trend": "rise",
           "badge": "",
           "intro": "【男二上位+隐世大佬+离婚逆袭+追妻火葬场】\n被冷落了两年，江莱从主卧床下摸出一颗女士外用避孕囊。\n那一刻她才明白，她不是贺谨予的妻子，而是他和沈汐月之间的第三者。\n叔叔病重，她只求一颗药。\n他说好，然后丢给秘书。\n秘书给了江莱一颗假药。\n生死攸关之际，病房迎来一位不速之客。\n男人外貌优越，贵气逼人，自称是她哥的朋友。\n可她哥的朋友，她全都认识，除了他。\n他陪她去找药，让她不再低眉求人。\n台风夜整栋楼都在淹水，他把她从洪水里抱出来，第一句话是“别怕，我在”。\n他把所有关于“将来”的话，都换成“江莱”。\n她不懂，他这种云上的神，为什么像个影子一样陪在她身边。\n江莱问盛延洲：“你到底要什么？”\n盛延洲挑眉：“我要你每天陪我遛狗，少一天都不行。”\n离婚那天，走出大厅，他牵着狗子在门口等她。\n那一瞬间，她突然想起来了。\n高中时，每次她去找哥哥，远处总站着一个戴口罩的冷漠男生。\n她以为他讨厌她，现在她才知道——\n他是不敢看她，怕看一眼，就藏不住了。",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3847/11539740_360x480.jpg?time=1792518363",
-          "latest_chapter": " 第472章  在一起",
-          "updated_at": "2026-11-04 00:02:06",
+          "latest_chapter": " 第474章  十分感谢",
+          "updated_at": "2026-11-05 00:02:08",
           "rank_change": 0,
           "heat_change": 0,
-          "is_new": true,
+          "is_new": false,
           "boards_count": 2,
           "stale_update": false,
           "category": "总裁豪门"
@@ -939,7 +922,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/861/2580857_360x480.jpg?time=1779267111",
           "latest_chapter": " 第398章  ——津晚大结局（下）",
           "updated_at": "2026-04-22 18:18:05",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
@@ -959,15 +942,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "第一凤女",
-            "book_id": 1803136,
-            "rank_change": -1
-          }
-        ],
+        "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「宫闱宅斗」《第一凤女》下滑1位。",
+        "summary": "「宫闱宅斗」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1083,7 +1060,7 @@
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 4,
+          "boards_count": 3,
           "stale_update": true,
           "category": "宫闱宅斗"
         },
@@ -1138,7 +1115,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
           "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
           "updated_at": "2025-08-31 14:41:10",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
@@ -1206,15 +1183,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "为奴三年后，整个侯府跪求我原谅",
-            "book_id": 1872563,
-            "rank_change": -1
-          }
-        ],
+        "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「古代情缘」《为奴三年后，整个侯府跪求我原谅》下滑1位。",
+        "summary": "「古代情缘」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1240,7 +1211,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/607/1818563_360x480.jpg?time=1742967343",
           "latest_chapter": " 第950章  平安幸福就好",
           "updated_at": "2025-11-21 21:47:11",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
@@ -1260,15 +1231,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "阴当",
-            "book_id": 1979356,
-            "rank_change": -1
-          }
-        ],
+        "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「都市奇幻」《阴当》下滑1位。",
+        "summary": "「都市奇幻」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1294,7 +1259,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
           "latest_chapter": " 第1010章  阿熏，嫁给我",
           "updated_at": "2026-07-19 00:07:14",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
@@ -1306,8 +1271,8 @@
   ],
   "stats": {
     "total_books": 20,
-    "new_count": 1,
-    "dropped_count": 1,
+    "new_count": 0,
+    "dropped_count": 0,
     "avg_heat": 5238700,
     "total_heat": 104774000,
     "first_day": false

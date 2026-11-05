@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 1,
-    "total_heat": 58000,
+    "total_heat": 56000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "趁校花一贫如洗，忽悠她以身相许",
+          "book_id": 12896292,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「热血校园」榜单结构稳定，无明显变动。",
+      "heat_leaders": [
+        {
+          "title": "趁校花一贫如洗，忽悠她以身相许",
+          "book_id": 12896292,
+          "heat_change": -2000
+        }
+      ],
+      "summary": "「热血校园」《趁校花一贫如洗，忽悠她以身相许》上升2位领涨；《趁校花一贫如洗，忽悠她以身相许》热度-2000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 4,
         "title": "趁校花一贫如洗，忽悠她以身相许",
         "book_id": 12896292,
         "url": "https://www.qimao.com/shuku/12896292/",
@@ -39,17 +51,17 @@
         "minor_id": 222,
         "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.65万字",
-        "word_count": 496500,
-        "heat": 58000,
+        "word_count_text": "50.12万字",
+        "word_count": 501200,
+        "heat": 56000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "重回2010年的大学城。\n这一年，未来的“最美女教授”还在奶茶店兼职。\n这一年，未来的女团顶流尚在校园，却已初露锋芒。\n这一年，未来的机车女神还只是个有点拜金的小姑娘。\n这一年，未来的商业女强人，还是个恋爱脑。\n这一年，阳光正好，微风不燥，遗憾来得及弥补，野心正蓄势待发。\n这一年，刘寻发誓，这辈子不再循规循距，要将前世没享过的福，统统体验一遍！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4299/12896292_360x480.jpg?time=1789378440",
-        "latest_chapter": " 第217章  朱世雅：刘寻就是个超级大坏蛋！",
-        "updated_at": "2026-11-04 08:12:13",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第219章  朱世雅：怎么不摸了！？",
+        "updated_at": "2026-11-05 08:12:13",
+        "rank_change": 2,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

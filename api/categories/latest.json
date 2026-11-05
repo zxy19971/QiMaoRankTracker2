@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "categories": [
     {
       "name": "都市高武",
@@ -52,6 +52,11 @@
       "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
     },
     {
+      "name": "衍生同人",
+      "major": "N次元",
+      "url": "api/categories/latest/%E8%A1%8D%E7%94%9F%E5%90%8C%E4%BA%BA.json"
+    },
+    {
       "name": "虚拟网游",
       "major": "游戏",
       "url": "api/categories/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
@@ -62,14 +67,14 @@
       "url": "api/categories/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
     },
     {
-      "name": "异世大陆",
-      "major": "玄幻奇幻",
-      "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
-    },
-    {
       "name": "末世危机",
       "major": "科幻",
       "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
+    },
+    {
+      "name": "异世大陆",
+      "major": "玄幻奇幻",
+      "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
     },
     {
       "name": "现代军事",

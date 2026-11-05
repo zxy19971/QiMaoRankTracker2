@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 142000,
+    "total_heat": 144000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "男人野性",
+          "book_id": 2023697,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「商战职场」榜单结构稳定，无明显变动。",
+      "heat_leaders": [
+        {
+          "title": "男人野性",
+          "book_id": 2023697,
+          "heat_change": 2000
+        }
+      ],
+      "summary": "「商战职场」《男人野性》上升1位领涨；《男人野性》热度+2000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 5,
         "title": "男人野性",
         "book_id": 2023697,
         "url": "https://www.qimao.com/shuku/2023697/",
@@ -39,17 +51,17 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "223.07万字",
-        "word_count": 2230700,
-        "heat": 142000,
-        "platform_trend": "",
-        "badge": "最新上榜",
+        "word_count_text": "223.54万字",
+        "word_count": 2235400,
+        "heat": 144000,
+        "platform_trend": "rise",
+        "badge": "",
         "intro": "又名：《我单身后，富婆姐姐圈蠢蠢欲动》《金鳞》\n周扬遭女友背叛后，果断分手。\n没想到的是，他单身后，人生竟突然开挂。\n各路年轻富婆，各种类型的女强人，各色女神，都在命运的安排下，来到他的身边。\n她们成为周扬坚强的后盾，助他一步步踏上巅峰。\n曾经背叛我的，嘲笑我的，在这一刻，通通跪地膜拜。\n我叫周扬，我终将为王。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/810/2429111_360x480.jpg?time=1757065054",
-        "latest_chapter": " 第1039章  老大来营救",
-        "updated_at": "2026-11-03 22:47:09",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第1041章  天干地支，十二生肖",
+        "updated_at": "2026-11-04 21:17:09",
+        "rank_change": 1,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
