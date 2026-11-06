@@ -8,62 +8,55 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-02",
+  "date": "2026-11-06",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 29000,
+    "total_heat": 12000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "凡人：让你看守废书楼，你却偷偷成仙了",
+          "book_id": 13437552
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "诡异民国，从缝尸开始长生",
-          "book_id": 12706761,
-          "rank_change": 2
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "诡异民国，从缝尸开始长生",
-          "book_id": 12706761,
-          "heat_change": 2000
-        }
-      ],
-      "summary": "「幻想修真」《诡异民国，从缝尸开始长生》上升2位领涨；《诡异民国，从缝尸开始长生》热度+2000。",
+      "heat_leaders": [],
+      "summary": "「幻想修真」新上榜 《凡人：让你看守废书楼，你却偷偷成仙了》。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 10,
-        "title": "诡异民国，从缝尸开始长生",
-        "book_id": 12706761,
-        "url": "https://www.qimao.com/shuku/12706761/",
-        "author": "长生道人",
-        "author_url": "https://www.qimao.com/zuozhe/%E9%95%BF%E7%94%9F%E9%81%93%E4%BA%BA_14/",
+        "rank": 17,
+        "title": "凡人：让你看守废书楼，你却偷偷成仙了",
+        "book_id": 13437552,
+        "url": "https://www.qimao.com/shuku/13437552/",
+        "author": "现代居士",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%8E%B0%E4%BB%A3%E5%B1%85%E5%A3%AB_14/",
         "major": "武侠仙侠",
         "minor": "幻想修真",
         "major_id": 205,
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "50.43万字",
-        "word_count": 504300,
-        "heat": 29000,
+        "word_count_text": "16.32万字",
+        "word_count": 163200,
+        "heat": 12000,
         "platform_trend": "rise",
-        "badge": "",
-        "intro": "大顺民国初年，新学与旧俗碰撞，枪炮与妖魔共舞。\n高高在上的“求法者”们窃取天机，却不知自己早已被不可名状的恐怖污染，化作一具具行走在人间的灾厄诡尸。\n穿越而来的李长生，成了菜市口最下贱的缝尸匠，开局只剩四十天寿命。\n所幸，他有一卷【万寿书】。\n煎寿命！\n熬神通！\n从最底层的街头横死者，到高高在上的修仙大能，再到那端坐云端不可直视的旧日仙佛……\n既然这满天神佛都病了，那便由我这凡人，来为诸位敛骨送终！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4236/12706761_360x480.jpg?time=1789289847",
-        "latest_chapter": " 第212章  神之途径，超凡秘药",
-        "updated_at": "2026-11-02 01:21:03",
-        "rank_change": 2,
-        "heat_change": 2000,
-        "is_new": false,
-        "boards_count": 2,
+        "badge": "飙升10名",
+        "intro": "林砚本是云天宗的杂役弟子， 却因外门长老篡改他晋升外门弟子的名额意外获得一支破旧粗笔，自此以后，一位融合百家所长的妖孽天才就此诞生。\n\n　　丹道学识繁杂？\n\n　　我林砚有一笔可将单方药理烂熟于心！\n\n　　阵法玄妙无比？\n\n　　我林砚有一笔可令万千阵法化繁为简！\n\n　　修炼功法深奥难懂？\n\n　　我林砚有一笔可使无上道法瞬间领悟！\n\n　　……\n\n　　若干年后！\n\n　　林砚持一笔指点众生，最后在苍穹之上写下一行字：万古长夜，唯有大道永恒！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4480/13437552_360x480.jpg?time=1791804637",
+        "latest_chapter": " 第76章  听天由命？",
+        "updated_at": "2026-11-06 00:00:06",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "幻想修真"
       }

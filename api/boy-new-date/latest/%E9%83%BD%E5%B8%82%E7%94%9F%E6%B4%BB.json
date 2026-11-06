@@ -8,47 +8,80 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 3,
-    "total_heat": 52000,
+    "total_heat": 53000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "重生72：三枪轰出万元户！",
-          "book_id": 13340145
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "透视神眼：看尽天下玉，揽尽世上美",
-          "book_id": 12898650,
-          "intro": "陆沉为了给女友改善生活，努力克服恐高症去高空擦玻璃赚快钱。\n但不成想，竟亲眼目睹了女友的背叛！\n陆沉在心灰意冷下准备跳江轻生，却意外获得了造化神树，并救下了同样要轻生的美妇！\n自此，陆沉天眼一开，玉石"
-        }
-      ],
-      "top_risers": [],
-      "top_fallers": [
+          "book_id": 13340145,
+          "rank_change": 3
+        },
         {
           "title": "红妆贵人",
           "book_id": 13231977,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
+        {
+          "title": "重生72：三枪轰出万元户！",
+          "book_id": 13340145,
+          "heat_change": 4000
+        },
         {
           "title": "高冷校花香香软软，凭啥还舔你啊",
           "book_id": 13220790,
-          "heat_change": 1000
+          "heat_change": -2000
+        },
+        {
+          "title": "红妆贵人",
+          "book_id": 13231977,
+          "heat_change": -1000
         }
       ],
-      "summary": "「都市生活」新上榜 《重生72：三枪轰出万元户！》；《透视神眼：看尽天下玉，揽尽世上美》 掉出榜单；《红妆贵人》下滑1位；《高冷校花香香软软，凭啥还舔你啊》热度+1000。",
+      "summary": "「都市生活」《重生72：三枪轰出万元户！》上升3位领涨；《重生72：三枪轰出万元户！》热度+4000。",
       "ai_source": "rule"
     },
     "books": [
+      {
+        "rank": 11,
+        "title": "重生72：三枪轰出万元户！",
+        "book_id": 13340145,
+        "url": "https://www.qimao.com/shuku/13340145/",
+        "author": "天地无憾",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%A4%A9%E5%9C%B0%E6%97%A0%E6%86%BE_14/",
+        "major": "都市",
+        "minor": "都市生活",
+        "major_id": 203,
+        "minor_id": 223,
+        "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "48.4万字",
+        "word_count": 484000,
+        "heat": 20000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【年代+打猎+多女主+纯爽爆笑流！】\n重生72年，开局被寡妇和兄弟仙人跳，你会怎么选？\n选项A：来都来了，跪着也要占便宜！\n选项B：化身老实人，父亲挺起的腰杆应声而断。\n选项C：三枪崩哭龟儿子！猎财猎宝猎红尘！\n重生72，看陈超如何逆袭改命，绝猎红尘！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4447/13340145_360x480.jpg?time=1788278081",
+        "latest_chapter": " 第234章  他只是坏，并不是没脑子",
+        "updated_at": "2026-11-05 20:05:03",
+        "rank_change": 3,
+        "heat_change": 4000,
+        "is_new": false,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "都市生活"
+      },
       {
         "rank": 12,
         "title": "高冷校花香香软软，凭啥还舔你啊",
@@ -62,53 +95,24 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.51万字",
-        "word_count": 365100,
-        "heat": 21000,
-        "platform_trend": "rise",
+        "word_count_text": "36.97万字",
+        "word_count": 369700,
+        "heat": 19000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【救赎+单女主+重生无系统+清冷校花反差病娇】\n“苏泽，我现在只想好好学习拿奖学金，不想谈恋爱，我们还是先做普通朋友好吗？”\n看着班花林婉儿那副高高在上的嘴脸，重生归来的苏泽冷笑一声。\n“大姐你没事吧？要胸没胸要腿没腿，保不齐微do过多少次的网红脸，我有病啊跟你表白？”\n在全校吃瓜群众震惊的目光中，苏泽转身，一把将怀里的99朵红玫瑰，强行塞进了路过的冰山校花夏知微怀里。\n“好汉留步！花给你了！”\n上一世，苏泽是把尊严踩在脚底的超级舔狗，一路卷成科学家却落得个猝死的下场。\n重活一世，去他妈的白月光，去他妈的内卷！老子要放飞自我，摆烂享受人生！\n习惯了被无限偏爱的林婉儿懵了。\n三个月后，她实在受不了没有苏泽这个免费提款机的日子，红着眼眶在雨中堵住他：“苏泽，我发现我其实是喜欢你的，我们和好吧……”\n可此时的苏泽，哪里还有空搭理她？\n曾经柔弱的清冷系花夏知微，此刻却将苏泽的双手缚在床头柜上。\n女孩绝美的脸蛋泛着迷离的红晕，嗓音娇软却不失偏执：“苏泽同学，你送了我玫瑰，又在柜子里抱过我，那你就是我一个人的了。”\n“再敢碰别的女人，我就关你一辈子哦。”\n苏泽却一脸笑嘻嘻道：老婆你好香~",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4407/13220790_360x480.jpg?time=1787129675",
-        "latest_chapter": " 第161章  谈不到这样的不死了",
-        "updated_at": "2026-11-04 18:42:03",
+        "latest_chapter": " 第163章  沈青晚只是怕了",
+        "updated_at": "2026-11-05 18:01:03",
         "rank_change": 0,
-        "heat_change": 1000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市生活"
       },
       {
-        "rank": 14,
-        "title": "重生72：三枪轰出万元户！",
-        "book_id": 13340145,
-        "url": "https://www.qimao.com/shuku/13340145/",
-        "author": "天地无憾",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%A4%A9%E5%9C%B0%E6%97%A0%E6%86%BE_14/",
-        "major": "都市",
-        "minor": "都市生活",
-        "major_id": 203,
-        "minor_id": 223,
-        "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "47.58万字",
-        "word_count": 475800,
-        "heat": 16000,
-        "platform_trend": "rise",
-        "badge": "飙升27名",
-        "intro": "【年代+打猎+多女主+纯爽爆笑流！】\n重生72年，开局被寡妇和兄弟仙人跳，你会怎么选？\n选项A：来都来了，跪着也要占便宜！\n选项B：化身老实人，父亲挺起的腰杆应声而断。\n选项C：三枪崩哭龟儿子！猎财猎宝猎红尘！\n重生72，看陈超如何逆袭改命，绝猎红尘！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4447/13340145_360x480.jpg?time=1788278081",
-        "latest_chapter": " 第230章  没想到留了个祸患！",
-        "updated_at": "2026-11-04 19:32:04",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
-        "boards_count": 2,
-        "stale_update": false,
-        "category": "都市生活"
-      },
-      {
-        "rank": 16,
+        "rank": 15,
         "title": "红妆贵人",
         "book_id": 13231977,
         "url": "https://www.qimao.com/shuku/13231977/",
@@ -120,17 +124,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.19万字",
-        "word_count": 491900,
-        "heat": 15000,
+        "word_count_text": "49.83万字",
+        "word_count": 498300,
+        "heat": 14000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "我是老板的司机，为了给妹妹续命，老板让我去酒店替他顶雷——他老婆来捉奸。\n老板娘推开门，把我们堵在床上。\n她没打没闹，只是笑：“演，继续演。演得像，我给你们活路。”\n那一夜我为了活命把戏做全套，结果第二天，老板娘把我叫进办公室：\n“你那个女朋友，我要了。你也搬来我家住。”\n我以为她是要报复我。\n直到某天深夜，她把我按在车里，咬着我的耳朵说：\n“赵强碰过的东西，我要一样一样抢过来。你，算头一个。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4411/13231977_360x480.jpg?time=1787219005",
-        "latest_chapter": " 第231章  血染旋转厅",
-        "updated_at": "2026-11-04 17:42:04",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第234章  血符引魂，邪佞苟合",
+        "updated_at": "2026-11-05 17:42:03",
+        "rank_change": 1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

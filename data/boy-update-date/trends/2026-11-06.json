@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-06",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 1,
+    "total_heat": 20,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "嫌我保安穷，你错失真龙！",
+            "book_id": 13420554
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "heat_change": 3
+          },
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高手」新上榜 《嫌我保安穷，你错失真龙！》；《狂龙出渊，开局拿捏女战神！》上升3位领涨；《爷爷托梦后，我靠戒指掌控万界》下滑2位；《狂龙出渊，开局拿捏女战神！》热度+3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "山洞求生：我打造最强洞天福地",
+            "book_id": 13467810,
+            "intro": "全球140亿人集体穿越万山大陆，人手一座荒山，开局只剩一条裤衩！\n妖魔食人，诡异丛生，人人都得升级山脉、筑洞府才能活命。\n三天新手保护期一过，就是漫山兽潮围杀。\n秦汉开局直接天胡！\n开局17阶【全神图"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": -3
+          },
+          {
+            "title": "有帝族背景还开挂，我无敌了！",
+            "book_id": 1924831,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「东方玄幻」《山洞求生：我打造最强洞天福地》 掉出榜单；《鸿蒙霸体诀》下滑1位；《吞天神体》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "女子监狱五年，出狱即无敌",
+            "book_id": 12791886,
+            "rank_change": 3
+          },
+          {
+            "title": "我在都市修了个野仙",
+            "book_id": 2078908,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "我在都市修了个野仙",
+            "book_id": 2078908,
+            "heat_change": -3
+          },
+          {
+            "title": "女子监狱五年，出狱即无敌",
+            "book_id": 12791886,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高武」《女子监狱五年，出狱即无敌》上升3位领涨；《我在都市修了个野仙》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "众仙俯首",
+            "book_id": 1971590,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "全家托举，我苟成盖世仙王",
+            "book_id": 13441152,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「幻想修真」《众仙俯首》上升1位领涨；《全家托举，我苟成盖世仙王》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「奇门秘术」《天黑请点灯》上升2位领涨；《天黑请点灯》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "快老死了，圣女上门赐仙缘",
+            "book_id": 12670524,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "快老死了，圣女上门赐仙缘",
+            "book_id": 12670524,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「古典仙侠」《快老死了，圣女上门赐仙缘》上升1位领涨；《快老死了，圣女上门赐仙缘》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "被陷害后，我被迫成了送子天官！",
+            "book_id": 12984576,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "被陷害后，我被迫成了送子天官！",
+            "book_id": 12984576,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「架空历史」《被陷害后，我被迫成了送子天官！》下滑1位；《被陷害后，我被迫成了送子天官！》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "四次入伍，我被军区拉进黑名单！",
+            "book_id": 12179937,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「现代军事」《四次入伍，我被军区拉进黑名单！》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「商战职场」《野性攀登》热度-1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

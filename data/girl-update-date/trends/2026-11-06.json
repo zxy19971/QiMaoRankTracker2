@@ -1,0 +1,313 @@
+{
+  "date": "2026-11-06",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 5,
+    "dropped_count": 5,
+    "avg_heat": 2,
+    "total_heat": 52,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "intro": "隐婚三年，他突然提出离婚，苏婳忍痛一笑，拿钱走人，从此踏上开挂之路，修宝，鉴宝，轻松玩转古玩界。\n离婚后的某霸总，看着电视里艳惊四座的前妻，悔不当初。\n他化身妻奴，满世界追着她跑，“老婆，心给你，命给"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "白天刚孕吐，晚上前夫就敲门求复婚",
+            "book_id": 13193829,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902,
+            "rank_change": -6
+          },
+          {
+            "title": "为她失控",
+            "book_id": 13425795,
+            "rank_change": -2
+          },
+          {
+            "title": "渣男骗婚？顶级大佬上门求名分",
+            "book_id": 13344123,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902,
+            "heat_change": 6
+          },
+          {
+            "title": "白天刚孕吐，晚上前夫就敲门求复婚",
+            "book_id": 13193829,
+            "heat_change": -2
+          },
+          {
+            "title": "渣男骗婚？顶级大佬上门求名分",
+            "book_id": 13344123,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「总裁豪门」《离婚后她惊艳了世界》 掉出榜单；《白天刚孕吐，晚上前夫就敲门求复婚》上升1位领涨；《疯犬玫瑰》下滑6位；《疯犬玫瑰》热度+6。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 3,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "intro": "《奔跑吧》同款！又名《吾妃有令》，短剧《吾妃有令》原著，已上线。\n【护妻狂魔+团宠+爽文】\n白莲花妹妹抢了她的婚约，还把她送给一个纨绔当玩物。\n她转身爬上了皇叔的马车，被他一身功德闪瞎了眼。\n他要死了"
+          },
+          {
+            "title": "宫女朔宁",
+            "book_id": 12315174,
+            "intro": "古言权谋+宫斗+女强男强+双向奔赴+虐到心肝\n这是一场以江山为注的豪赌。\n赌赢了，她送他登基。\n赌输了，她赔上自己。\n长门宫里有个哑奴，是被褫夺身份的九皇子。\n人人都能踩一脚，人人都能啐一口。\n她递给"
+          },
+          {
+            "title": "枕边奴",
+            "book_id": 13537935,
+            "intro": "【公主×戏子/女A男O】，双洁×双向救赎\n起初，赵清徽只当杨澈是逗乐子的玩意儿。\n他踩着她铺就的路，一步一步，走到高处。\n白天，他一身官袍立于大殿，夜里，他换上戏服，水袖落下来，覆住她的眼，低低唤她乳"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "rank_change": -1
+          },
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "heat_change": 1
+          },
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "heat_change": -1
+          },
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「宫闱宅斗」《皇叔借点功德，王妃把符画猛了》、《宫女朔宁》、《枕边奴》 掉出榜单；《侯爷绝嗣？好孕丫鬟又又又是喜脉》下滑1位；《侯爷绝嗣？好孕丫鬟又又又是喜脉》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "山神在上，阴棺见喜",
+            "book_id": 12752880,
+            "rank_change": -4
+          },
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "山神在上，阴棺见喜",
+            "book_id": 12752880,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市奇幻」《山神在上，阴棺见喜》下滑4位；《山神在上，阴棺见喜》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代悬疑",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "天定阴缘，开棺赐福",
+            "book_id": 13478442
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「现代悬疑」新上榜 《天定阴缘，开棺赐福》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "民国旧影",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "容少帅，强娶美人请你节制！",
+            "book_id": 13298463
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「民国旧影」新上榜 《容少帅，强娶美人请你节制！》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世幻想",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "网恋翻车后，大佬兽夫追着宠",
+            "book_id": 13405101
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「异世幻想」新上榜 《网恋翻车后，大佬兽夫追着宠》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "嫡姐惨死？她抬棺杀疯京城！",
+            "book_id": 13021647,
+            "intro": "女强爽文+打脸虐渣+复仇+马甲\n宋南枝嫡姐被人凌辱致死，婆家以七出之罪将她尸体送回将军府。\n祖母以有辱门风之名，不准嫡姐下葬！\n宋南枝教他们做人！\n镇国公世子毁背信弃义，娶平妻，辱阿姐？\n宋南枝当众废"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」新上榜 《新婚夜流放，飒爽太子妃种出西北大仓！》；《嫡姐惨死？她抬棺杀疯京城！》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "国医圣手穿七零，重生军少求上位",
+            "book_id": 13352190,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "国医圣手穿七零，重生军少求上位",
+            "book_id": 13352190,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「年代重生」《国医圣手穿七零，重生军少求上位》下滑2位；《国医圣手穿七零，重生军少求上位》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「种田经商」《大雪封山闹饥荒，福宝开挂富全村》下滑2位；《大雪封山闹饥荒，福宝开挂富全村》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "娱乐明星",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "全网黑上恋综后，我爆红了",
+            "book_id": 12265578
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「娱乐明星」新上榜 《全网黑上恋综后，我爆红了》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,28 +8,22 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 4,
-    "total_heat": 148000,
+    "total_heat": 136000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "边军小卒：杀敌爆气血，我无限破镜！",
-          "book_id": 12958296,
-          "intro": "【空架历史】＋【争霸】＋【武炼巅峰】＋【一统天下】＋【爽文】＋【边军战神】＋【多女主】\n华夏兵王楚枫意外穿越到大乾王朝南境虎牢关，刚魂穿就撞上南蛮大军破城，身陷绝境。\n生死一线，【噬血武道系统】强势激"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [
         {
-          "title": "寇天子",
-          "book_id": 12817968,
-          "rank_change": 1
+          "title": "让你当个纨绔，你咋毒谋天下",
+          "book_id": 13400022,
+          "rank_change": 2
         },
         {
           "title": "咱家世代从军，到你这成文圣了？",
@@ -39,39 +33,39 @@
       ],
       "top_fallers": [
         {
-          "title": "让你当个纨绔，你咋毒谋天下",
-          "book_id": 13400022,
+          "title": "边军悍卒：一把长弓定天下！",
+          "book_id": 12948825,
           "rank_change": -2
         },
         {
-          "title": "边军悍卒：一把长弓定天下！",
-          "book_id": 12948825,
+          "title": "寇天子",
+          "book_id": 12817968,
           "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
+          "title": "寇天子",
+          "book_id": 12817968,
+          "heat_change": -10000
+        },
+        {
           "title": "让你当个纨绔，你咋毒谋天下",
           "book_id": 13400022,
-          "heat_change": -6000
+          "heat_change": -2000
         },
         {
           "title": "咱家世代从军，到你这成文圣了？",
           "book_id": 13194165,
-          "heat_change": -2000
-        },
-        {
-          "title": "寇天子",
-          "book_id": 12817968,
-          "heat_change": -1000
+          "heat_change": 1000
         }
       ],
-      "summary": "「架空历史」《边军小卒：杀敌爆气血，我无限破镜！》 掉出榜单；《寇天子》上升1位领涨；《让你当个纨绔，你咋毒谋天下》下滑2位；《让你当个纨绔，你咋毒谋天下》热度-6000。",
+      "summary": "「架空历史」《让你当个纨绔，你咋毒谋天下》上升2位领涨；《边军悍卒：一把长弓定天下！》下滑2位；《寇天子》热度-10000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 3,
+        "rank": 4,
         "title": "寇天子",
         "book_id": 12817968,
         "url": "https://www.qimao.com/shuku/12817968/",
@@ -83,24 +77,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.71万字",
-        "word_count": 427100,
-        "heat": 66000,
+        "word_count_text": "43.12万字",
+        "word_count": 431200,
+        "heat": 56000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "古武传人高远穿越到乱世之中，以土匪之身坐拥四位红颜知己，实力惊人的武将，隐藏身份的女帝，多年未见的大嫂，还有一个亡国之恨的公主！剑扫四海八荒，豪气激荡云霄，白天策马奔袭，夜间笙歌环绕！且随我行，江山美人尽入怀抱！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4273/12817968_360x480.jpg?time=1785209026",
-        "latest_chapter": " 第208章  准备看戏吧",
-        "updated_at": "2026-11-04 18:05:03",
-        "rank_change": 1,
-        "heat_change": -1000,
+        "latest_chapter": " 第210章  图穷匕见",
+        "updated_at": "2026-11-05 18:13:03",
+        "rank_change": -1,
+        "heat_change": -10000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "title": "咱家世代从军，到你这成文圣了？",
         "book_id": 13194165,
         "url": "https://www.qimao.com/shuku/13194165/",
@@ -112,24 +106,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.94万字",
-        "word_count": 479400,
-        "heat": 36000,
-        "platform_trend": "drop",
+        "word_count_text": "48.35万字",
+        "word_count": 483500,
+        "heat": 37000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "穿越成京城第一纨绔，章衡开局就被亲爹赏了一巴掌。\n黄袍加身、科举舞弊、满城骂名，前身留给他的全是杀头大罪。\n为了活命，他只能摊牌：其实我前些年一直在藏拙！\n三首半诗震惊金陵成诗仙，科举震惊文坛成状元，一瓶香水开始撬动天下财富，两位才女争相递上婚书。\n可太子党、六皇子党步步紧逼，黄袍背后另有黑手，暗流越来越凶。\n刚穿越的章衡只想当个浪荡纨绔，但你们却非要逼我坐那个位置.....",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4399/13194165_360x480.jpg?time=1787044357",
-        "latest_chapter": " 第106章  郊游？",
-        "updated_at": "2026-11-04 22:08:03",
+        "latest_chapter": " 第107章  组建陌刀队！",
+        "updated_at": "2026-11-05 20:52:03",
         "rank_change": 1,
-        "heat_change": -2000,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 9,
+        "rank": 7,
         "title": "让你当个纨绔，你咋毒谋天下",
         "book_id": 13400022,
         "url": "https://www.qimao.com/shuku/13400022/",
@@ -141,24 +135,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.91万字",
-        "word_count": 379100,
-        "heat": 33000,
+        "word_count_text": "38.67万字",
+        "word_count": 386700,
+        "heat": 31000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大离王朝，成为国公嫡孙，本该锦衣玉食，富贵一生。\n李玄真却迎来天崩开局，奸人陷害，他半只脚踏进鬼门关！\n生死一线，昔日人人嗤笑的纨绔，骤然觉醒，化身毒士。\n凭绝世智谋破死局，挽国公府于倾覆；\n挥笔诗词惊天下，文章震彻大离朝堂。\n党争汹汹，朝堂糜烂。\n他搅动风云，扫尽奸佞，倾力辅佐长公主登临九五之尊。\n一句‘活阎王来了’便可吓退百万雄师！\n北击蛮夷，平定四海，重整九州山河，铸就万国来朝的盛世。\n待到功成，手握‘从龙大功’的李玄真只想躺平当纨绔，\n不曾想，深夜宫车传召，女帝屏退所有内侍，独留他一人于深宫之内。\n李玄真傻了……\n陛下！哪有这么考验功臣的啊！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4467/13400022_360x480.jpg?time=1792936970",
-        "latest_chapter": " 第159章  这等辛秘，让人心痛",
-        "updated_at": "2026-11-05 00:02:30",
-        "rank_change": -2,
-        "heat_change": -6000,
+        "latest_chapter": " 第162章  风水宝地闹鬼？",
+        "updated_at": "2026-11-06 00:02:33",
+        "rank_change": 2,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 17,
+        "rank": 19,
         "title": "边军悍卒：一把长弓定天下！",
         "book_id": 12948825,
         "url": "https://www.qimao.com/shuku/12948825/",
@@ -170,17 +164,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.12万字",
-        "word_count": 471200,
-        "heat": 13000,
-        "platform_trend": "rise",
+        "word_count_text": "47.6万字",
+        "word_count": 476000,
+        "heat": 12000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "国家一级射箭运动员、八极拳传人吴起，比赛回国遭遇空难，醒来后成了大周王朝边军杂役兵。\n这一世的傻大个“吴起”，被伍长夫妇当牛马，因为撞破伍长私通敌国，被抛弃荒漠脱水而死。\n吴起穿越醒来，遭遇北蛮十骑袭边，生死关头三箭毙三敌，获得第一笔军功！\n他装傻充楞回到哨所，反杀伍长那对狗男女，收服哨所众人。\n待提头回屯报功时，却被众人质疑，那个傻大个当了三年杂役兵，就能杀鞑子？\n吴起不语，拿出铜钱放在百步外，一箭贯穿方孔，全场愕然！\n提拔为新伍长只是第一步，屯长女儿也要顺势拿下！\n接下来就是守边攒功、种田经商、发展工业、招兵买马、群雄逐鹿...\n我不装了，我就是要用一把长弓定天下！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4317/12948825_360x480.jpg?time=1785383216",
-        "latest_chapter": " 第199章  ：过此箭者，死！",
-        "updated_at": "2026-11-04 08:40:07",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第201章  ：花五千两睡我呢？",
+        "updated_at": "2026-11-05 09:05:03",
+        "rank_change": -2,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

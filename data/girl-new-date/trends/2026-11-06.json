@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-06",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 106900,
+    "total_heat": 2138000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "京潮暗涌",
+            "book_id": 12788373,
+            "intro": "纪昭霖对南茉的恨，用爱伪装了十四年。\n在南茉感到最幸福的时刻，再被他狠狠踹开。\n分开后，南茉被爱丁堡的雨淋了三年。\n再回京都，却是参加他的婚礼。\n她红了眼，笃定他不爱他的未婚妻，只因他看向未婚妻的眼睛"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "披婚纱改嫁，爹系老公他超爱",
+            "book_id": 12862740,
+            "rank_change": 2
+          },
+          {
+            "title": "越野",
+            "book_id": 12905193,
+            "rank_change": 2
+          },
+          {
+            "title": "冷脸糙汉哄妻上瘾，她吃不消了",
+            "book_id": 12961581,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "分居三年，高冷商总跪地求不离",
+            "book_id": 13034412,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "heat_change": -31000
+          },
+          {
+            "title": "谢总，夫人已改嫁，让你跪远点",
+            "book_id": 13156719,
+            "heat_change": -7000
+          },
+          {
+            "title": "唯她是图",
+            "book_id": 12860100,
+            "heat_change": -4000
+          }
+        ],
+        "summary": "「总裁豪门」《京潮暗涌》 掉出榜单；《披婚纱改嫁，爹系老公他超爱》上升2位领涨；《分居三年，高冷商总跪地求不离》下滑1位；《夫人反差太大，司总沦陷了！》热度-31000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "换嫁首长，美貌军医杀疯家属院",
+            "book_id": 13275039
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "嫌我丰腴不碰我，我改嫁首长连生三崽",
+            "book_id": 13066845,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "嫌我丰腴不碰我，我改嫁首长连生三崽",
+            "book_id": 13066845,
+            "heat_change": -5000
+          },
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「年代重生」新上榜 《换嫁首长，美貌军医杀疯家属院》；《嫌我丰腴不碰我，我改嫁首长连生三崽》下滑3位；《嫌我丰腴不碰我，我改嫁首长连生三崽》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "夺妻色",
+            "book_id": 13378512
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "抢姻缘，夺命格？我改嫁摄政王虐翻全族",
+            "book_id": 12791445,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "抢姻缘，夺命格？我改嫁摄政王虐翻全族",
+            "book_id": 12791445,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「宫闱宅斗」新上榜 《夺妻色》；《抢姻缘，夺命格？我改嫁摄政王虐翻全族》上升3位领涨；《抢姻缘，夺命格？我改嫁摄政王虐翻全族》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "棺生煞骨，凰女血伞定山河",
+            "book_id": 13093449,
+            "intro": "【玄学+爽文+扮猪吃虎+宅斗+病秧子】\n传闻镇国公府供奉着一把上古神器血纸伞，\n里面藏着长安数万将士的英魂，\n多年来无人能打开。\n却被苏家那个痴傻的棺生女苏无恙轻而易举地撑在头顶。\n百鬼哭嚎，天地色变"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+            "book_id": 13123449,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "嫡姐惨死？她抬棺杀疯京城！",
+            "book_id": 13021647,
+            "heat_change": -23000
+          },
+          {
+            "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+            "book_id": 13123449,
+            "heat_change": 9000
+          }
+        ],
+        "summary": "「古代情缘」《棺生煞骨，凰女血伞定山河》 掉出榜单；《地狱归，驭百鬼，王妃回京后杀疯了》上升1位领涨；《嫡姐惨死？她抬棺杀疯京城！》热度-23000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "heat_change": -7000
+          }
+        ],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》下滑1位；《年下弟弟，人前乖软人后野》热度-7000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "悍妇穿边关，一手烂牌打出王炸",
+            "book_id": 12658929,
+            "intro": "【种田+美食+木系+家长里短+先婚后爱+养娃】\n许清禾本是异世界的一缕亡魂，好不容易找到个穿越的机会。\n谁知一睁眼就成了罪臣家的婢女，被官府统一收编往外卖。\n看着集市上那油腻腻的眼神，一股恶心感油然而"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「种田经商」《悍妇穿边关，一手烂牌打出王炸》 掉出榜单；《流民医女：开荒把残夫养成战神》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "四岁姑奶奶，叼奶瓶带全族飞升啦",
+            "book_id": 13172136
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」新上榜 《四岁姑奶奶，叼奶瓶带全族飞升啦》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

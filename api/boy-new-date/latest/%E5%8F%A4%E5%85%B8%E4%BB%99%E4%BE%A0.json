@@ -8,25 +8,25 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "category": {
     "name": "古典仙侠",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 12000,
+    "total_heat": 13000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "长生隐仙",
           "book_id": 13425288,
-          "rank_change": -1
+          "rank_change": 2
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "长生隐仙",
@@ -34,12 +34,12 @@
           "heat_change": 1000
         }
       ],
-      "summary": "「古典仙侠」《长生隐仙》下滑1位；《长生隐仙》热度+1000。",
+      "summary": "「古典仙侠」《长生隐仙》上升2位领涨；《长生隐仙》热度+1000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 16,
         "title": "长生隐仙",
         "book_id": 13425288,
         "url": "https://www.qimao.com/shuku/13425288/",
@@ -51,16 +51,16 @@
         "minor_id": 52,
         "minor_url": "https://www.qimao.com/shuku/a-205-52-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "24.14万字",
-        "word_count": 241400,
-        "heat": 12000,
+        "word_count_text": "24.55万字",
+        "word_count": 245500,
+        "heat": 13000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【凡人修仙】【长生流】【无系统】【苟道无敌】【有血有肉】【忍无可忍，则无需再忍】\n永生者林奇，本打算静静苟过万年。\n直到一名凡人老者，赠他一碗热面，一袭书生袍，轻声道一句：“留下吧。”\n他死了。那是林奇第一次落泪。\n漫长岁月里他渐渐懂得：永生是蛰伏苟存，生命却是激情和不屈。\n悠悠万载，始终是当年那一碗热面，让他未曾冷漠成一块顽石，心底长存那一丝，属于人类的温热。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4476/13425288_360x480.jpg?time=1792569254",
-        "latest_chapter": " 第113章  又见卓远",
-        "updated_at": "2026-11-04 10:35:03",
-        "rank_change": -1,
+        "latest_chapter": " 第115章  虫母的庇佑",
+        "updated_at": "2026-11-05 10:48:03",
+        "rank_change": 2,
         "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,

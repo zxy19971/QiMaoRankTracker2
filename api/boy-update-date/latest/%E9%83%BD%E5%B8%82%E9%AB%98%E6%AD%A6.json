@@ -8,49 +8,48 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 7,
+    "total_heat": 5,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "女子监狱五年，出狱即无敌",
+          "book_id": 12791886,
+          "rank_change": 3
+        },
         {
           "title": "我在都市修了个野仙",
-          "book_id": 2078908
+          "book_id": 2078908,
+          "rank_change": 2
         }
       ],
-      "dropped_books": [
-        {
-          "title": "被关女子监狱五年，出狱后我医武双绝",
-          "book_id": 12514650,
-          "intro": "五年前大夏第一战神世家少主叶辰遭人算计不仅失忆，还差点身死，幸得四位美女师父相救，在囚凰女子监狱修得一身通天本领。\n可等他恢复记忆出狱时，才发现家族遭人针对，族内男丁近乎灭门。他发誓要找出幕后凶手，让"
-        }
-      ],
-      "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "女子监狱五年，出狱即无敌",
-          "book_id": 12791886,
-          "rank_change": -2
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
+          "title": "我在都市修了个野仙",
+          "book_id": 2078908,
+          "heat_change": -3
+        },
+        {
           "title": "女子监狱五年，出狱即无敌",
           "book_id": 12791886,
-          "heat_change": -1
+          "heat_change": 1
         }
       ],
-      "summary": "「都市高武」新上榜 《我在都市修了个野仙》；《被关女子监狱五年，出狱后我医武双绝》 掉出榜单；《女子监狱五年，出狱即无敌》下滑2位；《女子监狱五年，出狱即无敌》热度-1。",
+      "summary": "「都市高武」《女子监狱五年，出狱即无敌》上升3位领涨；《我在都市修了个野仙》热度-3。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 8,
         "title": "女子监狱五年，出狱即无敌",
         "book_id": 12791886,
         "url": "https://www.qimao.com/shuku/12791886/",
@@ -62,24 +61,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "77.35万字",
-        "word_count": 773500,
-        "heat": 2,
-        "platform_trend": "drop",
+        "word_count_text": "78.29万字",
+        "word_count": 782900,
+        "heat": 3,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第328章  深渊鱼王",
-        "updated_at": "2026-11-05 08:22:04",
-        "rank_change": -2,
-        "heat_change": -1,
+        "latest_chapter": " 第332章  战狂遗骨",
+        "updated_at": "2026-11-06 08:22:05",
+        "rank_change": 3,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 19,
+        "rank": 17,
         "title": "我在都市修了个野仙",
         "book_id": 2078908,
         "url": "https://www.qimao.com/shuku/2078908/",
@@ -91,18 +90,18 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "287.65万字",
-        "word_count": 2876500,
-        "heat": 5,
+        "word_count_text": "288.28万字",
+        "word_count": 2882800,
+        "heat": 2,
         "platform_trend": "rise",
         "badge": "",
         "intro": "林子东遭女友背叛，侥幸得到修仙传承，他幻想中的修仙是小说中那般神挡杀神佛挡杀佛，逍遥世间，怎么到了自己这里全是美人关？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/907/2718192_360x480.jpg?time=1770139124",
-        "latest_chapter": " 第1385章  好强！",
-        "updated_at": "2026-11-04 22:14:10",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第1388章  回江城！",
+        "updated_at": "2026-11-05 22:29:10",
+        "rank_change": 2,
+        "heat_change": -3,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
