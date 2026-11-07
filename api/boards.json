@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:28:13",
+  "generated_at": "2026-11-07T08:43:25",
   "boards": [
     {
       "slug": "boy-hot-date",
@@ -9,10 +9,11 @@
       "type_name": "大热榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "东方玄幻",
+        "古典仙侠",
         "商战职场",
         "幻想修真",
         "架空历史",
@@ -29,7 +30,7 @@
       "type_name": "大热榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -50,13 +51,12 @@
       "type_name": "新书榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "东方玄幻",
         "古典仙侠",
         "商战职场",
-        "幻想修真",
         "架空历史",
         "衍生同人",
         "都市生活",
@@ -72,14 +72,14 @@
       "type_name": "新书榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "东方玄幻",
         "商战职场",
         "架空历史",
-        "热血校园",
         "虚拟网游",
+        "衍生同人",
         "都市生活",
         "都市高手",
         "都市高武"
@@ -93,7 +93,7 @@
       "type_name": "完结榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -115,7 +115,7 @@
       "type_name": "完结榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -138,7 +138,7 @@
       "type_name": "收藏榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -159,7 +159,7 @@
       "type_name": "更新榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "东方玄幻",
@@ -181,7 +181,7 @@
       "type_name": "大热榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "古代情缘",
@@ -198,7 +198,7 @@
       "type_name": "大热榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "古代情缘",
@@ -216,7 +216,7 @@
       "type_name": "新书榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "古代情缘",
@@ -236,14 +236,16 @@
       "type_name": "新书榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "古代情缘",
         "宫闱宅斗",
         "年代重生",
+        "异世幻想",
         "总裁豪门",
         "末世求生",
+        "玄幻仙侠",
         "种田经商",
         "职场情缘"
       ]
@@ -256,7 +258,7 @@
       "type_name": "完结榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "古代情缘",
@@ -276,7 +278,7 @@
       "type_name": "完结榜",
       "period": "month",
       "period_name": "月榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "古代情缘",
@@ -294,7 +296,7 @@
       "type_name": "收藏榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "古代情缘",
@@ -312,14 +314,13 @@
       "type_name": "更新榜",
       "period": "date",
       "period_name": "日榜",
-      "latest_date": "2026-11-06",
+      "latest_date": "2026-11-07",
       "book_count": 20,
       "categories": [
         "古代情缘",
         "娱乐明星",
         "宫闱宅斗",
         "年代重生",
-        "异世幻想",
         "总裁豪门",
         "民国旧影",
         "现代悬疑",

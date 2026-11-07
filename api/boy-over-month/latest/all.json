@@ -8,8 +8,8 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-06",
-  "prev_date": "2026-11-05",
+  "date": "2026-11-07",
+  "prev_date": "2026-11-06",
   "books": [
     {
       "rank": 1,
@@ -95,7 +95,7 @@
       "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
-      "stale_update": false,
+      "stale_update": true,
       "category": "幻想修真"
     },
     {
@@ -285,15 +285,15 @@
       "minor_id": 58,
       "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
       "status": "连载中",
-      "word_count_text": "209.08万字",
-      "word_count": 2090800,
+      "word_count_text": "209.7万字",
+      "word_count": 2097000,
       "heat": 3308000,
       "platform_trend": "drop",
       "badge": "",
       "intro": "秦遇穿越大宁王朝，却因一记猴子偷桃而得罪冷血嗜杀的女帝。\n从此，女帝成为了他挥之不去的梦魇。\n直到有一天，他意外发现了自己与女帝痛觉相通的秘密。\n秦遇“桀桀”怪笑：陛下，从今往后，攻守易势了！",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3280/9839805_360x480.jpg?time=1772734262",
-      "latest_chapter": " 第956章  人死如灯灭",
-      "updated_at": "2026-11-06 00:07:13",
+      "latest_chapter": " 第959章  实验室",
+      "updated_at": "2026-11-07 00:07:14",
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
@@ -845,15 +845,15 @@
           "minor_id": 58,
           "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
           "status": "连载中",
-          "word_count_text": "209.08万字",
-          "word_count": 2090800,
+          "word_count_text": "209.7万字",
+          "word_count": 2097000,
           "heat": 3308000,
           "platform_trend": "drop",
           "badge": "",
           "intro": "秦遇穿越大宁王朝，却因一记猴子偷桃而得罪冷血嗜杀的女帝。\n从此，女帝成为了他挥之不去的梦魇。\n直到有一天，他意外发现了自己与女帝痛觉相通的秘密。\n秦遇“桀桀”怪笑：陛下，从今往后，攻守易势了！",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3280/9839805_360x480.jpg?time=1772734262",
-          "latest_chapter": " 第956章  人死如灯灭",
-          "updated_at": "2026-11-06 00:07:13",
+          "latest_chapter": " 第959章  实验室",
+          "updated_at": "2026-11-07 00:07:14",
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
@@ -1118,7 +1118,7 @@
           "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
-          "stale_update": false,
+          "stale_update": true,
           "category": "幻想修真"
         }
       ]

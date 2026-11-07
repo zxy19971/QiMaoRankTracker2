@@ -8,44 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 2,
-    "total_heat": 271000,
+    "total_heat": 258000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "棺生煞骨，凰女血伞定山河",
-          "book_id": 13093449,
-          "intro": "【玄学+爽文+扮猪吃虎+宅斗+病秧子】\n传闻镇国公府供奉着一把上古神器血纸伞，\n里面藏着长安数万将士的英魂，\n多年来无人能打开。\n却被苏家那个痴傻的棺生女苏无恙轻而易举地撑在头顶。\n百鬼哭嚎，天地色变"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "地狱归，驭百鬼，王妃回京后杀疯了",
-          "book_id": 13123449,
-          "rank_change": 1
-        }
-      ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "嫡姐惨死？她抬棺杀疯京城！",
           "book_id": 13021647,
-          "heat_change": -23000
+          "heat_change": -20000
         },
         {
           "title": "地狱归，驭百鬼，王妃回京后杀疯了",
           "book_id": 13123449,
-          "heat_change": 9000
+          "heat_change": 7000
         }
       ],
-      "summary": "「古代情缘」《棺生煞骨，凰女血伞定山河》 掉出榜单；《地狱归，驭百鬼，王妃回京后杀疯了》上升1位领涨；《嫡姐惨死？她抬棺杀疯京城！》热度-23000。",
+      "summary": "「古代情缘」《嫡姐惨死？她抬棺杀疯京城！》热度-20000。",
       "ai_source": "rule"
     },
     "books": [
@@ -62,17 +50,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.35万字",
-        "word_count": 423500,
-        "heat": 213000,
+        "word_count_text": "42.82万字",
+        "word_count": 428200,
+        "heat": 193000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "女强爽文+打脸虐渣+复仇+马甲\n宋南枝嫡姐被人凌辱致死，婆家以七出之罪将她尸体送回将军府。\n祖母以有辱门风之名，不准嫡姐下葬！\n宋南枝教他们做人！\n镇国公世子毁背信弃义，娶平妻，辱阿姐？\n宋南枝当众废了他，让他断子绝孙。\n她手执长剑矗立于风中，“萧世子，你要好好活着，我替阿姐祝你多子多福。”\n镇国公告御状，皇上亲自拿人。\n宋南枝“皇上，您缺钱吗？”\n皇上大怒，谁人不知他是周边几国最穷的皇上？\n宋南枝这是拿刀戳他的心口。\n然而，不等他发作，宋南枝掏出一堆银票，“五百万两，买皇上睁只眼闭只眼。”\n皇上激动的手在颤抖。\n五百万两！！\n足以支撑北雁国十年的五百万两！\n这哪是传闻中的女魔头？\n分明是他的财神爷！\n宋南枝犯下滔天祸事，老夫人要将她逐出家门。\n宋南枝慵懒的斜靠在躺椅上，“祖母年纪大了，不宜掌家，日后安心养老吧！”\n有人花五百万两买摄政王一条命。\n宋南枝唇角微勾，“杀我男人？去，把下单之人送去喂狗！”\n郡主公主以权欺人。\n宋南枝婢女反手卸了对方手脚，“我家小姐身娇体弱，各位贵女还是管好自己的手，免得断手断脚，不划算。”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4341/13021647_360x480.jpg?time=1793844965",
-        "latest_chapter": " 第185章  南枝，我可以留在这里吗？",
-        "updated_at": "2026-11-05 14:47:03",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4341/13021647_360x480.jpg?time=1793985815",
+        "latest_chapter": " 第187章  难民抢食",
+        "updated_at": "2026-11-06 22:41:03",
         "rank_change": 0,
-        "heat_change": -23000,
+        "heat_change": -20000,
         "is_new": false,
         "boards_count": 4,
         "stale_update": false,
@@ -91,17 +79,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.84万字",
-        "word_count": 378400,
-        "heat": 58000,
+        "word_count_text": "38.27万字",
+        "word_count": 382700,
+        "heat": 65000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "江黎在大婚日被未婚夫送来保护她的暗卫灌毒酒，被舅舅一家剥了脸皮，最后九根镇魂钉将她钉死在梨树下。\n\n　　阴差阳错之下，体内尘封的玄医灵脉被打通，可她的肉身被毁，魂魄进入了镇西侯府大小姐江离的身体。\n\n　　从此世间再无郡主江黎，只有侯府嫡女江离。\n\n　　江离的仇，她来报。\n\n　　只是她惊觉，长公主无法安息的夭折麟儿、皇后寝宫夜半呜咽的屏风、太子身后阴魂不散的无头厉鬼，一桩桩血海冤孽，幕后推手竟然全是残害她并夺走她容貌的舅舅一家人。\n\n　　换一张皮囊，怀满腔仇火，她驱使阴鬼步步布局。\n\n　　要让这群敲骨吸髓的恶人，加倍偿还剥皮钉魂之痛！\n\n　　……\n\n　　世人只知摄政王梁昼沉大权在握，杀伐果断。\n\n　　可无人知道入夜后，他将侯府大小姐按在榻上，吻上她眼尾的一点泪痣，白日里清冷疏离的眸子染着欲色的暗沉，动作越发放肆。\n\n　　“阿黎，求求你看看我，好不好？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4375/13123449_360x480.jpg?time=1787731531",
-        "latest_chapter": " 第172章  我女儿是不是死在去年中元节了",
-        "updated_at": "2026-11-06 02:02:03",
-        "rank_change": 1,
-        "heat_change": 9000,
+        "latest_chapter": " 第174章  我妻子的魂魄不可解瘟疫！",
+        "updated_at": "2026-11-07 02:02:03",
+        "rank_change": 0,
+        "heat_change": 7000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

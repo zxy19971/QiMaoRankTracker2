@@ -8,26 +8,21 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "category": {
     "name": "娱乐明星",
     "major": "现代言情",
     "count": 1,
     "total_heat": 0,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "全网黑上恋综后，我爆红了",
-          "book_id": 12265578
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「娱乐明星」新上榜 《全网黑上恋综后，我爆红了》。",
+      "summary": "「娱乐明星」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -48,14 +43,14 @@
         "word_count": 754300,
         "heat": 0,
         "platform_trend": "",
-        "badge": "",
+        "badge": "蝉联榜首",
         "intro": "【娱乐圈+恋综直播+嘴替女主+黑红逆袭+甜宠爽文】\n十八线女明星宋尔尔被公司塞进恋综当炮灰，节目组想拿她祭天，前任想踩她洗白，黑粉等着看她翻车。\n结果直播第一天，宋尔尔彻底不装了。\n男嘉宾问她理想型，她认真回答：“活的，男的，不借钱的。”\n主持人让她评价前任，她微笑：“他像二维码，不扫不知道多恶心。”\n全网原本准备开骂，结果越看越上头：姐，你别退圈了，互联网不能没有你！\n从万人嫌到全网亲友团，宋尔尔靠一张嘴癫翻恋综，也顺手把那个高冷影帝拐回了家。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4089/12265578_360x480.jpg?time=1793589222",
         "latest_chapter": " 第362章  顾南舟的独白4",
         "updated_at": "2026-11-01 23:53:05",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "娱乐明星"

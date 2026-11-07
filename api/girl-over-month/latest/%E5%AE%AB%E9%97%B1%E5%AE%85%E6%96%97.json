@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
@@ -138,7 +138,7 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 4,
+        "boards_count": 3,
         "stale_update": true,
         "category": "宫闱宅斗"
       },

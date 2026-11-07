@@ -1,0 +1,303 @@
+{
+  "date": "2026-11-07",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 2,
+    "total_heat": 47,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283
+          },
+          {
+            "title": "宫女朔宁",
+            "book_id": 12315174
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "劝爹入赘公主府，玄学嫡女被团宠",
+            "book_id": 13123386,
+            "intro": "【双重生+玄学甜爽+换府改命对照组】\n前世，爹娘和离，顾令窈因“荣华富贵命”随母改嫁入侯府。\n母亲为了讨好侯府，调换了她与继姐的命格。侯府因此荣光，继父升爵，继兄从龙之功，继姐成了皇后。\n可她却被百鬼"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "rank_change": 1
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "母凭女贵",
+            "book_id": 12800205,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "heat_change": -1
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "heat_change": 1
+          },
+          {
+            "title": "母凭女贵",
+            "book_id": 12800205,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「宫闱宅斗」新上榜 《皇叔借点功德，王妃把符画猛了》、《宫女朔宁》；《劝爹入赘公主府，玄学嫡女被团宠》 掉出榜单；《朱门春闺》上升1位领涨；《母凭女贵》下滑1位；《侯爷绝嗣？好孕丫鬟又又又是喜脉》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902,
+            "rank_change": 2
+          },
+          {
+            "title": "为她失控",
+            "book_id": 13425795,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": -2
+          },
+          {
+            "title": "白天刚孕吐，晚上前夫就敲门求复婚",
+            "book_id": 13193829,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902,
+            "heat_change": -4
+          },
+          {
+            "title": "渣男骗婚？顶级大佬上门求名分",
+            "book_id": 13344123,
+            "heat_change": -1
+          },
+          {
+            "title": "为她失控",
+            "book_id": 13425795,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「总裁豪门」《疯犬玫瑰》上升2位领涨；《她玩火》下滑2位；《疯犬玫瑰》热度-4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "山神在上，阴棺见喜",
+            "book_id": 12752880,
+            "rank_change": -2
+          },
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "山神在上，阴棺见喜",
+            "book_id": 12752880,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「都市奇幻」《山神在上，阴棺见喜》下滑2位；《山神在上，阴棺见喜》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「古代情缘」《新婚夜流放，飒爽太子妃种出西北大仓！》上升5位领涨；《新婚夜流放，飒爽太子妃种出西北大仓！》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代悬疑",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "天定阴缘，开棺赐福",
+            "book_id": 13478442,
+            "rank_change": -5
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "天定阴缘，开棺赐福",
+            "book_id": 13478442,
+            "heat_change": -7
+          }
+        ],
+        "summary": "「现代悬疑」《天定阴缘，开棺赐福》下滑5位；《天定阴缘，开棺赐福》热度-7。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "国医圣手穿七零，重生军少求上位",
+            "book_id": 13352190,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "国医圣手穿七零，重生军少求上位",
+            "book_id": 13352190,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「年代重生」《国医圣手穿七零，重生军少求上位》下滑3位；《国医圣手穿七零，重生军少求上位》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "民国旧影",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "容少帅，强娶美人请你节制！",
+            "book_id": 13298463,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "容少帅，强娶美人请你节制！",
+            "book_id": 13298463,
+            "heat_change": -7
+          }
+        ],
+        "summary": "「民国旧影」《容少帅，强娶美人请你节制！》下滑3位；《容少帅，强娶美人请你节制！》热度-7。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "大雪封山闹饥荒，福宝开挂富全村",
+            "book_id": 13264440,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「种田经商」《大雪封山闹饥荒，福宝开挂富全村》上升1位领涨；《大雪封山闹饥荒，福宝开挂富全村》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "娱乐明星",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「娱乐明星」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,22 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "category": {
     "name": "古典仙侠",
     "major": "武侠仙侠",
-    "count": 1,
-    "total_heat": 13000,
+    "count": 2,
+    "total_heat": 25000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "大道仙炉",
+          "book_id": 13309743
+        }
+      ],
       "dropped_books": [],
       "top_risers": [
         {
           "title": "长生隐仙",
           "book_id": 13425288,
-          "rank_change": 2
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
@@ -34,12 +39,12 @@
           "heat_change": 1000
         }
       ],
-      "summary": "「古典仙侠」《长生隐仙》上升2位领涨；《长生隐仙》热度+1000。",
+      "summary": "「古典仙侠」新上榜 《大道仙炉》；《长生隐仙》上升1位领涨；《长生隐仙》热度+1000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 15,
         "title": "长生隐仙",
         "book_id": 13425288,
         "url": "https://www.qimao.com/shuku/13425288/",
@@ -51,18 +56,47 @@
         "minor_id": 52,
         "minor_url": "https://www.qimao.com/shuku/a-205-52-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "24.55万字",
-        "word_count": 245500,
-        "heat": 13000,
+        "word_count_text": "24.95万字",
+        "word_count": 249500,
+        "heat": 14000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【凡人修仙】【长生流】【无系统】【苟道无敌】【有血有肉】【忍无可忍，则无需再忍】\n永生者林奇，本打算静静苟过万年。\n直到一名凡人老者，赠他一碗热面，一袭书生袍，轻声道一句：“留下吧。”\n他死了。那是林奇第一次落泪。\n漫长岁月里他渐渐懂得：永生是蛰伏苟存，生命却是激情和不屈。\n悠悠万载，始终是当年那一碗热面，让他未曾冷漠成一块顽石，心底长存那一丝，属于人类的温热。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4476/13425288_360x480.jpg?time=1792569254",
-        "latest_chapter": " 第115章  虫母的庇佑",
-        "updated_at": "2026-11-05 10:48:03",
-        "rank_change": 2,
+        "latest_chapter": " 第117章  准备搬家",
+        "updated_at": "2026-11-06 10:47:03",
+        "rank_change": 1,
         "heat_change": 1000,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "古典仙侠"
+      },
+      {
+        "rank": 20,
+        "title": "大道仙炉",
+        "book_id": 13309743,
+        "url": "https://www.qimao.com/shuku/13309743/",
+        "author": "林冰炎",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%9E%97%E5%86%B0%E7%82%8E_14/",
+        "major": "武侠仙侠",
+        "minor": "古典仙侠",
+        "major_id": 205,
+        "minor_id": 52,
+        "minor_url": "https://www.qimao.com/shuku/a-205-52-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "32.33万字",
+        "word_count": 323300,
+        "heat": 11000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "一朝穿成苍云宗杂役，随时都会被杀，偏遇上疯批师姐　，甩锅杀人不眨眼……\n李元最大的梦想，是早日晋升正式弟子　，像人一样活着，奈何资质平庸，缺乏资源。\n偶然发现神秘小黑罐，废丹放进去，转眼变成极品丹药……\n一夜突破，拿捏师姐，修法炼丹　，问道长生　，从此踏上一条无敌仙路！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4437/13309743_360x480.jpg?time=1787913390",
+        "latest_chapter": " 第151章  连宗门圣子都敢坑！",
+        "updated_at": "2026-11-06 22:55:05",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "古典仙侠"

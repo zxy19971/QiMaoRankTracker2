@@ -1,0 +1,271 @@
+{
+  "date": "2026-11-07",
+  "board": "boy-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 132850,
+    "total_heat": 2657000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "极道剑尊",
+            "book_id": 219040,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "武逆九千界",
+            "book_id": 215086,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "极道剑尊",
+            "book_id": 219040,
+            "heat_change": 11000
+          },
+          {
+            "title": "武逆九千界",
+            "book_id": 215086,
+            "heat_change": -8000
+          },
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "「东方玄幻」《极道剑尊》上升2位领涨；《武逆九千界》下滑1位；《极道剑尊》热度+11000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "世子无双",
+            "book_id": 1860026
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "打到北极圈了，你让我继承皇位？",
+            "book_id": 1864493,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "打到北极圈了，你让我继承皇位？",
+            "book_id": 1864493,
+            "heat_change": -2000
+          },
+          {
+            "title": "无敌六皇子",
+            "book_id": 1747899,
+            "heat_change": -1000
+          },
+          {
+            "title": "天命纨绔",
+            "book_id": 9839805,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「架空历史」新上榜 《世子无双》；《打到北极圈了，你让我继承皇位？》下滑1位；《打到北极圈了，你让我继承皇位？》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "小司机的美女总裁老婆",
+            "book_id": 2052700,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "镇天神医",
+            "book_id": 1675640,
+            "heat_change": -2000
+          },
+          {
+            "title": "警报！龙国出现SSS级修仙者！",
+            "book_id": 1812053,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「都市高武」《小司机的美女总裁老婆》上升1位领涨；《镇天神医》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "heat_change": -3000
+          },
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「奇门秘术」《山野诡闻笔记》上升1位领涨；《民间诡闻实录》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "师叔，你的法宝太不正经了",
+            "book_id": 1867139,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「幻想修真」《师叔，你的法宝太不正经了》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "男人野性",
+            "book_id": 2023697,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "男人野性",
+            "book_id": 2023697,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「商战职场」《男人野性》下滑1位；《男人野性》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「末世危机」《全球灾变之末日游戏》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+            "book_id": 2027749,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「异世大陆」《刚抽中SSS级天赋，你跟我说游戏停服》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "我和软萌女友的恋爱日常",
+            "book_id": 214789,
+            "intro": "甜甜的治愈文，带你重回校园时代！"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "重生2000：从追求青涩校花同桌开始",
+            "book_id": 1758273,
+            "heat_change": -4000
+          }
+        ],
+        "summary": "「热血校园」《我和软萌女友的恋爱日常》 掉出榜单；《重生2000：从追求青涩校花同桌开始》热度-4000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

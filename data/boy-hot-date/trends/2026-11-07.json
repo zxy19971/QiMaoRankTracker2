@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-07",
+  "board": "boy-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 374400,
+    "total_heat": 7488000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "混沌塔",
+            "book_id": 1767940
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": -9000
+          },
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "heat_change": 4000
+          },
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「东方玄幻」新上榜 《混沌塔》；《葬天神帝》上升1位领涨；《吞天神体》热度-9000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "诗仙，诗圣，镇国公！",
+            "book_id": 11834034,
+            "intro": "陈长安穿越大宁王朝，成为被赶出家门的侍郎嫡子。\n继母陷害，亲爹驱逐。\n本来只想做点小生意，潇洒的过完这一生，没想到……\n女帝背后的男人，全城花魁的知己，天下少女的梦中情郎。陈长安：没错，这是我。\n贪官"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "让你当个替身，你咋君临天下",
+            "book_id": 12647139,
+            "heat_change": 27000
+          },
+          {
+            "title": "边军悍卒",
+            "book_id": 1882754,
+            "heat_change": 4000
+          },
+          {
+            "title": "夫人在上！",
+            "book_id": 12465015,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「架空历史」《诗仙，诗圣，镇国公！》 掉出榜单；《让你当个替身，你咋君临天下》热度+27000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "逼我新婚冲喜，丑妻变仙女！",
+            "book_id": 11675421,
+            "intro": "瞎眼五年，陆尘受尽屈辱，家产被大伯一家霸占，最后还被当成弃子，迎娶毁容丑女冲喜。\n所有人都笑他是瞎子配丑八怪，天生一对。\n殊不知，他身负《纯阳天经》，五年封印一朝破碎，重开通天灵眼，修为盖世无敌！\n新"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "heat_change": -18000
+          },
+          {
+            "title": "警报！真龙出狱！",
+            "book_id": 1834789,
+            "heat_change": -2000
+          },
+          {
+            "title": "舔狗反派只想苟，女主不按套路走！",
+            "book_id": 1710753,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「都市高手」《逼我新婚冲喜，丑妻变仙女！》 掉出榜单；《傲世潜龙》下滑1位；《傲世潜龙》热度-18000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "盖世神医",
+            "book_id": 195958,
+            "heat_change": -10000
+          }
+        ],
+        "summary": "「都市高武」《盖世神医》热度-10000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "桃花劫",
+            "book_id": 2028957,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "「商战职场」《桃花劫》热度+4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "王朝争霸",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "大周第一武夫",
+            "book_id": 2074426,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「王朝争霸」《大周第一武夫》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "师叔，你的法宝太不正经了",
+            "book_id": 1867139,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「幻想修真」《师叔，你的法宝太不正经了》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "快老死了，圣女上门赐仙缘",
+            "book_id": 12670524
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古典仙侠」新上榜 《快老死了，圣女上门赐仙缘》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

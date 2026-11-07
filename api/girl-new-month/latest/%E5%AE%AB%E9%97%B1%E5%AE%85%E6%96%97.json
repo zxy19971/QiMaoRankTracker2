@@ -8,26 +8,37 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
-    "count": 1,
-    "total_heat": 1244000,
+    "count": 2,
+    "total_heat": 1814000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "神算王妃薅功德，转嫁绝嗣皇叔一胎三宝",
+          "book_id": 11718921
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "皇上开门，福宝带物资来送温暖啦",
+          "book_id": 12856758,
+          "rank_change": 3
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「宫闱宅斗」榜单结构稳定，无明显变动。",
+      "summary": "「宫闱宅斗」新上榜 《神算王妃薅功德，转嫁绝嗣皇叔一胎三宝》；《皇上开门，福宝带物资来送温暖啦》上升3位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 9,
         "title": "皇上开门，福宝带物资来送温暖啦",
         "book_id": 12856758,
         "url": "https://www.qimao.com/shuku/12856758/",
@@ -39,19 +50,48 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.9万字",
-        "word_count": 419000,
+        "word_count_text": "42.31万字",
+        "word_count": 423100,
         "heat": 1244000,
         "platform_trend": "rise",
-        "badge": "飙升14名",
+        "badge": "飙升17名",
         "intro": "【萌宝、通古今、团宠、治愈异能】\n暖暖是带着治愈异能出生的。\n亲生父母嫌弃她奇怪，离婚后把她一个人留在老房子里。\n她抱着祖传的铜镜，意外穿越到了古代。\n小将军身中剧毒，她刚好能治！\n百姓吃不饱饭，别怕，她能从现代带来红薯和土豆！\n老太傅眼睛看不清，她回去买个老花镜带过来！\n后宫嫔妃宫斗严重，来点香水和口红，所有人开始闭门研究化妆！\n皇上太稀罕她了，非要封她做公主。\n皇子公主们不同意，暖暖抱来一堆零食奶茶，通通收买！\n皇宫上下再也没有一个反对的声音，所有人都在盼着暖暖什么时候过来。\n暖暖抱着一堆古董回去，住进大别墅，还被顶级豪门收养做继承人。\n之前抛弃她争抢姐姐的父母知道后，肠子都悔青了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4286/12856758_360x480.jpg?time=1793757131",
-        "latest_chapter": " 第206章  我会砍价呀",
-        "updated_at": "2026-11-05 23:57:05",
-        "rank_change": 0,
+        "latest_chapter": " 第208章  不要过来啊",
+        "updated_at": "2026-11-07 00:02:05",
+        "rank_change": 3,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
+        "stale_update": false,
+        "category": "宫闱宅斗"
+      },
+      {
+        "rank": 20,
+        "title": "神算王妃薅功德，转嫁绝嗣皇叔一胎三宝",
+        "book_id": 11718921,
+        "url": "https://www.qimao.com/shuku/11718921/",
+        "author": "折纸星",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%8A%98%E7%BA%B8%E6%98%9F_14/",
+        "major": "古代言情",
+        "minor": "宫闱宅斗",
+        "major_id": 2,
+        "minor_id": 209,
+        "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "45.99万字",
+        "word_count": 459900,
+        "heat": 570000,
+        "platform_trend": "rise",
+        "badge": "飙升22名",
+        "intro": "【双洁+先婚后爱+玄学改命+全员团宠+打脸虐渣+疯批皇叔独宠】\n世人都说靖王绝嗣，终生无后，皇帝怜惜，朝野叹惋。\n一朝赐婚，人人都等着看楚云汐的笑话。\n嫁个不能生育的皇叔，这辈子只能守活寡。\n新婚夜，楚云汐捂着腰，瞪着眼前男人怒声质问：“传闻你不是不行吗？！”\n——\n青梅竹马的未婚夫中了探花，转头就攀附权贵、背信弃义。\n贪图她身后丰厚的嫁妆，他联手至亲布下弥天骗局，一纸婚书哄骗楚云汐千里上京，最后只为逼她为妾，困于樊笼。\n世人皆叹楚云汐痴心错付，命途可悲。\n可无人知晓，险遭算计、半路被掳，即将被卖入深山为共妻的躯壳里，早已换了灵魂。\n取而代之的，是二十二世纪唯一正统玄学传人，精通风水命理、卜卦改运、驱邪镇煞的顶级大佬楚云汐！\n蓝玉扳指现世，逆天改命，她一朝重生，断绝烂桃花，手撕负心汉，从此风生水起！\n算尽天机的她，唯独算不透那位权倾朝野的病娇皇叔——萧玦尘。\n人前，他孱弱清冷、与世无争，一副疏离寡淡模样。\n人后，他偏执黏人，夜夜缠她解惑，步步诱婚，将所有温柔与偏爱，尽数锁予她一人。\n“世人皆言我命不久矣，唯独阿汐，敢逆天护我，既救我性命，便要以身相许，余生不准逃离。”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3907/11718921_360x480.jpg?time=1790672452",
+        "latest_chapter": " 第199章  萧尘玦耍流氓！",
+        "updated_at": "2026-11-07 07:52:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
         "stale_update": false,
         "category": "宫闱宅斗"
       }

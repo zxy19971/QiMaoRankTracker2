@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "category": {
     "name": "民国旧影",
     "major": "现代言情",
     "count": 1,
-    "total_heat": 10,
+    "total_heat": 3,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "容少帅，强娶美人请你节制！",
-          "book_id": 13298463
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「民国旧影」新上榜 《容少帅，强娶美人请你节制！》。",
+      "top_fallers": [
+        {
+          "title": "容少帅，强娶美人请你节制！",
+          "book_id": 13298463,
+          "rank_change": -3
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "容少帅，强娶美人请你节制！",
+          "book_id": 13298463,
+          "heat_change": -7
+        }
+      ],
+      "summary": "「民国旧影」《容少帅，强娶美人请你节制！》下滑3位；《容少帅，强娶美人请你节制！》热度-7。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 17,
         "title": "容少帅，强娶美人请你节制！",
         "book_id": 13298463,
         "url": "https://www.qimao.com/shuku/13298463/",
@@ -44,18 +51,18 @@
         "minor_id": 12,
         "minor_url": "https://www.qimao.com/shuku/a-1-12-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.38万字",
-        "word_count": 343800,
-        "heat": 10,
-        "platform_trend": "rise",
+        "word_count_text": "35.37万字",
+        "word_count": 353700,
+        "heat": 3,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【强娶豪夺　+体型差　+疯批醋王+追妻火葬场+　年龄差+架空民国】\n【冷面军阀州长少帅×坚韧绝色旗袍美人】\n华城第一美人池宥梨刚嫁进闻家半年，丈夫就死了。\n从风光的大少奶奶变成寡妇，众人都等着看她被残暴冷戾的闻家二少赶出去。\n可没人知道，那位从不近女色的州长二少，却夜夜潜入她的房间！\n“我和他，谁更厉害？”\n容鹤聿觉得自己一定是疯了，才会对一个只见过两面的女人动心。\n池宥梨抗拒他，他就偏要把她娶到手！\n“咔哒”一声。\n池宥梨发现自己的右手腕被一副手铐铐住。\n接着是皮带扣弹开的声响，另一只手被皮带一圈圈缠绕。\n池宥梨：“容鹤聿，你疯了吗？放开我！”\n容鹤聿：“嘘，等会多的是时间让你骂。”\n池宥梨越想越后悔，平白惹来一头狼，还是一头会吃人的狼。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4433/13298463_360x480.jpg?time=1787883738",
-        "latest_chapter": " 第124章  池小姐，你今晚归我！",
-        "updated_at": "2026-11-05 10:02:05",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第126章  我想娶的，至始至终只有池宥梨！",
+        "updated_at": "2026-11-06 10:02:04",
+        "rank_change": -3,
+        "heat_change": -7,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "民国旧影"

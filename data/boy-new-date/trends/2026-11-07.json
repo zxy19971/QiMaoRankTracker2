@@ -1,0 +1,278 @@
+{
+  "date": "2026-11-07",
+  "board": "boy-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 33450,
+    "total_heat": 669000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "边关第一杀神",
+            "book_id": 13428687
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "让你当个纨绔，你咋毒谋天下",
+            "book_id": 13400022,
+            "rank_change": -3
+          },
+          {
+            "title": "寇天子",
+            "book_id": 12817968,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "寇天子",
+            "book_id": 12817968,
+            "heat_change": -8000
+          },
+          {
+            "title": "咱家世代从军，到你这成文圣了？",
+            "book_id": 13194165,
+            "heat_change": -4000
+          },
+          {
+            "title": "让你当个纨绔，你咋毒谋天下",
+            "book_id": 13400022,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「架空历史」新上榜 《边关第一杀神》；《让你当个纨绔，你咋毒谋天下》下滑3位；《寇天子》热度-8000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "下山第一天，逮个美女总裁暴力宠",
+            "book_id": 13008696,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "血脉觉醒后，美女总裁赖上我",
+            "book_id": 13089795,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "我的倾城野妻",
+            "book_id": 12973059,
+            "heat_change": -13000
+          },
+          {
+            "title": "血脉觉醒后，美女总裁赖上我",
+            "book_id": 13089795,
+            "heat_change": -2000
+          },
+          {
+            "title": "真龙下山，我体内有头绝世凶兽",
+            "book_id": 13335867,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「都市高手」《下山第一天，逮个美女总裁暴力宠》上升2位领涨；《血脉觉醒后，美女总裁赖上我》下滑1位；《我的倾城野妻》热度-13000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "荒淫无道？我那是拯救快散的宗门！",
+            "book_id": 13611585,
+            "rank_change": 7
+          },
+          {
+            "title": "魔天鼎：我能炼化万物",
+            "book_id": 13297746,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "凡人修仙：从造化万物开始",
+            "book_id": 13016304,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "荒淫无道？我那是拯救快散的宗门！",
+            "book_id": 13611585,
+            "heat_change": 6000
+          },
+          {
+            "title": "魔天鼎：我能炼化万物",
+            "book_id": 13297746,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「东方玄幻」《荒淫无道？我那是拯救快散的宗门！》上升7位领涨；《凡人修仙：从造化万物开始》下滑2位；《荒淫无道？我那是拯救快散的宗门！》热度+6000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "都市极品狂龙！",
+            "book_id": 13012533,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "都市大猛仙",
+            "book_id": 12947607,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "都市极品狂龙！",
+            "book_id": 13012533,
+            "heat_change": 2000
+          },
+          {
+            "title": "都市大猛仙",
+            "book_id": 12947607,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「都市高武」《都市极品狂龙！》上升2位领涨；《都市大猛仙》下滑1位；《都市极品狂龙！》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "红妆贵人",
+            "book_id": 13231977,
+            "intro": "我是老板的司机，为了给妹妹续命，老板让我去酒店替他顶雷——他老婆来捉奸。\n老板娘推开门，把我们堵在床上。\n她没打没闹，只是笑：“演，继续演。演得像，我给你们活路。”\n那一夜我为了活命把戏做全套，结果第"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "重生72：三枪轰出万元户！",
+            "book_id": 13340145,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「都市生活」《红妆贵人》 掉出榜单；《重生72：三枪轰出万元户！》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "大道仙炉",
+            "book_id": 13309743
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "长生隐仙",
+            "book_id": 13425288,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "长生隐仙",
+            "book_id": 13425288,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「古典仙侠」新上榜 《大道仙炉》；《长生隐仙》上升1位领涨；《长生隐仙》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "heat_change": -9000
+          }
+        ],
+        "summary": "「商战职场」《野性攀登》热度-9000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "衍生同人",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "四合院：杀禽抢房，战天斗地！",
+            "book_id": 13418244,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「衍生同人」《四合院：杀禽抢房，战天斗地！》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
