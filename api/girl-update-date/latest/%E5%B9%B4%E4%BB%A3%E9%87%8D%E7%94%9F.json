@@ -8,33 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
-    "count": 1,
-    "total_heat": 3,
+    "count": 2,
+    "total_heat": 6,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "new_books": [
         {
-          "title": "国医圣手穿七零，重生军少求上位",
-          "book_id": 13352190,
-          "rank_change": -3
+          "title": "带着空间去下乡，生财暴富撩糙汉！",
+          "book_id": 13470801
         }
       ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "国医圣手穿七零，重生军少求上位",
           "book_id": 13352190,
-          "heat_change": 1
+          "heat_change": -3
         }
       ],
-      "summary": "「年代重生」《国医圣手穿七零，重生军少求上位》下滑3位；《国医圣手穿七零，重生军少求上位》热度+1。",
+      "summary": "「年代重生」新上榜 《带着空间去下乡，生财暴富撩糙汉！》；《国医圣手穿七零，重生军少求上位》热度-3。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,18 +50,47 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.12万字",
-        "word_count": 391200,
-        "heat": 3,
-        "platform_trend": "drop",
+        "word_count_text": "39.78万字",
+        "word_count": 397800,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "沈明珠穿成七零年代文里的恶毒继姐。\n原主为了抢未婚夫，给继妹下药，结果被继妹反算计，冻死在公社卫生院后院。\n她醒来时，身边却多了一个重伤昏迷的男人。\n按照原书，这人三年后会成为军区最年轻的院长，也是男女主最大的靠山。\n面对即将冲进来的家人，沈明珠果断撕开了眼前男人的衣服。\n继妹哭诉她恶毒？她当众拿出残留药渣。\n后妈想吞她的工作名额？她直接请厂里查档案。\n未婚夫回头求复合？不好意思，她已经带着祖传药柜随军。\n只是男人醒来后，看她的眼神越来越奇怪：“这套针法，我上辈子见你用过。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4451/13352190_360x480.jpg?time=1788341291",
-        "latest_chapter": " 第170章  零下四十度，她徒手缝回一条命",
-        "updated_at": "2026-11-06 20:52:03",
-        "rank_change": -3,
-        "heat_change": 1,
+        "latest_chapter": " 第173章  凯旋返京封神，陆家小院庆功宴",
+        "updated_at": "2026-11-07 21:27:04",
+        "rank_change": 0,
+        "heat_change": -3,
         "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "年代重生"
+      },
+      {
+        "rank": 18,
+        "title": "带着空间去下乡，生财暴富撩糙汉！",
+        "book_id": 13470801,
+        "url": "https://www.qimao.com/shuku/13470801/",
+        "author": "钧壤",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%92%A7%E5%A3%A4_14/",
+        "major": "现代言情",
+        "minor": "年代重生",
+        "major_id": 1,
+        "minor_id": 278,
+        "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "32.36万字",
+        "word_count": 323600,
+        "heat": 6,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【专心向钱女知青×爹系糙汉护林员】\n【甜宠+东北林场+年龄差+追妻+大女主+挣钱暴富】\n穿到1971年，沈鹊应成了被迫下乡的林场知青。\n开局被分到公分最低的五七队，其他人都等着看热闹。\n谁知道，这个城里来的姑娘，居然盯上了整座山！\n桦树皮能作画，废木段能种木耳，林下能养蜂...\n别人眼里的穷山沟，在她眼里全是钱！\n拿到分红的时候，所有人看她的眼神都变了。\n那个从不正眼看人的护林队长谢惟锋，也开始每天路过她门口。\n沈鹊应：搞钱要紧，恋爱往后排。\n谢惟锋：那沈云舟凭什么能靠近你？\n沈鹊应：拜托，他是我哥！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4491/13470801_360x480.jpg?time=1793108192",
+        "latest_chapter": " 第110章  沈鹊应勾引我男人！",
+        "updated_at": "2026-11-07 23:19:05",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"

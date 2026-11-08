@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 60000,
+    "total_heat": 61000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -25,10 +25,10 @@
         {
           "title": "野性攀登",
           "book_id": 13408218,
-          "heat_change": -9000
+          "heat_change": 1000
         }
       ],
-      "summary": "「商战职场」《野性攀登》热度-9000。",
+      "summary": "「商战职场」《野性攀登》热度+1000。",
       "ai_source": "rule"
     },
     "books": [
@@ -45,17 +45,17 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.36万字",
-        "word_count": 463600,
-        "heat": 60000,
-        "platform_trend": "drop",
+        "word_count_text": "47.29万字",
+        "word_count": 472900,
+        "heat": 61000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "地产公司小职员陈爽，为凑巨额彩礼，夜跑代驾，被身份不凡的美女强征，被人误会有背景，从此踏上逆袭之路，上司极品老婆，温柔女领导，娇媚女下属，刁蛮小魔女，各路美女被命运安排，和陈爽走到一起\n被心爱女友背叛，陈爽彻底激发野性，和众美女携手，野性攀峰……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4470/13408218_360x480.jpg?time=1792546689",
-        "latest_chapter": " 第209章  兰月温柔赚陈爽",
-        "updated_at": "2026-11-07 04:02:04",
+        "latest_chapter": " 第213章  屁股都被打肿了",
+        "updated_at": "2026-11-08 04:02:03",
         "rank_change": 0,
-        "heat_change": -9000,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,

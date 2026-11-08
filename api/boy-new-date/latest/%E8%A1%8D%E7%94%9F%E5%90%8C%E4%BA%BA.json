@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "category": {
     "name": "衍生同人",
     "major": "N次元",
@@ -19,21 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "四合院：杀禽抢房，战天斗地！",
           "book_id": 13418244,
-          "rank_change": 1
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「衍生同人」《四合院：杀禽抢房，战天斗地！》上升1位领涨。",
+      "summary": "「衍生同人」《四合院：杀禽抢房，战天斗地！》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 18,
         "title": "四合院：杀禽抢房，战天斗地！",
         "book_id": 13418244,
         "url": "https://www.qimao.com/shuku/13418244/",
@@ -45,16 +45,16 @@
         "minor_id": 239,
         "minor_url": "https://www.qimao.com/shuku/a-207-239-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "24.17万字",
-        "word_count": 241700,
+        "word_count_text": "24.57万字",
+        "word_count": 245700,
         "heat": 12000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "社畜何雨峰接管了傻柱堂哥的身体，回到了那个火红的年代。\n回到四合院时觉醒了大地主系统，一间房子一次奖励，妥妥的爽文系统！\n禽兽们总是惦记别人家房子，现在被何雨峰惦记上也很合理吧？\n“人，我得打，房子，我也要，谁赞成，谁反对？”\n面对一众禽兽，何雨峰双手插兜不知道什么是收敛。\n大地主系统：“讲话了，宿主你别光打，要不嘎几个试试呢？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4473/13418244_360x480.jpg?time=1788942846",
-        "latest_chapter": " 第119章  我这人喜欢犟的",
-        "updated_at": "2026-11-06 10:02:03",
-        "rank_change": 1,
+        "latest_chapter": " 第121章  回头我就锤死你",
+        "updated_at": "2026-11-07 10:02:03",
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

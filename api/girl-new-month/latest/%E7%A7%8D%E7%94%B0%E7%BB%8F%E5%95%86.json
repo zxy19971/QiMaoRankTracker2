@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "category": {
     "name": "种田经商",
     "major": "古代言情",
@@ -16,25 +16,13 @@
     "total_heat": 611000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "悍妇穿边关，一手烂牌打出王炸",
-          "book_id": 12658929,
-          "intro": "【种田+美食+木系+家长里短+先婚后爱+养娃】\n许清禾本是异世界的一缕亡魂，好不容易找到个穿越的机会。\n谁知一睁眼就成了罪臣家的婢女，被官府统一收编往外卖。\n看着集市上那油腻腻的眼神，一股恶心感油然而"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "流民医女：开荒把残夫养成战神",
-          "book_id": 13157514,
-          "rank_change": 3
-        }
-      ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「种田经商」《悍妇穿边关，一手烂牌打出王炸》 掉出榜单；《流民医女：开荒把残夫养成战神》上升3位领涨。",
+      "summary": "「种田经商」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,16 +39,16 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.29万字",
-        "word_count": 382900,
+        "word_count_text": "38.73万字",
+        "word_count": 387300,
         "heat": 611000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【边关开荒+甜宠+先婚后爱+强势逆袭+家里长短+金手指】\n人间清醒女主VS忠犬憨憨男主\n现代首席中草药研究员沈青芜穿成边关流民，为了护住自己和幼弟，被迫嫁给全村唾弃的坡脚退伍军人谢珩。\n所有人都在笑话她嫁给一个废人，注定一辈子苦熬。\n新婚夜，谢珩低声道歉，“和我成亲，委屈你了。”\n沈青芜笑了，这人高马大，八块腹肌，长相硬朗帅气的男人，谁委屈谁还不一定。\n全村家家户户连也野菜都抢？家里顿顿大口吃肉到撑！\n极品亲戚上门抢粮食？沈青芜软硬兼施让他们狼狈滚蛋！\n所有人都以为她只是运气好捡了点吃食，只有沈青芜知道，她手握金手指，进山如进货，而她那不善言辞却护短的夫君，更是她最大的底牌。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4386/13157514_360x480.jpg?time=1786945735",
-        "latest_chapter": " 第182章  有你在，我不怕",
-        "updated_at": "2026-11-06 23:59:03",
-        "rank_change": 3,
+        "latest_chapter": " 第184章  邻里温情",
+        "updated_at": "2026-11-07 22:58:03",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

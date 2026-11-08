@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "types": [
     {
       "name": "全部",
@@ -31,12 +31,12 @@
       "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E9%AB%98%E6%AD%A6.json"
     },
     {
-      "name": "都市生活",
-      "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
-    },
-    {
       "name": "古典仙侠",
       "url": "api/boy-new-date/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
+    },
+    {
+      "name": "都市生活",
+      "url": "api/boy-new-date/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
     },
     {
       "name": "商战职场",

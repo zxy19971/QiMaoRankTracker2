@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
@@ -16,25 +16,13 @@
     "total_heat": 7792000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "春闺小寡妇",
-          "book_id": 12644022,
-          "intro": "丈夫死后，谢如棠成了寡妇。\n婆母让她寻借居在沈府的二爷借种，给她个孩子傍身，对外称是亡夫的遗腹子。\n二爷裴知珩，大理寺卿，冷面阎罗，不容他人攀折的高岭之花。\n他心中早已有高山明月。\n婆母偷偷下春药，逼"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "娇软美人出嫁后",
-          "book_id": 12985077,
-          "rank_change": 2
-        }
-      ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「古代情缘」《春闺小寡妇》 掉出榜单；《娇软美人出嫁后》上升2位领涨。",
+      "summary": "「古代情缘」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,19 +39,19 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.82万字",
-        "word_count": 428200,
+        "word_count_text": "43.33万字",
+        "word_count": 433300,
         "heat": 6326000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "女强爽文+打脸虐渣+复仇+马甲\n宋南枝嫡姐被人凌辱致死，婆家以七出之罪将她尸体送回将军府。\n祖母以有辱门风之名，不准嫡姐下葬！\n宋南枝教他们做人！\n镇国公世子毁背信弃义，娶平妻，辱阿姐？\n宋南枝当众废了他，让他断子绝孙。\n她手执长剑矗立于风中，“萧世子，你要好好活着，我替阿姐祝你多子多福。”\n镇国公告御状，皇上亲自拿人。\n宋南枝“皇上，您缺钱吗？”\n皇上大怒，谁人不知他是周边几国最穷的皇上？\n宋南枝这是拿刀戳他的心口。\n然而，不等他发作，宋南枝掏出一堆银票，“五百万两，买皇上睁只眼闭只眼。”\n皇上激动的手在颤抖。\n五百万两！！\n足以支撑北雁国十年的五百万两！\n这哪是传闻中的女魔头？\n分明是他的财神爷！\n宋南枝犯下滔天祸事，老夫人要将她逐出家门。\n宋南枝慵懒的斜靠在躺椅上，“祖母年纪大了，不宜掌家，日后安心养老吧！”\n有人花五百万两买摄政王一条命。\n宋南枝唇角微勾，“杀我男人？去，把下单之人送去喂狗！”\n郡主公主以权欺人。\n宋南枝婢女反手卸了对方手脚，“我家小姐身娇体弱，各位贵女还是管好自己的手，免得断手断脚，不划算。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4341/13021647_360x480.jpg?time=1793985815",
-        "latest_chapter": " 第187章  难民抢食",
-        "updated_at": "2026-11-06 22:41:03",
+        "latest_chapter": " 第189章  必须尽快拿下衡川城",
+        "updated_at": "2026-11-07 20:11:03",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 4,
+        "boards_count": 3,
         "stale_update": false,
         "category": "古代情缘"
       },
@@ -89,7 +77,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4329/12985077_360x480.jpg?time=1787756544",
         "latest_chapter": " 第182章  融金",
         "updated_at": "2026-11-07 08:11:04",
-        "rank_change": 2,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

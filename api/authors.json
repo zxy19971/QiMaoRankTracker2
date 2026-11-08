@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T08:43:25",
-  "date": "2026-11-07",
+  "generated_at": "2026-11-08T08:18:19",
+  "date": "2026-11-08",
   "authors": [
     {
       "author": "化十",
@@ -29,7 +29,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%9F%A0%E6%AA%AC%E5%B0%8F%E4%B8%B8%E5%AD%90_14/",
       "books": 2,
       "boards": 5,
-      "total_heat": 12012000,
+      "total_heat": 12009000,
       "titles": [
         "被逼自刎，嫡女重生撕婚书覆皇朝",
         "抢姻缘，夺命格？我改嫁摄政王虐翻全族"
@@ -44,6 +44,17 @@
       "titles": [
         "第一凤女",
         "裂春风"
+      ]
+    },
+    {
+      "author": "随山月",
+      "author_url": "https://www.qimao.com/zuozhe/%E9%9A%8F%E5%B1%B1%E6%9C%88_14/",
+      "books": 2,
+      "boards": 6,
+      "total_heat": 6870000,
+      "titles": [
+        "解春衫",
+        "枕边奴"
       ]
     },
     {
@@ -62,7 +73,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%9F%A0%E8%90%8C%E8%8C%B6_14/",
       "books": 2,
       "boards": 2,
-      "total_heat": 3504002,
+      "total_heat": 3504003,
       "titles": [
         "嫌我不孕？另嫁京圈首富一胎又一胎",
         "白天刚孕吐，晚上前夫就敲门求复婚"
@@ -84,7 +95,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2090001,
+      "total_heat": 2090000,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
@@ -175,7 +186,7 @@
       "author": "桃三月",
       "author_url": "https://www.qimao.com/zuozhe/%E6%A1%83%E4%B8%89%E6%9C%88_14/",
       "books": 1,
-      "boards": 4,
+      "boards": 3,
       "total_heat": 15208000,
       "titles": [
         "错嫁随军：新婚夜冷面军少沦陷了"
@@ -299,16 +310,6 @@
       "total_heat": 8684000,
       "titles": [
         "大周第一武夫"
-      ]
-    },
-    {
-      "author": "屠刀成佛",
-      "author_url": "https://www.qimao.com/zuozhe/%E5%B1%A0%E5%88%80%E6%88%90%E4%BD%9B_14/",
-      "books": 1,
-      "boards": 3,
-      "total_heat": 8418000,
-      "titles": [
-        "吞噬九重天"
       ]
     }
   ]

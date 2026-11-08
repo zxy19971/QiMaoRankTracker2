@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 5,
+    "total_heat": 4,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -23,7 +23,7 @@
         {
           "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
           "book_id": 13463133,
-          "rank_change": 5
+          "rank_change": 4
         }
       ],
       "top_fallers": [],
@@ -31,15 +31,15 @@
         {
           "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
           "book_id": 13463133,
-          "heat_change": 2
+          "heat_change": -1
         }
       ],
-      "summary": "「古代情缘」《新婚夜流放，飒爽太子妃种出西北大仓！》上升5位领涨；《新婚夜流放，飒爽太子妃种出西北大仓！》热度+2。",
+      "summary": "「古代情缘」《新婚夜流放，飒爽太子妃种出西北大仓！》上升4位领涨；《新婚夜流放，飒爽太子妃种出西北大仓！》热度-1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 14,
+        "rank": 10,
         "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
         "book_id": 13463133,
         "url": "https://www.qimao.com/shuku/13463133/",
@@ -53,15 +53,15 @@
         "status": "连载中",
         "word_count_text": "38.11万字",
         "word_count": 381100,
-        "heat": 5,
+        "heat": 4,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【替嫁流放+打脸爽文+基建+双向救赎】\n沈婉宁拿着证据去公司的路上，被车撞飞了，一睁眼，成了书中的炮灰太子妃，刚醒来就发现自己竟然被渣爹和姨娘算计，替代残废太子，新婚夜还强了短命太子！\n沈婉宁气不过，直接将渣爹一家拉来作伴，流放路上，别人饿成皮包骨，她一路上吃香喝辣，还赚得盆满钵满！\n二皇子派人暗杀，不好意思！一枪一个解决，杀进京扫荡国库，连个裤叉子都没给皇帝老儿留下！\n皇帝老儿站在西北城墙下可怜兮兮！\n“儿媳妇，我错了，你就让我入城，收我为徒吧！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4488/13463133_360x480.jpg?time=1789452098",
         "latest_chapter": " 第185章  给他们也洗经伐髓",
         "updated_at": "2026-11-07 08:32:03",
-        "rank_change": 5,
-        "heat_change": 2,
+        "rank_change": 4,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

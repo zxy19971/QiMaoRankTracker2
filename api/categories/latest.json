@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "categories": [
     {
       "name": "都市高武",
@@ -32,14 +32,14 @@
       "url": "api/categories/latest/%E7%8E%8B%E6%9C%9D%E4%BA%89%E9%9C%B8.json"
     },
     {
-      "name": "幻想修真",
-      "major": "武侠仙侠",
-      "url": "api/categories/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
-    },
-    {
       "name": "古典仙侠",
       "major": "武侠仙侠",
       "url": "api/categories/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
+    },
+    {
+      "name": "幻想修真",
+      "major": "武侠仙侠",
+      "url": "api/categories/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
     },
     {
       "name": "都市生活",
@@ -57,14 +57,14 @@
       "url": "api/categories/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
     },
     {
-      "name": "奇门秘术",
-      "major": "奇闻异事",
-      "url": "api/categories/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
-    },
-    {
       "name": "末世危机",
       "major": "科幻",
       "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
+    },
+    {
+      "name": "奇门秘术",
+      "major": "奇闻异事",
+      "url": "api/categories/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
     },
     {
       "name": "异世大陆",
@@ -97,14 +97,14 @@
       "url": "api/categories/latest/%E5%B9%B4%E4%BB%A3%E9%87%8D%E7%94%9F.json"
     },
     {
-      "name": "古代情缘",
-      "major": "古代言情",
-      "url": "api/categories/latest/%E5%8F%A4%E4%BB%A3%E6%83%85%E7%BC%98.json"
-    },
-    {
       "name": "都市奇幻",
       "major": "现代言情",
       "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
+    },
+    {
+      "name": "古代情缘",
+      "major": "古代言情",
+      "url": "api/categories/latest/%E5%8F%A4%E4%BB%A3%E6%83%85%E7%BC%98.json"
     },
     {
       "name": "种田经商",
@@ -145,11 +145,6 @@
       "name": "民国旧影",
       "major": "现代言情",
       "url": "api/categories/latest/%E6%B0%91%E5%9B%BD%E6%97%A7%E5%BD%B1.json"
-    },
-    {
-      "name": "现代悬疑",
-      "major": "现代言情",
-      "url": "api/categories/latest/%E7%8E%B0%E4%BB%A3%E6%82%AC%E7%96%91.json"
     }
   ]
 }
