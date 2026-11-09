@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T08:18:19",
-  "date": "2026-11-08",
+  "generated_at": "2026-11-09T08:39:21",
+  "date": "2026-11-09",
   "authors": [
     {
       "author": "化十",
@@ -29,7 +29,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E6%9F%A0%E6%AA%AC%E5%B0%8F%E4%B8%B8%E5%AD%90_14/",
       "books": 2,
       "boards": 5,
-      "total_heat": 12009000,
+      "total_heat": 12012000,
       "titles": [
         "被逼自刎，嫡女重生撕婚书覆皇朝",
         "抢姻缘，夺命格？我改嫁摄政王虐翻全族"
@@ -51,7 +51,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E9%9A%8F%E5%B1%B1%E6%9C%88_14/",
       "books": 2,
       "boards": 6,
-      "total_heat": 6870000,
+      "total_heat": 6879000,
       "titles": [
         "解春衫",
         "枕边奴"
@@ -66,17 +66,6 @@
       "titles": [
         "无敌六皇子",
         "天命纨绔"
-      ]
-    },
-    {
-      "author": "柠萌茶",
-      "author_url": "https://www.qimao.com/zuozhe/%E6%9F%A0%E8%90%8C%E8%8C%B6_14/",
-      "books": 2,
-      "boards": 2,
-      "total_heat": 3504003,
-      "titles": [
-        "嫌我不孕？另嫁京圈首富一胎又一胎",
-        "白天刚孕吐，晚上前夫就敲门求复婚"
       ]
     },
     {
@@ -95,7 +84,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2090000,
+      "total_heat": 2090001,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
@@ -105,8 +94,8 @@
       "author": "佛系和尚",
       "author_url": "https://www.qimao.com/zuozhe/%E4%BD%9B%E7%B3%BB%E5%92%8C%E5%B0%9A_14/",
       "books": 2,
-      "boards": 1,
-      "total_heat": 0,
+      "boards": 2,
+      "total_heat": 53000,
       "titles": [
         "最强学霸系统",
         "我和软萌女友的恋爱日常"
@@ -146,7 +135,7 @@
       "author": "明婳",
       "author_url": "https://www.qimao.com/zuozhe/%E6%98%8E%E5%A9%B3_14/",
       "books": 1,
-      "boards": 3,
+      "boards": 4,
       "total_heat": 21990000,
       "titles": [
         "离婚后她惊艳了世界"
@@ -310,6 +299,16 @@
       "total_heat": 8684000,
       "titles": [
         "大周第一武夫"
+      ]
+    },
+    {
+      "author": "屠刀成佛",
+      "author_url": "https://www.qimao.com/zuozhe/%E5%B1%A0%E5%88%80%E6%88%90%E4%BD%9B_14/",
+      "books": 1,
+      "boards": 3,
+      "total_heat": 8418000,
+      "titles": [
+        "吞噬九重天"
       ]
     }
   ]

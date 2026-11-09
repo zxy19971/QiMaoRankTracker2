@@ -8,49 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 2,
-    "total_heat": 12,
+    "total_heat": 5,
     "trend": {
       "new_count": 1,
       "dropped_count": 1,
       "new_books": [
         {
-          "title": "乾坤造化诀",
-          "book_id": 12897039
+          "title": "众仙俯首",
+          "book_id": 1971590
         }
       ],
       "dropped_books": [
         {
-          "title": "众仙俯首",
-          "book_id": 1971590,
-          "intro": "前世，林落尘因与玉女宗圣女的孽缘，被囚禁至死。\n重生后，一个女子闯入他识海，自称来自未来，来此寻轮回圣君——\n那位亘古长存的强者，据说能游走时空，却于数百年后陨落。\n她不知道，她要找的人，就在眼前。\n"
+          "title": "全家托举，我苟成盖世仙王",
+          "book_id": 13441152,
+          "intro": "垂死榻前，她为了让我不留遗憾，选择脱下衣裙……。\n我叫陆辰，举全家之力入仙门，穿越修仙界第一天，就面临毒发待亡，带我步入仙门的寡嫂为了让我不留遗憾……。\n本以为这辈子只能在苟活在打打杀杀的修仙界底层，"
         }
       ],
       "top_risers": [],
       "top_fallers": [
         {
-          "title": "全家托举，我苟成盖世仙王",
-          "book_id": 13441152,
+          "title": "乾坤造化诀",
+          "book_id": 12897039,
           "rank_change": -3
         }
       ],
       "heat_leaders": [
         {
-          "title": "全家托举，我苟成盖世仙王",
-          "book_id": 13441152,
-          "heat_change": -1
+          "title": "乾坤造化诀",
+          "book_id": 12897039,
+          "heat_change": -6
         }
       ],
-      "summary": "「幻想修真」新上榜 《乾坤造化诀》；《众仙俯首》 掉出榜单；《全家托举，我苟成盖世仙王》下滑3位；《全家托举，我苟成盖世仙王》热度-1。",
+      "summary": "「幻想修真」新上榜 《众仙俯首》；《全家托举，我苟成盖世仙王》 掉出榜单；《乾坤造化诀》下滑3位；《乾坤造化诀》热度-6。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 18,
         "title": "乾坤造化诀",
         "book_id": 12897039,
         "url": "https://www.qimao.com/shuku/12897039/",
@@ -64,47 +64,47 @@
         "status": "连载中",
         "word_count_text": "86.27万字",
         "word_count": 862700,
-        "heat": 9,
-        "platform_trend": "rise",
+        "heat": 3,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "我是望仙宗最不起眼的杂役。\n直到那天，宗主被人追杀，身中情毒，从天而降。\n我只是好心救人，却差点被她活活吸干。\n濒死之际，沉寂已久的乾坤诀终于觉醒。\n一夜之间，我连破数境。\n从今日起，我不再认命。\n假灵根又如何？杂役又如何？\n这一世，我偏要叩开仙门！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4300/12897039_360x480.jpg?time=1785867415",
         "latest_chapter": " 第348章  准备去宋家",
         "updated_at": "2026-11-08 00:52:05",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "rank_change": -3,
+        "heat_change": -6,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "幻想修真"
       },
       {
-        "rank": 16,
-        "title": "全家托举，我苟成盖世仙王",
-        "book_id": 13441152,
-        "url": "https://www.qimao.com/shuku/13441152/",
-        "author": "酒白",
-        "author_url": "https://www.qimao.com/zuozhe/%E9%85%92%E7%99%BD_14/",
+        "rank": 19,
+        "title": "众仙俯首",
+        "book_id": 1971590,
+        "url": "https://www.qimao.com/shuku/1971590/",
+        "author": "咸鱼老白",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%92%B8%E9%B1%BC%E8%80%81%E7%99%BD_14/",
         "major": "武侠仙侠",
         "minor": "幻想修真",
         "major_id": 205,
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
-        "status": "已完结",
-        "word_count_text": "56.23万字",
-        "word_count": 562300,
-        "heat": 3,
-        "platform_trend": "drop",
+        "status": "连载中",
+        "word_count_text": "418.75万字",
+        "word_count": 4187500,
+        "heat": 2,
+        "platform_trend": "rise",
         "badge": "",
-        "intro": "垂死榻前，她为了让我不留遗憾，选择脱下衣裙……。\n我叫陆辰，举全家之力入仙门，穿越修仙界第一天，就面临毒发待亡，带我步入仙门的寡嫂为了让我不留遗憾……。\n本以为这辈子只能在苟活在打打杀杀的修仙界底层，却意外获得禁地之灵，修行鬼帝根基法，铸不朽肉身，修采补之法补修行之缺，至此各路宗门贵女，散修魅女纷至沓来。\n一部禁法修，半篇造化生！纵横寰宇中，我为长生仙！\n百年后，陆辰不禁感慨。\n“我这一生如履薄冰，全靠厮杀才走到至今。”\n“我这一生，不问前尘，不求来世，只愿轰轰烈烈，快意恩仇，败尽各族英杰，傲笑六道神魔！”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4481/13441152_360x480.jpg?time=1789494477",
-        "latest_chapter": " 第159章  新的征程《大结局》",
-        "updated_at": "2026-10-12 00:12:15",
-        "rank_change": -3,
-        "heat_change": -1,
-        "is_new": false,
+        "intro": "前世，林落尘因与玉女宗圣女的孽缘，被囚禁至死。\n重生后，一个女子闯入他识海，自称来自未来，来此寻轮回圣君——\n那位亘古长存的强者，据说能游走时空，却于数百年后陨落。\n她不知道，她要找的人，就在眼前。\n那日起，林落尘的人生重回正轨，却也走向既定的死亡宿命。\n但他偏不信命！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/741/2220705_360x480.jpg?time=1777191636",
+        "latest_chapter": " 第1220章  我死了，没准还能化作厉鬼帮你",
+        "updated_at": "2026-11-09 06:02:13",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
-        "stale_update": true,
+        "stale_update": false,
         "category": "幻想修真"
       }
     ]

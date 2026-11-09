@@ -1,0 +1,233 @@
+{
+  "date": "2026-11-09",
+  "board": "boy-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 367500,
+    "total_heat": 7350000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "rank_change": 1
+          },
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "heat_change": -10000
+          },
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "heat_change": -9000
+          },
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "heat_change": -9000
+          }
+        ],
+        "summary": "「东方玄幻」《吞噬九重天》上升1位领涨；《荒古武神》热度-10000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "夫人在上！",
+            "book_id": 12465015,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "逍遥四公子",
+            "book_id": 1809361,
+            "heat_change": -24000
+          },
+          {
+            "title": "边关兵王",
+            "book_id": 1995023,
+            "heat_change": -12000
+          },
+          {
+            "title": "夫人在上！",
+            "book_id": 12465015,
+            "heat_change": 9000
+          }
+        ],
+        "summary": "「架空历史」《夫人在上！》上升1位领涨；《逍遥四公子》热度-24000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "heat_change": -16000
+          },
+          {
+            "title": "舔狗反派只想苟，女主不按套路走！",
+            "book_id": 1710753,
+            "heat_change": -5000
+          },
+          {
+            "title": "警报！真龙出狱！",
+            "book_id": 1834789,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「都市高手」《傲世潜龙》下滑2位；《傲世潜龙》热度-16000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "盖世神医",
+            "book_id": 195958,
+            "heat_change": -4000
+          }
+        ],
+        "summary": "「都市高武」《盖世神医》热度-4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "桃花劫",
+            "book_id": 2028957,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "桃花劫",
+            "book_id": 2028957,
+            "heat_change": -16000
+          }
+        ],
+        "summary": "「商战职场」《桃花劫》下滑1位；《桃花劫》热度-16000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "王朝争霸",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "大周第一武夫",
+            "book_id": 2074426,
+            "heat_change": -12000
+          }
+        ],
+        "summary": "「王朝争霸」《大周第一武夫》热度-12000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "快老死了，圣女上门赐仙缘",
+            "book_id": 12670524,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「古典仙侠」《快老死了，圣女上门赐仙缘》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "师叔，你的法宝太不正经了",
+            "book_id": 1867139,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「幻想修真」《师叔，你的法宝太不正经了》热度-3000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

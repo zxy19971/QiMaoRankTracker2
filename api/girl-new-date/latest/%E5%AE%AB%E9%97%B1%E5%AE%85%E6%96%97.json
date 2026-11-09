@@ -8,70 +8,58 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
     "count": 4,
-    "total_heat": 142000,
+    "total_heat": 155000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "枕边奴",
-          "book_id": 13537935
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "夺妻色",
-          "book_id": 13378512,
-          "intro": "【强取豪夺，追妻火葬场】\n罗幼徽本是教书先生的女儿，因救命之恩，嫁给了裴彦青。\n谁知婚后郎君待她疏离冷淡，新婚不过一载，却如同过了半辈子。\n宴席上，宗族来了位贵人下榻府中，意外发生。\n一夜荒唐过后，她"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
         {
-          "title": "神算王妃薅功德，转嫁绝嗣皇叔一胎三宝",
-          "book_id": 11718921,
-          "rank_change": 3
-        }
-      ],
-      "top_fallers": [
-        {
           "title": "抢姻缘，夺命格？我改嫁摄政王虐翻全族",
           "book_id": 12791445,
-          "rank_change": -4
+          "rank_change": 3
+        },
+        {
+          "title": "枕边奴",
+          "book_id": 13537935,
+          "rank_change": 1
         },
         {
           "title": "皇后令",
           "book_id": 13424982,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
+          "title": "枕边奴",
+          "book_id": 13537935,
+          "heat_change": 9000
+        },
+        {
           "title": "抢姻缘，夺命格？我改嫁摄政王虐翻全族",
           "book_id": 12791445,
-          "heat_change": -3000
+          "heat_change": 3000
         },
         {
           "title": "神算王妃薅功德，转嫁绝嗣皇叔一胎三宝",
           "book_id": 11718921,
-          "heat_change": 1000
-        },
-        {
-          "title": "皇后令",
-          "book_id": 13424982,
-          "heat_change": -1000
+          "heat_change": 2000
         }
       ],
-      "summary": "「宫闱宅斗」新上榜 《枕边奴》；《夺妻色》 掉出榜单；《神算王妃薅功德，转嫁绝嗣皇叔一胎三宝》上升3位领涨；《抢姻缘，夺命格？我改嫁摄政王虐翻全族》下滑4位；《抢姻缘，夺命格？我改嫁摄政王虐翻全族》热度-3000。",
+      "summary": "「宫闱宅斗」《抢姻缘，夺命格？我改嫁摄政王虐翻全族》上升3位领涨；《枕边奴》热度+9000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 5,
         "title": "枕边奴",
         "book_id": 13537935,
         "url": "https://www.qimao.com/shuku/13537935/",
@@ -83,18 +71,18 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "28.44万字",
-        "word_count": 284400,
-        "heat": 73000,
+        "word_count_text": "29.27万字",
+        "word_count": 292700,
+        "heat": 82000,
         "platform_trend": "rise",
-        "badge": "飙升42名",
+        "badge": "",
         "intro": "【公主×戏子/女A男O】，双洁×双向救赎\n起初，赵清徽只当杨澈是逗乐子的玩意儿。\n他踩着她铺就的路，一步一步，走到高处。\n白天，他一身官袍立于大殿，夜里，他换上戏服，水袖落下来，覆住她的眼，低低唤她乳名：“虫娘，我算什么？”\n“越发没规矩了。”赵清徽说道。\n他含住她的耳，腰身沉下去：“白日规矩太多，夜里放肆些……才得趣。”\n戏子无情，是本性，逢场作戏，是本行。\n直到他将锋芒对准她，她才明白，他终究不再是那个只会唱戏的少年了。\n世人跪观音，求渡己，杨澈心里也供着一尊观音，是照着一个人的模样塑出来的，他所求：用尽手段，拉她下神坛！\n他一遍一遍地吻她，敬她是真，亵渎也是真……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4513/13537935_360x480.jpg?time=1790758882",
-        "latest_chapter": " 第140章  识破，拼死一搏",
-        "updated_at": "2026-11-07 08:12:06",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第144章  几时献身？",
+        "updated_at": "2026-11-09 08:07:05",
+        "rank_change": 1,
+        "heat_change": 9000,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "宫闱宅斗"
@@ -112,24 +100,24 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.21万字",
-        "word_count": 462100,
-        "heat": 25000,
+        "word_count_text": "46.86万字",
+        "word_count": 468600,
+        "heat": 27000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【双洁+先婚后爱+玄学改命+全员团宠+打脸虐渣+疯批皇叔独宠】\n世人都说靖王绝嗣，终生无后，皇帝怜惜，朝野叹惋。\n一朝赐婚，人人都等着看楚云汐的笑话。\n嫁个不能生育的皇叔，这辈子只能守活寡。\n新婚夜，楚云汐捂着腰，瞪着眼前男人怒声质问：“传闻你不是不行吗？！”\n——\n青梅竹马的未婚夫中了探花，转头就攀附权贵、背信弃义。\n贪图她身后丰厚的嫁妆，他联手至亲布下弥天骗局，一纸婚书哄骗楚云汐千里上京，最后只为逼她为妾，困于樊笼。\n世人皆叹楚云汐痴心错付，命途可悲。\n可无人知晓，险遭算计、半路被掳，即将被卖入深山为共妻的躯壳里，早已换了灵魂。\n取而代之的，是二十二世纪唯一正统玄学传人，精通风水命理、卜卦改运、驱邪镇煞的顶级大佬楚云汐！\n蓝玉扳指现世，逆天改命，她一朝重生，断绝烂桃花，手撕负心汉，从此风生水起！\n算尽天机的她，唯独算不透那位权倾朝野的病娇皇叔——萧玦尘。\n人前，他孱弱清冷、与世无争，一副疏离寡淡模样。\n人后，他偏执黏人，夜夜缠她解惑，步步诱婚，将所有温柔与偏爱，尽数锁予她一人。\n“世人皆言我命不久矣，唯独阿汐，敢逆天护我，既救我性命，便要以身相许，余生不准逃离。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3907/11718921_360x480.jpg?time=1790672452",
-        "latest_chapter": " 第200章  是什么样的狐媚子把小九迷得神魂颠倒",
-        "updated_at": "2026-11-07 19:02:04",
-        "rank_change": 3,
-        "heat_change": 1000,
+        "latest_chapter": " 第203章  夜色撩人，情不自禁！",
+        "updated_at": "2026-11-09 07:52:03",
+        "rank_change": 0,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 19,
+        "rank": 16,
         "title": "抢姻缘，夺命格？我改嫁摄政王虐翻全族",
         "book_id": 12791445,
         "url": "https://www.qimao.com/shuku/12791445/",
@@ -141,24 +129,24 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.84万字",
-        "word_count": 358400,
-        "heat": 22000,
-        "platform_trend": "drop",
+        "word_count_text": "36.44万字",
+        "word_count": 364400,
+        "heat": 25000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【重生复仇+宅斗爽文+男女主身心干净，无虐无误会】\n顾明琅新婚次日家族敲锣打鼓，宣扬她六亲缘绝，克夫绝嗣，强行将她带离夫家。\n同日嫡妹顶着荣华富贵的批命，成了顾家最得宠的姑娘，带着她抬回来十里嫁妆，嫁给了三皇子。\n伪善继母愤怒道：“顾家女儿不能因你一人拖累，你是顾家罪人！”\n冷漠偏心父亲说：“既是六亲不认的命，就该逐出族谱，送往庵堂用余生来赎罪。”\n狂妄继妹说：“若不是先夫人将财产交由心腹，必须等你出嫁之后才能奉还，你未必活到今日！”\n临死之际才发现替嫁是假，批命也是假，不过是家族贪图她亲娘留下来的嫁妆一步步设下的圈套！\n再睁眼\n重回新婚批命日\n戳穿被换八字，洗脱前世枷锁，打脸恶毒继母，揭嫡妹真正八字，天生绝嗣命，让其自食恶果。\n手撕继母嫡妹真面目，让她身败名裂，人人唾骂。\n冷血伪善父亲偏疼嫡妹，她反手设下陷阱，让他惨死于亲女之手，死不瞑目！\n什么？\n还有个长公主恶毒婆婆算计她？\n她与前世夫君再续前缘，联手破局，登高位，携手打脸伪善公主婆母，心怀鬼胎大伯哥。\n多年后，那些算计她之人一个个求着她高抬贵手……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791445_360x480.jpg?time=1790754934",
-        "latest_chapter": " 第164章  恶果自尝",
-        "updated_at": "2026-11-07 23:55:04",
-        "rank_change": -4,
-        "heat_change": -3000,
+        "latest_chapter": " 第166章  公主死了",
+        "updated_at": "2026-11-08 23:42:03",
+        "rank_change": 3,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "title": "皇后令",
         "book_id": 13424982,
         "url": "https://www.qimao.com/shuku/13424982/",
@@ -170,16 +158,16 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "26.17万字",
-        "word_count": 261700,
-        "heat": 22000,
+        "word_count_text": "26.6万字",
+        "word_count": 266000,
+        "heat": 21000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "原名（蛰伏十年报母仇，她问鼎东宫）\n她本该是捻卷研磨，一生无忧的世家娇女\n十五年前，寒门出身的父亲为了攀附权贵，迎娶高门女子\n只因高门女说不喜欢拖家带口的男人\n父亲便设局将妻女活活丢进贼窝虐杀\n雷雨夜，怀着身孕的娘亲拼尽全力替她趟出一条生路。\n那一晚五岁的她带着浑身的伤，在娘亲的惨嚎声中，踏出地狱，又踏入重重宫城。\n十年蛰伏，今日新帝选秀，她成了人人尊称的御前大宫女沈姑姑。\n这一次她要断了渣爹所有的生路，先从他入宫选秀的女儿开始。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4475/13424982_360x480.jpg?time=1793005339",
-        "latest_chapter": " 第116章  小桃",
-        "updated_at": "2026-11-08 00:02:30",
-        "rank_change": -1,
+        "latest_chapter": " 第118章  保全",
+        "updated_at": "2026-11-08 23:58:04",
+        "rank_change": 1,
         "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,

@@ -8,22 +8,28 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 1,
+    "total_heat": 3,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "我在都市修了个野仙",
           "book_id": 2078908,
+          "rank_change": 2
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "女子监狱五年，出狱即无敌",
+          "book_id": 12791886,
           "rank_change": -1
         }
       ],
@@ -31,15 +37,20 @@
         {
           "title": "女子监狱五年，出狱即无敌",
           "book_id": 12791886,
-          "heat_change": -1
+          "heat_change": 1
+        },
+        {
+          "title": "我在都市修了个野仙",
+          "book_id": 2078908,
+          "heat_change": 1
         }
       ],
-      "summary": "「都市高武」《我在都市修了个野仙》下滑1位；《女子监狱五年，出狱即无敌》热度-1。",
+      "summary": "「都市高武」《我在都市修了个野仙》上升2位领涨；《女子监狱五年，出狱即无敌》下滑1位；《女子监狱五年，出狱即无敌》热度+1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 10,
         "title": "女子监狱五年，出狱即无敌",
         "book_id": 12791886,
         "url": "https://www.qimao.com/shuku/12791886/",
@@ -51,24 +62,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "80.02万字",
-        "word_count": 800200,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "81.15万字",
+        "word_count": 811500,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第339章  霸拳·血海无极",
-        "updated_at": "2026-11-07 22:32:04",
-        "rank_change": 0,
-        "heat_change": -1,
+        "latest_chapter": " 第344章  血染金山",
+        "updated_at": "2026-11-09 08:22:04",
+        "rank_change": -1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 19,
+        "rank": 17,
         "title": "我在都市修了个野仙",
         "book_id": 2078908,
         "url": "https://www.qimao.com/shuku/2078908/",
@@ -80,17 +91,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "289.32万字",
-        "word_count": 2893200,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "290.16万字",
+        "word_count": 2901600,
+        "heat": 2,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "林子东遭女友背叛，侥幸得到修仙传承，他幻想中的修仙是小说中那般神挡杀神佛挡杀佛，逍遥世间，怎么到了自己这里全是美人关？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/907/2718192_360x480.jpg?time=1770139124",
-        "latest_chapter": " 第1393章  战前！",
-        "updated_at": "2026-11-07 22:52:10",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第1397章  胆魄！",
+        "updated_at": "2026-11-08 22:13:10",
+        "rank_change": 2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

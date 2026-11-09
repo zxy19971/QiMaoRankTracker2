@@ -8,44 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 43000,
+    "total_heat": 33000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "都市极品狂龙！",
           "book_id": 13012533,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "都市大猛仙",
-          "book_id": 12947607,
           "rank_change": -3
         }
       ],
       "heat_leaders": [
         {
-          "title": "都市大猛仙",
-          "book_id": 12947607,
-          "heat_change": -1000
+          "title": "都市极品狂龙！",
+          "book_id": 13012533,
+          "heat_change": -10000
         }
       ],
-      "summary": "「都市高武」《都市极品狂龙！》上升1位领涨；《都市大猛仙》下滑3位；《都市大猛仙》热度-1000。",
+      "summary": "「都市高武」《都市极品狂龙！》下滑3位；《都市极品狂龙！》热度-10000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 10,
         "title": "都市极品狂龙！",
         "book_id": 13012533,
         "url": "https://www.qimao.com/shuku/13012533/",
@@ -59,15 +53,15 @@
         "status": "连载中",
         "word_count_text": "45.92万字",
         "word_count": 459200,
-        "heat": 30000,
-        "platform_trend": "rise",
+        "heat": 20000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "王龙没想到与绝色女总裁一夜荒唐后，变成了各种美女争抢的香饽饽……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4338/13012533_360x480.jpg?time=1792657997",
         "latest_chapter": " 第216章  我……我没有",
         "updated_at": "2026-11-07 23:51:05",
-        "rank_change": 1,
-        "heat_change": 0,
+        "rank_change": -3,
+        "heat_change": -10000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
@@ -86,17 +80,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.23万字",
-        "word_count": 392300,
+        "word_count_text": "39.68万字",
+        "word_count": 396800,
         "heat": 13000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "陆玄，虽然因为太穷被女友甩了，可他却天赋异禀，自从觉醒了家族传承，修炼了阴阳秘术之后，身上散发出了更令异性着迷的气息……从此，他医武同修，无论是医术、修为、还是身为男人……他都勇猛无敌，总有美女慕名而来！他从小县城一路崛起，开启了无敌热血路，重现上古医道荣光！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4316/12947607_360x480.jpg?time=1785232542",
-        "latest_chapter": " 第137章  还要脱啊",
-        "updated_at": "2026-11-07 16:02:02",
-        "rank_change": -3,
-        "heat_change": -1000,
+        "latest_chapter": " 第138章  陈龙的葬身之地",
+        "updated_at": "2026-11-08 17:14:03",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

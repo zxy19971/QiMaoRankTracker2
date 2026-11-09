@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
@@ -21,31 +21,35 @@
       "dropped_books": [],
       "top_risers": [
         {
+          "title": "吞噬九重天",
+          "book_id": 1655967,
+          "rank_change": 3
+        },
+        {
           "title": "吞天神体",
           "book_id": 1880008,
-          "rank_change": 2
+          "rank_change": 1
+        }
+      ],
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "吞噬九重天",
+          "book_id": 1655967,
+          "heat_change": 2
         },
         {
           "title": "有帝族背景还开挂，我无敌了！",
           "book_id": 1924831,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "吞噬九重天",
-          "book_id": 1655967,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
+          "heat_change": -1
+        },
         {
           "title": "吞天神体",
           "book_id": 1880008,
-          "heat_change": 1
+          "heat_change": -1
         }
       ],
-      "summary": "「东方玄幻」《吞天神体》上升2位领涨；《吞噬九重天》下滑1位；《吞天神体》热度+1。",
+      "summary": "「东方玄幻」《吞噬九重天》上升3位领涨；《吞噬九重天》热度+2。",
       "ai_source": "rule"
     },
     "books": [
@@ -62,15 +66,15 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "610.15万字",
-        "word_count": 6101500,
+        "word_count_text": "610.6万字",
+        "word_count": 6106000,
         "heat": 0,
         "platform_trend": "",
         "badge": "蝉联榜首",
         "intro": "【热血】【无敌】【情感丰富，不喜勿入】\n万年前，妖族和魔族降临世间，\n它们力可拔山，吞云赶月，以人族为血食，\n人族可生存的区域不断减少，\n现在，天下九片大陆仅剩一域，\n人族武者用血肉筑成城墙，抵御异族，\n在危急存亡之际，\n获得圣人传承的武者江尘迈入战场，\n开启无敌之路，斩妖吞噬，\n杀气纵横百万里，一剑光寒十九州！\n江尘，要为人族杀出个未来，\n屠杀妖族天骄如屠狗，独享逆天机缘，终登绝巅！\n那时，他才发现了隐藏在圣人传承中的秘密，\n登天之路，只有向前，一旦踏上，也许，再也无法回头...",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/496/1485729_360x480.jpg?time=1712714854",
-        "latest_chapter": " 第2174章  伤我兄弟者...死！",
-        "updated_at": "2026-11-07 19:47:17",
+        "latest_chapter": " 第2176章  你也配？",
+        "updated_at": "2026-11-08 22:57:17",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -91,17 +95,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "637.02万字",
-        "word_count": 6370200,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "638.16万字",
+        "word_count": 6381600,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "【爽文+无敌+专干天命之子+行事无所顾忌】\n帝族一怒，浮尸亿万里！\n欺我儿背后无人是吧，那本帝今天就让你们的九族死个一干二净！！！\n陈稳刚穿越就陷入必死之局，反手觉醒最强体质混沌序列体，外加金手指天命大熔炉。\n你是荒古圣体，来自天命帝族？\n桀桀桀，给老子熔了他！\n你是万世重生者，来自始皇一族？\n桀桀桀，再老子熔了他！\n你是系统拥有者，来自荒古世家？\n桀桀桀，来嘛，来嘛，全都是老子的……\n我管你来自什么势力，管你拥有什么金手指，统统都得成为我变强的养分。\n比个人实力？不好意思，我直接开挂。\n比背景？那更不好意思了。\n我的父族是天命帝族，我的母族还是天命帝族。\n我哥是元始暴君，一双暴龙手可杀穿万古禁地。\n我姐是红狱女王，一人一枪可镇杀百万异域外敌。\n从这一刻开始，我陈稳要一步一步走到最高！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/654/1960135_360x480.jpg?time=1742464871",
-        "latest_chapter": " 第2428章  一心求死，离开天魂塔的办法【加更】",
-        "updated_at": "2026-11-08 02:02:17",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第2432章  进入第九层，真正的压制",
+        "updated_at": "2026-11-09 00:51:16",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -120,15 +124,15 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "1045.99万字",
-        "word_count": 10459900,
+        "word_count_text": "1047.34万字",
+        "word_count": 10473400,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "十万年前，九位风姿卓绝，独断万古的女帝，妖后，被封印于鸿蒙金塔之中。\n十万年后，少年萧诺，被家族迫害，沦为弃子。阴差阳错之下，开启鸿蒙金塔，修炼霸体神诀，成就无上神体。\n自此诸天仙魔，皆将烟消云散。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/91/270336_1659697789_360x480.jpg",
-        "latest_chapter": " 第3783章  剑意，穿墟",
-        "updated_at": "2026-11-08 01:12:27",
+        "latest_chapter": " 第3789章  焉寒神君的条件",
+        "updated_at": "2026-11-09 01:57:26",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -137,7 +141,7 @@
         "category": "东方玄幻"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "title": "吞天神体",
         "book_id": 1880008,
         "url": "https://www.qimao.com/shuku/1880008/",
@@ -149,24 +153,24 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "443.46万字",
-        "word_count": 4434600,
-        "heat": 2,
+        "word_count_text": "444.32万字",
+        "word_count": 4443200,
+        "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【传统玄幻】【杀伐果断】【热血】【剑修】【微群像】\n秦云意外开启太古封神殿，遇到绝色神女，被迫重铸吞天神脉。\n世间万物，皆可吞噬为自身所用。\n天道？\n一样吞噬！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/625/1872928_360x480.jpg?time=1774947942",
-        "latest_chapter": " 第1973章  都是昔年天赋极高之人！",
-        "updated_at": "2026-11-08 00:11:16",
-        "rank_change": 2,
-        "heat_change": 1,
+        "latest_chapter": " 第1977章  金天刃的赠物！",
+        "updated_at": "2026-11-09 00:11:16",
+        "rank_change": 1,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,
         "category": "东方玄幻"
       },
       {
-        "rank": 18,
+        "rank": 15,
         "title": "吞噬九重天",
         "book_id": 1655967,
         "url": "https://www.qimao.com/shuku/1655967/",
@@ -178,17 +182,17 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "1148.44万字",
-        "word_count": 11484400,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "1149.68万字",
+        "word_count": 11496800,
+        "heat": 3,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【传统玄幻：杀伐果断+大帝+剑道+神魔煅体+神念师……】\n少年许辰，遭逢背叛，险些惨死之时，天帝殿现，一朝传承，逆天改命！\n帝阶武学，信手捏来。\n……\n世间一直有天帝殿的传说。\n殿中有绝世大帝传承。\n镇古绝今的噬天大帝。\n《吞噬帝诀》，噬天噬地噬万物，练至大成，连大道都可吞噬。\n战天斗地的战天大帝。\n《战天诀》，天战斗地，盖世无敌，练到大成，战力提升256倍，拳破寰宇，弹指灭星辰。\n气吞寰宇的黄泉大帝。\n惊才绝艳的虚空大帝。\n……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/91/272776_360x480.jpg?time=1689643974",
-        "latest_chapter": " 第4199章  初次任务，送死任务（加更2）",
-        "updated_at": "2026-11-08 00:52:29",
-        "rank_change": -1,
-        "heat_change": 0,
+        "latest_chapter": " 第4203章  顶尖仙皇层次的妖魔，我来试一试（加更3）",
+        "updated_at": "2026-11-09 00:07:33",
+        "rank_change": 3,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,

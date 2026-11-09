@@ -8,8 +8,8 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-08",
-  "prev_date": "2026-11-07",
+  "date": "2026-11-09",
+  "prev_date": "2026-11-08",
   "books": [
     {
       "rank": 1,
@@ -124,7 +124,7 @@
       "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
-      "stale_update": false,
+      "stale_update": true,
       "category": "商战职场"
     },
     {
@@ -442,7 +442,7 @@
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 1,
       "stale_update": true,
       "category": "奇门秘术"
     },
@@ -1040,7 +1040,7 @@
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
+          "boards_count": 1,
           "stale_update": true,
           "category": "奇门秘术"
         },
@@ -1166,7 +1166,7 @@
           "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
-          "stale_update": false,
+          "stale_update": true,
           "category": "商战职场"
         }
       ]

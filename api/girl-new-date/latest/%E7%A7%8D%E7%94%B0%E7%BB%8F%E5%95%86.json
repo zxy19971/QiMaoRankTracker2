@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "category": {
     "name": "种田经商",
     "major": "古代言情",
     "count": 1,
-    "total_heat": 43000,
+    "total_heat": 41000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "流民医女：开荒把残夫养成战神",
-          "book_id": 13157514,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "流民医女：开荒把残夫养成战神",
           "book_id": 13157514,
-          "heat_change": -3000
+          "heat_change": -2000
         }
       ],
-      "summary": "「种田经商」《流民医女：开荒把残夫养成战神》上升1位领涨；《流民医女：开荒把残夫养成战神》热度-3000。",
+      "summary": "「种田经商」《流民医女：开荒把残夫养成战神》热度-2000。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 16,
         "minor_url": "https://www.qimao.com/shuku/a-2-16-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.73万字",
-        "word_count": 387300,
-        "heat": 43000,
+        "word_count_text": "39.15万字",
+        "word_count": 391500,
+        "heat": 41000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【边关开荒+甜宠+先婚后爱+强势逆袭+家里长短+金手指】\n人间清醒女主VS忠犬憨憨男主\n现代首席中草药研究员沈青芜穿成边关流民，为了护住自己和幼弟，被迫嫁给全村唾弃的坡脚退伍军人谢珩。\n所有人都在笑话她嫁给一个废人，注定一辈子苦熬。\n新婚夜，谢珩低声道歉，“和我成亲，委屈你了。”\n沈青芜笑了，这人高马大，八块腹肌，长相硬朗帅气的男人，谁委屈谁还不一定。\n全村家家户户连也野菜都抢？家里顿顿大口吃肉到撑！\n极品亲戚上门抢粮食？沈青芜软硬兼施让他们狼狈滚蛋！\n所有人都以为她只是运气好捡了点吃食，只有沈青芜知道，她手握金手指，进山如进货，而她那不善言辞却护短的夫君，更是她最大的底牌。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4386/13157514_360x480.jpg?time=1786945735",
-        "latest_chapter": " 第184章  邻里温情",
-        "updated_at": "2026-11-07 22:58:03",
-        "rank_change": 1,
-        "heat_change": -3000,
+        "latest_chapter": " 第186章  野兽挖地窖",
+        "updated_at": "2026-11-08 22:54:03",
+        "rank_change": 0,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

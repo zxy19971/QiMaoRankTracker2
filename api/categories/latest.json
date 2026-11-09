@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "categories": [
     {
       "name": "都市高武",
@@ -42,9 +42,19 @@
       "url": "api/categories/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
     },
     {
+      "name": "乡村生活",
+      "major": "都市",
+      "url": "api/categories/latest/%E4%B9%A1%E6%9D%91%E7%94%9F%E6%B4%BB.json"
+    },
+    {
       "name": "都市生活",
       "major": "都市",
       "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.json"
+    },
+    {
+      "name": "奇门秘术",
+      "major": "奇闻异事",
+      "url": "api/categories/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
     },
     {
       "name": "衍生同人",
@@ -60,11 +70,6 @@
       "name": "末世危机",
       "major": "科幻",
       "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
-    },
-    {
-      "name": "奇门秘术",
-      "major": "奇闻异事",
-      "url": "api/categories/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
     },
     {
       "name": "异世大陆",
@@ -140,11 +145,6 @@
       "name": "娱乐明星",
       "major": "现代言情",
       "url": "api/categories/latest/%E5%A8%B1%E4%B9%90%E6%98%8E%E6%98%9F.json"
-    },
-    {
-      "name": "民国旧影",
-      "major": "现代言情",
-      "url": "api/categories/latest/%E6%B0%91%E5%9B%BD%E6%97%A7%E5%BD%B1.json"
     }
   ]
 }

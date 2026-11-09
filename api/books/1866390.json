@@ -9,10 +9,10 @@
   "word_count_text": "208.04万字",
   "latest": [
     {
-      "board": "girl-over-month",
-      "board_name": "女生完结月榜",
+      "board": "girl-over-date",
+      "board_name": "女生完结日榜",
       "rank": 20,
-      "heat": 2450000
+      "heat": 68000
     }
   ],
   "history": [
@@ -681,6 +681,12 @@
       "b": "girl-over-month",
       "r": 20,
       "h": 2450000
+    },
+    {
+      "d": "2026-11-09",
+      "b": "girl-over-date",
+      "r": 20,
+      "h": 68000
     }
   ]
 }
