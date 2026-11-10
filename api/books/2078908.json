@@ -6,13 +6,13 @@
   "intro": "林子东遭女友背叛，侥幸得到修仙传承，他幻想中的修仙是小说中那般神挡杀神佛挡杀佛，逍遥世间，怎么到了自己这里全是美人关？",
   "minor": "都市高武",
   "status": "连载中",
-  "word_count_text": "290.16万字",
+  "word_count_text": "290.78万字",
   "latest": [
     {
       "board": "boy-update-date",
       "board_name": "男生更新日榜",
       "rank": 17,
-      "heat": 2
+      "heat": 0
     }
   ],
   "history": [
@@ -243,6 +243,12 @@
       "b": "boy-update-date",
       "r": 17,
       "h": 2
+    },
+    {
+      "d": "2026-11-10",
+      "b": "boy-update-date",
+      "r": 17,
+      "h": 0
     }
   ]
 }

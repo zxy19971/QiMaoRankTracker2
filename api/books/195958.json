@@ -6,25 +6,13 @@
   "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
   "minor": "都市高武",
   "status": "连载中",
-  "word_count_text": "931.61万字",
+  "word_count_text": "932.22万字",
   "latest": [
     {
       "board": "boy-hot-date",
       "board_name": "男生大热日榜",
       "rank": 1,
-      "heat": 1116000
-    },
-    {
-      "board": "boy-hot-month",
-      "board_name": "男生大热月榜",
-      "rank": 1,
-      "heat": 36604000
-    },
-    {
-      "board": "boy-collect-date",
-      "board_name": "男生收藏日榜",
-      "rank": 1,
-      "heat": 0
+      "heat": 1134000
     }
   ],
   "history": [
@@ -1701,6 +1689,12 @@
       "b": "boy-hot-month",
       "r": 1,
       "h": 36604000
+    },
+    {
+      "d": "2026-11-10",
+      "b": "boy-hot-date",
+      "r": 1,
+      "h": 1134000
     }
   ]
 }

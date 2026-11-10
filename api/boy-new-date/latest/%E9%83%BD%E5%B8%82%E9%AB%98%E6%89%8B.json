@@ -8,46 +8,41 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 4,
-    "total_heat": 275000,
+    "count": 3,
+    "total_heat": 260000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "下山退婚，我成神医你哭什么？",
-          "book_id": 13628355
-        }
-      ],
+      "new_books": [],
       "dropped_books": [
         {
-          "title": "血脉觉醒后，美女总裁赖上我",
-          "book_id": 13089795,
-          "intro": "林默被恋爱多年的女友戴绿帽，因祸得福，觉醒神皇血脉。\n从此走向人生巅峰。\n得多位美女青睞。\n沈知寒：“林默，我只有一个要求，随叫随到。”\n苏嫣嫣：“怎么，看入迷了？”\n顾佳雨：“林默哥哥......”"
+          "title": "下山退婚，我成神医你哭什么？",
+          "book_id": 13628355,
+          "intro": "下山前，师父丢给林峰九封顶级婚书，让他挑个顺眼的成家。\n结果刚踏进江城苏家大门，高冷总裁未婚妻便甩下一张支票，满眼鄙夷：“乡巴佬，我们不是一个世界的人，拿着五十万滚出江城！”\n林峰果断撕毁婚书，转身离"
         }
       ],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
-          "title": "下山第一天，逮个美女总裁暴力宠",
-          "book_id": 13008696,
-          "rank_change": 2
+          "title": "真龙下山，我体内有头绝世凶兽",
+          "book_id": 13335867,
+          "rank_change": -1
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
-        {
-          "title": "下山第一天，逮个美女总裁暴力宠",
-          "book_id": 13008696,
-          "heat_change": 19000
-        },
         {
           "title": "我的倾城野妻",
           "book_id": 12973059,
-          "heat_change": -13000
+          "heat_change": -18000
+        },
+        {
+          "title": "下山第一天，逮个美女总裁暴力宠",
+          "book_id": 13008696,
+          "heat_change": 12000
         },
         {
           "title": "真龙下山，我体内有头绝世凶兽",
@@ -55,7 +50,7 @@
           "heat_change": 2000
         }
       ],
-      "summary": "「都市高手」新上榜 《下山退婚，我成神医你哭什么？》；《血脉觉醒后，美女总裁赖上我》 掉出榜单；《下山第一天，逮个美女总裁暴力宠》上升2位领涨；《下山第一天，逮个美女总裁暴力宠》热度+19000。",
+      "summary": "「都市高手」《下山退婚，我成神医你哭什么？》 掉出榜单；《真龙下山，我体内有头绝世凶兽》下滑1位；《我的倾城野妻》热度-18000。",
       "ai_source": "rule"
     },
     "books": [
@@ -72,24 +67,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.63万字",
-        "word_count": 466300,
-        "heat": 147000,
+        "word_count_text": "47.04万字",
+        "word_count": 470400,
+        "heat": 129000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "大学生秦东代替富二代室友相亲，竟意外与极品女神一夜风情，觉醒了圣龙之体，自此从龙飞九天，逆势而起，冷艳女总裁，豪门千金，绝美校花等各路红颜纷至沓来，且看秦东凭借一身本事搅动都市风云，活出个快意人生……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12973059_360x480.jpg?time=1786152834",
-        "latest_chapter": " 第209章  天罡武馆！",
-        "updated_at": "2026-11-08 08:12:06",
+        "latest_chapter": " 第211章  古三通的威胁！",
+        "updated_at": "2026-11-09 19:22:04",
         "rank_change": 0,
-        "heat_change": -13000,
+        "heat_change": -18000,
         "is_new": false,
-        "boards_count": 3,
+        "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "真龙下山，我体内有头绝世凶兽",
         "book_id": 13335867,
         "url": "https://www.qimao.com/shuku/13335867/",
@@ -101,19 +96,19 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.33万字",
-        "word_count": 463300,
-        "heat": 67000,
+        "word_count_text": "47.02万字",
+        "word_count": 470200,
+        "heat": 69000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "五年前，秦家满门被屠，二少秦天侥幸生还，拜入蓬莱仙山习得医武通神。\n五年后，他携祖龙血脉强势归来，却发现爷爷被欺、祖宅被夺，嫂子苏晚晴含辛茹苦。\n为查灭门真相，他脚踏江城，医术震神医，武力压群雄，更与冰山总裁林梦溪立下婚约。\n真龙出世，风云涌动！\n他誓要血债血偿，重铸秦家辉煌！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4446/13335867_360x480.jpg?time=1788172753",
-        "latest_chapter": " 第203章  疯狂粉丝",
-        "updated_at": "2026-11-08 12:02:10",
-        "rank_change": 0,
+        "latest_chapter": " 第206章  女人的秘密",
+        "updated_at": "2026-11-09 12:02:10",
+        "rank_change": -1,
         "heat_change": 2000,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
       },
@@ -130,47 +125,18 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.87万字",
-        "word_count": 438700,
-        "heat": 50000,
+        "word_count_text": "44.29万字",
+        "word_count": 442900,
+        "heat": 62000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第199章  何人如此大胆？",
-        "updated_at": "2026-11-09 05:02:03",
-        "rank_change": 2,
-        "heat_change": 19000,
-        "is_new": false,
-        "boards_count": 2,
-        "stale_update": false,
-        "category": "都市高手"
-      },
-      {
-        "rank": 20,
-        "title": "下山退婚，我成神医你哭什么？",
-        "book_id": 13628355,
-        "url": "https://www.qimao.com/shuku/13628355/",
-        "author": "迷茫庆",
-        "author_url": "https://www.qimao.com/zuozhe/%E8%BF%B7%E8%8C%AB%E5%BA%86_14/",
-        "major": "都市",
-        "minor": "都市高手",
-        "major_id": 203,
-        "minor_id": 220,
-        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "22.56万字",
-        "word_count": 225600,
-        "heat": 11000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "下山前，师父丢给林峰九封顶级婚书，让他挑个顺眼的成家。\n结果刚踏进江城苏家大门，高冷总裁未婚妻便甩下一张支票，满眼鄙夷：“乡巴佬，我们不是一个世界的人，拿着五十万滚出江城！”\n林峰果断撕毁婚书，转身离去。\n谁料前脚刚出苏家，江城首富便领着千金在门外战战兢兢跪迎：“求神医出手救命，我宋家愿奉上半数家产！”\n世人皆以为林峰只是个山里来的落魄穷小子，却不知他一身通天医武，阎王要人三更死，他能留人到五更！\n当绝世神医之名震动天下，豪门贵胄争相巴结、绝色千金与冷艳御姐排队倒贴时，昔日不可一世的未婚妻终于悔断肝肠，哭着在雨中跪求复合。\n林峰居高临下，神色淡然：“退婚是你选的，现在后悔？滚去后面排队！”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4543/13628355_360x480.jpg?time=1792067387",
-        "latest_chapter": " 第100章  全省禁令",
-        "updated_at": "2026-11-08 14:38:02",
+        "latest_chapter": " 第201章  神挡杀神，佛挡杀佛",
+        "updated_at": "2026-11-10 05:02:02",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": 12000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-09T08:39:21",
-  "date": "2026-11-09",
+  "generated_at": "2026-11-10T11:17:09",
+  "date": "2026-11-10",
   "authors": [
     {
       "author": "化十",
       "author_url": "https://www.qimao.com/zuozhe/%E5%8C%96%E5%8D%81_14/",
       "books": 2,
-      "boards": 5,
-      "total_heat": 21804000,
+      "boards": 3,
+      "total_heat": 611000,
       "titles": [
         "荒古武神",
         "吞天神体"
@@ -17,8 +17,8 @@
       "author": "锦锦不是妖",
       "author_url": "https://www.qimao.com/zuozhe/%E9%94%A6%E9%94%A6%E4%B8%8D%E6%98%AF%E5%A6%96_14/",
       "books": 2,
-      "boards": 6,
-      "total_heat": 13201000,
+      "boards": 3,
+      "total_heat": 349000,
       "titles": [
         "第五年重逢，驰先生再度失控",
         "裴先生，暗恋她已十二年"
@@ -28,8 +28,8 @@
       "author": "柠檬小丸子",
       "author_url": "https://www.qimao.com/zuozhe/%E6%9F%A0%E6%AA%AC%E5%B0%8F%E4%B8%B8%E5%AD%90_14/",
       "books": 2,
-      "boards": 5,
-      "total_heat": 12012000,
+      "boards": 3,
+      "total_heat": 294000,
       "titles": [
         "被逼自刎，嫡女重生撕婚书覆皇朝",
         "抢姻缘，夺命格？我改嫁摄政王虐翻全族"
@@ -39,8 +39,8 @@
       "author": "十二妖",
       "author_url": "https://www.qimao.com/zuozhe/%E5%8D%81%E4%BA%8C%E5%A6%96_14/",
       "books": 2,
-      "boards": 3,
-      "total_heat": 8296000,
+      "boards": 1,
+      "total_heat": 222000,
       "titles": [
         "第一凤女",
         "裂春风"
@@ -50,8 +50,8 @@
       "author": "随山月",
       "author_url": "https://www.qimao.com/zuozhe/%E9%9A%8F%E5%B1%B1%E6%9C%88_14/",
       "books": 2,
-      "boards": 6,
-      "total_heat": 6879000,
+      "boards": 4,
+      "total_heat": 201000,
       "titles": [
         "解春衫",
         "枕边奴"
@@ -61,52 +61,40 @@
       "author": "梁山老鬼",
       "author_url": "https://www.qimao.com/zuozhe/%E6%A2%81%E5%B1%B1%E8%80%81%E9%AC%BC_14/",
       "books": 2,
-      "boards": 3,
-      "total_heat": 6291000,
+      "boards": 1,
+      "total_heat": 186000,
       "titles": [
         "无敌六皇子",
         "天命纨绔"
       ]
     },
     {
-      "author": "贪睡的虫儿",
-      "author_url": "https://www.qimao.com/zuozhe/%E8%B4%AA%E7%9D%A1%E7%9A%84%E8%99%AB%E5%84%BF_14/",
-      "books": 2,
-      "boards": 3,
-      "total_heat": 2795000,
-      "titles": [
-        "SSS级狂龙归来，全球戒备！",
-        "真龙下山，我体内有头绝世凶兽"
-      ]
-    },
-    {
       "author": "罗樵森",
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
-      "boards": 4,
-      "total_heat": 2090001,
+      "boards": 2,
+      "total_heat": 66001,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
       ]
     },
     {
-      "author": "佛系和尚",
-      "author_url": "https://www.qimao.com/zuozhe/%E4%BD%9B%E7%B3%BB%E5%92%8C%E5%B0%9A_14/",
-      "books": 2,
-      "boards": 2,
-      "total_heat": 53000,
+      "author": "云中觅",
+      "author_url": "https://www.qimao.com/zuozhe/%E4%BA%91%E4%B8%AD%E8%A7%85_14/",
+      "books": 1,
+      "boards": 1,
+      "total_heat": 1679000,
       "titles": [
-        "最强学霸系统",
-        "我和软萌女友的恋爱日常"
+        "封总，太太想跟你离婚很久了"
       ]
     },
     {
       "author": "狐颜乱语",
       "author_url": "https://www.qimao.com/zuozhe/%E7%8B%90%E9%A2%9C%E4%B9%B1%E8%AF%AD_14/",
       "books": 1,
-      "boards": 3,
-      "total_heat": 36604000,
+      "boards": 1,
+      "total_heat": 1134000,
       "titles": [
         "盖世神医"
       ]
@@ -115,78 +103,108 @@
       "author": "红透半边天",
       "author_url": "https://www.qimao.com/zuozhe/%E7%BA%A2%E9%80%8F%E5%8D%8A%E8%BE%B9%E5%A4%A9_14/",
       "books": 1,
-      "boards": 2,
-      "total_heat": 25010000,
+      "boards": 1,
+      "total_heat": 770000,
       "titles": [
         "警报！真龙出狱！"
-      ]
-    },
-    {
-      "author": "安卿心",
-      "author_url": "https://www.qimao.com/zuozhe/%E5%AE%89%E5%8D%BF%E5%BF%83_14/",
-      "books": 1,
-      "boards": 4,
-      "total_heat": 22223000,
-      "titles": [
-        "皇叔借点功德，王妃把符画猛了"
       ]
     },
     {
       "author": "明婳",
       "author_url": "https://www.qimao.com/zuozhe/%E6%98%8E%E5%A9%B3_14/",
       "books": 1,
-      "boards": 4,
-      "total_heat": 21990000,
+      "boards": 2,
+      "total_heat": 691000,
       "titles": [
         "离婚后她惊艳了世界"
+      ]
+    },
+    {
+      "author": "安卿心",
+      "author_url": "https://www.qimao.com/zuozhe/%E5%AE%89%E5%8D%BF%E5%BF%83_14/",
+      "books": 1,
+      "boards": 2,
+      "total_heat": 640000,
+      "titles": [
+        "皇叔借点功德，王妃把符画猛了"
       ]
     },
     {
       "author": "琼玉",
       "author_url": "https://www.qimao.com/zuozhe/%E7%90%BC%E7%8E%89_14/",
       "books": 1,
-      "boards": 3,
-      "total_heat": 18597000,
+      "boards": 2,
+      "total_heat": 541000,
       "titles": [
         "朱门春闺"
       ]
     },
     {
-      "author": "修果",
-      "author_url": "https://www.qimao.com/zuozhe/%E4%BF%AE%E6%9E%9C_14/",
+      "author": "骑着蜗牛追奔驰",
+      "author_url": "https://www.qimao.com/zuozhe/%E9%AA%91%E7%9D%80%E8%9C%97%E7%89%9B%E8%BF%BD%E5%A5%94%E9%A9%B0_14/",
       "books": 1,
-      "boards": 4,
-      "total_heat": 18053000,
+      "boards": 1,
+      "total_heat": 512000,
       "titles": [
-        "逍遥四公子"
+        "让你当个替身，你咋君临天下"
+      ]
+    },
+    {
+      "author": "九九月",
+      "author_url": "https://www.qimao.com/zuozhe/%E4%B9%9D%E4%B9%9D%E6%9C%88_14/",
+      "books": 1,
+      "boards": 2,
+      "total_heat": 504000,
+      "titles": [
+        "夫人反差太大，司总沦陷了！"
       ]
     },
     {
       "author": "鱼初见",
       "author_url": "https://www.qimao.com/zuozhe/%E9%B1%BC%E5%88%9D%E8%A7%81_14/",
       "books": 1,
-      "boards": 3,
-      "total_heat": 15912000,
+      "boards": 2,
+      "total_heat": 494000,
       "titles": [
         "鸿蒙霸体诀"
+      ]
+    },
+    {
+      "author": "修果",
+      "author_url": "https://www.qimao.com/zuozhe/%E4%BF%AE%E6%9E%9C_14/",
+      "books": 1,
+      "boards": 2,
+      "total_heat": 450000,
+      "titles": [
+        "逍遥四公子"
       ]
     },
     {
       "author": "桃三月",
       "author_url": "https://www.qimao.com/zuozhe/%E6%A1%83%E4%B8%89%E6%9C%88_14/",
       "books": 1,
-      "boards": 3,
-      "total_heat": 15208000,
+      "boards": 1,
+      "total_heat": 443000,
       "titles": [
         "错嫁随军：新婚夜冷面军少沦陷了"
+      ]
+    },
+    {
+      "author": "一嘟噜葡萄",
+      "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E5%98%9F%E5%99%9C%E8%91%A1%E8%90%84_14/",
+      "books": 1,
+      "boards": 1,
+      "total_heat": 386000,
+      "titles": [
+        "夫人在上！"
       ]
     },
     {
       "author": "秦安安",
       "author_url": "https://www.qimao.com/zuozhe/%E7%A7%A6%E5%AE%89%E5%AE%89_14/",
       "books": 1,
-      "boards": 4,
-      "total_heat": 13369000,
+      "boards": 2,
+      "total_heat": 361000,
       "titles": [
         "凤池生春"
       ]
@@ -195,120 +213,100 @@
       "author": "白生米",
       "author_url": "https://www.qimao.com/zuozhe/%E7%99%BD%E7%94%9F%E7%B1%B3_14/",
       "books": 1,
-      "boards": 2,
-      "total_heat": 11874000,
+      "boards": 1,
+      "total_heat": 356000,
       "titles": [
         "大佬十代单传，我为他一胎生四宝"
-      ]
-    },
-    {
-      "author": "浮生一诺",
-      "author_url": "https://www.qimao.com/zuozhe/%E6%B5%AE%E7%94%9F%E4%B8%80%E8%AF%BA_14/",
-      "books": 1,
-      "boards": 3,
-      "total_heat": 10884000,
-      "titles": [
-        "葬神棺"
       ]
     },
     {
       "author": "推窗望岳",
       "author_url": "https://www.qimao.com/zuozhe/%E6%8E%A8%E7%AA%97%E6%9C%9B%E5%B2%B3_14/",
       "books": 1,
-      "boards": 2,
-      "total_heat": 10785000,
+      "boards": 1,
+      "total_heat": 342000,
       "titles": [
         "桃花劫"
       ]
     },
     {
-      "author": "一嘟噜葡萄",
-      "author_url": "https://www.qimao.com/zuozhe/%E4%B8%80%E5%98%9F%E5%99%9C%E8%91%A1%E8%90%84_14/",
+      "author": "钱小二",
+      "author_url": "https://www.qimao.com/zuozhe/%E9%92%B1%E5%B0%8F%E4%BA%8C_14/",
       "books": 1,
-      "boards": 2,
-      "total_heat": 10396000,
+      "boards": 1,
+      "total_heat": 318000,
       "titles": [
-        "夫人在上！"
+        "领证日换嫁首长，随军后我连生两胎"
       ]
     },
     {
-      "author": "九九月",
-      "author_url": "https://www.qimao.com/zuozhe/%E4%B9%9D%E4%B9%9D%E6%9C%88_14/",
+      "author": "浮生一诺",
+      "author_url": "https://www.qimao.com/zuozhe/%E6%B5%AE%E7%94%9F%E4%B8%80%E8%AF%BA_14/",
       "books": 1,
-      "boards": 4,
-      "total_heat": 9899000,
+      "boards": 1,
+      "total_heat": 300000,
       "titles": [
-        "夫人反差太大，司总沦陷了！"
-      ]
-    },
-    {
-      "author": "缓缓归",
-      "author_url": "https://www.qimao.com/zuozhe/%E7%BC%93%E7%BC%93%E5%BD%92_14/",
-      "books": 1,
-      "boards": 2,
-      "total_heat": 9574000,
-      "titles": [
-        "抢我婚约嫁太子？我携孕肚嫁皇帝"
+        "葬神棺"
       ]
     },
     {
       "author": "蓝九九",
       "author_url": "https://www.qimao.com/zuozhe/%E8%93%9D%E4%B9%9D%E4%B9%9D_14/",
       "books": 1,
-      "boards": 3,
-      "total_heat": 9272000,
+      "boards": 2,
+      "total_heat": 290000,
       "titles": [
         "凰宫梦"
-      ]
-    },
-    {
-      "author": "骑着蜗牛追奔驰",
-      "author_url": "https://www.qimao.com/zuozhe/%E9%AA%91%E7%9D%80%E8%9C%97%E7%89%9B%E8%BF%BD%E5%A5%94%E9%A9%B0_14/",
-      "books": 1,
-      "boards": 2,
-      "total_heat": 9123000,
-      "titles": [
-        "让你当个替身，你咋君临天下"
-      ]
-    },
-    {
-      "author": "青岳",
-      "author_url": "https://www.qimao.com/zuozhe/%E9%9D%92%E5%B2%B3_14/",
-      "books": 1,
-      "boards": 2,
-      "total_heat": 8821000,
-      "titles": [
-        "边关兵王"
-      ]
-    },
-    {
-      "author": "木有金箍",
-      "author_url": "https://www.qimao.com/zuozhe/%E6%9C%A8%E6%9C%89%E9%87%91%E7%AE%8D_14/",
-      "books": 1,
-      "boards": 2,
-      "total_heat": 8756000,
-      "titles": [
-        "边军悍卒"
       ]
     },
     {
       "author": "醉不致死",
       "author_url": "https://www.qimao.com/zuozhe/%E9%86%89%E4%B8%8D%E8%87%B4%E6%AD%BB_14/",
       "books": 1,
-      "boards": 2,
-      "total_heat": 8684000,
+      "boards": 1,
+      "total_heat": 274000,
       "titles": [
         "大周第一武夫"
+      ]
+    },
+    {
+      "author": "木有金箍",
+      "author_url": "https://www.qimao.com/zuozhe/%E6%9C%A8%E6%9C%89%E9%87%91%E7%AE%8D_14/",
+      "books": 1,
+      "boards": 1,
+      "total_heat": 270000,
+      "titles": [
+        "边军悍卒"
+      ]
+    },
+    {
+      "author": "我是愤怒",
+      "author_url": "https://www.qimao.com/zuozhe/%E6%88%91%E6%98%AF%E6%84%A4%E6%80%92_14/",
+      "books": 1,
+      "boards": 1,
+      "total_heat": 258000,
+      "titles": [
+        "舔狗反派只想苟，女主不按套路走！"
       ]
     },
     {
       "author": "屠刀成佛",
       "author_url": "https://www.qimao.com/zuozhe/%E5%B1%A0%E5%88%80%E6%88%90%E4%BD%9B_14/",
       "books": 1,
-      "boards": 3,
-      "total_heat": 8418000,
+      "boards": 2,
+      "total_heat": 254000,
       "titles": [
         "吞噬九重天"
+      ]
+    },
+    {
+      "author": "我爱弹棉花",
+      "author_url": "https://www.qimao.com/zuozhe/%E6%88%91%E7%88%B1%E5%BC%B9%E6%A3%89%E8%8A%B1_14/",
+      "books": 1,
+      "boards": 2,
+      "total_heat": 253000,
+      "titles": [
+        "葬天神帝"
       ]
     }
   ]

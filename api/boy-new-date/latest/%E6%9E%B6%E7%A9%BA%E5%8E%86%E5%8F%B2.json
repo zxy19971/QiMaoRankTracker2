@@ -8,74 +8,69 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 4,
-    "total_heat": 76000,
+    "total_heat": 66000,
     "trend": {
-      "new_count": 2,
-      "dropped_count": 3,
+      "new_count": 1,
+      "dropped_count": 1,
       "new_books": [
         {
-          "title": "父皇南逃，不是！你不带嫔妃走？",
-          "book_id": 13201554
-        },
-        {
-          "title": "文圣，帝师，权倾天下！",
-          "book_id": 13730292
+          "title": "边军悍卒：一把长弓定天下！",
+          "book_id": 12948825
         }
       ],
       "dropped_books": [
         {
-          "title": "咱家世代从军，到你这成文圣了？",
-          "book_id": 13194165,
-          "intro": "穿越成京城第一纨绔，章衡开局就被亲爹赏了一巴掌。\n黄袍加身、科举舞弊、满城骂名，前身留给他的全是杀头大罪。\n为了活命，他只能摊牌：其实我前些年一直在藏拙！\n三首半诗震惊金陵成诗仙，科举震惊文坛成状元，"
-        },
-        {
-          "title": "边军悍卒：一把长弓定天下！",
-          "book_id": 12948825,
-          "intro": "国家一级射箭运动员、八极拳传人吴起，比赛回国遭遇空难，醒来后成了大周王朝边军杂役兵。\n这一世的傻大个“吴起”，被伍长夫妇当牛马，因为撞破伍长私通敌国，被抛弃荒漠脱水而死。\n吴起穿越醒来，遭遇北蛮十骑袭"
-        },
-        {
-          "title": "边关第一杀神",
-          "book_id": 13428687,
-          "intro": "别人穿越，直接天胡起飞。\n　　而徐虎穿越，直接成了大雍王朝边疆痴傻的戊卒。\n　　天天被同伍士卒欺凌、霸占杀敌的军功不说，还特么睡朝廷赏赐给他的媳妇！\n　　真是叔叔可忍、婶婶不能忍！\n　　徐虎勃然大怒，"
+          "title": "文圣，帝师，权倾天下！",
+          "book_id": 13730292,
+          "intro": "【架空历史＋文抄公＋女帝＋断亲打脸＋无系统＋轻松爽文】\n“陆观澜，你这不学无术的废物，简直丢尽了我陆家的脸！从今日起，你我父子恩断义绝！”\n一朝穿越，陆观澜成了御史中丞府人人嫌弃的嫡长子。\n继母陷害，"
         }
       ],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "让你当个纨绔，你咋毒谋天下",
           "book_id": 13400022,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
+          "rank_change": -3
+        },
+        {
+          "title": "父皇南逃，不是！你不带嫔妃走？",
+          "book_id": 13201554,
+          "rank_change": -2
+        },
         {
           "title": "寇天子",
           "book_id": 12817968,
-          "rank_change": -2
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
           "title": "寇天子",
           "book_id": 12817968,
-          "heat_change": -4000
+          "heat_change": -7000
         },
         {
           "title": "让你当个纨绔，你咋毒谋天下",
           "book_id": 13400022,
-          "heat_change": -3000
+          "heat_change": -1000
+        },
+        {
+          "title": "父皇南逃，不是！你不带嫔妃走？",
+          "book_id": 13201554,
+          "heat_change": -1000
         }
       ],
-      "summary": "「架空历史」新上榜 《父皇南逃，不是！你不带嫔妃走？》、《文圣，帝师，权倾天下！》；《咱家世代从军，到你这成文圣了？》、《边军悍卒：一把长弓定天下！》、《边关第一杀神》 掉出榜单；《让你当个纨绔，你咋毒谋天下》上升1位领涨；《寇天子》下滑2位；《寇天子》热度-4000。",
+      "summary": "「架空历史」新上榜 《边军悍卒：一把长弓定天下！》；《文圣，帝师，权倾天下！》 掉出榜单；《让你当个纨绔，你咋毒谋天下》下滑3位；《寇天子》热度-7000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 8,
         "title": "寇天子",
         "book_id": 12817968,
         "url": "https://www.qimao.com/shuku/12817968/",
@@ -87,24 +82,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.35万字",
-        "word_count": 443500,
-        "heat": 31000,
+        "word_count_text": "44.76万字",
+        "word_count": 447600,
+        "heat": 24000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "古武传人高远穿越到乱世之中，以土匪之身坐拥四位红颜知己，实力惊人的武将，隐藏身份的女帝，多年未见的大嫂，还有一个亡国之恨的公主！剑扫四海八荒，豪气激荡云霄，白天策马奔袭，夜间笙歌环绕！且随我行，江山美人尽入怀抱！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4273/12817968_360x480.jpg?time=1785209026",
-        "latest_chapter": " 第216章  让一潭死水流动起来",
-        "updated_at": "2026-11-08 19:24:03",
-        "rank_change": -2,
-        "heat_change": -4000,
+        "latest_chapter": " 第218章  将军不负朕，朕亦不负将军",
+        "updated_at": "2026-11-09 18:42:06",
+        "rank_change": -1,
+        "heat_change": -7000,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 9,
+        "rank": 12,
         "title": "让你当个纨绔，你咋毒谋天下",
         "book_id": 13400022,
         "url": "https://www.qimao.com/shuku/13400022/",
@@ -116,24 +111,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.65万字",
-        "word_count": 406500,
-        "heat": 20000,
+        "word_count_text": "41.35万字",
+        "word_count": 413500,
+        "heat": 19000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大离王朝，成为国公嫡孙，本该锦衣玉食，富贵一生。\n李玄真却迎来天崩开局，奸人陷害，他半只脚踏进鬼门关！\n生死一线，昔日人人嗤笑的纨绔，骤然觉醒，化身毒士。\n凭绝世智谋破死局，挽国公府于倾覆；\n挥笔诗词惊天下，文章震彻大离朝堂。\n党争汹汹，朝堂糜烂。\n他搅动风云，扫尽奸佞，倾力辅佐长公主登临九五之尊。\n一句‘活阎王来了’便可吓退百万雄师！\n北击蛮夷，平定四海，重整九州山河，铸就万国来朝的盛世。\n待到功成，手握‘从龙大功’的李玄真只想躺平当纨绔，\n不曾想，深夜宫车传召，女帝屏退所有内侍，独留他一人于深宫之内。\n李玄真傻了……\n陛下！哪有这么考验功臣的啊！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4467/13400022_360x480.jpg?time=1792936970",
-        "latest_chapter": " 第171章  全场消费由李公子买单",
-        "updated_at": "2026-11-09 00:02:24",
-        "rank_change": 1,
-        "heat_change": -3000,
+        "latest_chapter": " 第174章  方向不对，一切白费",
+        "updated_at": "2026-11-10 00:02:21",
+        "rank_change": -3,
+        "heat_change": -1000,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 14,
+        "rank": 16,
         "title": "父皇南逃，不是！你不带嫔妃走？",
         "book_id": 13201554,
         "url": "https://www.qimao.com/shuku/13201554/",
@@ -145,44 +140,44 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "20.82万字",
-        "word_count": 208200,
-        "heat": 14000,
-        "platform_trend": "rise",
+        "word_count_text": "21.24万字",
+        "word_count": 212400,
+        "heat": 13000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【多子多福】\n北蛮入侵，父皇难逃，立废太子刘恪为帝以御北蛮。\n刘恪身为背锅侠，独守东京。\n牵羊礼，不存在！\n华夏人，永不为奴！\n帝国兴衰，系于一身。\n强娶太子妃，激活系统，五百精英斩阎罗。\n甄选妃嫔，变强只在一念中。\n舌战群儒，谈笑间强弩飞灰湮灭。\n剑气纵横，挥洒中敌酋尽皆俯首。\n网罗世间绝色，成就无上神功……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4401/13201554_360x480.jpg?time=1787141475",
-        "latest_chapter": " 第98章  你在威胁朕？！",
-        "updated_at": "2026-11-08 21:12:02",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第100章  安内必先攘外",
+        "updated_at": "2026-11-09 19:51:02",
+        "rank_change": -2,
+        "heat_change": -1000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 18,
-        "title": "文圣，帝师，权倾天下！",
-        "book_id": 13730292,
-        "url": "https://www.qimao.com/shuku/13730292/",
-        "author": "神也写小说",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%A5%9E%E4%B9%9F%E5%86%99%E5%B0%8F%E8%AF%B4_14/",
+        "rank": 19,
+        "title": "边军悍卒：一把长弓定天下！",
+        "book_id": 12948825,
+        "url": "https://www.qimao.com/shuku/12948825/",
+        "author": "清风拂星辰",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%B8%85%E9%A3%8E%E6%8B%82%E6%98%9F%E8%BE%B0_14/",
         "major": "历史",
         "minor": "架空历史",
         "major_id": 56,
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "23.38万字",
-        "word_count": 233800,
-        "heat": 11000,
-        "platform_trend": "rise",
+        "word_count_text": "49.65万字",
+        "word_count": 496500,
+        "heat": 10000,
+        "platform_trend": "drop",
         "badge": "",
-        "intro": "【架空历史＋文抄公＋女帝＋断亲打脸＋无系统＋轻松爽文】\n“陆观澜，你这不学无术的废物，简直丢尽了我陆家的脸！从今日起，你我父子恩断义绝！”\n一朝穿越，陆观澜成了御史中丞府人人嫌弃的嫡长子。\n继母陷害，亲爹偏心，庶弟还想抢他的婚约？\n陆观澜当场断亲，拿着亡母留下的书坊，潇洒离去。\n本想着抄抄诗词，赚点银子，再娶几个漂亮媳妇，舒舒服服过完这一生。\n谁知，随手一首诗，竟压得四国才子抬不起头！\n随便一篇文章，竟让满朝文武惊为天人！\n就连那个经常来他书坊买诗、蹭饭的漂亮姑娘，也渐渐对他另眼相看。\n直到某日，女帝当着满朝文武的面，亲自下旨：\n“陆爱卿，听闻陆观澜是你的儿子？”\n“如此镇国大才，朕要亲自重用！”\n“便由你去请他入朝吧！”\n陆父闻言，两眼一黑，当场瘫倒。\n而另一边，陆观澜望着突然出现在书坊里的女帝，一脸懵逼。\n“不是，萧姑娘？”\n“你怎么还穿上龙袍了？！”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4577/13730292_360x480.jpg?time=1791875959",
-        "latest_chapter": " 第65章  裴崇礼当朝发难",
-        "updated_at": "2026-11-08 23:59:04",
+        "intro": "国家一级射箭运动员、八极拳传人吴起，比赛回国遭遇空难，醒来后成了大周王朝边军杂役兵。\n这一世的傻大个“吴起”，被伍长夫妇当牛马，因为撞破伍长私通敌国，被抛弃荒漠脱水而死。\n吴起穿越醒来，遭遇北蛮十骑袭边，生死关头三箭毙三敌，获得第一笔军功！\n他装傻充楞回到哨所，反杀伍长那对狗男女，收服哨所众人。\n待提头回屯报功时，却被众人质疑，那个傻大个当了三年杂役兵，就能杀鞑子？\n吴起不语，拿出铜钱放在百步外，一箭贯穿方孔，全场愕然！\n提拔为新伍长只是第一步，屯长女儿也要顺势拿下！\n接下来就是守边攒功、种田经商、发展工业、招兵买马、群雄逐鹿...\n我不装了，我就是要用一把长弓定天下！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4317/12948825_360x480.jpg?time=1785383216",
+        "latest_chapter": " 第211章  ：互市会盟，三局两胜（二）。",
+        "updated_at": "2026-11-10 08:39:03",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": true,

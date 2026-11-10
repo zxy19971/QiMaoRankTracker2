@@ -8,38 +8,31 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-07",
+  "date": "2026-11-10",
   "category": {
     "name": "现代悬疑",
     "major": "现代言情",
     "count": 1,
     "total_heat": 5,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "天定阴缘，开棺赐福",
+          "book_id": 13478442
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "天定阴缘，开棺赐福",
-          "book_id": 13478442,
-          "rank_change": -5
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "天定阴缘，开棺赐福",
-          "book_id": 13478442,
-          "heat_change": -7
-        }
-      ],
-      "summary": "「现代悬疑」《天定阴缘，开棺赐福》下滑5位；《天定阴缘，开棺赐福》热度-7。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「现代悬疑」新上榜 《天定阴缘，开棺赐福》。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 20,
+        "rank": 16,
         "title": "天定阴缘，开棺赐福",
         "book_id": 13478442,
         "url": "https://www.qimao.com/shuku/13478442/",
@@ -51,18 +44,18 @@
         "minor_id": 312,
         "minor_url": "https://www.qimao.com/shuku/a-1-312-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.3万字",
-        "word_count": 333000,
+        "word_count_text": "35.4万字",
+        "word_count": 354000,
         "heat": 5,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "柴可家里祖祖辈辈都是和鬼打交道的走阴人，以前出了不少名人，可到了她叔叔那辈，走得走，死得死，勉强能够称得上走阴人的。\n小叔叔半吊子，她连半吊子都没有……\n于是奶奶也不打算让她走这条路，跑去学美术。\n可还是有一天，她突然收到了一个快递。\n快递里竟是无数死人用的东西，还有契约帖！\n容貌俊美的鬼君攀上她的肩，鬼气萦绕将她揽入怀中：“娘子，不是想看看我，我就是特地为你来的。”\n我只是个会点阴术的走阴人，怎么就被鬼君大人拉去当夫人了？！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4493/13478442_360x480.jpg?time=1789542781",
-        "latest_chapter": " 第137章  交样人",
-        "updated_at": "2026-11-07 00:22:05",
-        "rank_change": -5,
-        "heat_change": -7,
-        "is_new": false,
+        "latest_chapter": " 第146章  取命的人",
+        "updated_at": "2026-11-10 00:22:07",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "现代悬疑"

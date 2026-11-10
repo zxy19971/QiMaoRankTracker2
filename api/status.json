@@ -1,106 +1,115 @@
 {
-  "generated_at": "2026-11-09T08:39:21",
-  "last_scraped_at": "2026-11-09T08:36:00",
-  "total_books": 191,
-  "new_today": 15,
+  "generated_at": "2026-11-10T11:17:09",
+  "last_scraped_at": "2026-11-10T11:13:55",
+  "total_books": 135,
+  "new_today": 11,
   "horse_count": 20,
   "boards": [
     {
       "slug": "boy-hot-date",
-      "latest_date": "2026-11-09",
+      "latest_date": "2026-11-10",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-hot-month",
-      "latest_date": "2026-11-09",
-      "book_count": 20,
-      "ok": true
+      "latest_date": null,
+      "book_count": 0,
+      "ok": false
     },
     {
       "slug": "boy-new-date",
-      "latest_date": "2026-11-09",
+      "latest_date": "2026-11-10",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-new-month",
-      "latest_date": "2026-11-09",
-      "book_count": 20,
-      "ok": true
+      "latest_date": null,
+      "book_count": 0,
+      "ok": false
     },
     {
       "slug": "boy-over-date",
-      "latest_date": "2026-11-09",
+      "latest_date": "2026-11-10",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-over-month",
-      "latest_date": "2026-11-09",
-      "book_count": 20,
-      "ok": true
+      "latest_date": null,
+      "book_count": 0,
+      "ok": false
     },
     {
       "slug": "boy-collect-date",
-      "latest_date": "2026-11-09",
-      "book_count": 20,
-      "ok": true
+      "latest_date": null,
+      "book_count": 0,
+      "ok": false
     },
     {
       "slug": "boy-update-date",
-      "latest_date": "2026-11-09",
+      "latest_date": "2026-11-10",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-hot-date",
-      "latest_date": "2026-11-09",
+      "latest_date": "2026-11-10",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-hot-month",
-      "latest_date": "2026-11-09",
-      "book_count": 20,
-      "ok": true
+      "latest_date": null,
+      "book_count": 0,
+      "ok": false
     },
     {
       "slug": "girl-new-date",
-      "latest_date": "2026-11-09",
+      "latest_date": "2026-11-10",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-new-month",
-      "latest_date": "2026-11-09",
-      "book_count": 20,
-      "ok": true
+      "latest_date": null,
+      "book_count": 0,
+      "ok": false
     },
     {
       "slug": "girl-over-date",
-      "latest_date": "2026-11-09",
+      "latest_date": "2026-11-10",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-over-month",
-      "latest_date": "2026-11-09",
-      "book_count": 20,
-      "ok": true
+      "latest_date": null,
+      "book_count": 0,
+      "ok": false
     },
     {
       "slug": "girl-collect-date",
-      "latest_date": "2026-11-09",
-      "book_count": 20,
-      "ok": true
+      "latest_date": null,
+      "book_count": 0,
+      "ok": false
     },
     {
       "slug": "girl-update-date",
-      "latest_date": "2026-11-09",
+      "latest_date": "2026-11-10",
       "book_count": 20,
       "ok": true
     }
   ],
-  "missing": []
+  "missing": [
+    "男生大热月榜(boy-hot-month) 缺少 2026-11-10 当日快照",
+    "男生新书月榜(boy-new-month) 缺少 2026-11-10 当日快照",
+    "男生完结月榜(boy-over-month) 缺少 2026-11-10 当日快照",
+    "男生收藏日榜(boy-collect-date) 缺少 2026-11-10 当日快照",
+    "女生大热月榜(girl-hot-month) 缺少 2026-11-10 当日快照",
+    "女生新书月榜(girl-new-month) 缺少 2026-11-10 当日快照",
+    "女生完结月榜(girl-over-month) 缺少 2026-11-10 当日快照",
+    "女生收藏日榜(girl-collect-date) 缺少 2026-11-10 当日快照"
+  ]
 }

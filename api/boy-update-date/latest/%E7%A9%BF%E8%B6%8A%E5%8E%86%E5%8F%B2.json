@@ -8,61 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-22",
+  "date": "2026-11-10",
   "category": {
     "name": "穿越历史",
     "major": "历史",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 4,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "外卖送到大唐，开局三倍吕布战力",
+          "book_id": 13266141
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "边关第一猎户",
-          "book_id": 10149744,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "边关第一猎户",
-          "book_id": 10149744,
-          "heat_change": -17
-        }
-      ],
-      "summary": "「穿越历史」《边关第一猎户》上升1位领涨；《边关第一猎户》热度-17。",
+      "heat_leaders": [],
+      "summary": "「穿越历史」新上榜 《外卖送到大唐，开局三倍吕布战力》。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 17,
-        "title": "边关第一猎户",
-        "book_id": 10149744,
-        "url": "https://www.qimao.com/shuku/10149744/",
-        "author": "柳白飞",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%9F%B3%E7%99%BD%E9%A3%9E_14/",
+        "rank": 20,
+        "title": "外卖送到大唐，开局三倍吕布战力",
+        "book_id": 13266141,
+        "url": "https://www.qimao.com/shuku/13266141/",
+        "author": "钺小渊",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%92%BA%E5%B0%8F%E6%B8%8A_14/",
         "major": "历史",
         "minor": "穿越历史",
         "major_id": 56,
         "minor_id": 57,
         "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "154.36万字",
-        "word_count": 1543600,
-        "heat": 1,
+        "word_count_text": "59.02万字",
+        "word_count": 590200,
+        "heat": 4,
         "platform_trend": "rise",
         "badge": "",
-        "intro": "穿成猎户，开局就被边军杀良冒功。\n许山不甘束手就擒，靠着一身本领纵横北地边疆。\n收编流民当屯户，改造弓弩搞军备，一不小心把边疆打造成了独立王国。\n当许山再一次击退来犯的北莽大军，朝廷的嘉奖也随之而来。\n“我想要的可不是嘉奖！”\n“传我命令，即日进关！”\n“这腐朽的王朝也是时候换换天地了！”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3384/10149744_360x480.jpg?time=1781328040",
-        "latest_chapter": " 第667章  你给本王注意点",
-        "updated_at": "2026-10-21 23:01:07",
-        "rank_change": 1,
-        "heat_change": -17,
-        "is_new": false,
+        "intro": "李承乾送外卖赶时间，闯了个红灯，一不小心撞上大运，把他送到了大唐，成了当朝太子。\n突厥南下，生灵涂炭。\n意外绑定大自在系统，开局获得三倍吕布战力。\n虽说系统主打悠闲自在，逍遥快活。李承乾却有大志向。\n若不让这民族屹立世界之巅，为万世开太平，岂不是白来一场，对不起这个身份？\n因此……\n他是蛮夷戎狄的克星，黎民百姓的救星，贪官污吏的煞星。\n这个民族，因他而伟大。他因这个民族，而自豪！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4423/13266141_360x480.jpg?time=1787557844",
+        "latest_chapter": " 第266章  荒院救囚，钱箱藏证",
+        "updated_at": "2026-11-09 23:53:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "穿越历史"

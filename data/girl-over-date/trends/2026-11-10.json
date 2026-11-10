@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-10",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 138650,
+    "total_heat": 2773000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "皑如山上雪",
+            "book_id": 2053898
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "婚后上瘾",
+            "book_id": 1994117,
+            "rank_change": 1
+          },
+          {
+            "title": "形婚两年不同房，改嫁大佬被宠坏",
+            "book_id": 11539740,
+            "rank_change": 1
+          },
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "六年后，我携四个幼崽炸翻前夫家",
+            "book_id": 1658048,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "形婚两年不同房，改嫁大佬被宠坏",
+            "book_id": 11539740,
+            "heat_change": 14000
+          },
+          {
+            "title": "婚后上瘾",
+            "book_id": 1994117,
+            "heat_change": 13000
+          },
+          {
+            "title": "大佬归来，假千金她不装了",
+            "book_id": 1699328,
+            "heat_change": -7000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《皑如山上雪》；《婚后上瘾》上升1位领涨；《六年后，我携四个幼崽炸翻前夫家》下滑1位；《形婚两年不同房，改嫁大佬被宠坏》热度+14000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "裂春风",
+            "book_id": 10024089,
+            "rank_change": -1
+          },
+          {
+            "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+            "book_id": 2019227,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": -47000
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": 12000
+          },
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "heat_change": 5000
+          }
+        ],
+        "summary": "「宫闱宅斗」《裂春风》下滑1位；《凤池生春》热度-47000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+            "book_id": 1866390,
+            "intro": "【绝嗣团长vs好孕美人，双重生+换嫁+先婚后爱】秦姝重生后，被堂妹换婚了！\n前世，秦姝嫁的知青是全国首富，她是人人羡慕的阔太太。\n堂妹嫁的年轻军官，瘸腿、毁容、绝嗣，没多久病死了。\n秦姝看着病床上一米"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "骗婚三年？我转身搬空家产嫁你上司！",
+            "book_id": 9912513,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "小娇媳要随军，禁欲指挥官心慌慌",
+            "book_id": 1952077,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "小娇媳要随军，禁欲指挥官心慌慌",
+            "book_id": 1952077,
+            "heat_change": -9000
+          },
+          {
+            "title": "骗婚三年？我转身搬空家产嫁你上司！",
+            "book_id": 9912513,
+            "heat_change": 5000
+          }
+        ],
+        "summary": "「年代重生」《七零，易孕娇妻被绝嗣京少宠哭了》 掉出榜单；《骗婚三年？我转身搬空家产嫁你上司！》上升1位领涨；《小娇媳要随军，禁欲指挥官心慌慌》下滑2位；《小娇媳要随军，禁欲指挥官心慌慌》热度-9000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "渣男不配，他哥才是顶配",
+            "book_id": 10130679
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "邢教练，别太野",
+            "book_id": 1979319,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「职场情缘」新上榜 《渣男不配，他哥才是顶配》；《邢教练，别太野》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「玄幻仙侠」《第一瞳术师》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "为奴三年后，整个侯府跪求我原谅",
+            "book_id": 1872563,
+            "intro": "又名《念昭归》\n乔念做了侯府十五年的掌上明珠，却在那日突然被告知自己只是个假千金。\n从此，疼爱她的爹娘成了林鸢的，宠溺她的阿兄为了林鸢亲手将她推下小楼，就连她的未婚夫，那位封狼居胥的萧将军都选择站在了"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "老祖宗如此多娇，王爷乖乖折腰",
+            "book_id": 11593215,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "老祖宗如此多娇，王爷乖乖折腰",
+            "book_id": 11593215,
+            "heat_change": -7000
+          }
+        ],
+        "summary": "「古代情缘」《为奴三年后，整个侯府跪求我原谅》 掉出榜单；《老祖宗如此多娇，王爷乖乖折腰》下滑1位；《老祖宗如此多娇，王爷乖乖折腰》热度-7000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

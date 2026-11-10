@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-10",
+  "board": "girl-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 403950,
+    "total_heat": 8079000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "谢总，夫人已改嫁，让你跪远点",
+            "book_id": 13156719
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "分手六年，贺律师又沦陷了",
+            "book_id": 2094083,
+            "intro": "六年前，温昭宁热烈追求法学院校草贺淮钦\n交往三个月后，她轻飘飘一句“睡腻了”将他无情甩下\n\n分手六年，两人再相见\n当年的大小姐和穷小子如今身份调转\n他成了红圈所顶级大佬，而她背负债务带着女儿被家暴\n贺"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "rank_change": 2
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": -7
+          },
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "rank_change": -1
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "heat_change": -124000
+          },
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "heat_change": -67000
+          },
+          {
+            "title": "封总，太太想跟你离婚很久了",
+            "book_id": 1879266,
+            "heat_change": 54000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《谢总，夫人已改嫁，让你跪远点》；《分手六年，贺律师又沦陷了》 掉出榜单；《离婚当天，和京圈太子爷闪婚了》上升2位领涨；《她玩火》下滑7位；《她玩火》热度-124000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "朱门春闺",
+            "book_id": 2085985,
+            "rank_change": 1
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": 1
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "全家夺我军功，重生嫡女屠了满门",
+            "book_id": 1968910,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": -47000
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": 13000
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": 12000
+          }
+        ],
+        "summary": "「宫闱宅斗」《朱门春闺》上升1位领涨；《全家夺我军功，重生嫡女屠了满门》下滑2位；《凤池生春》热度-47000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "领证日换嫁首长，随军后我连生两胎",
+            "book_id": 11835048,
+            "rank_change": 1
+          },
+          {
+            "title": "飒美小神医虐渣忙，随军误撩首长被疯宠",
+            "book_id": 2086561,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "飒美小神医虐渣忙，随军误撩首长被疯宠",
+            "book_id": 2086561,
+            "heat_change": 16000
+          },
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": 9000
+          },
+          {
+            "title": "领证日换嫁首长，随军后我连生两胎",
+            "book_id": 11835048,
+            "heat_change": 7000
+          }
+        ],
+        "summary": "「年代重生」《领证日换嫁首长，随军后我连生两胎》上升1位领涨；《飒美小神医虐渣忙，随军误撩首长被疯宠》热度+16000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
