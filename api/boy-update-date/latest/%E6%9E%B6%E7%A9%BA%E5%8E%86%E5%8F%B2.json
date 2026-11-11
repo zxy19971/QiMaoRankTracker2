@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -20,21 +20,9 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "被陷害后，我被迫成了送子天官！",
-          "book_id": 12984576,
-          "rank_change": -5
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "被陷害后，我被迫成了送子天官！",
-          "book_id": 12984576,
-          "heat_change": 4
-        }
-      ],
-      "summary": "「架空历史」《被陷害后，我被迫成了送子天官！》下滑5位；《被陷害后，我被迫成了送子天官！》热度+4。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「架空历史」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -60,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4329/12984576_360x480.jpg?time=1785745185",
         "latest_chapter": " 第308章  大乾龙脉！",
         "updated_at": "2026-11-10 09:02:08",
-        "rank_change": -5,
-        "heat_change": 4,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
@@ -16,57 +16,13 @@
     "total_heat": 265000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "娇软美人出嫁后",
-          "book_id": 12985077,
-          "intro": "【肤白貌美娇娇女x忠犬直男糙汉，体型差+家长里短】\n陈娇娇是平安县最漂亮的姑娘，明眸皓齿，一截细腰掐着丰乳肥臀，是十里八村都想娶的美人。\n只可惜陈娇娇眼高于顶，除了饱读诗书的斯文秀才，谁也看不上。\n一"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "夺妻欢",
-          "book_id": 13263660,
-          "rank_change": 3
-        },
-        {
-          "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
-          "book_id": 13463133,
-          "rank_change": 3
-        },
-        {
-          "title": "地狱归，驭百鬼，王妃回京后杀疯了",
-          "book_id": 13123449,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "嫡姐惨死？她抬棺杀疯京城！",
-          "book_id": 13021647,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "嫡姐惨死？她抬棺杀疯京城！",
-          "book_id": 13021647,
-          "heat_change": -17000
-        },
-        {
-          "title": "地狱归，驭百鬼，王妃回京后杀疯了",
-          "book_id": 13123449,
-          "heat_change": -14000
-        },
-        {
-          "title": "夺妻欢",
-          "book_id": 13263660,
-          "heat_change": 6000
-        }
-      ],
-      "summary": "「古代情缘」《娇软美人出嫁后》 掉出榜单；《夺妻欢》上升3位领涨；《嫡姐惨死？她抬棺杀疯京城！》下滑1位；《嫡姐惨死？她抬棺杀疯京城！》热度-17000。",
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「古代情缘」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -83,19 +39,19 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.35万字",
-        "word_count": 443500,
+        "word_count_text": "45.38万字",
+        "word_count": 453800,
         "heat": 150000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "女强爽文+打脸虐渣+复仇+马甲\n宋南枝嫡姐被人凌辱致死，婆家以七出之罪将她尸体送回将军府。\n祖母以有辱门风之名，不准嫡姐下葬！\n宋南枝教他们做人！\n镇国公世子毁背信弃义，娶平妻，辱阿姐？\n宋南枝当众废了他，让他断子绝孙。\n她手执长剑矗立于风中，“萧世子，你要好好活着，我替阿姐祝你多子多福。”\n镇国公告御状，皇上亲自拿人。\n宋南枝“皇上，您缺钱吗？”\n皇上大怒，谁人不知他是周边几国最穷的皇上？\n宋南枝这是拿刀戳他的心口。\n然而，不等他发作，宋南枝掏出一堆银票，“五百万两，买皇上睁只眼闭只眼。”\n皇上激动的手在颤抖。\n五百万两！！\n足以支撑北雁国十年的五百万两！\n这哪是传闻中的女魔头？\n分明是他的财神爷！\n宋南枝犯下滔天祸事，老夫人要将她逐出家门。\n宋南枝慵懒的斜靠在躺椅上，“祖母年纪大了，不宜掌家，日后安心养老吧！”\n有人花五百万两买摄政王一条命。\n宋南枝唇角微勾，“杀我男人？去，把下单之人送去喂狗！”\n郡主公主以权欺人。\n宋南枝婢女反手卸了对方手脚，“我家小姐身娇体弱，各位贵女还是管好自己的手，免得断手断脚，不划算。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4341/13021647_360x480.jpg?time=1793985815",
-        "latest_chapter": " 第193章  骗傻子的，你还真信？",
-        "updated_at": "2026-11-09 21:11:04",
-        "rank_change": -1,
-        "heat_change": -17000,
+        "latest_chapter": " 第197章  畜生都该死",
+        "updated_at": "2026-11-11 08:01:08",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 3,
         "stale_update": false,
         "category": "古代情缘"
       },
@@ -112,19 +68,19 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.54万字",
-        "word_count": 395400,
+        "word_count_text": "39.96万字",
+        "word_count": 399600,
         "heat": 49000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "江黎在大婚日被未婚夫送来保护她的暗卫灌毒酒，被舅舅一家剥了脸皮，最后九根镇魂钉将她钉死在梨树下。\n\n　　阴差阳错之下，体内尘封的玄医灵脉被打通，可她的肉身被毁，魂魄进入了镇西侯府大小姐江离的身体。\n\n　　从此世间再无郡主江黎，只有侯府嫡女江离。\n\n　　江离的仇，她来报。\n\n　　只是她惊觉，长公主无法安息的夭折麟儿、皇后寝宫夜半呜咽的屏风、太子身后阴魂不散的无头厉鬼，一桩桩血海冤孽，幕后推手竟然全是残害她并夺走她容貌的舅舅一家人。\n\n　　换一张皮囊，怀满腔仇火，她驱使阴鬼步步布局。\n\n　　要让这群敲骨吸髓的恶人，加倍偿还剥皮钉魂之痛！\n\n　　……\n\n　　世人只知摄政王梁昼沉大权在握，杀伐果断。\n\n　　可无人知道入夜后，他将侯府大小姐按在榻上，吻上她眼尾的一点泪痣，白日里清冷疏离的眸子染着欲色的暗沉，动作越发放肆。\n\n　　“阿黎，求求你看看我，好不好？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4375/13123449_360x480.jpg?time=1787731531",
-        "latest_chapter": " 第180章  摄政王携王妃，邀你过府一聚",
-        "updated_at": "2026-11-10 02:02:02",
-        "rank_change": 1,
-        "heat_change": -14000,
+        "latest_chapter": " 第182章  大庆，竟有两个皇后",
+        "updated_at": "2026-11-11 02:02:03",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "古代情缘"
       },
@@ -141,17 +97,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.16万字",
-        "word_count": 341600,
+        "word_count_text": "34.57万字",
+        "word_count": 345700,
         "heat": 42000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【上位者低头+见色起意+强取豪夺+烂人真心】\n【娇软单纯养媳*高位坏种权臣】（男主高需求）\n绣绣是个盲女，自小作为养媳嫁给夫君。\n分离多年，她上京寻夫，才知夫君考取功名后，只将她视为累赘。\n还欲与京城沈家千金结亲。\n绣绣在京城过的艰难，整日都见不到顾寒生。\n雨夜，她独自寻夫，撞到了一个人。\n竟是人人敬畏侧目的沈氏家主、夫君的死敌——沈寂。\n然而绣绣以为这温柔撑伞的人就是夫君。\n她含泪唤：“夫君。”\n一向矜寡薄情的沈寂，看着那世间罕有的绝色面庞，却并未戳穿。\n他撑伞，低笑：“我在。”\n绣绣不知道夫君是怎么了。\n只觉他白天冷淡，夜里却是锦衣之下，欲壑难填，对她极好。\n绣绣管不了那么多了，只要夫君爱她便好。\n可“夫君”说要带她去新宅子的那一日，却又有一个夫君拦住了她。\n顾寒生颤抖着声：“沈阁老，这是我的妻子！”\n绣绣一怔，眼睛恢复，原来这个对自己很好的“夫君”，不是她的夫君。\n沈寂仗着盲女眼瞎，整日肆意的索取、窥视。\n他冷清冷心，身为权臣，从没有在意过什么人。\n最初也只是为了与顾寒生作对，才假扮她的丈夫。\n然而一切等真相败露，她真的要走，沈寂却着了急，用尽一切手段想要留下她…",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4422/13263660_360x480.jpg?time=1794278674",
-        "latest_chapter": " 第161章  我就是疯子，你不喜欢？",
-        "updated_at": "2026-11-09 23:22:06",
-        "rank_change": 3,
-        "heat_change": 6000,
+        "latest_chapter": " 第163章  以前好还是现在好？",
+        "updated_at": "2026-11-10 23:14:03",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -170,17 +126,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.72万字",
-        "word_count": 397200,
+        "word_count_text": "40.33万字",
+        "word_count": 403300,
         "heat": 24000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【替嫁流放+打脸爽文+基建+双向救赎】\n沈婉宁拿着证据去公司的路上，被车撞飞了，一睁眼，成了书中的炮灰太子妃，刚醒来就发现自己竟然被渣爹和姨娘算计，替代残废太子，新婚夜还强了短命太子！\n沈婉宁气不过，直接将渣爹一家拉来作伴，流放路上，别人饿成皮包骨，她一路上吃香喝辣，还赚得盆满钵满！\n二皇子派人暗杀，不好意思！一枪一个解决，杀进京扫荡国库，连个裤叉子都没给皇帝老儿留下！\n皇帝老儿站在西北城墙下可怜兮兮！\n“儿媳妇，我错了，你就让我入城，收我为徒吧！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4488/13463133_360x480.jpg?time=1789452098",
-        "latest_chapter": " 第193章  欲加之罪",
-        "updated_at": "2026-11-10 08:32:05",
-        "rank_change": 3,
-        "heat_change": 2000,
+        "latest_chapter": " 第196章  我是你祖宗",
+        "updated_at": "2026-11-11 08:32:04",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

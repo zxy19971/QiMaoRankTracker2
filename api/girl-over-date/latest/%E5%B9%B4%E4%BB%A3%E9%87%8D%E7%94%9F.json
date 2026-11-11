@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
@@ -16,42 +16,13 @@
     "total_heat": 214000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "七零，易孕娇妻被绝嗣京少宠哭了",
-          "book_id": 1866390,
-          "intro": "【绝嗣团长vs好孕美人，双重生+换嫁+先婚后爱】秦姝重生后，被堂妹换婚了！\n前世，秦姝嫁的知青是全国首富，她是人人羡慕的阔太太。\n堂妹嫁的年轻军官，瘸腿、毁容、绝嗣，没多久病死了。\n秦姝看着病床上一米"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "骗婚三年？我转身搬空家产嫁你上司！",
-          "book_id": 9912513,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "小娇媳要随军，禁欲指挥官心慌慌",
-          "book_id": 1952077,
-          "rank_change": -2
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "小娇媳要随军，禁欲指挥官心慌慌",
-          "book_id": 1952077,
-          "heat_change": -9000
-        },
-        {
-          "title": "骗婚三年？我转身搬空家产嫁你上司！",
-          "book_id": 9912513,
-          "heat_change": 5000
-        }
-      ],
-      "summary": "「年代重生」《七零，易孕娇妻被绝嗣京少宠哭了》 掉出榜单；《骗婚三年？我转身搬空家产嫁你上司！》上升1位领涨；《小娇媳要随军，禁欲指挥官心慌慌》下滑2位；《小娇媳要随军，禁欲指挥官心慌慌》热度-9000。",
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「年代重生」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -77,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3305/9912513_360x480.jpg?time=1776946688",
         "latest_chapter": " 第467章  完结篇下",
         "updated_at": "2026-10-22 15:32:05",
-        "rank_change": 1,
-        "heat_change": 5000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -106,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/663/1987062_360x480.jpg?time=1766391721",
         "latest_chapter": " 第540章  大结局",
         "updated_at": "2026-01-30 22:39:12",
-        "rank_change": -2,
-        "heat_change": -9000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

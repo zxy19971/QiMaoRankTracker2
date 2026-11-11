@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
@@ -16,31 +16,13 @@
     "total_heat": 0,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "国医圣手穿七零，重生军少求上位",
-          "book_id": 13352190,
-          "intro": "沈明珠穿成七零年代文里的恶毒继姐。\n原主为了抢未婚夫，给继妹下药，结果被继妹反算计，冻死在公社卫生院后院。\n她醒来时，身边却多了一个重伤昏迷的男人。\n按照原书，这人三年后会成为军区最年轻的院长，也是男"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "带着空间去下乡，生财暴富撩糙汉！",
-          "book_id": 13470801,
-          "rank_change": 1
-        }
-      ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "带着空间去下乡，生财暴富撩糙汉！",
-          "book_id": 13470801,
-          "heat_change": -4
-        }
-      ],
-      "summary": "「年代重生」《国医圣手穿七零，重生军少求上位》 掉出榜单；《带着空间去下乡，生财暴富撩糙汉！》上升1位领涨；《带着空间去下乡，生财暴富撩糙汉！》热度-4。",
+      "heat_leaders": [],
+      "summary": "「年代重生」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -57,8 +39,8 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.17万字",
-        "word_count": 341700,
+        "word_count_text": "34.14万字",
+        "word_count": 341400,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
@@ -66,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4491/13470801_360x480.jpg?time=1793108192",
         "latest_chapter": " 第116章  副厂长到营林队",
         "updated_at": "2026-11-10 09:52:03",
-        "rank_change": 1,
-        "heat_change": -4,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

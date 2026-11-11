@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
@@ -16,31 +16,13 @@
     "total_heat": 95000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "为奴三年后，整个侯府跪求我原谅",
-          "book_id": 1872563,
-          "intro": "又名《念昭归》\n乔念做了侯府十五年的掌上明珠，却在那日突然被告知自己只是个假千金。\n从此，疼爱她的爹娘成了林鸢的，宠溺她的阿兄为了林鸢亲手将她推下小楼，就连她的未婚夫，那位封狼居胥的萧将军都选择站在了"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "老祖宗如此多娇，王爷乖乖折腰",
-          "book_id": 11593215,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "老祖宗如此多娇，王爷乖乖折腰",
-          "book_id": 11593215,
-          "heat_change": -7000
-        }
-      ],
-      "summary": "「古代情缘」《为奴三年后，整个侯府跪求我原谅》 掉出榜单；《老祖宗如此多娇，王爷乖乖折腰》下滑1位；《老祖宗如此多娇，王爷乖乖折腰》热度-7000。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「古代情缘」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -66,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3865/11593215_360x480.jpg?time=1782450904",
         "latest_chapter": " 第385章  人间，正是好时节",
         "updated_at": "2026-10-15 22:02:06",
-        "rank_change": -1,
-        "heat_change": -7000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

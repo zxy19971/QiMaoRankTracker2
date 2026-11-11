@@ -8,26 +8,66 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-09",
+  "date": "2026-11-11",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 1,
-    "total_heat": 2143000,
+    "count": 2,
+    "total_heat": 5228000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "医武双绝：下山捡个总裁当老婆",
+          "book_id": 11745600
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "SSS级狂龙归来，全球戒备！",
+          "book_id": 2060177,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「都市高手」榜单结构稳定，无明显变动。",
+      "summary": "「都市高手」新上榜 《医武双绝：下山捡个总裁当老婆》；《SSS级狂龙归来，全球戒备！》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 12,
+        "title": "医武双绝：下山捡个总裁当老婆",
+        "book_id": 11745600,
+        "url": "https://www.qimao.com/shuku/11745600/",
+        "author": "情义相许",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%83%85%E4%B9%89%E7%9B%B8%E8%AE%B8_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "182.86万字",
+        "word_count": 1828600,
+        "heat": 3085000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "凤凰山上走下绝世天骄，医武通神，身负生死劫。\n未婚妻嫌他乡野出身，当众退婚？\n叶家旁支觊觎家产，咄咄逼人？\n秦凡冷笑：\n我的婚书，你退不起！\n我的医术，你惹不起！\n这都市，我来了，便是王！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3916/11745600_360x480.jpg?time=1776230673",
+        "latest_chapter": " 第675章  大结局",
+        "updated_at": "2026-11-06 11:13:06",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 3,
+        "stale_update": true,
+        "category": "都市高手"
+      },
+      {
+        "rank": 18,
         "title": "SSS级狂龙归来，全球戒备！",
         "book_id": 2060177,
         "url": "https://www.qimao.com/shuku/2060177/",
@@ -48,7 +88,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/876/2627518_360x480.jpg?time=1787649238",
         "latest_chapter": " 第1110章  九龙抬棺",
         "updated_at": "2026-09-05 12:02:13",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

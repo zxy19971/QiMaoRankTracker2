@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-11",
+  "board": "boy-over-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 4501750,
+    "total_heat": 90035000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "无敌六皇子",
+            "book_id": 1747899,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「架空历史」《无敌六皇子》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "极道剑尊",
+            "book_id": 219040,
+            "intro": "踏天骄，镇万道！\n问鼎极道，唯我剑尊！\n我这一剑平平无奇，但你们绝对会死！"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」《极道剑尊》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "警报！龙国出现SSS级修仙者！",
+            "book_id": 1812053,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「都市高武」《警报！龙国出现SSS级修仙者！》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "SSS级狂龙归来，全球戒备！",
+            "book_id": 2060177,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「都市高手」新上榜 《医武双绝：下山捡个总裁当老婆》；《SSS级狂龙归来，全球戒备！》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "rank_change": -1
+          },
+          {
+            "title": "民间诡闻实录",
+            "book_id": 197091,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」《山野诡闻笔记》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「商战职场」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "重生2000：从追求青涩校花同桌开始",
+            "book_id": 1758273,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「热血校园」《重生2000：从追求青涩校花同桌开始》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+            "book_id": 2027749,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「异世大陆」《刚抽中SSS级天赋，你跟我说游戏停服》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "全球灾变之末日游戏",
+            "book_id": 219542,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「末世危机」《全球灾变之末日游戏》下滑1位。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

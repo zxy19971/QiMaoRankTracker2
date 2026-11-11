@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-09",
+  "date": "2026-11-11",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -20,9 +20,15 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "警报！龙国出现SSS级修仙者！",
+          "book_id": 1812053,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「都市高武」榜单结构稳定，无明显变动。",
+      "summary": "「都市高武」《警报！龙国出现SSS级修仙者！》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
@@ -85,7 +91,7 @@
         "category": "都市高武"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "title": "警报！龙国出现SSS级修仙者！",
         "book_id": 1812053,
         "url": "https://www.qimao.com/shuku/1812053/",
@@ -101,12 +107,12 @@
         "word_count": 5034300,
         "heat": 2780000,
         "platform_trend": "rise",
-        "badge": "飙升23名",
+        "badge": "飙升22名",
         "intro": "原名《狂仙出狱》\n三年前，陈凡为了保护妹妹不得已出手伤人，锒铛入狱，却因祸得福拜仙道至尊为师，从此命运的齿轮开始转动……\n三年后，他是SSS级监狱人人敬畏的少尊！看着受尽欺凌的妹妹，命悬一线的养父，身处险境的未婚妻，陈凡誓要以八尺之躯，为他们撑起一片天！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/522/1565527_360x480.jpg?time=1747072818",
         "latest_chapter": " 第2448章  终战:时空圆满",
         "updated_at": "2026-10-01 00:02:31",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

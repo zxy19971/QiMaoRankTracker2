@@ -1,0 +1,241 @@
+{
+  "date": "2026-11-11",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 5,
+    "dropped_count": 5,
+    "avg_heat": 1970000,
+    "total_heat": 39400000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 3,
+        "new_books": [
+          {
+            "title": "冷婚七年，夫人带娃离婚他悔疯了",
+            "book_id": 12996819
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "分居三年，高冷商总跪地求不离",
+            "book_id": 13034412,
+            "intro": "三年前，因为那个丢失的孩子，温楹给了商濯池一刀，斩断了青梅竹马的情分。\n三年后，她一脸平静的回国，温柔的唤他“二哥”，只为离婚。\n世人都说商濯池是天生的商人，冷漠矜贵，是没有感情的机器，他的人生从不行"
+          },
+          {
+            "title": "离婚证已领，时爷请克制！",
+            "book_id": 12717066,
+            "intro": "【先婚后爱+追妻火葬场+事业逆袭+人间清醒+高岭之花下神坛+男二上位】\n结婚两年，祁知予把暗恋藏进骨血，做了时泽聿最温顺的妻子。\n等来的，却是他亲手碾碎她的海外深造名额，断她事业前路，冷声道：“结了婚"
+          },
+          {
+            "title": "冷脸糙汉哄妻上瘾，她吃不消了",
+            "book_id": 12961581,
+            "intro": "【生理性喜欢+先婚后爱+荷尔蒙爆表】\n堂堂消防队队长生理性冷淡？\n赫勋：传宗接代这事，没兴趣！\n直到他火场里抱了个姑娘，从此夜夜辗转，只想亲她，咬她，占有她！\n最好还能哄她合法生猴子！\n相亲当天，她当"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "披婚纱改嫁，爹系老公他超爱",
+            "book_id": 12862740,
+            "rank_change": 4
+          },
+          {
+            "title": "婚前不熟，婚后失控",
+            "book_id": 13300485,
+            "rank_change": 3
+          },
+          {
+            "title": "裴先生，暗恋她已十二年",
+            "book_id": 13010484,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」新上榜 《冷婚七年，夫人带娃离婚他悔疯了》；《分居三年，高冷商总跪地求不离》、《离婚证已领，时爷请克制！》、《冷脸糙汉哄妻上瘾，她吃不消了》 掉出榜单；《披婚纱改嫁，爹系老公他超爱》上升4位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+            "book_id": 13123449
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "rank_change": 2
+          },
+          {
+            "title": "嫡姐惨死？她抬棺杀疯京城！",
+            "book_id": 13021647,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」新上榜 《地狱归，驭百鬼，王妃回京后杀疯了》；《娇软美人出嫁后》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "双重生后，陛下天天哄妖妃生太子",
+            "book_id": 12804618
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "神算王妃薅功德，转嫁绝嗣皇叔一胎三宝",
+            "book_id": 11718921,
+            "rank_change": 5
+          },
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「宫闱宅斗」新上榜 《双重生后，陛下天天哄妖妃生太子》；《神算王妃薅功德，转嫁绝嗣皇叔一胎三宝》上升5位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "嫌我丰腴不碰我，我改嫁首长连生三崽",
+            "book_id": 13066845
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "intro": "【扮猪吃虎娇媚女主x桀骜不驯腹黑男主，五岁年龄差】\n相亲前，姜珍霓梦见自己生活在一本书里。\n她的存在就是为了衬托女主幸福美满的对照组。\n女主明明是养女却被父母偏爱，把属于她的姻缘换给女主。\n女主嫁红二"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "带空间跟爹抱大腿，别人吃糠我吃肉",
+            "book_id": 12952116,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」新上榜 《嫌我丰腴不碰我，我改嫁首长连生三崽》；《错嫁随军：新婚夜冷面军少沦陷了》 掉出榜单；《带空间跟爹抱大腿，别人吃糠我吃肉》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "被父弃？做罪妻？赌婚换命赚翻天",
+            "book_id": 13057029
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514,
+            "rank_change": 4
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」新上榜 《被父弃？做罪妻？赌婚换命赚翻天》；《流民医女：开荒把残夫养成战神》上升4位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "长得太漂亮，在末世里会被疯狂觊觎",
+            "book_id": 12813204,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世求生」《长得太漂亮，在末世里会被疯狂觊觎》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "不做替身后，小师妹一剑可破天",
+            "book_id": 12908322,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」《不做替身后，小师妹一剑可破天》上升5位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
@@ -20,31 +20,9 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "武逆九千界",
-          "book_id": 215086,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "极道剑尊",
-          "book_id": 219040,
-          "heat_change": 13000
-        },
-        {
-          "title": "葬天神帝",
-          "book_id": 213697,
-          "heat_change": 5000
-        },
-        {
-          "title": "荒古武神",
-          "book_id": 216404,
-          "heat_change": 2000
-        }
-      ],
-      "summary": "「东方玄幻」《武逆九千界》下滑1位；《极道剑尊》热度+13000。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -71,9 +49,9 @@
         "latest_chapter": " 第3863章  另一个世界（大结局）",
         "updated_at": "2026-04-22 00:17:41",
         "rank_change": 0,
-        "heat_change": 2000,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 4,
         "stale_update": true,
         "category": "东方玄幻"
       },
@@ -100,9 +78,9 @@
         "latest_chapter": " 第3704章  前路在何方？（大结局）",
         "updated_at": "2026-10-01 20:51:29",
         "rank_change": 0,
-        "heat_change": 5000,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 3,
         "stale_update": true,
         "category": "东方玄幻"
       },
@@ -129,7 +107,7 @@
         "latest_chapter": " 第4684章  终章·无限之路，无限未来（下）。",
         "updated_at": "2026-10-31 16:27:31",
         "rank_change": 0,
-        "heat_change": 13000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -158,9 +136,9 @@
         "latest_chapter": " 第2753章  前往上苍之上（大结局）",
         "updated_at": "2026-08-31 16:32:19",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": true,
         "category": "东方玄幻"
       },
@@ -186,10 +164,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/214711_360x480.jpg?time=1638353151",
         "latest_chapter": " 第6329章  至尊神位，万世之主！",
         "updated_at": "2026-10-31 21:36:37",
-        "rank_change": -1,
-        "heat_change": -2000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": true,
         "category": "东方玄幻"
       }

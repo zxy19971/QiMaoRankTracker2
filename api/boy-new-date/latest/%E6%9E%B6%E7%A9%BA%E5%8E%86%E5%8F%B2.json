@@ -8,64 +8,21 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 4,
     "total_heat": 66000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "边军悍卒：一把长弓定天下！",
-          "book_id": 12948825
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "文圣，帝师，权倾天下！",
-          "book_id": 13730292,
-          "intro": "【架空历史＋文抄公＋女帝＋断亲打脸＋无系统＋轻松爽文】\n“陆观澜，你这不学无术的废物，简直丢尽了我陆家的脸！从今日起，你我父子恩断义绝！”\n一朝穿越，陆观澜成了御史中丞府人人嫌弃的嫡长子。\n继母陷害，"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "让你当个纨绔，你咋毒谋天下",
-          "book_id": 13400022,
-          "rank_change": -3
-        },
-        {
-          "title": "父皇南逃，不是！你不带嫔妃走？",
-          "book_id": 13201554,
-          "rank_change": -2
-        },
-        {
-          "title": "寇天子",
-          "book_id": 12817968,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "寇天子",
-          "book_id": 12817968,
-          "heat_change": -7000
-        },
-        {
-          "title": "让你当个纨绔，你咋毒谋天下",
-          "book_id": 13400022,
-          "heat_change": -1000
-        },
-        {
-          "title": "父皇南逃，不是！你不带嫔妃走？",
-          "book_id": 13201554,
-          "heat_change": -1000
-        }
-      ],
-      "summary": "「架空历史」新上榜 《边军悍卒：一把长弓定天下！》；《文圣，帝师，权倾天下！》 掉出榜单；《让你当个纨绔，你咋毒谋天下》下滑3位；《寇天子》热度-7000。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「架空历史」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -82,19 +39,19 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.76万字",
-        "word_count": 447600,
+        "word_count_text": "45.16万字",
+        "word_count": 451600,
         "heat": 24000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "古武传人高远穿越到乱世之中，以土匪之身坐拥四位红颜知己，实力惊人的武将，隐藏身份的女帝，多年未见的大嫂，还有一个亡国之恨的公主！剑扫四海八荒，豪气激荡云霄，白天策马奔袭，夜间笙歌环绕！且随我行，江山美人尽入怀抱！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4273/12817968_360x480.jpg?time=1785209026",
-        "latest_chapter": " 第218章  将军不负朕，朕亦不负将军",
-        "updated_at": "2026-11-09 18:42:06",
-        "rank_change": -1,
-        "heat_change": -7000,
+        "latest_chapter": " 第220章  帝王家事，岂是谁都可以参与的",
+        "updated_at": "2026-11-10 18:41:04",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
@@ -111,19 +68,19 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.35万字",
-        "word_count": 413500,
+        "word_count_text": "42.05万字",
+        "word_count": 420500,
         "heat": 19000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大离王朝，成为国公嫡孙，本该锦衣玉食，富贵一生。\n李玄真却迎来天崩开局，奸人陷害，他半只脚踏进鬼门关！\n生死一线，昔日人人嗤笑的纨绔，骤然觉醒，化身毒士。\n凭绝世智谋破死局，挽国公府于倾覆；\n挥笔诗词惊天下，文章震彻大离朝堂。\n党争汹汹，朝堂糜烂。\n他搅动风云，扫尽奸佞，倾力辅佐长公主登临九五之尊。\n一句‘活阎王来了’便可吓退百万雄师！\n北击蛮夷，平定四海，重整九州山河，铸就万国来朝的盛世。\n待到功成，手握‘从龙大功’的李玄真只想躺平当纨绔，\n不曾想，深夜宫车传召，女帝屏退所有内侍，独留他一人于深宫之内。\n李玄真傻了……\n陛下！哪有这么考验功臣的啊！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4467/13400022_360x480.jpg?time=1792936970",
-        "latest_chapter": " 第174章  方向不对，一切白费",
-        "updated_at": "2026-11-10 00:02:21",
-        "rank_change": -3,
-        "heat_change": -1000,
+        "latest_chapter": " 第177章  新一代马匹精",
+        "updated_at": "2026-11-11 00:02:28",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
@@ -140,17 +97,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "21.24万字",
-        "word_count": 212400,
+        "word_count_text": "21.67万字",
+        "word_count": 216700,
         "heat": 13000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【多子多福】\n北蛮入侵，父皇难逃，立废太子刘恪为帝以御北蛮。\n刘恪身为背锅侠，独守东京。\n牵羊礼，不存在！\n华夏人，永不为奴！\n帝国兴衰，系于一身。\n强娶太子妃，激活系统，五百精英斩阎罗。\n甄选妃嫔，变强只在一念中。\n舌战群儒，谈笑间强弩飞灰湮灭。\n剑气纵横，挥洒中敌酋尽皆俯首。\n网罗世间绝色，成就无上神功……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4401/13201554_360x480.jpg?time=1787141475",
-        "latest_chapter": " 第100章  安内必先攘外",
-        "updated_at": "2026-11-09 19:51:02",
-        "rank_change": -2,
-        "heat_change": -1000,
+        "latest_chapter": " 第102章  女帝命格又如何",
+        "updated_at": "2026-11-10 18:18:03",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -169,8 +126,8 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.65万字",
-        "word_count": 496500,
+        "word_count_text": "49.85万字",
+        "word_count": 498500,
         "heat": 10000,
         "platform_trend": "drop",
         "badge": "",
@@ -180,8 +137,8 @@
         "updated_at": "2026-11-10 08:39:03",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
+        "is_new": false,
+        "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       }

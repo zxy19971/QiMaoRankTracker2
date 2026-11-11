@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -20,21 +20,9 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "医武双绝：下山捡个总裁当老婆",
-          "book_id": 11745600,
-          "rank_change": -2
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "医武双绝：下山捡个总裁当老婆",
-          "book_id": 11745600,
-          "heat_change": -14000
-        }
-      ],
-      "summary": "「都市高手」《医武双绝：下山捡个总裁当老婆》下滑2位；《医武双绝：下山捡个总裁当老婆》热度-14000。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「都市高手」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -60,10 +48,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3916/11745600_360x480.jpg?time=1776230673",
         "latest_chapter": " 第675章  大结局",
         "updated_at": "2026-11-06 11:13:06",
-        "rank_change": -2,
-        "heat_change": -14000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 3,
         "stale_update": true,
         "category": "都市高手"
       }

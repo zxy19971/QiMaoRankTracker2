@@ -8,8 +8,8 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-09",
-  "prev_date": "2026-11-08",
+  "date": "2026-11-11",
+  "prev_date": "2026-11-09",
   "books": [
     {
       "rank": 1,
@@ -181,7 +181,7 @@
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 3,
+      "boards_count": 2,
       "stale_update": true,
       "category": "宫闱宅斗"
     },
@@ -500,7 +500,7 @@
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
+      "boards_count": 2,
       "stale_update": true,
       "category": "总裁豪门"
     },
@@ -558,7 +558,7 @@
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 1,
       "stale_update": true,
       "category": "古代情缘"
     },
@@ -925,7 +925,7 @@
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
+          "boards_count": 2,
           "stale_update": true,
           "category": "总裁豪门"
         }
@@ -1060,7 +1060,7 @@
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 3,
+          "boards_count": 2,
           "stale_update": true,
           "category": "宫闱宅斗"
         },
@@ -1214,7 +1214,7 @@
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
+          "boards_count": 1,
           "stale_update": true,
           "category": "古代情缘"
         }

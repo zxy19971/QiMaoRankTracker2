@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "categories": [
     {
       "name": "都市高武",
@@ -62,6 +62,11 @@
       "url": "api/categories/latest/%E8%A1%8D%E7%94%9F%E5%90%8C%E4%BA%BA.json"
     },
     {
+      "name": "虚拟网游",
+      "major": "游戏",
+      "url": "api/categories/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
+    },
+    {
       "name": "末世危机",
       "major": "科幻",
       "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
@@ -102,6 +107,11 @@
       "url": "api/categories/latest/%E5%B9%B4%E4%BB%A3%E9%87%8D%E7%94%9F.json"
     },
     {
+      "name": "都市奇幻",
+      "major": "现代言情",
+      "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
+    },
+    {
       "name": "古代情缘",
       "major": "古代言情",
       "url": "api/categories/latest/%E5%8F%A4%E4%BB%A3%E6%83%85%E7%BC%98.json"
@@ -122,14 +132,19 @@
       "url": "api/categories/latest/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0.json"
     },
     {
+      "name": "末世求生",
+      "major": "幻想言情",
+      "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E6%B1%82%E7%94%9F.json"
+    },
+    {
+      "name": "权谋天下",
+      "major": "古代言情",
+      "url": "api/categories/latest/%E6%9D%83%E8%B0%8B%E5%A4%A9%E4%B8%8B.json"
+    },
+    {
       "name": "娱乐明星",
       "major": "现代言情",
       "url": "api/categories/latest/%E5%A8%B1%E4%B9%90%E6%98%8E%E6%98%9F.json"
-    },
-    {
-      "name": "都市奇幻",
-      "major": "现代言情",
-      "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
     },
     {
       "name": "现代悬疑",

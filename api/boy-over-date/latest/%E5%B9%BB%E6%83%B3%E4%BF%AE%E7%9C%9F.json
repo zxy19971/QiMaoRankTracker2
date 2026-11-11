@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
@@ -21,14 +21,8 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "师叔，你的法宝太不正经了",
-          "book_id": 1867139,
-          "heat_change": 7000
-        }
-      ],
-      "summary": "「幻想修真」《师叔，你的法宝太不正经了》热度+7000。",
+      "heat_leaders": [],
+      "summary": "「幻想修真」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,9 +49,9 @@
         "latest_chapter": " 第2171章  周岁又周年（全剧终）",
         "updated_at": "2026-11-03 21:21:19",
         "rank_change": 0,
-        "heat_change": 7000,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 3,
         "stale_update": true,
         "category": "幻想修真"
       }

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -19,27 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "女子监狱五年，出狱即无敌",
-          "book_id": 12791886,
-          "rank_change": 3
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "我在都市修了个野仙",
-          "book_id": 2078908,
-          "heat_change": -2
-        },
-        {
-          "title": "女子监狱五年，出狱即无敌",
-          "book_id": 12791886,
-          "heat_change": -1
-        }
-      ],
-      "summary": "「都市高武」《女子监狱五年，出狱即无敌》上升3位领涨；《我在都市修了个野仙》热度-2。",
+      "heat_leaders": [],
+      "summary": "「都市高武」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -56,17 +39,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "82.04万字",
-        "word_count": 820400,
+        "word_count_text": "82.86万字",
+        "word_count": 828600,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第348章  噬魂钉",
-        "updated_at": "2026-11-10 08:12:11",
-        "rank_change": 3,
-        "heat_change": -1,
+        "latest_chapter": " 第352章  白骨复活",
+        "updated_at": "2026-11-11 08:22:05",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -85,17 +68,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "290.78万字",
-        "word_count": 2907800,
+        "word_count_text": "291.4万字",
+        "word_count": 2914000,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "林子东遭女友背叛，侥幸得到修仙传承，他幻想中的修仙是小说中那般神挡杀神佛挡杀佛，逍遥世间，怎么到了自己这里全是美人关？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/907/2718192_360x480.jpg?time=1770139124",
-        "latest_chapter": " 第1400章  鬼物！",
-        "updated_at": "2026-11-09 23:11:11",
+        "latest_chapter": " 第1403章  三胞胎？！",
+        "updated_at": "2026-11-10 22:26:11",
         "rank_change": 0,
-        "heat_change": -2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

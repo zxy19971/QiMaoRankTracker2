@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -19,27 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "无敌六皇子",
-          "book_id": 1747899,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "无敌六皇子",
-          "book_id": 1747899,
-          "heat_change": 4000
-        },
-        {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
-          "heat_change": -2000
-        }
-      ],
-      "summary": "「架空历史」《无敌六皇子》上升1位领涨；《无敌六皇子》热度+4000。",
+      "heat_leaders": [],
+      "summary": "「架空历史」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -68,7 +51,7 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 4,
         "stale_update": true,
         "category": "架空历史"
       },
@@ -95,9 +78,9 @@
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
         "rank_change": 0,
-        "heat_change": -2000,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": true,
         "category": "架空历史"
       },
@@ -123,10 +106,10 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
-        "rank_change": 1,
-        "heat_change": 4000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 3,
         "stale_update": true,
         "category": "架空历史"
       },
@@ -155,8 +138,8 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
+        "boards_count": 2,
+        "stale_update": true,
         "category": "架空历史"
       }
     ]

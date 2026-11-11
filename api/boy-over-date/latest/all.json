@@ -8,8 +8,8 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-10",
-  "prev_date": "2026-11-09",
+  "date": "2026-11-11",
+  "prev_date": "2026-11-10",
   "books": [
     {
       "rank": 1,
@@ -36,7 +36,7 @@
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 4,
       "stale_update": true,
       "category": "架空历史"
     },
@@ -63,9 +63,9 @@
       "latest_chapter": " 第3863章  另一个世界（大结局）",
       "updated_at": "2026-04-22 00:17:41",
       "rank_change": 0,
-      "heat_change": 2000,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 4,
       "stale_update": true,
       "category": "东方玄幻"
     },
@@ -92,9 +92,9 @@
       "latest_chapter": " 第3704章  前路在何方？（大结局）",
       "updated_at": "2026-10-01 20:51:29",
       "rank_change": 0,
-      "heat_change": 5000,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 3,
       "stale_update": true,
       "category": "东方玄幻"
     },
@@ -121,9 +121,9 @@
       "latest_chapter": " 第2171章  周岁又周年（全剧终）",
       "updated_at": "2026-11-03 21:21:19",
       "rank_change": 0,
-      "heat_change": 7000,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 3,
       "stale_update": true,
       "category": "幻想修真"
     },
@@ -150,9 +150,9 @@
       "latest_chapter": " 第1045章  他是神（大结局）",
       "updated_at": "2026-11-06 00:27:08",
       "rank_change": 0,
-      "heat_change": -6000,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
+      "boards_count": 2,
       "stale_update": true,
       "category": "商战职场"
     },
@@ -179,7 +179,7 @@
       "latest_chapter": " 第4684章  终章·无限之路，无限未来（下）。",
       "updated_at": "2026-10-31 16:27:31",
       "rank_change": 0,
-      "heat_change": 13000,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
       "stale_update": true,
@@ -208,9 +208,9 @@
       "latest_chapter": " 第962章  混成圣宫，仙福永享（大结局）",
       "updated_at": "2026-04-02 18:35:10",
       "rank_change": 0,
-      "heat_change": -6000,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
+      "boards_count": 2,
       "stale_update": true,
       "category": "都市高武"
     },
@@ -237,9 +237,9 @@
       "latest_chapter": " 第2753章  前往上苍之上（大结局）",
       "updated_at": "2026-08-31 16:32:19",
       "rank_change": 0,
-      "heat_change": -1000,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
+      "boards_count": 2,
       "stale_update": true,
       "category": "东方玄幻"
     },
@@ -266,9 +266,9 @@
       "latest_chapter": " 第1257章  番外三：星辰大海",
       "updated_at": "2026-03-31 22:07:15",
       "rank_change": 0,
-      "heat_change": -2000,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
+      "boards_count": 2,
       "stale_update": true,
       "category": "架空历史"
     },
@@ -294,10 +294,10 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
       "latest_chapter": " 第1634章  番外——十年后",
       "updated_at": "2025-03-03 00:03:29",
-      "rank_change": 1,
-      "heat_change": 4000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
+      "boards_count": 3,
       "stale_update": true,
       "category": "架空历史"
     },
@@ -323,10 +323,10 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/214711_360x480.jpg?time=1638353151",
       "latest_chapter": " 第6329章  至尊神位，万世之主！",
       "updated_at": "2026-10-31 21:36:37",
-      "rank_change": -1,
-      "heat_change": -2000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
+      "boards_count": 2,
       "stale_update": true,
       "category": "东方玄幻"
     },
@@ -355,8 +355,8 @@
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
-      "stale_update": false,
+      "boards_count": 2,
+      "stale_update": true,
       "category": "架空历史"
     },
     {
@@ -382,9 +382,9 @@
       "latest_chapter": " 第2590章  圆满。",
       "updated_at": "2025-12-15 11:18:20",
       "rank_change": 0,
-      "heat_change": 1000,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
+      "boards_count": 2,
       "stale_update": true,
       "category": "都市高武"
     },
@@ -410,10 +410,10 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
       "latest_chapter": " 第2210章  星耀终结",
       "updated_at": "2024-08-28 22:04:25",
-      "rank_change": 1,
-      "heat_change": 5000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
+      "boards_count": 3,
       "stale_update": true,
       "category": "末世危机"
     },
@@ -439,10 +439,10 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
       "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
       "updated_at": "2021-10-12 11:14:06",
-      "rank_change": 2,
-      "heat_change": 1000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
+      "boards_count": 3,
       "stale_update": true,
       "category": "奇门秘术"
     },
@@ -468,10 +468,10 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/522/1565527_360x480.jpg?time=1747072818",
       "latest_chapter": " 第2448章  终战:时空圆满",
       "updated_at": "2026-10-01 00:02:31",
-      "rank_change": -2,
-      "heat_change": -1000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
+      "boards_count": 2,
       "stale_update": true,
       "category": "都市高武"
     },
@@ -497,10 +497,10 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/822/2463092_360x480.jpg?time=1761124724",
       "latest_chapter": " 第1074章  仙人也折腰(终)",
       "updated_at": "2026-09-06 08:21:09",
-      "rank_change": 1,
-      "heat_change": 2000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
+      "boards_count": 2,
       "stale_update": true,
       "category": "异世大陆"
     },
@@ -526,10 +526,10 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3916/11745600_360x480.jpg?time=1776230673",
       "latest_chapter": " 第675章  大结局",
       "updated_at": "2026-11-06 11:13:06",
-      "rank_change": -2,
-      "heat_change": -14000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 3,
       "stale_update": true,
       "category": "都市高手"
     },
@@ -556,9 +556,9 @@
       "latest_chapter": " 第1992章  讣告",
       "updated_at": "2025-12-10 14:02:20",
       "rank_change": 0,
-      "heat_change": -2000,
+      "heat_change": 0,
       "is_new": false,
-      "boards_count": 1,
+      "boards_count": 2,
       "stale_update": true,
       "category": "热血校园"
     },
@@ -586,8 +586,8 @@
       "updated_at": "2024-05-11 07:57:09",
       "rank_change": 0,
       "heat_change": 0,
-      "is_new": true,
-      "boards_count": 1,
+      "is_new": false,
+      "boards_count": 2,
       "stale_update": true,
       "category": "奇门秘术"
     }
@@ -604,31 +604,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "武逆九千界",
-            "book_id": 215086,
-            "rank_change": -1
-          }
-        ],
-        "heat_leaders": [
-          {
-            "title": "极道剑尊",
-            "book_id": 219040,
-            "heat_change": 13000
-          },
-          {
-            "title": "葬天神帝",
-            "book_id": 213697,
-            "heat_change": 5000
-          },
-          {
-            "title": "荒古武神",
-            "book_id": 216404,
-            "heat_change": 2000
-          }
-        ],
-        "summary": "「东方玄幻」《武逆九千界》下滑1位；《极道剑尊》热度+13000。",
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -655,9 +633,9 @@
           "latest_chapter": " 第3863章  另一个世界（大结局）",
           "updated_at": "2026-04-22 00:17:41",
           "rank_change": 0,
-          "heat_change": 2000,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
+          "boards_count": 4,
           "stale_update": true,
           "category": "东方玄幻"
         },
@@ -684,9 +662,9 @@
           "latest_chapter": " 第3704章  前路在何方？（大结局）",
           "updated_at": "2026-10-01 20:51:29",
           "rank_change": 0,
-          "heat_change": 5000,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
+          "boards_count": 3,
           "stale_update": true,
           "category": "东方玄幻"
         },
@@ -713,7 +691,7 @@
           "latest_chapter": " 第4684章  终章·无限之路，无限未来（下）。",
           "updated_at": "2026-10-31 16:27:31",
           "rank_change": 0,
-          "heat_change": 13000,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
           "stale_update": true,
@@ -742,9 +720,9 @@
           "latest_chapter": " 第2753章  前往上苍之上（大结局）",
           "updated_at": "2026-08-31 16:32:19",
           "rank_change": 0,
-          "heat_change": -1000,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
+          "boards_count": 2,
           "stale_update": true,
           "category": "东方玄幻"
         },
@@ -770,10 +748,10 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/214711_360x480.jpg?time=1638353151",
           "latest_chapter": " 第6329章  至尊神位，万世之主！",
           "updated_at": "2026-10-31 21:36:37",
-          "rank_change": -1,
-          "heat_change": -2000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
+          "boards_count": 2,
           "stale_update": true,
           "category": "东方玄幻"
         }
@@ -789,27 +767,10 @@
         "dropped_count": 0,
         "new_books": [],
         "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "无敌六皇子",
-            "book_id": 1747899,
-            "rank_change": 1
-          }
-        ],
+        "top_risers": [],
         "top_fallers": [],
-        "heat_leaders": [
-          {
-            "title": "无敌六皇子",
-            "book_id": 1747899,
-            "heat_change": 4000
-          },
-          {
-            "title": "打到北极圈了，你让我继承皇位？",
-            "book_id": 1864493,
-            "heat_change": -2000
-          }
-        ],
-        "summary": "「架空历史」《无敌六皇子》上升1位领涨；《无敌六皇子》热度+4000。",
+        "heat_leaders": [],
+        "summary": "「架空历史」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -838,7 +799,7 @@
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
+          "boards_count": 4,
           "stale_update": true,
           "category": "架空历史"
         },
@@ -865,9 +826,9 @@
           "latest_chapter": " 第1257章  番外三：星辰大海",
           "updated_at": "2026-03-31 22:07:15",
           "rank_change": 0,
-          "heat_change": -2000,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
+          "boards_count": 2,
           "stale_update": true,
           "category": "架空历史"
         },
@@ -893,10 +854,10 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
           "latest_chapter": " 第1634章  番外——十年后",
           "updated_at": "2025-03-03 00:03:29",
-          "rank_change": 1,
-          "heat_change": 4000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
+          "boards_count": 3,
           "stale_update": true,
           "category": "架空历史"
         },
@@ -925,8 +886,8 @@
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
-          "stale_update": false,
+          "boards_count": 2,
+          "stale_update": true,
           "category": "架空历史"
         }
       ]
@@ -942,31 +903,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "警报！龙国出现SSS级修仙者！",
-            "book_id": 1812053,
-            "rank_change": -2
-          }
-        ],
-        "heat_leaders": [
-          {
-            "title": "小司机的美女总裁老婆",
-            "book_id": 2052700,
-            "heat_change": -6000
-          },
-          {
-            "title": "镇天神医",
-            "book_id": 1675640,
-            "heat_change": 1000
-          },
-          {
-            "title": "警报！龙国出现SSS级修仙者！",
-            "book_id": 1812053,
-            "heat_change": -1000
-          }
-        ],
-        "summary": "「都市高武」《警报！龙国出现SSS级修仙者！》下滑2位；《小司机的美女总裁老婆》热度-6000。",
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -993,9 +932,9 @@
           "latest_chapter": " 第962章  混成圣宫，仙福永享（大结局）",
           "updated_at": "2026-04-02 18:35:10",
           "rank_change": 0,
-          "heat_change": -6000,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
+          "boards_count": 2,
           "stale_update": true,
           "category": "都市高武"
         },
@@ -1022,9 +961,9 @@
           "latest_chapter": " 第2590章  圆满。",
           "updated_at": "2025-12-15 11:18:20",
           "rank_change": 0,
-          "heat_change": 1000,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
+          "boards_count": 2,
           "stale_update": true,
           "category": "都市高武"
         },
@@ -1050,10 +989,10 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/522/1565527_360x480.jpg?time=1747072818",
           "latest_chapter": " 第2448章  终战:时空圆满",
           "updated_at": "2026-10-01 00:02:31",
-          "rank_change": -2,
-          "heat_change": -1000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
+          "boards_count": 2,
           "stale_update": true,
           "category": "都市高武"
         }
@@ -1065,31 +1004,14 @@
       "count": 2,
       "total_heat": 116000,
       "trend": {
-        "new_count": 1,
+        "new_count": 0,
         "dropped_count": 0,
-        "new_books": [
-          {
-            "title": "山野诡闻笔记",
-            "book_id": 214783
-          }
-        ],
+        "new_books": [],
         "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "民间诡闻实录",
-            "book_id": 197091,
-            "rank_change": 2
-          }
-        ],
+        "top_risers": [],
         "top_fallers": [],
-        "heat_leaders": [
-          {
-            "title": "民间诡闻实录",
-            "book_id": 197091,
-            "heat_change": 1000
-          }
-        ],
-        "summary": "「奇门秘术」新上榜 《山野诡闻笔记》；《民间诡闻实录》上升2位领涨；《民间诡闻实录》热度+1000。",
+        "heat_leaders": [],
+        "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1115,10 +1037,10 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/204271_360x480.jpg?time=1638355449",
           "latest_chapter": " 第1179章  或许我可以给你答案（全书完）",
           "updated_at": "2021-10-12 11:14:06",
-          "rank_change": 2,
-          "heat_change": 1000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
+          "boards_count": 3,
           "stale_update": true,
           "category": "奇门秘术"
         },
@@ -1146,8 +1068,8 @@
           "updated_at": "2024-05-11 07:57:09",
           "rank_change": 0,
           "heat_change": 0,
-          "is_new": true,
-          "boards_count": 1,
+          "is_new": false,
+          "boards_count": 2,
           "stale_update": true,
           "category": "奇门秘术"
         }
@@ -1165,14 +1087,8 @@
         "dropped_books": [],
         "top_risers": [],
         "top_fallers": [],
-        "heat_leaders": [
-          {
-            "title": "师叔，你的法宝太不正经了",
-            "book_id": 1867139,
-            "heat_change": 7000
-          }
-        ],
-        "summary": "「幻想修真」《师叔，你的法宝太不正经了》热度+7000。",
+        "heat_leaders": [],
+        "summary": "「幻想修真」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1199,9 +1115,9 @@
           "latest_chapter": " 第2171章  周岁又周年（全剧终）",
           "updated_at": "2026-11-03 21:21:19",
           "rank_change": 0,
-          "heat_change": 7000,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
+          "boards_count": 3,
           "stale_update": true,
           "category": "幻想修真"
         }
@@ -1219,14 +1135,8 @@
         "dropped_books": [],
         "top_risers": [],
         "top_fallers": [],
-        "heat_leaders": [
-          {
-            "title": "男人野性",
-            "book_id": 2023697,
-            "heat_change": -6000
-          }
-        ],
-        "summary": "「商战职场」《男人野性》热度-6000。",
+        "heat_leaders": [],
+        "summary": "「商战职场」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1253,9 +1163,9 @@
           "latest_chapter": " 第1045章  他是神（大结局）",
           "updated_at": "2026-11-06 00:27:08",
           "rank_change": 0,
-          "heat_change": -6000,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
+          "boards_count": 2,
           "stale_update": true,
           "category": "商战职场"
         }
@@ -1271,22 +1181,10 @@
         "dropped_count": 0,
         "new_books": [],
         "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "全球灾变之末日游戏",
-            "book_id": 219542,
-            "rank_change": 1
-          }
-        ],
+        "top_risers": [],
         "top_fallers": [],
-        "heat_leaders": [
-          {
-            "title": "全球灾变之末日游戏",
-            "book_id": 219542,
-            "heat_change": 5000
-          }
-        ],
-        "summary": "「末世危机」《全球灾变之末日游戏》上升1位领涨；《全球灾变之末日游戏》热度+5000。",
+        "heat_leaders": [],
+        "summary": "「末世危机」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1312,10 +1210,10 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
           "latest_chapter": " 第2210章  星耀终结",
           "updated_at": "2024-08-28 22:04:25",
-          "rank_change": 1,
-          "heat_change": 5000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
+          "boards_count": 3,
           "stale_update": true,
           "category": "末世危机"
         }
@@ -1331,22 +1229,10 @@
         "dropped_count": 0,
         "new_books": [],
         "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
-            "book_id": 2027749,
-            "rank_change": 1
-          }
-        ],
+        "top_risers": [],
         "top_fallers": [],
-        "heat_leaders": [
-          {
-            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
-            "book_id": 2027749,
-            "heat_change": 2000
-          }
-        ],
-        "summary": "「异世大陆」《刚抽中SSS级天赋，你跟我说游戏停服》上升1位领涨；《刚抽中SSS级天赋，你跟我说游戏停服》热度+2000。",
+        "heat_leaders": [],
+        "summary": "「异世大陆」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1372,10 +1258,10 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/822/2463092_360x480.jpg?time=1761124724",
           "latest_chapter": " 第1074章  仙人也折腰(终)",
           "updated_at": "2026-09-06 08:21:09",
-          "rank_change": 1,
-          "heat_change": 2000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
+          "boards_count": 2,
           "stale_update": true,
           "category": "异世大陆"
         }
@@ -1392,21 +1278,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "医武双绝：下山捡个总裁当老婆",
-            "book_id": 11745600,
-            "rank_change": -2
-          }
-        ],
-        "heat_leaders": [
-          {
-            "title": "医武双绝：下山捡个总裁当老婆",
-            "book_id": 11745600,
-            "heat_change": -14000
-          }
-        ],
-        "summary": "「都市高手」《医武双绝：下山捡个总裁当老婆》下滑2位；《医武双绝：下山捡个总裁当老婆》热度-14000。",
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1432,10 +1306,10 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3916/11745600_360x480.jpg?time=1776230673",
           "latest_chapter": " 第675章  大结局",
           "updated_at": "2026-11-06 11:13:06",
-          "rank_change": -2,
-          "heat_change": -14000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
+          "boards_count": 3,
           "stale_update": true,
           "category": "都市高手"
         }
@@ -1448,25 +1322,13 @@
       "total_heat": 52000,
       "trend": {
         "new_count": 0,
-        "dropped_count": 1,
+        "dropped_count": 0,
         "new_books": [],
-        "dropped_books": [
-          {
-            "title": "我和软萌女友的恋爱日常",
-            "book_id": 214789,
-            "intro": "甜甜的治愈文，带你重回校园时代！"
-          }
-        ],
+        "dropped_books": [],
         "top_risers": [],
         "top_fallers": [],
-        "heat_leaders": [
-          {
-            "title": "重生2000：从追求青涩校花同桌开始",
-            "book_id": 1758273,
-            "heat_change": -2000
-          }
-        ],
-        "summary": "「热血校园」《我和软萌女友的恋爱日常》 掉出榜单；《重生2000：从追求青涩校花同桌开始》热度-2000。",
+        "heat_leaders": [],
+        "summary": "「热血校园」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1493,9 +1355,9 @@
           "latest_chapter": " 第1992章  讣告",
           "updated_at": "2025-12-10 14:02:20",
           "rank_change": 0,
-          "heat_change": -2000,
+          "heat_change": 0,
           "is_new": false,
-          "boards_count": 1,
+          "boards_count": 2,
           "stale_update": true,
           "category": "热血校园"
         }
@@ -1504,8 +1366,8 @@
   ],
   "stats": {
     "total_books": 20,
-    "new_count": 1,
-    "dropped_count": 1,
+    "new_count": 0,
+    "dropped_count": 0,
     "avg_heat": 131100,
     "total_heat": 2622000,
     "first_day": false
