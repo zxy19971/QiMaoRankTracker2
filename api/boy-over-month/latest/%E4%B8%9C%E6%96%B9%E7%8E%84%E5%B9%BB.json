@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
@@ -16,19 +16,13 @@
     "total_heat": 24333000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "极道剑尊",
-          "book_id": 219040,
-          "intro": "踏天骄，镇万道！\n问鼎极道，唯我剑尊！\n我这一剑平平无奇，但你们绝对会死！"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「东方玄幻」《极道剑尊》 掉出榜单。",
+      "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [

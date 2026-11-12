@@ -6,19 +6,19 @@
   "intro": "人这一生，应该在适当的时候，癫一下。\n因为几个女人，肖义权癫了那么一下，就癫出一份别样的人生……",
   "minor": "商战职场",
   "status": "连载中",
-  "word_count_text": "164.81万字",
+  "word_count_text": "165.02万字",
   "latest": [
-    {
-      "board": "boy-hot-date",
-      "board_name": "男生大热日榜",
-      "rank": 7,
-      "heat": 342000
-    },
     {
       "board": "boy-hot-month",
       "board_name": "男生大热月榜",
       "rank": 7,
       "heat": 10785000
+    },
+    {
+      "board": "boy-hot-date",
+      "board_name": "男生大热日榜",
+      "rank": 8,
+      "heat": 336000
     }
   ],
   "history": [
@@ -1044,6 +1044,18 @@
     },
     {
       "d": "2026-11-11",
+      "b": "boy-hot-month",
+      "r": 7,
+      "h": 10785000
+    },
+    {
+      "d": "2026-11-12",
+      "b": "boy-hot-date",
+      "r": 8,
+      "h": 336000
+    },
+    {
+      "d": "2026-11-12",
       "b": "boy-hot-month",
       "r": 7,
       "h": 10785000

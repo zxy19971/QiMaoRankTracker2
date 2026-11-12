@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -20,15 +20,9 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "警报！龙国出现SSS级修仙者！",
-          "book_id": 1812053,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高武」《警报！龙国出现SSS级修仙者！》下滑1位。",
+      "summary": "「都市高武」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -112,7 +106,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/522/1565527_360x480.jpg?time=1747072818",
         "latest_chapter": " 第2448章  终战:时空圆满",
         "updated_at": "2026-10-01 00:02:31",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

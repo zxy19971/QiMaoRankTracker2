@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-12",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 0,
+    "total_heat": 10,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "rank_change": 2
+          },
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "rank_change": 1
+          },
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "爷爷托梦后，我靠戒指掌控万界",
+            "book_id": 12357096,
+            "rank_change": -3
+          },
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "heat_change": -3
+          },
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「都市高手」《狂龙出渊，开局拿捏女战神！》上升2位领涨；《爷爷托梦后，我靠戒指掌控万界》下滑3位；《美女总裁，请上车》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "rank_change": -1
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「东方玄幻」《吞噬九重天》上升1位领涨；《鸿蒙霸体诀》下滑1位；《吞噬九重天》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "女子监狱五年，出狱即无敌",
+            "book_id": 12791886,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "女子监狱五年，出狱即无敌",
+            "book_id": 12791886,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高武」《女子监狱五年，出狱即无敌》下滑1位；《女子监狱五年，出狱即无敌》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "厌术神匠",
+            "book_id": 13342959,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "厌术神匠",
+            "book_id": 13342959,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「奇门秘术」《厌术神匠》上升2位领涨；《厌术神匠》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "穿越历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "外卖送到大唐，开局三倍吕布战力",
+            "book_id": 13266141,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "外卖送到大唐，开局三倍吕布战力",
+            "book_id": 13266141,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「穿越历史」《外卖送到大唐，开局三倍吕布战力》上升2位领涨；《外卖送到大唐，开局三倍吕布战力》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "被陷害后，我被迫成了送子天官！",
+            "book_id": 12984576,
+            "intro": "【朝堂权谋】+【杀伐果断】+【智商在线】+【多女主】+【不好看你揍我！】\n胎穿十八年，萧策成为大炎皇朝最没存在的七皇子！\n本想着彻底躺平摆烂，混吃等死，不料一觉醒来，被大皇子陷害！\n为活命，他急中生智"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」新上榜 《太监凶猛》；《被陷害后，我被迫成了送子天官！》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "快老死了，圣女上门赐仙缘",
+            "book_id": 12670524,
+            "heat_change": -4
+          }
+        ],
+        "summary": "「古典仙侠」《快老死了，圣女上门赐仙缘》热度-4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「商战职场」《野性攀登》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "heat_change": -3
+          }
+        ],
+        "summary": "「幻想修真」《乾坤造化诀》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「现代军事」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

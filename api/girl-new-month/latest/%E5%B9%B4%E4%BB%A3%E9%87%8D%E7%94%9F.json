@@ -8,43 +8,37 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
     "count": 2,
     "total_heat": 1348000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "嫌我丰腴不碰我，我改嫁首长连生三崽",
-          "book_id": 13066845
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "错嫁随军：新婚夜冷面军少沦陷了",
-          "book_id": 12792057,
-          "intro": "【扮猪吃虎娇媚女主x桀骜不驯腹黑男主，五岁年龄差】\n相亲前，姜珍霓梦见自己生活在一本书里。\n她的存在就是为了衬托女主幸福美满的对照组。\n女主明明是养女却被父母偏爱，把属于她的姻缘换给女主。\n女主嫁红二"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
         {
           "title": "带空间跟爹抱大腿，别人吃糠我吃肉",
           "book_id": 12952116,
-          "rank_change": 3
+          "rank_change": 1
+        },
+        {
+          "title": "嫌我丰腴不碰我，我改嫁首长连生三崽",
+          "book_id": 13066845,
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「年代重生」新上榜 《嫌我丰腴不碰我，我改嫁首长连生三崽》；《错嫁随军：新婚夜冷面军少沦陷了》 掉出榜单；《带空间跟爹抱大腿，别人吃糠我吃肉》上升3位领涨。",
+      "summary": "「年代重生」《带空间跟爹抱大腿，别人吃糠我吃肉》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 8,
         "title": "带空间跟爹抱大腿，别人吃糠我吃肉",
         "book_id": 12952116,
         "url": "https://www.qimao.com/shuku/12952116/",
@@ -56,16 +50,16 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.75万字",
-        "word_count": 477500,
+        "word_count_text": "48.16万字",
+        "word_count": 481600,
         "heat": 837000,
         "platform_trend": "rise",
-        "badge": "飙升32名",
+        "badge": "飙升33名",
         "intro": "【双重生】【年代】【空间】【灵泉】【团宠】【金手指】【嫁爹】【暴富】【医学奇才】\n李若溪和姐姐一起重生了。\n前世，她跟着亲妈改嫁住进顾家，被当作白老鼠试药，被折磨得不成人样。\n跟亲爹留在乡下的姐姐嫉妒她在顾家过好日子，恨她刀她。\n这一世，亲妈又要带她走，姐姐跪地抢着代替她去顾家。\n李若溪爽快让位，转身去找惦记他爹多年的女猎户。\n“大英姨，你要男人不要？”\n林大英筷子哐当落地。\n林家三兄弟惊得嘴巴能塞鸡蛋。\n亲爹李长青羞红了脸，被林大英扛在肩上带回家。\n入赘的日子真好啊！天天吃肉，还被宠得七荤八素。\n三个继兄，一个憨，一个精，一个冷，把她当亲妹宠。\n这一世的目标很简单，荣华富贵一样不能少！前世害我的人一个个慢慢嘎！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4318/12952116_360x480.jpg?time=1791622774",
-        "latest_chapter": " 第222章  二牛奶奶家",
-        "updated_at": "2026-11-10 12:12:03",
-        "rank_change": 3,
+        "latest_chapter": " 第224章  哥带你进城",
+        "updated_at": "2026-11-11 12:12:03",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -73,7 +67,7 @@
         "category": "年代重生"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "title": "嫌我丰腴不碰我，我改嫁首长连生三崽",
         "book_id": 13066845,
         "url": "https://www.qimao.com/shuku/13066845/",
@@ -85,18 +79,18 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.68万字",
-        "word_count": 486800,
+        "word_count_text": "49.93万字",
+        "word_count": 499300,
         "heat": 511000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "（原书名《京少绝嗣，新媳妇却一胎又一胎》）\n【矜冷禁欲军官vs明艳大美人丨双洁】\n姜煜淮骗了虞娇娇一辈子。\n为给白月光守身，他随手捡了个男人跟她洞房。\n她含辛茹苦养大的女儿，也是他白月光的。\n直到她死，都没能看自己的亲生女儿一眼……\n重生到被逼给他白月光顶罪那天，她不再退让，果断离婚。\n瘫痪的公婆，神经病小姑，莬丝花白月光，她统统不伺候了。\n可她离婚成全他和白月光，他怎么还不乐意了？\n还红着眼求她回头？她转身高嫁他领导，夜夜腰肢震颤……\n——\n陆战北遇到一个女人，女人明艳动人、不可方物，他一见倾心。\n可女人已经心有所属，还怀了别的男人的孩子。\n他夜夜被旖旎的梦境煎熬，烈火焚心，妄念疯长。\n既然想要，那就抢过来！\n他心甘情愿替情敌养孩子，但为什么那个孩子越长越像他？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4356/13066845_360x480.jpg?time=1791457796",
-        "latest_chapter": " 第190章  霍家人讨好、挽回虞娇娇！",
-        "updated_at": "2026-11-10 09:02:04",
-        "rank_change": 0,
+        "latest_chapter": " 第194章  他亲她摸她，必须负责到底！",
+        "updated_at": "2026-11-12 09:02:04",
+        "rank_change": 1,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"

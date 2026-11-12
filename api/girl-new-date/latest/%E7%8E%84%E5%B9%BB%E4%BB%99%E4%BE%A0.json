@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
@@ -19,15 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "四岁姑奶奶，叼奶瓶带全族飞升啦",
+          "book_id": 13172136,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「玄幻仙侠」榜单结构稳定，无明显变动。",
+      "summary": "「玄幻仙侠」《四岁姑奶奶，叼奶瓶带全族飞升啦》上升2位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 10,
         "title": "四岁姑奶奶，叼奶瓶带全族飞升啦",
         "book_id": 13172136,
         "url": "https://www.qimao.com/shuku/13172136/",
@@ -39,16 +45,16 @@
         "minor_id": 21,
         "minor_url": "https://www.qimao.com/shuku/a-4-21-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.84万字",
-        "word_count": 338400,
+        "word_count_text": "34.25万字",
+        "word_count": 342500,
         "heat": 34000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "柚柚被困荒墟一年，好不容易爬出来，修仙界已过百年。\n曾经繁盛的顶级修仙家族，没落得狗都能踩一脚。\n族人看到她，喜极而泣：“姑奶奶回来了！”\n柚柚：“姑奶奶？我吗？我才四岁呀。”\n四岁的柚柚，莫名成了老祖。\n面临的是，失踪的爹，昏迷的娘，破碎的家族，不成气候的子孙。\n大侄子一家溺爱假千金，虐待真千金，真千金黑化，欲屠全家。\n二侄女被渣男、假儿子伤透心，自暴自弃，却不知亲生女儿被外室虐待得奄奄一息。\n侄孙子是痴情舔狗，被合欢宗女修玩弄真心，吸走全部修为。\n大侄孙女是倒贴恋爱脑，掏空家族讨好渣男。\n小侄孙女是顶级炉鼎，被男修囚禁，逼迫双修。\n-\n柚柚奶瓶掉地：“天塌了啊！”\n既为姑奶奶，那教育叛逆子孙，从此刻开始。\n一巴掌拍不醒，就两巴掌。\n至此，窝囊了百年的谢家，终于迎来了他们真正的话事人。\n柚柚：“谢家，我罩哒，动谢家，祖坟都给你刨喽！”\n世人好奇，谢家那位拳打化神期老祖，脚踢上古凶兽的老祖宗，到底是何方神圣。\n却见，传闻中恐怖如斯的姑奶奶，竟只是一个叼着奶瓶的四岁奶娃。\n柚柚挥起小拳头：“不服？那就再揍一顿！”\n修仙界大能齐齐跪了。\n“不能再打了，再打，修仙界要塌了啊！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4391/13172136_360x480.jpg?time=1788767311",
-        "latest_chapter": " 第160章  宋家灭门，遗孤谢壮壮",
-        "updated_at": "2026-11-11 00:06:03",
-        "rank_change": 0,
+        "latest_chapter": " 第162章  打赢柚柚，东西就归你们",
+        "updated_at": "2026-11-11 23:46:04",
+        "rank_change": 2,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

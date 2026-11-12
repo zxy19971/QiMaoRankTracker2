@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T09:07:08",
-  "date": "2026-11-11",
+  "generated_at": "2026-11-12T10:12:41",
+  "date": "2026-11-12",
   "authors": [
     {
       "author": "化十",
@@ -25,17 +25,6 @@
       ]
     },
     {
-      "author": "柠檬小丸子",
-      "author_url": "https://www.qimao.com/zuozhe/%E6%9F%A0%E6%AA%AC%E5%B0%8F%E4%B8%B8%E5%AD%90_14/",
-      "books": 2,
-      "boards": 5,
-      "total_heat": 12015000,
-      "titles": [
-        "被逼自刎，嫡女重生撕婚书覆皇朝",
-        "抢姻缘，夺命格？我改嫁摄政王虐翻全族"
-      ]
-    },
-    {
       "author": "十二妖",
       "author_url": "https://www.qimao.com/zuozhe/%E5%8D%81%E4%BA%8C%E5%A6%96_14/",
       "books": 2,
@@ -50,8 +39,8 @@
       "author": "随山月",
       "author_url": "https://www.qimao.com/zuozhe/%E9%9A%8F%E5%B1%B1%E6%9C%88_14/",
       "books": 2,
-      "boards": 6,
-      "total_heat": 6820000,
+      "boards": 5,
+      "total_heat": 6797000,
       "titles": [
         "解春衫",
         "枕边奴"
@@ -94,8 +83,8 @@
       "author": "佛系和尚",
       "author_url": "https://www.qimao.com/zuozhe/%E4%BD%9B%E7%B3%BB%E5%92%8C%E5%B0%9A_14/",
       "books": 2,
-      "boards": 1,
-      "total_heat": 0,
+      "boards": 2,
+      "total_heat": 49000,
       "titles": [
         "最强学霸系统",
         "我和软萌女友的恋爱日常"
@@ -155,7 +144,7 @@
       "author": "琼玉",
       "author_url": "https://www.qimao.com/zuozhe/%E7%90%BC%E7%8E%89_14/",
       "books": 1,
-      "boards": 3,
+      "boards": 2,
       "total_heat": 18597000,
       "titles": [
         "朱门春闺"
@@ -199,6 +188,16 @@
       "total_heat": 13369000,
       "titles": [
         "凤池生春"
+      ]
+    },
+    {
+      "author": "柠檬小丸子",
+      "author_url": "https://www.qimao.com/zuozhe/%E6%9F%A0%E6%AA%AC%E5%B0%8F%E4%B8%B8%E5%AD%90_14/",
+      "books": 1,
+      "boards": 4,
+      "total_heat": 11987000,
+      "titles": [
+        "被逼自刎，嫡女重生撕婚书覆皇朝"
       ]
     },
     {

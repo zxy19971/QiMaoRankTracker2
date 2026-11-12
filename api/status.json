@@ -1,103 +1,103 @@
 {
-  "generated_at": "2026-11-11T09:07:08",
-  "last_scraped_at": "2026-11-11T09:03:38",
-  "total_books": 189,
-  "new_today": 10,
+  "generated_at": "2026-11-12T10:12:41",
+  "last_scraped_at": "2026-11-12T10:09:09",
+  "total_books": 193,
+  "new_today": 14,
   "horse_count": 20,
   "boards": [
     {
       "slug": "boy-hot-date",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-hot-month",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-new-date",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-new-month",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-over-date",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-over-month",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-collect-date",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "boy-update-date",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-hot-date",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-hot-month",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-new-date",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-new-month",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-over-date",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-over-month",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-collect-date",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     },
     {
       "slug": "girl-update-date",
-      "latest_date": "2026-11-11",
+      "latest_date": "2026-11-12",
       "book_count": 20,
       "ok": true
     }

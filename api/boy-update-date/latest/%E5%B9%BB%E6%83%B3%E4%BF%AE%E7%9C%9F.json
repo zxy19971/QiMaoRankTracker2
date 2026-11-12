@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 3,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "乾坤造化诀",
-          "book_id": 12897039,
-          "rank_change": -2
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "乾坤造化诀",
           "book_id": 12897039,
-          "heat_change": -2
+          "heat_change": -3
         }
       ],
-      "summary": "「幻想修真」《乾坤造化诀》下滑2位；《乾坤造化诀》热度-2。",
+      "summary": "「幻想修真」《乾坤造化诀》热度-3。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "88.3万字",
-        "word_count": 883000,
-        "heat": 3,
-        "platform_trend": "rise",
+        "word_count_text": "89.37万字",
+        "word_count": 893700,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "我是望仙宗最不起眼的杂役。\n直到那天，宗主被人追杀，身中情毒，从天而降。\n我只是好心救人，却差点被她活活吸干。\n濒死之际，沉寂已久的乾坤诀终于觉醒。\n一夜之间，我连破数境。\n从今日起，我不再认命。\n假灵根又如何？杂役又如何？\n这一世，我偏要叩开仙门！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4300/12897039_360x480.jpg?time=1785867415",
-        "latest_chapter": " 第356章  仙玄宗来人了",
-        "updated_at": "2026-11-10 10:21:05",
-        "rank_change": -2,
-        "heat_change": -2,
+        "latest_chapter": " 第360章  我就要那座废矿",
+        "updated_at": "2026-11-11 11:29:05",
+        "rank_change": 0,
+        "heat_change": -3,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

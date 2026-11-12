@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "category": {
     "name": "异世幻想",
     "major": "幻想言情",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "兽世：今晚吃谁？",
+          "book_id": 13405101,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「异世幻想」榜单结构稳定，无明显变动。",
+      "summary": "「异世幻想」《兽世：今晚吃谁？》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 20,
         "title": "兽世：今晚吃谁？",
         "book_id": 13405101,
         "url": "https://www.qimao.com/shuku/13405101/",
@@ -39,16 +45,16 @@
         "minor_id": 285,
         "minor_url": "https://www.qimao.com/shuku/a-4-285-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "26.58万字",
-        "word_count": 265800,
+        "word_count_text": "27.02万字",
+        "word_count": 270200,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "舒诺穿成兽世最弱废雌，死亡倒计时只剩七分钟。得救后，原主留下的巨额债务接踵而至。身无分文，自身毫无价值，她只能完成系统的任务：与S级雄性贴贴！\n不知何时，身边的雄性越来越多……\n【正夫祁夜】：\n“我保证这一次一定轻轻的，你睡你的，不会有任何感觉的！”\n“老婆，我很轻的，也很有节制……”\n【侧夫谢云疏】：\n“色雌，你再这样，就会永远的失去我了！”\n“我不想听你说……你和他之间的事。我妒忌的发疯！”\n【侧夫伊瑟】：\n“翅膀破了也会自然修复，你想怎么撕都行！”\n“放心，高级雄虫是最契合女王的形态，不会让你受伤！”\n【侧夫凌烬】：\n“给你多少钱，可以不离婚？”\n“舒诺，我以后封心锁爱，一个人过，孤独终老！求求你醒过来！”\n【侧夫舒唯画】：\n“雌主，我好爱你，我被你吻得发情了！”\n“雌主，我们今晚结契好不好？我繁育期提前了。”\n【侧夫傅珺遥】：\n“我真的好爱你，一分钟都离不开你。没有你我会活不下去的！”\n“你就当可怜可怜我，收我做雄夫吧，我一定很乖的，绝不争风吃醋！”\n……\n可他们却一个个消失，她也在回家与留下纠结！\n她的归宿到底是什么呢？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4469/13405101_360x480.jpg?time=1793985808",
-        "latest_chapter": " 第130章  脱衣舞",
-        "updated_at": "2026-11-10 20:02:05",
-        "rank_change": 0,
+        "latest_chapter": " 第132章  小树林",
+        "updated_at": "2026-11-11 20:02:05",
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

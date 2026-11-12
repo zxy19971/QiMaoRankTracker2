@@ -8,21 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "category": {
     "name": "都市生活",
     "major": "都市",
-    "count": 2,
-    "total_heat": 30000,
+    "count": 1,
+    "total_heat": 18000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "穿越70：娶美女知青，狩猎兴安岭",
+          "book_id": 13399662,
+          "intro": "【年代赶山+单女主+天道酬勤+日常种田+杀伐果断】\n一朝梦醒，徐长乐回到了缺衣少食的七十年代。\n开局连口棒子面都喝不上，老叔却领着个成分不好、肩不能扛手不能提的绝美知青塞给他当媳妇。\n村里人都在看笑话"
+        }
+      ],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「都市生活」榜单结构稳定，无明显变动。",
+      "heat_leaders": [
+        {
+          "title": "高冷校花香香软软，凭啥还舔你啊",
+          "book_id": 13220790,
+          "heat_change": -2000
+        }
+      ],
+      "summary": "「都市生活」《穿越70：娶美女知青，狩猎兴安岭》 掉出榜单；《高冷校花香香软软，凭啥还舔你啊》热度-2000。",
       "ai_source": "rule"
     },
     "books": [
@@ -39,48 +51,19 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.53万字",
-        "word_count": 395300,
-        "heat": 20000,
+        "word_count_text": "39.76万字",
+        "word_count": 397600,
+        "heat": 18000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【救赎+单女主+重生无系统+清冷校花反差病娇】\n“苏泽，我现在只想好好学习拿奖学金，不想谈恋爱，我们还是先做普通朋友好吗？”\n看着班花林婉儿那副高高在上的嘴脸，重生归来的苏泽冷笑一声。\n“大姐你没事吧？要胸没胸要腿没腿，保不齐微do过多少次的网红脸，我有病啊跟你表白？”\n在全校吃瓜群众震惊的目光中，苏泽转身，一把将怀里的99朵红玫瑰，强行塞进了路过的冰山校花夏知微怀里。\n“好汉留步！花给你了！”\n上一世，苏泽是把尊严踩在脚底的超级舔狗，一路卷成科学家却落得个猝死的下场。\n重活一世，去他妈的白月光，去他妈的内卷！老子要放飞自我，摆烂享受人生！\n习惯了被无限偏爱的林婉儿懵了。\n三个月后，她实在受不了没有苏泽这个免费提款机的日子，红着眼眶在雨中堵住他：“苏泽，我发现我其实是喜欢你的，我们和好吧……”\n可此时的苏泽，哪里还有空搭理她？\n曾经柔弱的清冷系花夏知微，此刻却将苏泽的双手缚在床头柜上。\n女孩绝美的脸蛋泛着迷离的红晕，嗓音娇软却不失偏执：“苏泽同学，你送了我玫瑰，又在柜子里抱过我，那你就是我一个人的了。”\n“再敢碰别的女人，我就关你一辈子哦。”\n苏泽却一脸笑嘻嘻道：老婆你好香~",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4407/13220790_360x480.jpg?time=1787129675",
-        "latest_chapter": " 第174章  依旧跨时代降维打击",
-        "updated_at": "2026-11-11 01:52:03",
+        "latest_chapter": " 第175章  还是霸总当着不烧心",
+        "updated_at": "2026-11-11 13:23:03",
         "rank_change": 0,
-        "heat_change": 0,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": false,
-        "category": "都市生活"
-      },
-      {
-        "rank": 20,
-        "title": "穿越70：娶美女知青，狩猎兴安岭",
-        "book_id": 13399662,
-        "url": "https://www.qimao.com/shuku/13399662/",
-        "author": "番茄吃猫不吃鱼",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%95%AA%E8%8C%84%E5%90%83%E7%8C%AB%E4%B8%8D%E5%90%83%E9%B1%BC_14/",
-        "major": "都市",
-        "minor": "都市生活",
-        "major_id": 203,
-        "minor_id": 223,
-        "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "31.15万字",
-        "word_count": 311500,
-        "heat": 10000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "【年代赶山+单女主+天道酬勤+日常种田+杀伐果断】\n一朝梦醒，徐长乐回到了缺衣少食的七十年代。\n开局连口棒子面都喝不上，老叔却领着个成分不好、肩不能扛手不能提的绝美知青塞给他当媳妇。\n村里人都在看笑话，连饭都吃不饱，还娶个城里娇气包，怕不是要双双饿死在风雪天？\n面对饥荒与极品村民的刁难，徐长乐看着眼前浮现的【属性加点面板】，默默抄起墙角的猎枪，一头扎进了尚未禁枪的兴安岭。\n没有任务，没有商城，只要努力就有收获！\n射击熟练度+1，陷阱熟练度+1，体质加点，精神加点！\n当别人还在冰天雪地里为了半个窝窝头抢破头时，徐长乐的院子里已经挂满了飞龙、野猪和傻狍子。\n他搂着怀里水润漂亮的知青娇妻，看着堆满粮仓的兽肉和山货，一不小心，竟成了整座大山最野的王！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4467/13399662_360x480.jpg?time=1788804008",
-        "latest_chapter": " 第125章  一人一马拔巨木",
-        "updated_at": "2026-11-10 19:02:09",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"
       }

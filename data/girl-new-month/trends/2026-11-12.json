@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-12",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 1913350,
+    "total_heat": 38267000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "只是生理性喜欢，陆总怎么沦陷了",
+            "book_id": 13424436
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "婚前不熟，婚后失控",
+            "book_id": 13300485,
+            "rank_change": 1
+          },
+          {
+            "title": "披婚纱改嫁，爹系老公他超爱",
+            "book_id": 12862740,
+            "rank_change": 1
+          },
+          {
+            "title": "冷婚七年，夫人带娃离婚他悔疯了",
+            "book_id": 12996819,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」新上榜 《只是生理性喜欢，陆总怎么沦陷了》；《婚前不熟，婚后失控》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "rank_change": 1
+          },
+          {
+            "title": "神算王妃薅功德，转嫁绝嗣皇叔一胎三宝",
+            "book_id": 11718921,
+            "rank_change": 1
+          },
+          {
+            "title": "双重生后，陛下天天哄妖妃生太子",
+            "book_id": 12804618,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「宫闱宅斗」《皇上开门，福宝带物资来送温暖啦》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "娇软美人出嫁后",
+            "book_id": 12985077,
+            "intro": "【肤白貌美娇娇女x忠犬直男糙汉，体型差+家长里短】\n陈娇娇是平安县最漂亮的姑娘，明眸皓齿，一截细腰掐着丰乳肥臀，是十里八村都想娶的美人。\n只可惜陈娇娇眼高于顶，除了饱读诗书的斯文秀才，谁也看不上。\n一"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+            "book_id": 13123449,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」《娇软美人出嫁后》 掉出榜单；《地狱归，驭百鬼，王妃回京后杀疯了》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "带空间跟爹抱大腿，别人吃糠我吃肉",
+            "book_id": 12952116,
+            "rank_change": 1
+          },
+          {
+            "title": "嫌我丰腴不碰我，我改嫁首长连生三崽",
+            "book_id": 13066845,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」《带空间跟爹抱大腿，别人吃糠我吃肉》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514,
+            "rank_change": 1
+          },
+          {
+            "title": "被父弃？做罪妻？赌婚换命赚翻天",
+            "book_id": 13057029,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」《流民医女：开荒把残夫养成战神》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "长得太漂亮，在末世里会被疯狂觊觎",
+            "book_id": 12813204,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世求生」《长得太漂亮，在末世里会被疯狂觊觎》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "不做替身后，小师妹一剑可破天",
+            "book_id": 12908322,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」《不做替身后，小师妹一剑可破天》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

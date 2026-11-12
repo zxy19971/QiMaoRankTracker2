@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "category": {
     "name": "穿越历史",
     "major": "历史",
     "count": 1,
-    "total_heat": 4,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "外卖送到大唐，开局三倍吕布战力",
+          "book_id": 13266141,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「穿越历史」榜单结构稳定，无明显变动。",
+      "heat_leaders": [
+        {
+          "title": "外卖送到大唐，开局三倍吕布战力",
+          "book_id": 13266141,
+          "heat_change": -2
+        }
+      ],
+      "summary": "「穿越历史」《外卖送到大唐，开局三倍吕布战力》上升2位领涨；《外卖送到大唐，开局三倍吕布战力》热度-2。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 20,
+        "rank": 18,
         "title": "外卖送到大唐，开局三倍吕布战力",
         "book_id": 13266141,
         "url": "https://www.qimao.com/shuku/13266141/",
@@ -39,17 +51,17 @@
         "minor_id": 57,
         "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "60.05万字",
-        "word_count": 600500,
-        "heat": 4,
+        "word_count_text": "61.07万字",
+        "word_count": 610700,
+        "heat": 2,
         "platform_trend": "rise",
         "badge": "",
         "intro": "李承乾送外卖赶时间，闯了个红灯，一不小心撞上大运，把他送到了大唐，成了当朝太子。\n突厥南下，生灵涂炭。\n意外绑定大自在系统，开局获得三倍吕布战力。\n虽说系统主打悠闲自在，逍遥快活。李承乾却有大志向。\n若不让这民族屹立世界之巅，为万世开太平，岂不是白来一场，对不起这个身份？\n因此……\n他是蛮夷戎狄的克星，黎民百姓的救星，贪官污吏的煞星。\n这个民族，因他而伟大。他因这个民族，而自豪！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4423/13266141_360x480.jpg?time=1787557844",
-        "latest_chapter": " 第271章  残钱为凭，暗账追凶",
-        "updated_at": "2026-11-10 20:32:05",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第276章  旧账昭冤，铅记追凶",
+        "updated_at": "2026-11-11 22:26:04",
+        "rank_change": 2,
+        "heat_change": -2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

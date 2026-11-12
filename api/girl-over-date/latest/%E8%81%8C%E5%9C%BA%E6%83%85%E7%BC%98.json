@@ -8,26 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "category": {
     "name": "职场情缘",
     "major": "现代言情",
     "count": 2,
-    "total_heat": 149000,
+    "total_heat": 147000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「职场情缘」榜单结构稳定，无明显变动。",
+      "top_risers": [
+        {
+          "title": "邢教练，别太野",
+          "book_id": 1979319,
+          "rank_change": 1
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "渣男不配，他哥才是顶配",
+          "book_id": 10130679,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "邢教练，别太野",
+          "book_id": 1979319,
+          "heat_change": -1000
+        },
+        {
+          "title": "渣男不配，他哥才是顶配",
+          "book_id": 10130679,
+          "heat_change": -1000
+        }
+      ],
+      "summary": "「职场情缘」《邢教练，别太野》上升1位领涨；《渣男不配，他哥才是顶配》下滑1位；《邢教练，别太野》热度-1000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 15,
         "title": "邢教练，别太野",
         "book_id": 1979319,
         "url": "https://www.qimao.com/shuku/1979319/",
@@ -41,22 +64,22 @@
         "status": "已完结",
         "word_count_text": "87.23万字",
         "word_count": 872300,
-        "heat": 79000,
-        "platform_trend": "rise",
+        "heat": 78000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【有声版权已售，喜马拉雅搜同名有声剧收听】\n【外柔内刚女翻译&外骚内闷拳击教练】\n山穷水尽的林妍回老家相亲，遇到了柳暗花明的硬汉邢彧。\n“邢教练，你条件不错怎么还来相亲？”\n“我挑。”\n她评价：太轻浮，不靠谱。\n自此，这个轻浮的邢教练便阴魂不散的缠上了她。\n多次偶遇、疯狂撩拨，本以为出自男人好色的本性。\n殊不知，是长达多年的蓄谋克制。\n某日，他赤着上半身寸寸逼近，她下意识推开。\n他漾笑：“朋友，袭我胸？”\n“我又不是色狼。”\n“色狼一下又怎样？你倒是狼我一下啊。”\n她摇头：脸皮厚，太浪荡。\n后来，她主动将他压倒，盯着他逐渐泛红的耳尖调侃。\n“邢教练，你不是很会吗？”\n邢彧眉目刚硬，喉结滚了又滚。\n“我可是，正经人。”\n……\n（1V1，双洁）",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242170_360x480.jpg?time=1749029180",
         "latest_chapter": " 第395章  番外4：幸福时光（终篇）",
         "updated_at": "2025-10-13 22:13:11",
-        "rank_change": 0,
-        "heat_change": 0,
+        "rank_change": 1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "职场情缘"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "title": "渣男不配，他哥才是顶配",
         "book_id": 10130679,
         "url": "https://www.qimao.com/shuku/10130679/",
@@ -70,15 +93,15 @@
         "status": "已完结",
         "word_count_text": "88.11万字",
         "word_count": 881100,
-        "heat": 70000,
-        "platform_trend": "rise",
+        "heat": 69000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "沈潇相恋多年的男友江行禹，偷偷勾搭上她同父异母的妹妹沈凌，珠胎暗结；偏心的父母软硬兼施，逼她退让成全，甚至为了护着沈凌，设计诬陷她针灸致人瘫痪，让她被停职。\n她因一手精湛针灸术，被临市华丰集团董事长江叙白找上，邀她为江老爷子诊治腿疾。\n江行禹和沈凌的订婚宴上，她才知道原来那个帮过她很多次，沉稳内敛的华丰集团董事长竟是江行禹的亲哥。\n于是刻意保持距离，却难逃他步步为营的靠近。\n沈潇说：“我们在一起，终究还跟江行禹和沈凌是一家人。”\n他将她揽入怀中，指尖抚过她的发顶，嗓音低沉又坚定：“那便让我来做你沈潇的家人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3377/10130679_360x480.jpg?time=1780052798",
         "latest_chapter": " 第423章  番外二十八",
         "updated_at": "2026-10-21 02:32:04",
-        "rank_change": 0,
-        "heat_change": 0,
+        "rank_change": -1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

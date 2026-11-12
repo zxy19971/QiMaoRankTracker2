@@ -6,19 +6,19 @@
   "intro": "王龙没想到与绝色女总裁一夜荒唐后，变成了各种美女争抢的香饽饽……",
   "minor": "都市高武",
   "status": "连载中",
-  "word_count_text": "47.18万字",
+  "word_count_text": "47.6万字",
   "latest": [
-    {
-      "board": "boy-new-date",
-      "board_name": "男生新书日榜",
-      "rank": 14,
-      "heat": 14000
-    },
     {
       "board": "boy-new-month",
       "board_name": "男生新书月榜",
-      "rank": 14,
+      "rank": 12,
       "heat": 354000
+    },
+    {
+      "board": "boy-new-date",
+      "board_name": "男生新书日榜",
+      "rank": 13,
+      "heat": 13000
     }
   ],
   "history": [
@@ -206,6 +206,18 @@
       "d": "2026-11-11",
       "b": "boy-new-month",
       "r": 14,
+      "h": 354000
+    },
+    {
+      "d": "2026-11-12",
+      "b": "boy-new-date",
+      "r": 13,
+      "h": 13000
+    },
+    {
+      "d": "2026-11-12",
+      "b": "boy-new-month",
+      "r": 12,
       "h": 354000
     }
   ]
