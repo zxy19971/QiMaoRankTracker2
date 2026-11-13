@@ -8,8 +8,8 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-12",
-  "prev_date": "2026-11-11",
+  "date": "2026-11-13",
+  "prev_date": "2026-11-12",
   "books": [
     {
       "rank": 1,
@@ -33,8 +33,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/896/2686789_360x480.jpg?time=1761327901",
       "latest_chapter": " 第822章  终章",
       "updated_at": "2026-09-22 18:39:45",
-      "rank_change": 2,
-      "heat_change": 93000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 4,
       "stale_update": true,
@@ -62,8 +62,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/542/1624570_360x480.jpg?time=1717343578",
       "latest_chapter": " 第1152章  ·终章",
       "updated_at": "2025-11-07 14:23:17",
-      "rank_change": -1,
-      "heat_change": -30000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 4,
       "stale_update": true,
@@ -91,8 +91,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/893/2676796_360x480.jpg?time=1760969446",
       "latest_chapter": " 第418章  大结局",
       "updated_at": "2026-06-12 06:02:04",
-      "rank_change": -1,
-      "heat_change": 41000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 4,
       "stale_update": true,
@@ -149,8 +149,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3342/10024089_360x480.jpg?time=1773758425",
       "latest_chapter": " 第485章  君王非我平生志---东里长安篇（6）",
       "updated_at": "2026-10-07 12:47:06",
-      "rank_change": 3,
-      "heat_change": 24000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -179,7 +179,7 @@
       "latest_chapter": " 第3020章  我都能给你",
       "updated_at": "2026-02-13 22:05:28",
       "rank_change": 0,
-      "heat_change": -2000,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -207,8 +207,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/772/2315755_360x480.jpg?time=1768286147",
       "latest_chapter": " 第633章  全剧终✿ヽ(°▽°)ノ✿",
       "updated_at": "2026-03-05 07:01:09",
-      "rank_change": -2,
-      "heat_change": -13000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -236,8 +236,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3847/11539740_360x480.jpg?time=1792518363",
       "latest_chapter": " 第474章  十分感谢",
       "updated_at": "2026-11-05 00:02:08",
-      "rank_change": 2,
-      "heat_change": 19000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -265,8 +265,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3305/9912513_360x480.jpg?time=1776946688",
       "latest_chapter": " 第467章  完结篇下",
       "updated_at": "2026-10-22 15:32:05",
-      "rank_change": -2,
-      "heat_change": -12000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
       "stale_update": true,
@@ -294,8 +294,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/216077_360x480.jpg?time=1638352861",
       "latest_chapter": " 第1903章  婚后番外（下）",
       "updated_at": "2025-11-11 17:12:29",
-      "rank_change": -1,
-      "heat_change": -3000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
       "stale_update": true,
@@ -324,7 +324,7 @@
       "latest_chapter": " 第493章  番外：是一见倾心，也是非你不可的坚定",
       "updated_at": "2026-02-08 23:58:06",
       "rank_change": 0,
-      "heat_change": -2000,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -353,7 +353,7 @@
       "latest_chapter": " 第657章  人间幸福，不过如此",
       "updated_at": "2026-09-28 19:41:06",
       "rank_change": 0,
-      "heat_change": -1000,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -381,8 +381,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/410/1229482_360x480.jpg?time=1683772413",
       "latest_chapter": " 第1284章  番外：大婚（完）",
       "updated_at": "2025-02-07 02:05:33",
-      "rank_change": 1,
-      "heat_change": -3000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
       "stale_update": true,
@@ -410,8 +410,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3865/11593215_360x480.jpg?time=1782450904",
       "latest_chapter": " 第385章  人间，正是好时节",
       "updated_at": "2026-10-15 22:02:06",
-      "rank_change": -1,
-      "heat_change": -13000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
       "stale_update": true,
@@ -439,8 +439,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242170_360x480.jpg?time=1749029180",
       "latest_chapter": " 第395章  番外4：幸福时光（终篇）",
       "updated_at": "2025-10-13 22:13:11",
-      "rank_change": 1,
-      "heat_change": -1000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
       "stale_update": true,
@@ -468,8 +468,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
       "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
       "updated_at": "2025-08-31 14:41:10",
-      "rank_change": -1,
-      "heat_change": -5000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -499,7 +499,7 @@
       "updated_at": "2026-11-11 01:31:05",
       "rank_change": 0,
       "heat_change": 0,
-      "is_new": true,
+      "is_new": false,
       "boards_count": 1,
       "stale_update": false,
       "category": "总裁豪门"
@@ -526,8 +526,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3345/10034568_360x480.jpg?time=1776046465",
       "latest_chapter": " 第290章  冰山会为你哗然（完）",
       "updated_at": "2026-07-01 08:01:07",
-      "rank_change": -1,
-      "heat_change": -5000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
       "stale_update": true,
@@ -555,8 +555,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3377/10130679_360x480.jpg?time=1780052798",
       "latest_chapter": " 第423章  番外二十八",
       "updated_at": "2026-10-21 02:32:04",
-      "rank_change": -1,
-      "heat_change": -1000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
       "stale_update": true,
@@ -584,8 +584,8 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/663/1987062_360x480.jpg?time=1766391721",
       "latest_chapter": " 第540章  大结局",
       "updated_at": "2026-01-30 22:39:12",
-      "rank_change": -1,
-      "heat_change": -5000,
+      "rank_change": 0,
+      "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
       "stale_update": true,
@@ -599,68 +599,14 @@
       "count": 8,
       "total_heat": 1077000,
       "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          {
-            "title": "他先失控",
-            "book_id": 9685722
-          }
-        ],
-        "dropped_books": [
-          {
-            "title": "皑如山上雪",
-            "book_id": 2053898,
-            "intro": "【短剧《皑如山上雪》原著，原书名《他的小撩精》】\n那一夜，她哭肿了眼，也抓伤了孟淮津的背……\n男人小心翼翼把人搂到怀里，亲吻她的眼泪，声音浑厚磁性：“不喜欢我了吗？”\n——\n舒晚是父母临终前，托孤给孟"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "形婚两年不同房，改嫁大佬被宠坏",
-            "book_id": 11539740,
-            "rank_change": 2
-          },
-          {
-            "title": "大佬归来，假千金她不装了",
-            "book_id": 1699328,
-            "rank_change": 1
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "婚后上瘾",
-            "book_id": 1994117,
-            "rank_change": -2
-          },
-          {
-            "title": "第五年重逢，驰先生再度失控",
-            "book_id": 2072940,
-            "rank_change": -1
-          },
-          {
-            "title": "惯坏她",
-            "book_id": 10034568,
-            "rank_change": -1
-          }
-        ],
-        "heat_leaders": [
-          {
-            "title": "第五年重逢，驰先生再度失控",
-            "book_id": 2072940,
-            "heat_change": 41000
-          },
-          {
-            "title": "形婚两年不同房，改嫁大佬被宠坏",
-            "book_id": 11539740,
-            "heat_change": 19000
-          },
-          {
-            "title": "婚后上瘾",
-            "book_id": 1994117,
-            "heat_change": -13000
-          }
-        ],
-        "summary": "「总裁豪门」新上榜 《他先失控》；《皑如山上雪》 掉出榜单；《形婚两年不同房，改嫁大佬被宠坏》上升2位领涨；《婚后上瘾》下滑2位；《第五年重逢，驰先生再度失控》热度+41000。",
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -686,8 +632,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/893/2676796_360x480.jpg?time=1760969446",
           "latest_chapter": " 第418章  大结局",
           "updated_at": "2026-06-12 06:02:04",
-          "rank_change": -1,
-          "heat_change": 41000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 4,
           "stale_update": true,
@@ -716,7 +662,7 @@
           "latest_chapter": " 第3020章  我都能给你",
           "updated_at": "2026-02-13 22:05:28",
           "rank_change": 0,
-          "heat_change": -2000,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -744,8 +690,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/772/2315755_360x480.jpg?time=1768286147",
           "latest_chapter": " 第633章  全剧终✿ヽ(°▽°)ノ✿",
           "updated_at": "2026-03-05 07:01:09",
-          "rank_change": -2,
-          "heat_change": -13000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -773,8 +719,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3847/11539740_360x480.jpg?time=1792518363",
           "latest_chapter": " 第474章  十分感谢",
           "updated_at": "2026-11-05 00:02:08",
-          "rank_change": 2,
-          "heat_change": 19000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -803,7 +749,7 @@
           "latest_chapter": " 第657章  人间幸福，不过如此",
           "updated_at": "2026-09-28 19:41:06",
           "rank_change": 0,
-          "heat_change": -1000,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -831,8 +777,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/410/1229482_360x480.jpg?time=1683772413",
           "latest_chapter": " 第1284章  番外：大婚（完）",
           "updated_at": "2025-02-07 02:05:33",
-          "rank_change": 1,
-          "heat_change": -3000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
           "stale_update": true,
@@ -862,7 +808,7 @@
           "updated_at": "2026-11-11 01:31:05",
           "rank_change": 0,
           "heat_change": 0,
-          "is_new": true,
+          "is_new": false,
           "boards_count": 1,
           "stale_update": false,
           "category": "总裁豪门"
@@ -889,8 +835,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3345/10034568_360x480.jpg?time=1776046465",
           "latest_chapter": " 第290章  冰山会为你哗然（完）",
           "updated_at": "2026-07-01 08:01:07",
-          "rank_change": -1,
-          "heat_change": -5000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -908,48 +854,10 @@
         "dropped_count": 0,
         "new_books": [],
         "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "裂春风",
-            "book_id": 10024089,
-            "rank_change": 3
-          },
-          {
-            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
-            "book_id": 2074363,
-            "rank_change": 2
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "凤池生春",
-            "book_id": 1830569,
-            "rank_change": -1
-          },
-          {
-            "title": "第一凤女",
-            "book_id": 1803136,
-            "rank_change": -1
-          }
-        ],
-        "heat_leaders": [
-          {
-            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
-            "book_id": 2074363,
-            "heat_change": 93000
-          },
-          {
-            "title": "凤池生春",
-            "book_id": 1830569,
-            "heat_change": -30000
-          },
-          {
-            "title": "裂春风",
-            "book_id": 10024089,
-            "heat_change": 24000
-          }
-        ],
-        "summary": "「宫闱宅斗」《裂春风》上升3位领涨；《凤池生春》下滑1位；《被逼自刎，嫡女重生撕婚书覆皇朝》热度+93000。",
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「宫闱宅斗」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -975,8 +883,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/896/2686789_360x480.jpg?time=1761327901",
           "latest_chapter": " 第822章  终章",
           "updated_at": "2026-09-22 18:39:45",
-          "rank_change": 2,
-          "heat_change": 93000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 4,
           "stale_update": true,
@@ -1004,8 +912,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/542/1624570_360x480.jpg?time=1717343578",
           "latest_chapter": " 第1152章  ·终章",
           "updated_at": "2025-11-07 14:23:17",
-          "rank_change": -1,
-          "heat_change": -30000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 4,
           "stale_update": true,
@@ -1062,8 +970,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3342/10024089_360x480.jpg?time=1773758425",
           "latest_chapter": " 第485章  君王非我平生志---东里长安篇（6）",
           "updated_at": "2026-10-07 12:47:06",
-          "rank_change": 3,
-          "heat_change": 24000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -1092,7 +1000,7 @@
           "latest_chapter": " 第493章  番外：是一见倾心，也是非你不可的坚定",
           "updated_at": "2026-02-08 23:58:06",
           "rank_change": 0,
-          "heat_change": -2000,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -1120,8 +1028,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
           "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
           "updated_at": "2025-08-31 14:41:10",
-          "rank_change": -1,
-          "heat_change": -5000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
           "stale_update": true,
@@ -1140,31 +1048,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "骗婚三年？我转身搬空家产嫁你上司！",
-            "book_id": 9912513,
-            "rank_change": -2
-          },
-          {
-            "title": "小娇媳要随军，禁欲指挥官心慌慌",
-            "book_id": 1952077,
-            "rank_change": -1
-          }
-        ],
-        "heat_leaders": [
-          {
-            "title": "骗婚三年？我转身搬空家产嫁你上司！",
-            "book_id": 9912513,
-            "heat_change": -12000
-          },
-          {
-            "title": "小娇媳要随军，禁欲指挥官心慌慌",
-            "book_id": 1952077,
-            "heat_change": -5000
-          }
-        ],
-        "summary": "「年代重生」《骗婚三年？我转身搬空家产嫁你上司！》下滑2位；《骗婚三年？我转身搬空家产嫁你上司！》热度-12000。",
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1190,8 +1076,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3305/9912513_360x480.jpg?time=1776946688",
           "latest_chapter": " 第467章  完结篇下",
           "updated_at": "2026-10-22 15:32:05",
-          "rank_change": -2,
-          "heat_change": -12000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
           "stale_update": true,
@@ -1219,8 +1105,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/663/1987062_360x480.jpg?time=1766391721",
           "latest_chapter": " 第540章  大结局",
           "updated_at": "2026-01-30 22:39:12",
-          "rank_change": -1,
-          "heat_change": -5000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
           "stale_update": true,
@@ -1238,33 +1124,10 @@
         "dropped_count": 0,
         "new_books": [],
         "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "邢教练，别太野",
-            "book_id": 1979319,
-            "rank_change": 1
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "渣男不配，他哥才是顶配",
-            "book_id": 10130679,
-            "rank_change": -1
-          }
-        ],
-        "heat_leaders": [
-          {
-            "title": "邢教练，别太野",
-            "book_id": 1979319,
-            "heat_change": -1000
-          },
-          {
-            "title": "渣男不配，他哥才是顶配",
-            "book_id": 10130679,
-            "heat_change": -1000
-          }
-        ],
-        "summary": "「职场情缘」《邢教练，别太野》上升1位领涨；《渣男不配，他哥才是顶配》下滑1位；《邢教练，别太野》热度-1000。",
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1290,8 +1153,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242170_360x480.jpg?time=1749029180",
           "latest_chapter": " 第395章  番外4：幸福时光（终篇）",
           "updated_at": "2025-10-13 22:13:11",
-          "rank_change": 1,
-          "heat_change": -1000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
           "stale_update": true,
@@ -1319,8 +1182,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3377/10130679_360x480.jpg?time=1780052798",
           "latest_chapter": " 第423章  番外二十八",
           "updated_at": "2026-10-21 02:32:04",
-          "rank_change": -1,
-          "heat_change": -1000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
           "stale_update": true,
@@ -1339,21 +1202,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "第一瞳术师",
-            "book_id": 215243,
-            "rank_change": -1
-          }
-        ],
-        "heat_leaders": [
-          {
-            "title": "第一瞳术师",
-            "book_id": 215243,
-            "heat_change": -3000
-          }
-        ],
-        "summary": "「玄幻仙侠」《第一瞳术师》下滑1位；《第一瞳术师》热度-3000。",
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1379,8 +1230,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/216077_360x480.jpg?time=1638352861",
           "latest_chapter": " 第1903章  婚后番外（下）",
           "updated_at": "2025-11-11 17:12:29",
-          "rank_change": -1,
-          "heat_change": -3000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
           "stale_update": true,
@@ -1399,21 +1250,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "老祖宗如此多娇，王爷乖乖折腰",
-            "book_id": 11593215,
-            "rank_change": -1
-          }
-        ],
-        "heat_leaders": [
-          {
-            "title": "老祖宗如此多娇，王爷乖乖折腰",
-            "book_id": 11593215,
-            "heat_change": -13000
-          }
-        ],
-        "summary": "「古代情缘」《老祖宗如此多娇，王爷乖乖折腰》下滑1位；《老祖宗如此多娇，王爷乖乖折腰》热度-13000。",
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1439,8 +1278,8 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3865/11593215_360x480.jpg?time=1782450904",
           "latest_chapter": " 第385章  人间，正是好时节",
           "updated_at": "2026-10-15 22:02:06",
-          "rank_change": -1,
-          "heat_change": -13000,
+          "rank_change": 0,
+          "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
           "stale_update": true,
@@ -1451,8 +1290,8 @@
   ],
   "stats": {
     "total_books": 20,
-    "new_count": 1,
-    "dropped_count": 1,
+    "new_count": 0,
+    "dropped_count": 0,
     "avg_heat": 143000,
     "total_heat": 2860000,
     "first_day": false

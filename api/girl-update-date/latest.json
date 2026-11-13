@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "types": [
     {
       "name": "全部",
@@ -27,6 +27,10 @@
       "url": "api/girl-update-date/latest/%E5%BC%82%E4%B8%96%E5%B9%BB%E6%83%B3.json"
     },
     {
+      "name": "现代悬疑",
+      "url": "api/girl-update-date/latest/%E7%8E%B0%E4%BB%A3%E6%82%AC%E7%96%91.json"
+    },
+    {
       "name": "古代情缘",
       "url": "api/girl-update-date/latest/%E5%8F%A4%E4%BB%A3%E6%83%85%E7%BC%98.json"
     },
@@ -37,10 +41,6 @@
     {
       "name": "年代重生",
       "url": "api/girl-update-date/latest/%E5%B9%B4%E4%BB%A3%E9%87%8D%E7%94%9F.json"
-    },
-    {
-      "name": "现代悬疑",
-      "url": "api/girl-update-date/latest/%E7%8E%B0%E4%BB%A3%E6%82%AC%E7%96%91.json"
     },
     {
       "name": "都市奇幻",

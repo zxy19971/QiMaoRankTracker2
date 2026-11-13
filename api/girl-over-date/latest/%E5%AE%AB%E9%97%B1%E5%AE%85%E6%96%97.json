@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
@@ -19,48 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "裂春风",
-          "book_id": 10024089,
-          "rank_change": 3
-        },
-        {
-          "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
-          "book_id": 2074363,
-          "rank_change": 2
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "凤池生春",
-          "book_id": 1830569,
-          "rank_change": -1
-        },
-        {
-          "title": "第一凤女",
-          "book_id": 1803136,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
-          "book_id": 2074363,
-          "heat_change": 93000
-        },
-        {
-          "title": "凤池生春",
-          "book_id": 1830569,
-          "heat_change": -30000
-        },
-        {
-          "title": "裂春风",
-          "book_id": 10024089,
-          "heat_change": 24000
-        }
-      ],
-      "summary": "「宫闱宅斗」《裂春风》上升3位领涨；《凤池生春》下滑1位；《被逼自刎，嫡女重生撕婚书覆皇朝》热度+93000。",
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「宫闱宅斗」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -86,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/896/2686789_360x480.jpg?time=1761327901",
         "latest_chapter": " 第822章  终章",
         "updated_at": "2026-09-22 18:39:45",
-        "rank_change": 2,
-        "heat_change": 93000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -115,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/542/1624570_360x480.jpg?time=1717343578",
         "latest_chapter": " 第1152章  ·终章",
         "updated_at": "2025-11-07 14:23:17",
-        "rank_change": -1,
-        "heat_change": -30000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -173,8 +135,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3342/10024089_360x480.jpg?time=1773758425",
         "latest_chapter": " 第485章  君王非我平生志---东里长安篇（6）",
         "updated_at": "2026-10-07 12:47:06",
-        "rank_change": 3,
-        "heat_change": 24000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -203,7 +165,7 @@
         "latest_chapter": " 第493章  番外：是一见倾心，也是非你不可的坚定",
         "updated_at": "2026-02-08 23:58:06",
         "rank_change": 0,
-        "heat_change": -2000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -231,8 +193,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
         "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
         "updated_at": "2025-08-31 14:41:10",
-        "rank_change": -1,
-        "heat_change": -5000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

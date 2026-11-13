@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "category": {
     "name": "都市高武",
     "major": "都市",
@@ -20,21 +20,9 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "女子监狱五年，出狱即无敌",
-          "book_id": 12791886,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "女子监狱五年，出狱即无敌",
-          "book_id": 12791886,
-          "heat_change": 1
-        }
-      ],
-      "summary": "「都市高武」《女子监狱五年，出狱即无敌》下滑1位；《女子监狱五年，出狱即无敌》热度+1。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「都市高武」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,17 +39,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "83.79万字",
-        "word_count": 837900,
+        "word_count_text": "84.59万字",
+        "word_count": 845900,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第356章  活丹救人",
-        "updated_at": "2026-11-12 08:12:12",
-        "rank_change": -1,
-        "heat_change": 1,
+        "latest_chapter": " 第360章  一拳震三族",
+        "updated_at": "2026-11-13 08:12:10",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -80,15 +68,15 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "292.02万字",
-        "word_count": 2920200,
+        "word_count_text": "292.64万字",
+        "word_count": 2926400,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "林子东遭女友背叛，侥幸得到修仙传承，他幻想中的修仙是小说中那般神挡杀神佛挡杀佛，逍遥世间，怎么到了自己这里全是美人关？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/907/2718192_360x480.jpg?time=1770139124",
-        "latest_chapter": " 第1406章  速战速决！",
-        "updated_at": "2026-11-11 22:11:10",
+        "latest_chapter": " 第1409章  冥雀精血！",
+        "updated_at": "2026-11-12 23:33:11",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

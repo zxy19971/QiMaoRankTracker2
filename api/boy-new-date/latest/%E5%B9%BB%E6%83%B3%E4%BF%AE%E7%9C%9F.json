@@ -8,26 +8,21 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
     "total_heat": 9000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "成仙",
-          "book_id": 13343910
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「幻想修真」新上榜 《成仙》。",
+      "summary": "「幻想修真」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -44,18 +39,18 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.72万字",
-        "word_count": 317200,
+        "word_count_text": "32.13万字",
+        "word_count": 321300,
         "heat": 9000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【凡人流】【无系统】凡人皇朝大衍太子萧澈，天生浊灵锁脉，八年时间倾尽国库之财换不来一缕灵气入体，满朝文武跪请废储。\n父皇以帝王颜面换来仙门举荐帖，送他入青阳宗求仙。\n仙门不收废人，他成了无人问津的伙房杂役。\n直到那半块清浊玉染血——\n缠锁灵根的先天浊气，开始寸寸崩解。\n世人皆以灵根定天命，断言他此生止步凡人！\n他偏要以这身浊骨，亲手叩开仙门！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4448/13343910_360x480.jpg?time=1793100390",
-        "latest_chapter": " 第148章  潜修半年，中品灵膳！",
-        "updated_at": "2026-11-12 00:25:03",
+        "latest_chapter": " 第150章  规矩，得立得住！",
+        "updated_at": "2026-11-13 00:42:04",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "幻想修真"

@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -23,17 +23,17 @@
         {
           "title": "真龙下山，我体内有头绝世凶兽",
           "book_id": 13335867,
-          "rank_change": 2
+          "rank_change": 1
         },
         {
           "title": "下山第一天，逮个美女总裁暴力宠",
           "book_id": 13008696,
-          "rank_change": 2
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高手」《真龙下山，我体内有头绝世凶兽》上升2位领涨。",
+      "summary": "「都市高手」《真龙下山，我体内有头绝世凶兽》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
@@ -50,15 +50,15 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.15万字",
-        "word_count": 481500,
+        "word_count_text": "48.66万字",
+        "word_count": 486600,
         "heat": 2959000,
         "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "大学生秦东代替富二代室友相亲，竟意外与极品女神一夜风情，觉醒了圣龙之体，自此从龙飞九天，逆势而起，冷艳女总裁，豪门千金，绝美校花等各路红颜纷至沓来，且看秦东凭借一身本事搅动都市风云，活出个快意人生……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4325/12973059_360x480.jpg?time=1786152834",
-        "latest_chapter": " 第216章  捡了一个便宜未婚妻！",
-        "updated_at": "2026-11-11 23:11:04",
+        "latest_chapter": " 第218章  真的七窍流血了！",
+        "updated_at": "2026-11-12 23:45:04",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -67,7 +67,7 @@
         "category": "都市高手"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "真龙下山，我体内有头绝世凶兽",
         "book_id": 13335867,
         "url": "https://www.qimao.com/shuku/13335867/",
@@ -79,16 +79,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.63万字",
-        "word_count": 486300,
+        "word_count_text": "49.32万字",
+        "word_count": 493200,
         "heat": 652000,
         "platform_trend": "rise",
-        "badge": "飙升24名",
+        "badge": "飙升25名",
         "intro": "五年前，秦家满门被屠，二少秦天侥幸生还，拜入蓬莱仙山习得医武通神。\n五年后，他携祖龙血脉强势归来，却发现爷爷被欺、祖宅被夺，嫂子苏晚晴含辛茹苦。\n为查灭门真相，他脚踏江城，医术震神医，武力压群雄，更与冰山总裁林梦溪立下婚约。\n真龙出世，风云涌动！\n他誓要血债血偿，重铸秦家辉煌！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4446/13335867_360x480.jpg?time=1788172753",
-        "latest_chapter": " 第212章  突生变故",
-        "updated_at": "2026-11-11 12:02:11",
-        "rank_change": 2,
+        "latest_chapter": " 第215章  当代大力王",
+        "updated_at": "2026-11-12 12:02:12",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -96,7 +96,7 @@
         "category": "都市高手"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "title": "下山第一天，逮个美女总裁暴力宠",
         "book_id": 13008696,
         "url": "https://www.qimao.com/shuku/13008696/",
@@ -108,16 +108,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.22万字",
-        "word_count": 452200,
+        "word_count_text": "45.64万字",
+        "word_count": 456400,
         "heat": 588000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第205章  老子的损失都要算在你头上",
-        "updated_at": "2026-11-12 05:02:03",
-        "rank_change": 2,
+        "latest_chapter": " 第207章  嫉妒心爆棚的罗文",
+        "updated_at": "2026-11-13 05:02:03",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

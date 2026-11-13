@@ -8,48 +8,43 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "category": {
     "name": "架空历史",
     "major": "历史",
-    "count": 3,
-    "total_heat": 1468000,
+    "count": 2,
+    "total_heat": 904000,
     "trend": {
       "new_count": 0,
       "dropped_count": 1,
       "new_books": [],
       "dropped_books": [
         {
-          "title": "边军悍卒：一把长弓定天下！",
-          "book_id": 12948825,
-          "intro": "国家一级射箭运动员、八极拳传人吴起，比赛回国遭遇空难，醒来后成了大周王朝边军杂役兵。\n这一世的傻大个“吴起”，被伍长夫妇当牛马，因为撞破伍长私通敌国，被抛弃荒漠脱水而死。\n吴起穿越醒来，遭遇北蛮十骑袭"
+          "title": "边军小卒：杀敌爆气血，我无限破镜！",
+          "book_id": 12958296,
+          "intro": "【空架历史】＋【争霸】＋【武炼巅峰】＋【一统天下】＋【爽文】＋【边军战神】＋【多女主】\n华夏兵王楚枫意外穿越到大乾王朝南境虎牢关，刚魂穿就撞上南蛮大军破城，身陷绝境。\n生死一线，【噬血武道系统】强势激"
         }
       ],
       "top_risers": [
         {
-          "title": "寇天子",
-          "book_id": 12817968,
-          "rank_change": 2
-        },
-        {
-          "title": "边军小卒：杀敌爆气血，我无限破镜！",
-          "book_id": 12958296,
-          "rank_change": 2
-        },
-        {
           "title": "让你当个纨绔，你咋毒谋天下",
           "book_id": 13400022,
           "rank_change": 2
+        },
+        {
+          "title": "寇天子",
+          "book_id": 12817968,
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「架空历史」《边军悍卒：一把长弓定天下！》 掉出榜单；《寇天子》上升2位领涨。",
+      "summary": "「架空历史」《边军小卒：杀敌爆气血，我无限破镜！》 掉出榜单；《让你当个纨绔，你咋毒谋天下》上升2位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 5,
         "title": "寇天子",
         "book_id": 12817968,
         "url": "https://www.qimao.com/shuku/12817968/",
@@ -61,16 +56,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.58万字",
-        "word_count": 455800,
+        "word_count_text": "45.99万字",
+        "word_count": 459900,
         "heat": 626000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "古武传人高远穿越到乱世之中，以土匪之身坐拥四位红颜知己，实力惊人的武将，隐藏身份的女帝，多年未见的大嫂，还有一个亡国之恨的公主！剑扫四海八荒，豪气激荡云霄，白天策马奔袭，夜间笙歌环绕！且随我行，江山美人尽入怀抱！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4273/12817968_360x480.jpg?time=1785209026",
-        "latest_chapter": " 第222章  碰巧了",
-        "updated_at": "2026-11-11 17:58:04",
-        "rank_change": 2,
+        "latest_chapter": " 第224章  竖子不足与谋",
+        "updated_at": "2026-11-12 18:13:03",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -78,36 +73,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 8,
-        "title": "边军小卒：杀敌爆气血，我无限破镜！",
-        "book_id": 12958296,
-        "url": "https://www.qimao.com/shuku/12958296/",
-        "author": "爱小咪锋",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%88%B1%E5%B0%8F%E5%92%AA%E9%94%8B_14/",
-        "major": "历史",
-        "minor": "架空历史",
-        "major_id": 56,
-        "minor_id": 58,
-        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "50.05万字",
-        "word_count": 500500,
-        "heat": 564000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "【空架历史】＋【争霸】＋【武炼巅峰】＋【一统天下】＋【爽文】＋【边军战神】＋【多女主】\n华夏兵王楚枫意外穿越到大乾王朝南境虎牢关，刚魂穿就撞上南蛮大军破城，身陷绝境。\n生死一线，【噬血武道系统】强势激活！\n世道不公？那我便挥刀，亲手杀出一条公道！\n【叮！击杀普通敌兵，气血值+30！】\n【叮！击杀八品武者，气血值+150！】\n……\n气血值可突破境界，还能升级功法品质！\n消耗300气血，直接兑换绝学《纯阳无极功》，修至阳至刚真气，内力源源不绝，自带疗伤续航，百毒不侵。\n旁人苦修十年难破境界，楚枫只需挥刀杀敌！\n杀得越快，敌人尸骨，便是他登临武道巅峰的垫脚石！\n南蛮将士吓得魂飞魄散：“你不要过来！”\n楚枫冷笑提刀：“来都来了，借诸位项上人头，助我武道通神！”\n自此，楚枫镇守边疆，横扫蛮夷，肃清大乾朝堂奸佞，征伐列国。\n揽红颜，定山河，铸就一代霸业！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4320/12958296_360x480.jpg?time=1794274292",
-        "latest_chapter": " 第211章  你这皇帝也该退位了",
-        "updated_at": "2026-11-12 07:02:07",
-        "rank_change": 2,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "架空历史"
-      },
-      {
-        "rank": 14,
+        "rank": 12,
         "title": "让你当个纨绔，你咋毒谋天下",
         "book_id": 13400022,
         "url": "https://www.qimao.com/shuku/13400022/",
@@ -119,15 +85,15 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.74万字",
-        "word_count": 427400,
+        "word_count_text": "43.47万字",
+        "word_count": 434700,
         "heat": 278000,
         "platform_trend": "rise",
-        "badge": "飙升31名",
+        "badge": "飙升33名",
         "intro": "穿越大离王朝，成为国公嫡孙，本该锦衣玉食，富贵一生。\n李玄真却迎来天崩开局，奸人陷害，他半只脚踏进鬼门关！\n生死一线，昔日人人嗤笑的纨绔，骤然觉醒，化身毒士。\n凭绝世智谋破死局，挽国公府于倾覆；\n挥笔诗词惊天下，文章震彻大离朝堂。\n党争汹汹，朝堂糜烂。\n他搅动风云，扫尽奸佞，倾力辅佐长公主登临九五之尊。\n一句‘活阎王来了’便可吓退百万雄师！\n北击蛮夷，平定四海，重整九州山河，铸就万国来朝的盛世。\n待到功成，手握‘从龙大功’的李玄真只想躺平当纨绔，\n不曾想，深夜宫车传召，女帝屏退所有内侍，独留他一人于深宫之内。\n李玄真傻了……\n陛下！哪有这么考验功臣的啊！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4467/13400022_360x480.jpg?time=1792936970",
-        "latest_chapter": " 第180章  看来，接近真相了",
-        "updated_at": "2026-11-12 00:02:21",
+        "latest_chapter": " 第183章  走，前去拜见赵国公",
+        "updated_at": "2026-11-13 00:02:23",
         "rank_change": 2,
         "heat_change": 0,
         "is_new": false,

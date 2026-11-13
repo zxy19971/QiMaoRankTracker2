@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "乾坤造化诀",
+          "book_id": 12897039,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "乾坤造化诀",
           "book_id": 12897039,
-          "heat_change": -3
+          "heat_change": 1
         }
       ],
-      "summary": "「幻想修真」《乾坤造化诀》热度-3。",
+      "summary": "「幻想修真」《乾坤造化诀》上升1位领涨；《乾坤造化诀》热度+1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 14,
         "title": "乾坤造化诀",
         "book_id": 12897039,
         "url": "https://www.qimao.com/shuku/12897039/",
@@ -45,17 +51,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "89.37万字",
-        "word_count": 893700,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "90.37万字",
+        "word_count": 903700,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "我是望仙宗最不起眼的杂役。\n直到那天，宗主被人追杀，身中情毒，从天而降。\n我只是好心救人，却差点被她活活吸干。\n濒死之际，沉寂已久的乾坤诀终于觉醒。\n一夜之间，我连破数境。\n从今日起，我不再认命。\n假灵根又如何？杂役又如何？\n这一世，我偏要叩开仙门！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4300/12897039_360x480.jpg?time=1785867415",
-        "latest_chapter": " 第360章  我就要那座废矿",
-        "updated_at": "2026-11-11 11:29:05",
-        "rank_change": 0,
-        "heat_change": -3,
+        "latest_chapter": " 第364章  亡灵之道？",
+        "updated_at": "2026-11-12 14:49:04",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

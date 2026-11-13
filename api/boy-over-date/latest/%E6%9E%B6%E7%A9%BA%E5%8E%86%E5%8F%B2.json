@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -21,24 +21,8 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "天命纨绔",
-          "book_id": 9839805,
-          "heat_change": -10000
-        },
-        {
-          "title": "打到北极圈了，你让我继承皇位？",
-          "book_id": 1864493,
-          "heat_change": -5000
-        },
-        {
-          "title": "逍遥四公子",
-          "book_id": 1809361,
-          "heat_change": -4000
-        }
-      ],
-      "summary": "「架空历史」《天命纨绔》热度-10000。",
+      "heat_leaders": [],
+      "summary": "「架空历史」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -65,7 +49,7 @@
         "latest_chapter": " 第2996章  往后余生，逍遥无拘",
         "updated_at": "2026-10-23 07:02:23",
         "rank_change": 0,
-        "heat_change": -4000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -94,7 +78,7 @@
         "latest_chapter": " 第1257章  番外三：星辰大海",
         "updated_at": "2026-03-31 22:07:15",
         "rank_change": 0,
-        "heat_change": -5000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -123,7 +107,7 @@
         "latest_chapter": " 第1634章  番外——十年后",
         "updated_at": "2025-03-03 00:03:29",
         "rank_change": 0,
-        "heat_change": -4000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -152,7 +136,7 @@
         "latest_chapter": " 第962章  后记+完本感言",
         "updated_at": "2026-11-08 00:07:18",
         "rank_change": 0,
-        "heat_change": -10000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

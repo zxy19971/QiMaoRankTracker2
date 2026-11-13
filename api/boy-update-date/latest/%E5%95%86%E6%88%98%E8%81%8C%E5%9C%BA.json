@@ -8,32 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "category": {
     "name": "商战职场",
     "major": "都市",
     "count": 1,
-    "total_heat": 0,
+    "total_heat": 1,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "野性攀登",
+          "book_id": 13408218,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "野性攀登",
           "book_id": 13408218,
-          "heat_change": -1
+          "heat_change": 1
         }
       ],
-      "summary": "「商战职场」《野性攀登》热度-1。",
+      "summary": "「商战职场」《野性攀登》下滑1位；《野性攀登》热度+1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 4,
+        "rank": 5,
         "title": "野性攀登",
         "book_id": 13408218,
         "url": "https://www.qimao.com/shuku/13408218/",
@@ -45,19 +51,19 @@
         "minor_id": 221,
         "minor_url": "https://www.qimao.com/shuku/a-203-221-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "50.78万字",
-        "word_count": 507800,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "51.64万字",
+        "word_count": 516400,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "地产公司小职员陈爽，为凑巨额彩礼，夜跑代驾，被身份不凡的美女强征，被人误会有背景，从此踏上逆袭之路，上司极品老婆，温柔女领导，娇媚女下属，刁蛮小魔女，各路美女被命运安排，和陈爽走到一起\n被心爱女友背叛，陈爽彻底激发野性，和众美女携手，野性攀峰……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4470/13408218_360x480.jpg?time=1792546689",
-        "latest_chapter": " 第229章  打她，打死这个资本家的走狗",
-        "updated_at": "2026-11-12 04:02:03",
-        "rank_change": 0,
-        "heat_change": -1,
+        "latest_chapter": " 第233章  再往上，再往上一点",
+        "updated_at": "2026-11-13 04:02:03",
+        "rank_change": -1,
+        "heat_change": 1,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": false,
         "category": "商战职场"
       }

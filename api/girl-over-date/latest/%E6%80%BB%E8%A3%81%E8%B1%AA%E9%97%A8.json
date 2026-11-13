@@ -8,75 +8,21 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
     "count": 8,
     "total_heat": 1077000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "他先失控",
-          "book_id": 9685722
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "皑如山上雪",
-          "book_id": 2053898,
-          "intro": "【短剧《皑如山上雪》原著，原书名《他的小撩精》】\n那一夜，她哭肿了眼，也抓伤了孟淮津的背……\n男人小心翼翼把人搂到怀里，亲吻她的眼泪，声音浑厚磁性：“不喜欢我了吗？”\n——\n舒晚是父母临终前，托孤给孟"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "形婚两年不同房，改嫁大佬被宠坏",
-          "book_id": 11539740,
-          "rank_change": 2
-        },
-        {
-          "title": "大佬归来，假千金她不装了",
-          "book_id": 1699328,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "婚后上瘾",
-          "book_id": 1994117,
-          "rank_change": -2
-        },
-        {
-          "title": "第五年重逢，驰先生再度失控",
-          "book_id": 2072940,
-          "rank_change": -1
-        },
-        {
-          "title": "惯坏她",
-          "book_id": 10034568,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "第五年重逢，驰先生再度失控",
-          "book_id": 2072940,
-          "heat_change": 41000
-        },
-        {
-          "title": "形婚两年不同房，改嫁大佬被宠坏",
-          "book_id": 11539740,
-          "heat_change": 19000
-        },
-        {
-          "title": "婚后上瘾",
-          "book_id": 1994117,
-          "heat_change": -13000
-        }
-      ],
-      "summary": "「总裁豪门」新上榜 《他先失控》；《皑如山上雪》 掉出榜单；《形婚两年不同房，改嫁大佬被宠坏》上升2位领涨；《婚后上瘾》下滑2位；《第五年重逢，驰先生再度失控》热度+41000。",
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「总裁豪门」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -102,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/893/2676796_360x480.jpg?time=1760969446",
         "latest_chapter": " 第418章  大结局",
         "updated_at": "2026-06-12 06:02:04",
-        "rank_change": -1,
-        "heat_change": 41000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -132,7 +78,7 @@
         "latest_chapter": " 第3020章  我都能给你",
         "updated_at": "2026-02-13 22:05:28",
         "rank_change": 0,
-        "heat_change": -2000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -160,8 +106,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/772/2315755_360x480.jpg?time=1768286147",
         "latest_chapter": " 第633章  全剧终✿ヽ(°▽°)ノ✿",
         "updated_at": "2026-03-05 07:01:09",
-        "rank_change": -2,
-        "heat_change": -13000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -189,8 +135,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3847/11539740_360x480.jpg?time=1792518363",
         "latest_chapter": " 第474章  十分感谢",
         "updated_at": "2026-11-05 00:02:08",
-        "rank_change": 2,
-        "heat_change": 19000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -219,7 +165,7 @@
         "latest_chapter": " 第657章  人间幸福，不过如此",
         "updated_at": "2026-09-28 19:41:06",
         "rank_change": 0,
-        "heat_change": -1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -247,8 +193,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/410/1229482_360x480.jpg?time=1683772413",
         "latest_chapter": " 第1284章  番外：大婚（完）",
         "updated_at": "2025-02-07 02:05:33",
-        "rank_change": 1,
-        "heat_change": -3000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -278,7 +224,7 @@
         "updated_at": "2026-11-11 01:31:05",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "总裁豪门"
@@ -305,8 +251,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3345/10034568_360x480.jpg?time=1776046465",
         "latest_chapter": " 第290章  冰山会为你哗然（完）",
         "updated_at": "2026-07-01 08:01:07",
-        "rank_change": -1,
-        "heat_change": -5000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "category": {
     "name": "职场情缘",
     "major": "现代言情",
@@ -19,33 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "邢教练，别太野",
-          "book_id": 1979319,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "渣男不配，他哥才是顶配",
-          "book_id": 10130679,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "邢教练，别太野",
-          "book_id": 1979319,
-          "heat_change": -1000
-        },
-        {
-          "title": "渣男不配，他哥才是顶配",
-          "book_id": 10130679,
-          "heat_change": -1000
-        }
-      ],
-      "summary": "「职场情缘」《邢教练，别太野》上升1位领涨；《渣男不配，他哥才是顶配》下滑1位；《邢教练，别太野》热度-1000。",
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「职场情缘」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -71,8 +48,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242170_360x480.jpg?time=1749029180",
         "latest_chapter": " 第395章  番外4：幸福时光（终篇）",
         "updated_at": "2025-10-13 22:13:11",
-        "rank_change": 1,
-        "heat_change": -1000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
@@ -100,8 +77,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3377/10130679_360x480.jpg?time=1780052798",
         "latest_chapter": " 第423章  番外二十八",
         "updated_at": "2026-10-21 02:32:04",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

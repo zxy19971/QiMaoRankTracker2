@@ -1,0 +1,183 @@
+{
+  "date": "2026-11-13",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 0,
+    "total_heat": 17,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "禁庭春",
+            "book_id": 13278996,
+            "rank_change": 2
+          },
+          {
+            "title": "母凭女贵",
+            "book_id": 12800205,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "凰命错",
+            "book_id": 13123386,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "禁庭春",
+            "book_id": 13278996,
+            "heat_change": 2
+          },
+          {
+            "title": "母凭女贵",
+            "book_id": 12800205,
+            "heat_change": 1
+          },
+          {
+            "title": "凰命错",
+            "book_id": 13123386,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「宫闱宅斗」《禁庭春》上升2位领涨；《凰命错》下滑1位；《禁庭春》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「总裁豪门」《霍二爷，新婚请克制！》下滑1位；《霍二爷，新婚请克制！》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世幻想",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「异世幻想」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代悬疑",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "天定阴缘，开棺赐福",
+            "book_id": 13478442,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "天定阴缘，开棺赐福",
+            "book_id": 13478442,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「现代悬疑」《天定阴缘，开棺赐福》下滑1位；《天定阴缘，开棺赐福》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "娱乐明星",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「娱乐明星」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市奇幻」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "category": {
     "name": "商战职场",
     "major": "都市",
@@ -21,14 +21,8 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "男人野性",
-          "book_id": 2023697,
-          "heat_change": 4000
-        }
-      ],
-      "summary": "「商战职场」《男人野性》热度+4000。",
+      "heat_leaders": [],
+      "summary": "「商战职场」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,7 +49,7 @@
         "latest_chapter": " 第1045章  他是神（大结局）",
         "updated_at": "2026-11-06 00:27:08",
         "rank_change": 0,
-        "heat_change": 4000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
