@@ -8,31 +8,32 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "category": {
     "name": "末世危机",
     "major": "科幻",
     "count": 1,
     "total_heat": 172000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "缆车求生：我能升级一切",
-          "book_id": 13279389
+          "book_id": 13279389,
+          "rank_change": 1
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「末世危机」新上榜 《缆车求生：我能升级一切》。",
+      "summary": "「末世危机」《缆车求生：我能升级一切》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 18,
         "title": "缆车求生：我能升级一切",
         "book_id": 13279389,
         "url": "https://www.qimao.com/shuku/13279389/",
@@ -44,18 +45,18 @@
         "minor_id": 66,
         "minor_url": "https://www.qimao.com/shuku/a-64-66-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.93万字",
-        "word_count": 339300,
+        "word_count_text": "34.34万字",
+        "word_count": 343400,
         "heat": 172000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【全民求生】【缆车求生】【末世】【杀伐果断】【小副本】\n全球79亿人强制来到缆车求生世界，破旧缆车是唯一安全区。\n每日仅限一次落地，搜刮物资、猎杀丧尸妖兽，日落黑雾降临未归者直接抹杀。\n极寒、极热天灾接踵而至，人人挣扎在生死边缘。\n姜白被相恋七年的女友谋财害命，坠楼后重生至此，觉醒　SSS　级唯一天赋万物升级。\n打撤稳扎稳打，杀伐果断绝不圣母。从锈迹斑斑的破旧缆车开始，升级武装、拓展舱室，最终成为横贯天穹的空中堡垒。\n当其他人还在为一口食物拼死争抢、为升级材料疲于奔命时，姜白正驾驶着他的空中要塞，在末世天穹之上走出一条独属于强者的求生之路。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4427/13279389_360x480.jpg?time=1787737302",
-        "latest_chapter": " 第161章  移植",
-        "updated_at": "2026-11-12 18:32:03",
-        "rank_change": 0,
+        "latest_chapter": " 第163章  前往大铁部落",
+        "updated_at": "2026-11-13 18:32:03",
+        "rank_change": 1,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "末世危机"

@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "category": {
     "name": "古典仙侠",
     "major": "武侠仙侠",
@@ -23,17 +23,17 @@
         {
           "title": "大道仙炉",
           "book_id": 13309743,
-          "rank_change": 3
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「古典仙侠」《大道仙炉》上升3位领涨。",
+      "summary": "「古典仙侠」《大道仙炉》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 15,
         "title": "大道仙炉",
         "book_id": 13309743,
         "url": "https://www.qimao.com/shuku/13309743/",
@@ -45,16 +45,16 @@
         "minor_id": 52,
         "minor_url": "https://www.qimao.com/shuku/a-205-52-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.85万字",
-        "word_count": 348500,
+        "word_count_text": "35.27万字",
+        "word_count": 352700,
         "heat": 213000,
         "platform_trend": "rise",
-        "badge": "飙升16名",
+        "badge": "飙升17名",
         "intro": "一朝穿成苍云宗杂役，随时都会被杀，偏遇上疯批师姐　，甩锅杀人不眨眼……\n李元最大的梦想，是早日晋升正式弟子　，像人一样活着，奈何资质平庸，缺乏资源。\n偶然发现神秘小黑罐，废丹放进去，转眼变成极品丹药……\n一夜突破，拿捏师姐，修法炼丹　，问道长生　，从此踏上一条无敌仙路！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4437/13309743_360x480.jpg?time=1787913390",
-        "latest_chapter": " 第163章  你加注，我加注，丹师变赌徒",
-        "updated_at": "2026-11-12 22:35:04",
-        "rank_change": 3,
+        "latest_chapter": " 第165章  宝丹出炉，白朝圣的底气！",
+        "updated_at": "2026-11-13 23:09:03",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

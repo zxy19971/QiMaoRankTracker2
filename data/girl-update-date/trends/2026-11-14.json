@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-14",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 1,
+    "total_heat": 27,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "媚君侧",
+            "book_id": 11615952,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "母凭女贵",
+            "book_id": 12800205,
+            "rank_change": -1
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": -1
+          },
+          {
+            "title": "枕边奴",
+            "book_id": 13537935,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "媚君侧",
+            "book_id": 11615952,
+            "heat_change": -4
+          },
+          {
+            "title": "禁庭春",
+            "book_id": 13278996,
+            "heat_change": -4
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「宫闱宅斗」《媚君侧》上升1位领涨；《母凭女贵》下滑1位；《媚君侧》热度-4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": 1
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "为她失控",
+            "book_id": 13425795,
+            "rank_change": -3
+          },
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902,
+            "rank_change": -2
+          },
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "为她失控",
+            "book_id": 13425795,
+            "heat_change": 3
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "heat_change": 1
+          },
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「总裁豪门」《她玩火》上升1位领涨；《为她失控》下滑3位；《为她失控》热度+3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "早死原配不作了，军官全家宠上天",
+            "book_id": 13499547
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "带着空间去下乡，生财暴富撩糙汉！",
+            "book_id": 13470801,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "带着空间去下乡，生财暴富撩糙汉！",
+            "book_id": 13470801,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「年代重生」新上榜 《早死原配不作了，军官全家宠上天》；《带着空间去下乡，生财暴富撩糙汉！》下滑1位；《带着空间去下乡，生财暴富撩糙汉！》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代悬疑",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "天定阴缘，开棺赐福",
+            "book_id": 13478442,
+            "rank_change": 6
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "天定阴缘，开棺赐福",
+            "book_id": 13478442,
+            "heat_change": 5
+          }
+        ],
+        "summary": "「现代悬疑」《天定阴缘，开棺赐福》上升6位领涨；《天定阴缘，开棺赐福》热度+5。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "rank_change": 4
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "heat_change": 4
+          }
+        ],
+        "summary": "「古代情缘」《新婚夜流放，飒爽太子妃种出西北大仓！》上升4位领涨；《新婚夜流放，飒爽太子妃种出西北大仓！》热度+4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市奇幻」《家有玄妻，百邪不侵！》下滑1位；《家有玄妻，百邪不侵！》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "娱乐明星",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「娱乐明星」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

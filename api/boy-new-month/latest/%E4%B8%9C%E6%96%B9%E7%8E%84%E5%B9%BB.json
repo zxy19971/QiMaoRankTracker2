@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
@@ -23,17 +23,12 @@
         {
           "title": "说好的纨绔，怎么正魔两道全是他红颜",
           "book_id": 13427316,
-          "rank_change": 3
-        },
-        {
-          "title": "魔天鼎：我能炼化万物",
-          "book_id": 13297746,
           "rank_change": 1
         }
       ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「东方玄幻」《说好的纨绔，怎么正魔两道全是他红颜》上升3位领涨。",
+      "summary": "「东方玄幻」《说好的纨绔，怎么正魔两道全是他红颜》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
@@ -50,16 +45,16 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.84万字",
-        "word_count": 458400,
+        "word_count_text": "46.48万字",
+        "word_count": 464800,
         "heat": 748000,
         "platform_trend": "rise",
         "badge": "飙升32名",
         "intro": "【玄幻】【无系统】\n穿越成为镇国侯府弃子，秦绝意外邂逅了玄灵界两大女宫主，虽元阳尽失，却习得绝世魔功，被家族放弃。\n旁人争灵药、炼神丹，苦苦熬修为；唯有秦绝手握魔天鼎：别人炼丹，我炼魔躯！\n鼎内三百六十五倍流速，岁月随手可取，更能炼化世间万物糟粕废料，铸就无敌之身。\n他在八位风华各异的绝色姐姐辅助下，在侯府夹缝求生，斗朝堂奸佞，战虚火邪宗，一路跨越位面壁垒。\n鼎中苦修出世，一剑横压万界，斩域外邪魔，逆袭称霸诸天。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4433/13297746_360x480.jpg?time=1788333030",
-        "latest_chapter": " 第216章  惊吓过度是这样的！",
-        "updated_at": "2026-11-12 12:02:10",
-        "rank_change": 1,
+        "latest_chapter": " 第219章  多少钱？我买！",
+        "updated_at": "2026-11-13 12:02:09",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -67,7 +62,7 @@
         "category": "东方玄幻"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "title": "说好的纨绔，怎么正魔两道全是他红颜",
         "book_id": 13427316,
         "url": "https://www.qimao.com/shuku/13427316/",
@@ -79,16 +74,16 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.39万字",
-        "word_count": 363900,
+        "word_count_text": "37.12万字",
+        "word_count": 371200,
         "heat": 202000,
         "platform_trend": "rise",
-        "badge": "飙升37名",
+        "badge": "飙升38名",
         "intro": "【穿越游戏+游戏系统+多女主+纨绔+江湖】\n穿成纨绔反派，开局就差点玷污正道仙子！\n什么？她大哥还是未来剑神？\n为求活命，我被迫上演浪子回头、为爱痴狂的戏码！\n天天送花，日日表白，眼看就要把冰山仙子暖化，让她忘了我的黑历史！\n谁知，我当初为表忠心拒之门外的魔教妖女，竟乔装成她，骗我爬上神女峰！\n悬崖之上，面对魔女“你跳我就放了她”的致命考验，我心一横，纵身一跃！\n这一跳，跳得正道仙子泪崩表白，跳得魔教妖女心神摇曳！\n可我万万没想到，启动秘境传送时，本想拉着仙子私奔，却抓错了人，和那媚眼如丝的魔女一起掉了进去！\n看着怀里笑得花枝乱颤的妖女，我人麻了：救命！拉错人了啊！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4476/13427316_360x480.jpg?time=1791623614",
-        "latest_chapter": " 第117章  做梦（七千字大章）",
-        "updated_at": "2026-11-13 00:12:17",
-        "rank_change": 3,
+        "latest_chapter": " 第118章  逻些城（七千字大章）",
+        "updated_at": "2026-11-14 00:02:24",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

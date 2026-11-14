@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
@@ -23,17 +23,17 @@
         {
           "title": "这一拳万年修为，你说我天生废体？",
           "book_id": 13006284,
-          "rank_change": 2
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「幻想修真」《这一拳万年修为，你说我天生废体？》上升2位领涨。",
+      "summary": "「幻想修真」《这一拳万年修为，你说我天生废体？》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 14,
         "title": "这一拳万年修为，你说我天生废体？",
         "book_id": 13006284,
         "url": "https://www.qimao.com/shuku/13006284/",
@@ -45,16 +45,16 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.57万字",
-        "word_count": 435700,
+        "word_count_text": "44.01万字",
+        "word_count": 440100,
         "heat": 260000,
         "platform_trend": "rise",
-        "badge": "",
+        "badge": "飙升10名",
         "intro": "穿越异界，陈凡成了一名没有人权的漕工。\n累死累活的工作，换不来一口饭吃，同时还要面对恶霸欺凌，管事打骂！\n好在觉醒了熟练度面板，只要够肝，就能变强！\n【滴，基础拳法提升到圆满级，解锁凡境无敌！】\n【滴，传说级功法九阳神功入门成功！化身万人迷！】\n【滴，炼丹术出神入化！成就丹圣！】\n【滴，游龙戏凤提升到圆满级，双修效率提升百倍……】\n有一天，陈凡得知。\n穿越第一天，破庙夜会的，竟是天下第一宗门的帮主夫人！\n好在普天之下，武圣已是第一流！\n七绝技艺皆达圣级的武圣，更是超一流！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4336/13006284_360x480.jpg?time=1786182605",
-        "latest_chapter": " 第206章  晋升武王境！",
-        "updated_at": "2026-11-12 17:46:03",
-        "rank_change": 2,
+        "latest_chapter": " 第208章  传说级炼体术入门！逆天属性！",
+        "updated_at": "2026-11-13 18:58:03",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

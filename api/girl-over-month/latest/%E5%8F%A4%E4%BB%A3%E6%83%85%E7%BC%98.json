@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
@@ -51,7 +51,7 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": true,
         "category": "古代情缘"
       }

@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "category": {
     "name": "末世危机",
     "major": "科幻",
     "count": 1,
-    "total_heat": 9000,
+    "total_heat": 10000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "海洋求生：我的天赋无限增加！",
+          "book_id": 13678836,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「末世危机」榜单结构稳定，无明显变动。",
+      "heat_leaders": [
+        {
+          "title": "海洋求生：我的天赋无限增加！",
+          "book_id": 13678836,
+          "heat_change": 1000
+        }
+      ],
+      "summary": "「末世危机」《海洋求生：我的天赋无限增加！》上升2位领涨；《海洋求生：我的天赋无限增加！》热度+1000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 17,
         "title": "海洋求生：我的天赋无限增加！",
         "book_id": 13678836,
         "url": "https://www.qimao.com/shuku/13678836/",
@@ -39,17 +51,17 @@
         "minor_id": 66,
         "minor_url": "https://www.qimao.com/shuku/a-64-66-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "15.96万字",
-        "word_count": 159600,
-        "heat": 9000,
+        "word_count_text": "16.38万字",
+        "word_count": 163800,
+        "heat": 10000,
         "platform_trend": "rise",
-        "badge": "飙升22名",
+        "badge": "",
         "intro": "【海洋求生】【爽文】【智商在线】\n全班被扔进海洋求生，只有林辰一个男生，还被诬陷驱逐。\n女生抱团当上船长，把林辰赶去又脏又小的底层仓库，只给两瓶水，一根破鱼竿。\n“没有我们，你迟早饿死。”\n所有人都觉得林辰天赋垃圾，只会瞎折腾。\n可没人知道，他觉醒了SSS级天赋【劳必有悟】\n只要动手劳动，就能获得感悟，解锁全新能力！\n打扫船舱能获得净尘感悟，能看到藏在脏污下的隐藏线索。\n修钓竿能感悟修理，做出钓鱼动作就能感悟钓鱼，就连反复尝试过滤海水，都能感悟制造。\n她们忙着勾心斗角，空喊姐妹抱团，只想坐享其成。\n他默默干活，悄悄变强。\n想要我的鱼？拿物资来换，别想道德绑架空手套白狼。\n无边海域，未知异兽，限时岛屿，暗藏秘密的旧旗帜，从一艘破旧木船开始，靠双手发育，扮猪吃老虎，一步步走到最强点。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4560/13678836_360x480.jpg?time=1791518474",
-        "latest_chapter": " 第72章  唯一支持者，居然见色忘义",
-        "updated_at": "2026-11-12 12:02:04",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第74章  种植收益，三方平分",
+        "updated_at": "2026-11-13 12:02:03",
+        "rank_change": 2,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

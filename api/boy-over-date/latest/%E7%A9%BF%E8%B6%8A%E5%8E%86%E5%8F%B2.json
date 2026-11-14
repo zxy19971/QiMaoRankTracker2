@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-over-date",
+    "name": "男生完结日榜",
+    "channel": "male",
+    "type": "over",
+    "type_name": "完结榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-11-14",
+  "category": {
+    "name": "穿越历史",
+    "major": "历史",
+    "count": 1,
+    "total_heat": 57000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "我的岳父是崇祯",
+          "book_id": 215732
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「穿越历史」新上榜 《我的岳父是崇祯》。",
+      "ai_source": "rule"
+    },
+    "books": [
+      {
+        "rank": 19,
+        "title": "我的岳父是崇祯",
+        "book_id": 215732,
+        "url": "https://www.qimao.com/shuku/215732/",
+        "author": "隔壁小王本尊",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%9A%94%E5%A3%81%E5%B0%8F%E7%8E%8B%E6%9C%AC%E5%B0%8A_14/",
+        "major": "历史",
+        "minor": "穿越历史",
+        "major_id": 56,
+        "minor_id": 57,
+        "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "195.82万字",
+        "word_count": 1958200,
+        "heat": 57000,
+        "platform_trend": "rise",
+        "badge": "飙升48名",
+        "intro": "一个现代军校生周世显重生大明，成为大明最后一个驸马。\n凭一己之力建立了一支近代铁军，保江山，驱鞑虏。\n饮马天山之巅，垂钓贝加尔湖，所到之处，皆为汉土。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/216150_360x480.jpg?time=1638352861",
+        "latest_chapter": " 第571章  终章",
+        "updated_at": "2022-10-21 16:31:06",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": true,
+        "category": "穿越历史"
+      }
+    ]
+  }
+}
