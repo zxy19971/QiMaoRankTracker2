@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
@@ -16,19 +16,13 @@
     "total_heat": 837000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "嫌我丰腴不碰我，我改嫁首长连生三崽",
-          "book_id": 13066845,
-          "intro": "（原书名《京少绝嗣，新媳妇却一胎又一胎》）\n【矜冷禁欲军官vs明艳大美人丨双洁】\n姜煜淮骗了虞娇娇一辈子。\n为给白月光守身，他随手捡了个男人跟她洞房。\n她含辛茹苦养大的女儿，也是他白月光的。\n直到她死"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「年代重生」《嫌我丰腴不碰我，我改嫁首长连生三崽》 掉出榜单。",
+      "summary": "「年代重生」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -45,15 +39,15 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.01万字",
-        "word_count": 490100,
+        "word_count_text": "49.43万字",
+        "word_count": 494300,
         "heat": 837000,
         "platform_trend": "rise",
         "badge": "飙升33名",
         "intro": "【双重生】【年代】【空间】【灵泉】【团宠】【金手指】【嫁爹】【暴富】【医学奇才】\n李若溪和姐姐一起重生了。\n前世，她跟着亲妈改嫁住进顾家，被当作白老鼠试药，被折磨得不成人样。\n跟亲爹留在乡下的姐姐嫉妒她在顾家过好日子，恨她刀她。\n这一世，亲妈又要带她走，姐姐跪地抢着代替她去顾家。\n李若溪爽快让位，转身去找惦记他爹多年的女猎户。\n“大英姨，你要男人不要？”\n林大英筷子哐当落地。\n林家三兄弟惊得嘴巴能塞鸡蛋。\n亲爹李长青羞红了脸，被林大英扛在肩上带回家。\n入赘的日子真好啊！天天吃肉，还被宠得七荤八素。\n三个继兄，一个憨，一个精，一个冷，把她当亲妹宠。\n这一世的目标很简单，荣华富贵一样不能少！前世害我的人一个个慢慢嘎！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4318/12952116_360x480.jpg?time=1791622774",
-        "latest_chapter": " 第228章  你烂了，我的工地也不可能烂尾",
-        "updated_at": "2026-11-13 12:12:03",
+        "latest_chapter": " 第230章  套人麻袋",
+        "updated_at": "2026-11-14 13:23:03",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,

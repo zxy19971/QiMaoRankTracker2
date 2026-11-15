@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
@@ -19,16 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "铸神朝",
-          "book_id": 13527720,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「王朝争霸」《铸神朝》上升1位领涨。",
+      "summary": "「王朝争霸」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -45,19 +39,19 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.76万字",
-        "word_count": 377600,
+        "word_count_text": "38.44万字",
+        "word_count": 384400,
         "heat": 171000,
         "platform_trend": "rise",
         "badge": "飙升64名",
         "intro": "前一世，镇北侯方瑾年被小公主和她的青梅竹马联手污蔑造反，家破人亡。\n这一世，重生在与小公主洞房花烛之夜，那么，先阉了她的青梅竹马。\n然后，造反。\n他要建立最大最强的——神朝。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4510/13527720_360x480.jpg?time=1789977110",
-        "latest_chapter": " 第165章  她走了，头也不回",
-        "updated_at": "2026-11-13 15:17:03",
-        "rank_change": 1,
+        "latest_chapter": " 第168章  况南天也在现场",
+        "updated_at": "2026-11-14 15:25:03",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "王朝争霸"
       }

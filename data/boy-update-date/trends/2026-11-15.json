@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-15",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 0,
+    "total_heat": 18,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "太初仙鼎",
+            "book_id": 13499934,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "heat_change": -1
+          },
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "heat_change": 1
+          },
+          {
+            "title": "太初仙鼎",
+            "book_id": 13499934,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「东方玄幻」《太初仙鼎》上升1位领涨；《鸿蒙霸体诀》下滑1位；《吞噬九重天》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "rank_change": -4
+          },
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "heat_change": 1
+          },
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "heat_change": -1
+          },
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高手」《美女总裁，请上车》上升1位领涨；《医武双绝：下山捡个总裁当老婆》下滑4位；《SSSSSSSSSSSSS级镇狱狂龙》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "我在都市修了个野仙",
+            "book_id": 2078908,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "女子监狱五年，出狱即无敌",
+            "book_id": 12791886,
+            "heat_change": -2
+          },
+          {
+            "title": "我在都市修了个野仙",
+            "book_id": 2078908,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高武」《我在都市修了个野仙》下滑1位；《女子监狱五年，出狱即无敌》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "heat_change": 4
+          }
+        ],
+        "summary": "「幻想修真」《乾坤造化诀》上升5位领涨；《乾坤造化诀》热度+4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "快老死了，圣女上门赐仙缘",
+            "book_id": 12670524,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「古典仙侠」《快老死了，圣女上门赐仙缘》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「商战职场」《野性攀登》上升1位领涨；《野性攀登》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「架空历史」《太监凶猛》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "穿越历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "外卖送到大唐，开局三倍吕布战力",
+            "book_id": 13266141,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「穿越历史」《外卖送到大唐，开局三倍吕布战力》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "四次入伍，我被军区拉进黑名单！",
+            "book_id": 12179937,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「现代军事」《四次入伍，我被军区拉进黑名单！》热度-1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,53 +8,59 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 4,
-    "total_heat": 4,
+    "total_heat": 6,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "美女总裁，请上车",
+          "book_id": 2091347,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [
         {
           "title": "医武双绝：下山捡个总裁当老婆",
           "book_id": 11745600,
-          "rank_change": -3
+          "rank_change": -4
         },
         {
-          "title": "狂龙出渊，开局拿捏女战神！",
-          "book_id": 13227645,
+          "title": "SSSSSSSSSSSSS级镇狱狂龙",
+          "book_id": 2038385,
           "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
-          "title": "医武双绝：下山捡个总裁当老婆",
-          "book_id": 11745600,
-          "heat_change": 2
-        },
-        {
           "title": "SSSSSSSSSSSSS级镇狱狂龙",
           "book_id": 2038385,
-          "heat_change": -1
+          "heat_change": 1
         },
         {
           "title": "狂龙出渊，开局拿捏女战神！",
           "book_id": 13227645,
           "heat_change": -1
+        },
+        {
+          "title": "美女总裁，请上车",
+          "book_id": 2091347,
+          "heat_change": 1
         }
       ],
-      "summary": "「都市高手」《医武双绝：下山捡个总裁当老婆》下滑3位；《医武双绝：下山捡个总裁当老婆》热度+2。",
+      "summary": "「都市高手」《美女总裁，请上车》上升1位领涨；《医武双绝：下山捡个总裁当老婆》下滑4位；《SSSSSSSSSSSSS级镇狱狂龙》热度+1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 4,
+        "rank": 5,
         "title": "SSSSSSSSSSSSS级镇狱狂龙",
         "book_id": 2038385,
         "url": "https://www.qimao.com/shuku/2038385/",
@@ -66,17 +72,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "372.11万字",
-        "word_count": 3721100,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "372.8万字",
+        "word_count": 3728000,
+        "heat": 1,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
-        "latest_chapter": " 第1610章  往前一步就开枪",
-        "updated_at": "2026-11-14 07:02:14",
-        "rank_change": 0,
-        "heat_change": -1,
+        "latest_chapter": " 第1613章  道歉是要有诚意的",
+        "updated_at": "2026-11-15 07:02:14",
+        "rank_change": -1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -97,14 +103,14 @@
         "status": "已完结",
         "word_count_text": "69.74万字",
         "word_count": 697400,
-        "heat": 1,
-        "platform_trend": "drop",
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "一夜九次，我解了女战神的情毒。\n她转头塞给我一纸婚书，让我入赘金陵宋家，迎娶痴傻千金。\n众人都笑我一个开情趣店的软饭男配不上豪门，可没人知道我是潜龙之主，身负真龙之体，手握通天本领，号八方豪杰。\n潜龙蛰伏五载，今朝破村出海。\n昔日所有轻视、欺辱、伤害苏家之人，都将迎来百倍痛击！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4410/13227645_360x480.jpg?time=1791469943",
         "latest_chapter": " 第206章  青莲身份曝光天下惊，苏皓赴原罪之井救人",
         "updated_at": "2026-11-12 13:25:05",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
@@ -112,7 +118,36 @@
         "category": "都市高手"
       },
       {
-        "rank": 10,
+        "rank": 11,
+        "title": "美女总裁，请上车",
+        "book_id": 2091347,
+        "url": "https://www.qimao.com/shuku/2091347/",
+        "author": "白首不相离",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%99%BD%E9%A6%96%E4%B8%8D%E7%9B%B8%E7%A6%BB_14/",
+        "major": "都市",
+        "minor": "都市高手",
+        "major_id": 203,
+        "minor_id": 220,
+        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "382.15万字",
+        "word_count": 3821500,
+        "heat": 1,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加癫一点。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/916/2747768_360x480.jpg?time=1790776185",
+        "latest_chapter": " 第1398章  龙宫（2）！",
+        "updated_at": "2026-11-15 01:01:10",
+        "rank_change": 1,
+        "heat_change": 1,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高手"
+      },
+      {
+        "rank": 14,
         "title": "医武双绝：下山捡个总裁当老婆",
         "book_id": 11745600,
         "url": "https://www.qimao.com/shuku/11745600/",
@@ -126,47 +161,18 @@
         "status": "已完结",
         "word_count_text": "182.86万字",
         "word_count": 1828600,
-        "heat": 3,
+        "heat": 4,
         "platform_trend": "drop",
         "badge": "",
         "intro": "凤凰山上走下绝世天骄，医武通神，身负生死劫。\n未婚妻嫌他乡野出身，当众退婚？\n叶家旁支觊觎家产，咄咄逼人？\n秦凡冷笑：\n我的婚书，你退不起！\n我的医术，你惹不起！\n这都市，我来了，便是王！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3916/11745600_360x480.jpg?time=1776230673",
         "latest_chapter": " 第675章  大结局",
         "updated_at": "2026-11-06 11:13:06",
-        "rank_change": -3,
-        "heat_change": 2,
+        "rank_change": -4,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
-        "category": "都市高手"
-      },
-      {
-        "rank": 12,
-        "title": "美女总裁，请上车",
-        "book_id": 2091347,
-        "url": "https://www.qimao.com/shuku/2091347/",
-        "author": "白首不相离",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%99%BD%E9%A6%96%E4%B8%8D%E7%9B%B8%E7%A6%BB_14/",
-        "major": "都市",
-        "minor": "都市高手",
-        "major_id": 203,
-        "minor_id": 220,
-        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "381.03万字",
-        "word_count": 3810300,
-        "heat": 0,
-        "platform_trend": "",
-        "badge": "",
-        "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加癫一点。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/916/2747768_360x480.jpg?time=1790776185",
-        "latest_chapter": " 第1394章  神算子的怒吼！",
-        "updated_at": "2026-11-14 01:16:10",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
         "category": "都市高手"
       }
     ]

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -27,19 +27,13 @@
           "rank_change": -1
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "太监凶猛",
-          "book_id": 11674809,
-          "heat_change": -2
-        }
-      ],
-      "summary": "「架空历史」《太监凶猛》下滑1位；《太监凶猛》热度-2。",
+      "heat_leaders": [],
+      "summary": "「架空历史」《太监凶猛》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 20,
         "title": "太监凶猛",
         "book_id": 11674809,
         "url": "https://www.qimao.com/shuku/11674809/",
@@ -51,17 +45,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "146.76万字",
-        "word_count": 1467600,
+        "word_count_text": "147.44万字",
+        "word_count": 1474400,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第440章  金陵王气！",
-        "updated_at": "2026-11-14 00:32:06",
+        "latest_chapter": " 第442章  怨龙煞气！！",
+        "updated_at": "2026-11-15 00:32:05",
         "rank_change": -1,
-        "heat_change": -2,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
