@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-16",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 73250,
+    "total_heat": 1465000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "渣夫逼我假离婚？真离另嫁他悔疯！",
+            "book_id": 13071267
+          },
+          {
+            "title": "人前冷淡贺先生，领证当天亲不停",
+            "book_id": 13093773
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "作精妹宝提分手，阴湿太子爷他失控了",
+            "book_id": 13192890,
+            "rank_change": -2
+          },
+          {
+            "title": "谢总，夫人已改嫁，让你跪远点",
+            "book_id": 13156719,
+            "rank_change": -1
+          },
+          {
+            "title": "婚前不熟，婚后失控",
+            "book_id": 13300485,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "谢总，夫人已改嫁，让你跪远点",
+            "book_id": 13156719,
+            "heat_change": -19000
+          },
+          {
+            "title": "裴先生，暗恋她已十二年",
+            "book_id": 13010484,
+            "heat_change": -10000
+          },
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "heat_change": -7000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《渣夫逼我假离婚？真离另嫁他悔疯！》、《人前冷淡贺先生，领证当天亲不停》；《作精妹宝提分手，阴湿太子爷他失控了》下滑2位；《谢总，夫人已改嫁，让你跪远点》热度-19000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "皇后令",
+            "book_id": 13424982,
+            "rank_change": 13
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "枕边奴",
+            "book_id": 13537935,
+            "rank_change": -6
+          },
+          {
+            "title": "神算王妃薅功德，转嫁绝嗣皇叔一胎三宝",
+            "book_id": 11718921,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "皇后令",
+            "book_id": 13424982,
+            "heat_change": 76000
+          },
+          {
+            "title": "枕边奴",
+            "book_id": 13537935,
+            "heat_change": -4000
+          },
+          {
+            "title": "夺妻色",
+            "book_id": 13378512,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「宫闱宅斗」《皇后令》上升13位领涨；《枕边奴》下滑6位；《皇后令》热度+76000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "intro": "【替嫁流放+打脸爽文+基建+双向救赎】\n沈婉宁拿着证据去公司的路上，被车撞飞了，一睁眼，成了书中的炮灰太子妃，刚醒来就发现自己竟然被渣爹和姨娘算计，替代残废太子，新婚夜还强了短命太子！\n沈婉宁气不过，"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "嫡姐惨死？她抬棺杀疯京城！",
+            "book_id": 13021647,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+            "book_id": 13123449,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "嫡姐惨死？她抬棺杀疯京城！",
+            "book_id": 13021647,
+            "heat_change": -8000
+          },
+          {
+            "title": "夺妻欢",
+            "book_id": 13263660,
+            "heat_change": 5000
+          },
+          {
+            "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+            "book_id": 13123449,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「古代情缘」《新婚夜流放，飒爽太子妃种出西北大仓！》 掉出榜单；《嫡姐惨死？她抬棺杀疯京城！》上升1位领涨；《地狱归，驭百鬼，王妃回京后杀疯了》下滑3位；《嫡姐惨死？她抬棺杀疯京城！》热度-8000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "七零：娇软知青闪婚冷面糙汉",
+            "book_id": 13162113,
+            "rank_change": 8
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "重生辣妻夺灵泉，改嫁军官宠上天",
+            "book_id": 13599126,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "重生辣妻夺灵泉，改嫁军官宠上天",
+            "book_id": 13599126,
+            "heat_change": -25000
+          },
+          {
+            "title": "七零：娇软知青闪婚冷面糙汉",
+            "book_id": 13162113,
+            "heat_change": 13000
+          }
+        ],
+        "summary": "「年代重生」《七零：娇软知青闪婚冷面糙汉》上升8位领涨；《重生辣妻夺灵泉，改嫁军官宠上天》下滑4位；《重生辣妻夺灵泉，改嫁军官宠上天》热度-25000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》上升2位领涨；《年下弟弟，人前乖软人后野》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "四岁姑奶奶，叼奶瓶带全族飞升啦",
+            "book_id": 13172136,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "四岁姑奶奶，叼奶瓶带全族飞升啦",
+            "book_id": 13172136,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「玄幻仙侠」《四岁姑奶奶，叼奶瓶带全族飞升啦》下滑1位；《四岁姑奶奶，叼奶瓶带全族飞升啦》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「种田经商」《流民医女：开荒把残夫养成战神》热度-1000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

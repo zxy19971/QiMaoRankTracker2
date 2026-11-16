@@ -8,72 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
     "count": 2,
-    "total_heat": 83000,
+    "total_heat": 71000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "七零：娇软知青闪婚冷面糙汉",
-          "book_id": 13162113
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "重生辣妻夺灵泉，改嫁军官宠上天",
-          "book_id": 13599126,
-          "rank_change": 7
+          "title": "七零：娇软知青闪婚冷面糙汉",
+          "book_id": 13162113,
+          "rank_change": 8
         }
       ],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "重生辣妻夺灵泉，改嫁军官宠上天",
+          "book_id": 13599126,
+          "rank_change": -4
+        }
+      ],
       "heat_leaders": [
         {
           "title": "重生辣妻夺灵泉，改嫁军官宠上天",
           "book_id": 13599126,
-          "heat_change": 26000
+          "heat_change": -25000
+        },
+        {
+          "title": "七零：娇软知青闪婚冷面糙汉",
+          "book_id": 13162113,
+          "heat_change": 13000
         }
       ],
-      "summary": "「年代重生」新上榜 《七零：娇软知青闪婚冷面糙汉》；《重生辣妻夺灵泉，改嫁军官宠上天》上升7位领涨；《重生辣妻夺灵泉，改嫁军官宠上天》热度+26000。",
+      "summary": "「年代重生」《七零：娇软知青闪婚冷面糙汉》上升8位领涨；《重生辣妻夺灵泉，改嫁军官宠上天》下滑4位；《重生辣妻夺灵泉，改嫁军官宠上天》热度-25000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 7,
-        "title": "重生辣妻夺灵泉，改嫁军官宠上天",
-        "book_id": 13599126,
-        "url": "https://www.qimao.com/shuku/13599126/",
-        "author": "秋秋雅",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%A7%8B%E7%A7%8B%E9%9B%85_14/",
-        "major": "现代言情",
-        "minor": "年代重生",
-        "major_id": 1,
-        "minor_id": 278,
-        "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "21.35万字",
-        "word_count": 213500,
-        "heat": 59000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "【极品火葬场+抢走灵泉搞事业+虐渣打脸+糙汉首长独宠】\n“沈霜宁，离婚后，你就是个二婚的烂货，除了我周家，谁还要你？”\n前夫周淮之自以为能拿捏深爱自己的沈霜宁，想要在全大院面前耀武扬威。\n谁曾想，沈霜宁抬当场撕开他和小青梅私生子的遮羞布，收回房产，把这群吸血虫全踹进臭水沟！\n离婚前她顺走绿茶的灵泉空间，专治各种不服。\n灵泉浇灌大棚菜，培育的名贵药材千金难求，一跃成为名震全国的八零女首富。\n曾经嫌弃她的极品前夫跪求复合，沈霜宁转身投入军二代谢旭珩的怀抱里\n……\n谢旭珩，军区人人敬畏的铁血阎王，冷情禁欲，更背负着天生绝嗣的克妻名声。\n外人皆传，沈霜宁二婚攀高枝，迟早要在冷板凳上冻死。\n然而，这位不苟言笑的硬汉却日日跪在她面前卑微求名分：“利用我撕了前夫，转头就想跑？沈霜宁，你当谢某是做慈善的？”\n沈霜宁：“谢团长，我们只是革命友谊……”\n他低头吻住她的唇，粗粝指腹擦过她微颤的眼尾：“可你在我这里，却不只是革命友谊。”\n婚后，沈霜宁的肚子一天天大了起来。\n当产房护士抱出白白胖胖的三胞胎时，瞬间轰动整个京圈高层。\n说好的不近女色？说好的终生绝嗣呢？",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4534/13599126_360x480.jpg?time=1790580789",
-        "latest_chapter": " 第100章  就算是父亲也不能随便打人",
-        "updated_at": "2026-11-14 13:26:02",
-        "rank_change": 7,
-        "heat_change": 26000,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "年代重生"
-      },
-      {
-        "rank": 17,
+        "rank": 9,
         "title": "七零：娇软知青闪婚冷面糙汉",
         "book_id": 13162113,
         "url": "https://www.qimao.com/shuku/13162113/",
@@ -85,18 +62,47 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.5万字",
-        "word_count": 345000,
-        "heat": 24000,
+        "word_count_text": "34.95万字",
+        "word_count": 349500,
+        "heat": 37000,
         "platform_trend": "rise",
-        "badge": "飙升77名",
+        "badge": "",
         "intro": "一场车祸，现代毕业生姜若兰穿越七零，成为命运坎坷的同名女知青。\n原主暂定结婚，避开下乡吃苦。\n谁料领证前夕，遭继妹和未婚夫双双背叛。\n逃不开下乡的命运，姜若兰远赴他乡。\n命运兜转，她遇到糙汉周建平，阴差阳错领完证。\n本以为是凑合搭伙过日子，谁料这位看着不好惹的汉子，把所有温柔尽数给她！\n周建平：吃干抹净就想跑？\n姜若兰：我对你负责，明儿就去领证！\n周建平：小兰兰，这辈子我只对你好！\n姜若兰：建平哥哥，我心里只有你！\n……\n夫妻二人肩并肩，在滚滚浪潮里，爱情、前程双丰收！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4388/13162113_360x480.jpg?time=1788227986",
-        "latest_chapter": " 第154章  裙子不见了",
-        "updated_at": "2026-11-14 11:21:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第156章  姜家关系，还不能撕破",
+        "updated_at": "2026-11-15 11:00:04",
+        "rank_change": 8,
+        "heat_change": 13000,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "年代重生"
+      },
+      {
+        "rank": 11,
+        "title": "重生辣妻夺灵泉，改嫁军官宠上天",
+        "book_id": 13599126,
+        "url": "https://www.qimao.com/shuku/13599126/",
+        "author": "秋秋雅",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%A7%8B%E7%A7%8B%E9%9B%85_14/",
+        "major": "现代言情",
+        "minor": "年代重生",
+        "major_id": 1,
+        "minor_id": 278,
+        "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "21.78万字",
+        "word_count": 217800,
+        "heat": 34000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "【极品火葬场+抢走灵泉搞事业+虐渣打脸+糙汉首长独宠】\n“沈霜宁，离婚后，你就是个二婚的烂货，除了我周家，谁还要你？”\n前夫周淮之自以为能拿捏深爱自己的沈霜宁，想要在全大院面前耀武扬威。\n谁曾想，沈霜宁抬当场撕开他和小青梅私生子的遮羞布，收回房产，把这群吸血虫全踹进臭水沟！\n离婚前她顺走绿茶的灵泉空间，专治各种不服。\n灵泉浇灌大棚菜，培育的名贵药材千金难求，一跃成为名震全国的八零女首富。\n曾经嫌弃她的极品前夫跪求复合，沈霜宁转身投入军二代谢旭珩的怀抱里\n……\n谢旭珩，军区人人敬畏的铁血阎王，冷情禁欲，更背负着天生绝嗣的克妻名声。\n外人皆传，沈霜宁二婚攀高枝，迟早要在冷板凳上冻死。\n然而，这位不苟言笑的硬汉却日日跪在她面前卑微求名分：“利用我撕了前夫，转头就想跑？沈霜宁，你当谢某是做慈善的？”\n沈霜宁：“谢团长，我们只是革命友谊……”\n他低头吻住她的唇，粗粝指腹擦过她微颤的眼尾：“可你在我这里，却不只是革命友谊。”\n婚后，沈霜宁的肚子一天天大了起来。\n当产房护士抱出白白胖胖的三胞胎时，瞬间轰动整个京圈高层。\n说好的不近女色？说好的终生绝嗣呢？",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4534/13599126_360x480.jpg?time=1790580789",
+        "latest_chapter": " 第102章  部队缺少中药材",
+        "updated_at": "2026-11-15 13:34:02",
+        "rank_change": -4,
+        "heat_change": -25000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"
