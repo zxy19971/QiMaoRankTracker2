@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
@@ -19,10 +19,16 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+          "book_id": 13123449,
+          "rank_change": 4
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「古代情缘」榜单结构稳定，无明显变动。",
+      "summary": "「古代情缘」《地狱归，驭百鬼，王妃回京后杀疯了》上升4位领涨。",
       "ai_source": "rule"
     },
     "books": [
@@ -56,7 +62,7 @@
         "category": "古代情缘"
       },
       {
-        "rank": 18,
+        "rank": 14,
         "title": "地狱归，驭百鬼，王妃回京后杀疯了",
         "book_id": 13123449,
         "url": "https://www.qimao.com/shuku/13123449/",
@@ -68,16 +74,16 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.1万字",
-        "word_count": 421000,
+        "word_count_text": "42.51万字",
+        "word_count": 425100,
         "heat": 358000,
         "platform_trend": "rise",
-        "badge": "飙升16名",
+        "badge": "飙升20名",
         "intro": "江黎在大婚日被未婚夫送来保护她的暗卫灌毒酒，被舅舅一家剥了脸皮，最后九根镇魂钉将她钉死在梨树下。\n\n　　阴差阳错之下，体内尘封的玄医灵脉被打通，可她的肉身被毁，魂魄进入了镇西侯府大小姐江离的身体。\n\n　　从此世间再无郡主江黎，只有侯府嫡女江离。\n\n　　江离的仇，她来报。\n\n　　只是她惊觉，长公主无法安息的夭折麟儿、皇后寝宫夜半呜咽的屏风、太子身后阴魂不散的无头厉鬼，一桩桩血海冤孽，幕后推手竟然全是残害她并夺走她容貌的舅舅一家人。\n\n　　换一张皮囊，怀满腔仇火，她驱使阴鬼步步布局。\n\n　　要让这群敲骨吸髓的恶人，加倍偿还剥皮钉魂之痛！\n\n　　……\n\n　　世人只知摄政王梁昼沉大权在握，杀伐果断。\n\n　　可无人知道入夜后，他将侯府大小姐按在榻上，吻上她眼尾的一点泪痣，白日里清冷疏离的眸子染着欲色的暗沉，动作越发放肆。\n\n　　“阿黎，求求你看看我，好不好？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4375/13123449_360x480.jpg?time=1787731531",
-        "latest_chapter": " 第192章  陛下究竟要害死多少人",
-        "updated_at": "2026-11-16 02:02:04",
-        "rank_change": 0,
+        "latest_chapter": " 第194章  小郡王死了",
+        "updated_at": "2026-11-17 02:02:03",
+        "rank_change": 4,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

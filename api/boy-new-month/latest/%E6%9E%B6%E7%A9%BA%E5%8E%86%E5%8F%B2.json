@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -19,15 +19,26 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "让你当个纨绔，你咋毒谋天下",
+          "book_id": 13400022,
+          "rank_change": 2
+        },
+        {
+          "title": "寇天子",
+          "book_id": 12817968,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「架空历史」榜单结构稳定，无明显变动。",
+      "summary": "「架空历史」《让你当个纨绔，你咋毒谋天下》上升2位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 4,
+        "rank": 3,
         "title": "寇天子",
         "book_id": 12817968,
         "url": "https://www.qimao.com/shuku/12817968/",
@@ -39,16 +50,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.22万字",
-        "word_count": 472200,
+        "word_count_text": "47.61万字",
+        "word_count": 476100,
         "heat": 626000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "古武传人高远穿越到乱世之中，以土匪之身坐拥四位红颜知己，实力惊人的武将，隐藏身份的女帝，多年未见的大嫂，还有一个亡国之恨的公主！剑扫四海八荒，豪气激荡云霄，白天策马奔袭，夜间笙歌环绕！且随我行，江山美人尽入怀抱！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4273/12817968_360x480.jpg?time=1785209026",
-        "latest_chapter": " 第230章  人在官场，步步惊心",
-        "updated_at": "2026-11-15 21:47:05",
-        "rank_change": 0,
+        "latest_chapter": " 第232章  新的生财途径",
+        "updated_at": "2026-11-16 20:38:05",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -56,7 +67,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 11,
+        "rank": 9,
         "title": "让你当个纨绔，你咋毒谋天下",
         "book_id": 13400022,
         "url": "https://www.qimao.com/shuku/13400022/",
@@ -68,16 +79,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.77万字",
-        "word_count": 467700,
+        "word_count_text": "47.88万字",
+        "word_count": 478800,
         "heat": 278000,
         "platform_trend": "rise",
-        "badge": "飙升34名",
+        "badge": "飙升36名",
         "intro": "穿越大离王朝，成为国公嫡孙，本该锦衣玉食，富贵一生。\n李玄真却迎来天崩开局，奸人陷害，他半只脚踏进鬼门关！\n生死一线，昔日人人嗤笑的纨绔，骤然觉醒，化身毒士。\n凭绝世智谋破死局，挽国公府于倾覆；\n挥笔诗词惊天下，文章震彻大离朝堂。\n党争汹汹，朝堂糜烂。\n他搅动风云，扫尽奸佞，倾力辅佐长公主登临九五之尊。\n一句‘活阎王来了’便可吓退百万雄师！\n北击蛮夷，平定四海，重整九州山河，铸就万国来朝的盛世。\n待到功成，手握‘从龙大功’的李玄真只想躺平当纨绔，\n不曾想，深夜宫车传召，女帝屏退所有内侍，独留他一人于深宫之内。\n李玄真傻了……\n陛下！哪有这么考验功臣的啊！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4467/13400022_360x480.jpg?time=1792936970",
-        "latest_chapter": " 第196章  完全没长脑子啊！",
-        "updated_at": "2026-11-16 00:12:15",
-        "rank_change": 0,
+        "latest_chapter": " 第201章  思维妖孽！",
+        "updated_at": "2026-11-17 00:12:21",
+        "rank_change": 2,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,

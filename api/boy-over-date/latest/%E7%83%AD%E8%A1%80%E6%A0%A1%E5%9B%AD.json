@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 1,
-    "total_heat": 58000,
+    "total_heat": 52000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "我和软萌女友的恋爱日常",
-          "book_id": 214789
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「热血校园」新上榜 《我和软萌女友的恋爱日常》。",
+      "top_fallers": [
+        {
+          "title": "我和软萌女友的恋爱日常",
+          "book_id": 214789,
+          "rank_change": -2
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "我和软萌女友的恋爱日常",
+          "book_id": 214789,
+          "heat_change": -6000
+        }
+      ],
+      "summary": "「热血校园」《我和软萌女友的恋爱日常》下滑2位；《我和软萌女友的恋爱日常》热度-6000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 17,
+        "rank": 19,
         "title": "我和软萌女友的恋爱日常",
         "book_id": 214789,
         "url": "https://www.qimao.com/shuku/214789/",
@@ -46,16 +53,16 @@
         "status": "已完结",
         "word_count_text": "299.99万字",
         "word_count": 2999900,
-        "heat": 58000,
-        "platform_trend": "rise",
+        "heat": 52000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "甜甜的治愈文，带你重回校园时代！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
         "latest_chapter": " 第1338章  完结感言",
         "updated_at": "2023-02-18 08:11:26",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "rank_change": -2,
+        "heat_change": -6000,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": true,
         "category": "热血校园"

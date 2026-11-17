@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "categories": [
     {
       "name": "都市高武",
@@ -72,9 +72,9 @@
       "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
     },
     {
-      "name": "热血校园",
-      "major": "都市",
-      "url": "api/categories/latest/%E7%83%AD%E8%A1%80%E6%A0%A1%E5%9B%AD.json"
+      "name": "穿越历史",
+      "major": "历史",
+      "url": "api/categories/latest/%E7%A9%BF%E8%B6%8A%E5%8E%86%E5%8F%B2.json"
     },
     {
       "name": "异世大陆",
@@ -82,14 +82,14 @@
       "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
     },
     {
+      "name": "热血校园",
+      "major": "都市",
+      "url": "api/categories/latest/%E7%83%AD%E8%A1%80%E6%A0%A1%E5%9B%AD.json"
+    },
+    {
       "name": "现代军事",
       "major": "军事",
       "url": "api/categories/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
-    },
-    {
-      "name": "穿越历史",
-      "major": "历史",
-      "url": "api/categories/latest/%E7%A9%BF%E8%B6%8A%E5%8E%86%E5%8F%B2.json"
     },
     {
       "name": "总裁豪门",
@@ -150,11 +150,6 @@
       "name": "现实故事",
       "major": "现实主义",
       "url": "api/categories/latest/%E7%8E%B0%E5%AE%9E%E6%95%85%E4%BA%8B.json"
-    },
-    {
-      "name": "现代悬疑",
-      "major": "现代言情",
-      "url": "api/categories/latest/%E7%8E%B0%E4%BB%A3%E6%82%AC%E7%96%91.json"
     }
   ]
 }

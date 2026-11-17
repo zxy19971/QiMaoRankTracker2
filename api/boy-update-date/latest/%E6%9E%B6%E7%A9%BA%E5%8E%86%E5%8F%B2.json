@@ -8,32 +8,31 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-15",
+  "date": "2026-11-17",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 3,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "new_books": [
         {
           "title": "太监凶猛",
-          "book_id": 11674809,
-          "rank_change": -1
+          "book_id": 11674809
         }
       ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「架空历史」《太监凶猛》下滑1位。",
+      "summary": "「架空历史」新上榜 《太监凶猛》。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 20,
+        "rank": 18,
         "title": "太监凶猛",
         "book_id": 11674809,
         "url": "https://www.qimao.com/shuku/11674809/",
@@ -45,18 +44,18 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "147.44万字",
-        "word_count": 1474400,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "148.7万字",
+        "word_count": 1487000,
+        "heat": 3,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第442章  怨龙煞气！！",
-        "updated_at": "2026-11-15 00:32:05",
-        "rank_change": -1,
+        "latest_chapter": " 第446章  天下第一道门！",
+        "updated_at": "2026-11-17 00:32:06",
+        "rank_change": 0,
         "heat_change": 0,
-        "is_new": false,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"

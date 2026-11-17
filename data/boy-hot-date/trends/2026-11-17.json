@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-17",
+  "board": "boy-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 375500,
+    "total_heat": 7510000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "混沌塔",
+            "book_id": 1767940,
+            "intro": "女大三，抱金砖。女大三千，位列仙班。女大三十万，神界说了算。女大三千万，万界任你转。可我家娘子，大了9999万岁……"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "rank_change": -2
+          },
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "rank_change": -2
+          },
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "heat_change": 22000
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": 11000
+          },
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "heat_change": 9000
+          }
+        ],
+        "summary": "「东方玄幻」《混沌塔》 掉出榜单；《葬神棺》下滑2位；《荒古武神》热度+22000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "边军悍卒",
+            "book_id": 1882754,
+            "rank_change": -2
+          },
+          {
+            "title": "夫人在上！",
+            "book_id": 12465015,
+            "rank_change": -1
+          },
+          {
+            "title": "让你当个替身，你咋君临天下",
+            "book_id": 12647139,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "让你当个替身，你咋君临天下",
+            "book_id": 12647139,
+            "heat_change": -20000
+          },
+          {
+            "title": "夫人在上！",
+            "book_id": 12465015,
+            "heat_change": 14000
+          },
+          {
+            "title": "边关兵王",
+            "book_id": 1995023,
+            "heat_change": 13000
+          }
+        ],
+        "summary": "「架空历史」《边军悍卒》下滑2位；《让你当个替身，你咋君临天下》热度-20000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "heat_change": 16000
+          },
+          {
+            "title": "舔狗反派只想苟，女主不按套路走！",
+            "book_id": 1710753,
+            "heat_change": 15000
+          },
+          {
+            "title": "警报！真龙出狱！",
+            "book_id": 1834789,
+            "heat_change": 8000
+          }
+        ],
+        "summary": "「都市高手」《傲世潜龙》上升1位领涨；《傲世潜龙》热度+16000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "高武严父，永远比儿子高五个境界",
+            "book_id": 12565608,
+            "rank_change": 9
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "高武严父，永远比儿子高五个境界",
+            "book_id": 12565608,
+            "heat_change": 97000
+          },
+          {
+            "title": "盖世神医",
+            "book_id": 195958,
+            "heat_change": 35000
+          }
+        ],
+        "summary": "「都市高武」《高武严父，永远比儿子高五个境界》上升9位领涨；《高武严父，永远比儿子高五个境界》热度+97000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "桃花劫",
+            "book_id": 2028957,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "桃花劫",
+            "book_id": 2028957,
+            "heat_change": 24000
+          }
+        ],
+        "summary": "「商战职场」《桃花劫》上升1位领涨；《桃花劫》热度+24000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "王朝争霸",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "大周第一武夫",
+            "book_id": 2074426,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "大周第一武夫",
+            "book_id": 2074426,
+            "heat_change": 11000
+          }
+        ],
+        "summary": "「王朝争霸」《大周第一武夫》下滑1位；《大周第一武夫》热度+11000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "师叔，你的法宝太不正经了",
+            "book_id": 1867139,
+            "heat_change": 22000
+          }
+        ],
+        "summary": "「幻想修真」《师叔，你的法宝太不正经了》热度+22000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "快老死了，圣女上门赐仙缘",
+            "book_id": 12670524
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古典仙侠」新上榜 《快老死了，圣女上门赐仙缘》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

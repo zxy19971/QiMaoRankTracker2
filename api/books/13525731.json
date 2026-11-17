@@ -6,13 +6,13 @@
   "intro": "陈山河遭女友背叛，意外获得修仙传承，本以为自己能跟小说里面的主角一样被极品美女环绕，暮然回首，自己怎么就成了她们的后爹？！",
   "minor": "都市高武",
   "status": "连载中",
-  "word_count_text": "21.88万字",
+  "word_count_text": "36.33万字",
   "latest": [
     {
-      "board": "boy-new-date",
-      "board_name": "男生新书日榜",
-      "rank": 18,
-      "heat": 13000
+      "board": "boy-new-month",
+      "board_name": "男生新书月榜",
+      "rank": 19,
+      "heat": 169000
     }
   ],
   "history": [
@@ -21,6 +21,12 @@
       "b": "boy-new-date",
       "r": 18,
       "h": 13000
+    },
+    {
+      "d": "2026-11-17",
+      "b": "boy-new-month",
+      "r": 19,
+      "h": 169000
     }
   ]
 }

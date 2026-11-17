@@ -8,44 +8,46 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
-    "count": 2,
-    "total_heat": 71000,
+    "count": 4,
+    "total_heat": 109000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
+      "new_count": 3,
+      "dropped_count": 1,
+      "new_books": [
         {
-          "title": "七零：娇软知青闪婚冷面糙汉",
-          "book_id": 13162113,
-          "rank_change": 8
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "重生辣妻夺灵泉，改嫁军官宠上天",
-          "book_id": 13599126,
-          "rank_change": -4
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "重生辣妻夺灵泉，改嫁军官宠上天",
-          "book_id": 13599126,
-          "heat_change": -25000
+          "title": "闪婚禁欲首长，带龙凤胎随军赢麻了",
+          "book_id": 13198989
         },
         {
-          "title": "七零：娇软知青闪婚冷面糙汉",
-          "book_id": 13162113,
-          "heat_change": 13000
+          "title": "带着空间去下乡，生财暴富撩糙汉！",
+          "book_id": 13470801
+        },
+        {
+          "title": "六零随军：大小姐她美貌动人",
+          "book_id": 13776792
         }
       ],
-      "summary": "「年代重生」《七零：娇软知青闪婚冷面糙汉》上升8位领涨；《重生辣妻夺灵泉，改嫁军官宠上天》下滑4位；《重生辣妻夺灵泉，改嫁军官宠上天》热度-25000。",
+      "dropped_books": [
+        {
+          "title": "重生辣妻夺灵泉，改嫁军官宠上天",
+          "book_id": 13599126,
+          "intro": "【极品火葬场+抢走灵泉搞事业+虐渣打脸+糙汉首长独宠】\n“沈霜宁，离婚后，你就是个二婚的烂货，除了我周家，谁还要你？”\n前夫周淮之自以为能拿捏深爱自己的沈霜宁，想要在全大院面前耀武扬威。\n谁曾想，沈霜"
+        }
+      ],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [
+        {
+          "title": "七零：娇软知青闪婚冷面糙汉",
+          "book_id": 13162113,
+          "heat_change": 3000
+        }
+      ],
+      "summary": "「年代重生」新上榜 《闪婚禁欲首长，带龙凤胎随军赢麻了》、《带着空间去下乡，生财暴富撩糙汉！》、《六零随军：大小姐她美貌动人》；《重生辣妻夺灵泉，改嫁军官宠上天》 掉出榜单；《七零：娇软知青闪婚冷面糙汉》热度+3000。",
       "ai_source": "rule"
     },
     "books": [
@@ -62,47 +64,105 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "34.95万字",
-        "word_count": 349500,
-        "heat": 37000,
+        "word_count_text": "35.83万字",
+        "word_count": 358300,
+        "heat": 40000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "一场车祸，现代毕业生姜若兰穿越七零，成为命运坎坷的同名女知青。\n原主暂定结婚，避开下乡吃苦。\n谁料领证前夕，遭继妹和未婚夫双双背叛。\n逃不开下乡的命运，姜若兰远赴他乡。\n命运兜转，她遇到糙汉周建平，阴差阳错领完证。\n本以为是凑合搭伙过日子，谁料这位看着不好惹的汉子，把所有温柔尽数给她！\n周建平：吃干抹净就想跑？\n姜若兰：我对你负责，明儿就去领证！\n周建平：小兰兰，这辈子我只对你好！\n姜若兰：建平哥哥，我心里只有你！\n……\n夫妻二人肩并肩，在滚滚浪潮里，爱情、前程双丰收！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4388/13162113_360x480.jpg?time=1788227986",
-        "latest_chapter": " 第156章  姜家关系，还不能撕破",
-        "updated_at": "2026-11-15 11:00:04",
-        "rank_change": 8,
-        "heat_change": 13000,
+        "latest_chapter": " 第160章  媳妇，我可能还要出去一趟",
+        "updated_at": "2026-11-17 10:31:03",
+        "rank_change": 0,
+        "heat_change": 3000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"
       },
       {
-        "rank": 11,
-        "title": "重生辣妻夺灵泉，改嫁军官宠上天",
-        "book_id": 13599126,
-        "url": "https://www.qimao.com/shuku/13599126/",
-        "author": "秋秋雅",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%A7%8B%E7%A7%8B%E9%9B%85_14/",
+        "rank": 16,
+        "title": "闪婚禁欲首长，带龙凤胎随军赢麻了",
+        "book_id": 13198989,
+        "url": "https://www.qimao.com/shuku/13198989/",
+        "author": "枕山眠",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%9E%95%E5%B1%B1%E7%9C%A0_14/",
         "major": "现代言情",
         "minor": "年代重生",
         "major_id": 1,
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "21.78万字",
-        "word_count": 217800,
-        "heat": 34000,
-        "platform_trend": "drop",
+        "word_count_text": "37万字",
+        "word_count": 370000,
+        "heat": 24000,
+        "platform_trend": "rise",
         "badge": "",
-        "intro": "【极品火葬场+抢走灵泉搞事业+虐渣打脸+糙汉首长独宠】\n“沈霜宁，离婚后，你就是个二婚的烂货，除了我周家，谁还要你？”\n前夫周淮之自以为能拿捏深爱自己的沈霜宁，想要在全大院面前耀武扬威。\n谁曾想，沈霜宁抬当场撕开他和小青梅私生子的遮羞布，收回房产，把这群吸血虫全踹进臭水沟！\n离婚前她顺走绿茶的灵泉空间，专治各种不服。\n灵泉浇灌大棚菜，培育的名贵药材千金难求，一跃成为名震全国的八零女首富。\n曾经嫌弃她的极品前夫跪求复合，沈霜宁转身投入军二代谢旭珩的怀抱里\n……\n谢旭珩，军区人人敬畏的铁血阎王，冷情禁欲，更背负着天生绝嗣的克妻名声。\n外人皆传，沈霜宁二婚攀高枝，迟早要在冷板凳上冻死。\n然而，这位不苟言笑的硬汉却日日跪在她面前卑微求名分：“利用我撕了前夫，转头就想跑？沈霜宁，你当谢某是做慈善的？”\n沈霜宁：“谢团长，我们只是革命友谊……”\n他低头吻住她的唇，粗粝指腹擦过她微颤的眼尾：“可你在我这里，却不只是革命友谊。”\n婚后，沈霜宁的肚子一天天大了起来。\n当产房护士抱出白白胖胖的三胞胎时，瞬间轰动整个京圈高层。\n说好的不近女色？说好的终生绝嗣呢？",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4534/13599126_360x480.jpg?time=1790580789",
-        "latest_chapter": " 第102章  部队缺少中药材",
-        "updated_at": "2026-11-15 13:34:02",
-        "rank_change": -4,
-        "heat_change": -25000,
-        "is_new": false,
+        "intro": "【年代+先婚后爱+带崽+重生虐渣+爽文】\n林月桥重生了，回到渣男逼她把铁饭碗让给小三的那天。\n上辈子，渣男用假结婚证骗她做牛做马，和小三珠胎暗结，却倒打一耙污蔑她作风不检点。\n最终，她父母惨死异乡，一双龙凤胎被全村当成野种活活冻饿而死！\n她绝望放火，拉着狗男女同归于尽。\n再睁眼，看着道貌岸然的渣男，林月桥冷笑，反手就是三个大耳光！\n   这辈子这个冤大头，谁爱当谁当！\n她当众戳穿假结婚，带着全村老少活捉正在白日宣淫的渣男贱女，直接让他们身败名裂！\n大仇得报，林月桥带着双胞胎，找上冷面军官霍行舟。\n“霍首长，借个军婚保命，送你俩亲生崽，干不干？”\n林月桥以为结婚只是各取所需，可当协议期满，林月桥提出离婚时，平日里冷漠禁欲的铁血首长却将她死死抵在门后，眼底猩红。\n“老婆，你竟然想始乱终弃？晚了！”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4400/13198989_360x480.jpg?time=1787032782",
+        "latest_chapter": " 第161章  我老师眼下就在咱们邻县的青石岭农场劳动",
+        "updated_at": "2026-11-16 23:41:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "年代重生"
+      },
+      {
+        "rank": 18,
+        "title": "带着空间去下乡，生财暴富撩糙汉！",
+        "book_id": 13470801,
+        "url": "https://www.qimao.com/shuku/13470801/",
+        "author": "钧壤",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%92%A7%E5%A3%A4_14/",
+        "major": "现代言情",
+        "minor": "年代重生",
+        "major_id": 1,
+        "minor_id": 278,
+        "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "37.99万字",
+        "word_count": 379900,
+        "heat": 23000,
+        "platform_trend": "rise",
+        "badge": "飙升20名",
+        "intro": "【专心向钱女知青×爹系糙汉护林员】\n【甜宠+东北林场+年龄差+追妻+大女主+挣钱暴富】\n穿到1971年，沈鹊应成了被迫下乡的林场知青。\n开局被分到公分最低的五七队，其他人都等着看热闹。\n谁知道，这个城里来的姑娘，居然盯上了整座山！\n桦树皮能作画，废木段能种木耳，林下能养蜂...\n别人眼里的穷山沟，在她眼里全是钱！\n拿到分红的时候，所有人看她的眼神都变了。\n那个从不正眼看人的护林队长谢惟锋，也开始每天路过她门口。\n沈鹊应：搞钱要紧，恋爱往后排。\n谢惟锋：那沈云舟凭什么能靠近你？\n沈鹊应：拜托，他是我哥！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4491/13470801_360x480.jpg?time=1793108192",
+        "latest_chapter": " 第129章  暴雪困山",
+        "updated_at": "2026-11-16 23:31:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "年代重生"
+      },
+      {
+        "rank": 19,
+        "title": "六零随军：大小姐她美貌动人",
+        "book_id": 13776792,
+        "url": "https://www.qimao.com/shuku/13776792/",
+        "author": "仙女请发财",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BB%99%E5%A5%B3%E8%AF%B7%E5%8F%91%E8%B4%A2_14/",
+        "major": "现代言情",
+        "minor": "年代重生",
+        "major_id": 1,
+        "minor_id": 278,
+        "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "13.65万字",
+        "word_count": 136500,
+        "heat": 22000,
+        "platform_trend": "rise",
+        "badge": "飙升12名",
+        "intro": "娇软端庄美腻大小姐VS粗野痞帅糙汉军官\n温漾为求庇护千里奔赴海岛履行婚约，没成想娃娃亲对象被重生女截胡了。\n正打算无功而返，谁曾想娃娃亲的死对头对她一见钟情，又争又抢。\n“结婚吗？老子不抽烟不喝酒工作上进婚姻忠诚，唯一的缺点就是太疼媳妇。”\n原以为只是一场交易，他图她身子，她谋他庇护。\n谁知婚后他还真将她宠上了天，在这风雨飘摇的年代，护她一世周全，予她一生幸福。\n就是这糙汉，糙了点，也粗了点，她有些吃不消。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4593/13776792_360x480.jpg?time=1792247918",
+        "latest_chapter": " 第66章  出众",
+        "updated_at": "2026-11-17 00:02:20",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"

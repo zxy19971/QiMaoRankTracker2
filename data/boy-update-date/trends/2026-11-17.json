@@ -1,0 +1,269 @@
+{
+  "date": "2026-11-17",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 0,
+    "total_heat": 19,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "rank_change": 2
+          },
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "rank_change": 1
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": -1
+          },
+          {
+            "title": "太初仙鼎",
+            "book_id": 13499934,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「东方玄幻」《吞噬九重天》上升2位领涨；《吞天神体》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "我在都市修了个野仙",
+            "book_id": 2078908,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "女子监狱五年，出狱即无敌",
+            "book_id": 12791886,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "我在都市修了个野仙",
+            "book_id": 2078908,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「都市高武」《我在都市修了个野仙》上升5位领涨；《女子监狱五年，出狱即无敌》下滑2位；《我在都市修了个野仙》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "医武双绝：下山捡个总裁当老婆",
+            "book_id": 11745600,
+            "intro": "凤凰山上走下绝世天骄，医武通神，身负生死劫。\n未婚妻嫌他乡野出身，当众退婚？\n叶家旁支觊觎家产，咄咄逼人？\n秦凡冷笑：\n我的婚书，你退不起！\n我的医术，你惹不起！\n这都市，我来了，便是王！"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "狂龙出渊，开局拿捏女战神！",
+            "book_id": 13227645,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高手」《医武双绝：下山捡个总裁当老婆》 掉出榜单；《美女总裁，请上车》上升1位领涨；《狂龙出渊，开局拿捏女战神！》下滑4位；《狂龙出渊，开局拿捏女战神！》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "众仙俯首",
+            "book_id": 1971590
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「幻想修真」新上榜 《众仙俯首》；《乾坤造化诀》下滑4位；《乾坤造化诀》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」新上榜 《太监凶猛》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古典仙侠」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "四次入伍，我被军区拉进黑名单！",
+            "book_id": 12179937,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "四次入伍，我被军区拉进黑名单！",
+            "book_id": 12179937,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「现代军事」《四次入伍，我被军区拉进黑名单！》上升2位领涨；《四次入伍，我被军区拉进黑名单！》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "穿越历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "外卖送到大唐，开局三倍吕布战力",
+            "book_id": 13266141,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「穿越历史」《外卖送到大唐，开局三倍吕布战力》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「商战职场」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "厌术神匠",
+            "book_id": 13342959,
+            "intro": "八岁那年，我撞破村支书和李寡妇在后山道观偷情。\n第二天，我便成了哑巴。\n十年后家里翻修旧房，房梁上钉着一条枯死的蛇干，蛇头正对着我的床头。\n老木匠说：“这是鲁班厌胜术，有人要你永远闭上嘴巴！”\n后来我"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」《厌术神匠》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
