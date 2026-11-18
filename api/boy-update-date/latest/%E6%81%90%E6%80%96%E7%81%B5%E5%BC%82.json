@@ -8,61 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-10-23",
+  "date": "2026-11-18",
   "category": {
     "name": "恐怖灵异",
     "major": "奇闻异事",
     "count": 1,
     "total_heat": 1,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "恐怖复苏：离婚后，我不替她挡灾了",
+          "book_id": 12418653
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "我的出马往事",
-          "book_id": 13343607,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "我的出马往事",
-          "book_id": 13343607,
-          "heat_change": -2
-        }
-      ],
-      "summary": "「恐怖灵异」《我的出马往事》上升1位领涨；《我的出马往事》热度-2。",
+      "heat_leaders": [],
+      "summary": "「恐怖灵异」新上榜 《恐怖复苏：离婚后，我不替她挡灾了》。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
-        "title": "我的出马往事",
-        "book_id": 13343607,
-        "url": "https://www.qimao.com/shuku/13343607/",
-        "author": "深渊",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%B7%B1%E6%B8%8A_14/",
+        "rank": 2,
+        "title": "恐怖复苏：离婚后，我不替她挡灾了",
+        "book_id": 12418653,
+        "url": "https://www.qimao.com/shuku/12418653/",
+        "author": "东城芹菜",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%9C%E5%9F%8E%E8%8A%B9%E8%8F%9C_14/",
         "major": "奇闻异事",
         "minor": "恐怖灵异",
         "major_id": 204,
         "minor_id": 229,
         "minor_url": "https://www.qimao.com/shuku/a-204-229-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "33.88万字",
-        "word_count": 338800,
+        "word_count_text": "68.64万字",
+        "word_count": 686400,
         "heat": 1,
         "platform_trend": "rise",
         "badge": "",
-        "intro": "大千世界，无奇不有。\n我严良唯有一堂仙，可斩妖，降魔，荡恶，镇鬼，弑神，灭仙。\n我叫严良，一个年轻的出马仙",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4448/13343607_360x480.jpg?time=1788317033",
-        "latest_chapter": " 第80章  李月失踪",
-        "updated_at": "2026-10-22 09:10:05",
-        "rank_change": 1,
-        "heat_change": -2,
-        "is_new": false,
+        "intro": "秦序给妻子江紫当了五年牛马，换来的只有一句“你没本事”。\n离婚那天，他从镜子后抽出一张发黄的红纸，当她的面烧了。\n“你的命，归你自己了。”\n当晚，江紫家的楼道里多了一排湿脚印。\n而秦序推开一扇落灰五年的大门……\n“秦记旧物，开始接单。”\n从那天起，滨海的豪宅、银行、赌场与酒店，开始接连闹鬼。\n冷艳女总裁让他贴身压鬼，野狼山女王在死亡弯道抱紧他的腰，漂亮销售开着法拉利，陪他满城抢魂。\n而秦序抓鬼的规矩很简单。\n能打服就留下。\n打不服，就喂给手下。\n别人见鬼，只想逃命。\n秦序见鬼，却活动了一下布满尸斑的右手，笑得比鬼还兴奋。\n“可算找到你了。”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4140/12418653_360x480.jpg?time=1781768562",
+        "latest_chapter": " 第249章  丧家之犬",
+        "updated_at": "2026-11-17 20:07:03",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 1,
         "stale_update": false,
         "category": "恐怖灵异"

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -16,35 +16,52 @@
     "total_heat": 52000,
     "trend": {
       "new_count": 1,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [
         {
-          "title": "开局一首洛神赋，郡主把我招进府",
-          "book_id": 13749162
+          "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
+          "book_id": 13695813
         }
       ],
-      "dropped_books": [],
+      "dropped_books": [
+        {
+          "title": "开局一首洛神赋，郡主把我招进府",
+          "book_id": 13749162,
+          "intro": "【文抄公+不圣母+朝堂+温馨日常+战场】\n曹宣穿越到大夏，靠着一首洛神赋，成为王府赘婿。\n可这赘婿不好当，郡主只给名分不给同房。\n于是曹宣掏出了一堆“祖传手艺”：唐诗宋词、煤火灶、曲辕犁、马蹄铁、高炉"
+        }
+      ],
       "top_risers": [
         {
           "title": "让你当个纨绔，你咋毒谋天下",
           "book_id": 13400022,
-          "rank_change": 3
+          "rank_change": 1
         }
       ],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "寇天子",
+          "book_id": 12817968,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [
         {
           "title": "让你当个纨绔，你咋毒谋天下",
           "book_id": 13400022,
-          "heat_change": 6000
+          "heat_change": -2000
+        },
+        {
+          "title": "寇天子",
+          "book_id": 12817968,
+          "heat_change": -1000
         }
       ],
-      "summary": "「架空历史」新上榜 《开局一首洛神赋，郡主把我招进府》；《让你当个纨绔，你咋毒谋天下》上升3位领涨；《让你当个纨绔，你咋毒谋天下》热度+6000。",
+      "summary": "「架空历史」新上榜 《本侍卫只想躺平，皇后娘娘求我君临天下》；《开局一首洛神赋，郡主把我招进府》 掉出榜单；《让你当个纨绔，你咋毒谋天下》上升1位领涨；《寇天子》下滑1位；《让你当个纨绔，你咋毒谋天下》热度-2000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 6,
         "title": "让你当个纨绔，你咋毒谋天下",
         "book_id": 13400022,
         "url": "https://www.qimao.com/shuku/13400022/",
@@ -56,24 +73,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.88万字",
-        "word_count": 478800,
-        "heat": 25000,
-        "platform_trend": "rise",
+        "word_count_text": "49万字",
+        "word_count": 490000,
+        "heat": 23000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大离王朝，成为国公嫡孙，本该锦衣玉食，富贵一生。\n李玄真却迎来天崩开局，奸人陷害，他半只脚踏进鬼门关！\n生死一线，昔日人人嗤笑的纨绔，骤然觉醒，化身毒士。\n凭绝世智谋破死局，挽国公府于倾覆；\n挥笔诗词惊天下，文章震彻大离朝堂。\n党争汹汹，朝堂糜烂。\n他搅动风云，扫尽奸佞，倾力辅佐长公主登临九五之尊。\n一句‘活阎王来了’便可吓退百万雄师！\n北击蛮夷，平定四海，重整九州山河，铸就万国来朝的盛世。\n待到功成，手握‘从龙大功’的李玄真只想躺平当纨绔，\n不曾想，深夜宫车传召，女帝屏退所有内侍，独留他一人于深宫之内。\n李玄真傻了……\n陛下！哪有这么考验功臣的啊！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4467/13400022_360x480.jpg?time=1792936970",
-        "latest_chapter": " 第201章  思维妖孽！",
-        "updated_at": "2026-11-17 00:12:21",
-        "rank_change": 3,
-        "heat_change": 6000,
+        "latest_chapter": " 第206章  讲证据？讲故事？",
+        "updated_at": "2026-11-18 00:12:18",
+        "rank_change": 1,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "title": "寇天子",
         "book_id": 12817968,
         "url": "https://www.qimao.com/shuku/12817968/",
@@ -85,44 +102,44 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.61万字",
-        "word_count": 476100,
-        "heat": 17000,
-        "platform_trend": "rise",
+        "word_count_text": "48.02万字",
+        "word_count": 480200,
+        "heat": 16000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "古武传人高远穿越到乱世之中，以土匪之身坐拥四位红颜知己，实力惊人的武将，隐藏身份的女帝，多年未见的大嫂，还有一个亡国之恨的公主！剑扫四海八荒，豪气激荡云霄，白天策马奔袭，夜间笙歌环绕！且随我行，江山美人尽入怀抱！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4273/12817968_360x480.jpg?time=1785209026",
-        "latest_chapter": " 第232章  新的生财途径",
-        "updated_at": "2026-11-16 20:38:05",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第234章  危难见人心",
+        "updated_at": "2026-11-17 18:45:04",
+        "rank_change": -1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 20,
-        "title": "开局一首洛神赋，郡主把我招进府",
-        "book_id": 13749162,
-        "url": "https://www.qimao.com/shuku/13749162/",
-        "author": "甜甜的大黄猫",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%94%9C%E7%94%9C%E7%9A%84%E5%A4%A7%E9%BB%84%E7%8C%AB_14/",
+        "rank": 17,
+        "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
+        "book_id": 13695813,
+        "url": "https://www.qimao.com/shuku/13695813/",
+        "author": "已根",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%B7%B2%E6%A0%B9_14/",
         "major": "历史",
         "minor": "架空历史",
         "major_id": 56,
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "16.28万字",
-        "word_count": 162800,
-        "heat": 10000,
-        "platform_trend": "drop",
+        "word_count_text": "27.01万字",
+        "word_count": 270100,
+        "heat": 13000,
+        "platform_trend": "rise",
         "badge": "",
-        "intro": "【文抄公+不圣母+朝堂+温馨日常+战场】\n曹宣穿越到大夏，靠着一首洛神赋，成为王府赘婿。\n可这赘婿不好当，郡主只给名分不给同房。\n于是曹宣掏出了一堆“祖传手艺”：唐诗宋词、煤火灶、曲辕犁、马蹄铁、高炉炼铁、阿拉伯数字……\n从晋阳到上安，从朝堂到边关，硬是把一个赘婿活成了最强外挂。\n“什么？齐国大儒要跟我比算学？”\n“吊起来。”\n“什么？苏家公子要抢我娘子？”\n“阉了。”\n“什么？十五万胡骑要破雁门？”\n曹宣提刀上马，回身看了一眼城头那道红衣身影——\n“娘子，等我回来。”\n这世上从没有什么赘婿逆袭，只有一个男人，用千年的智慧，为一座城、一个人，挣一条生路。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4584/13749162_360x480.jpg?time=1794273155",
-        "latest_chapter": " 第74章  那人却在，灯火阑珊处",
-        "updated_at": "2026-11-17 00:02:21",
+        "intro": "沈重穿越古代，本想做个冷宫小侍卫混日子，没想皇后仗着自己修为高强行和自己生孩子！贵妃娘娘为了拉拢自己也愿意以身相许……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4566/13695813_360x480.jpg?time=1791613604",
+        "latest_chapter": " 第121章  你们抓回来的，究竟是谁",
+        "updated_at": "2026-11-17 10:58:03",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": true,

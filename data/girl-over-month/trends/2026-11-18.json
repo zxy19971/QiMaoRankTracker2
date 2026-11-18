@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-18",
+  "board": "girl-over-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 5286850,
+    "total_heat": 105737000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "分居三年，高冷商总跪地求不离",
+            "book_id": 13034412
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "惯坏她",
+            "book_id": 10034568,
+            "rank_change": -1
+          },
+          {
+            "title": "消失十五年，孩子妈穿回来了！",
+            "book_id": 1843770,
+            "rank_change": -1
+          },
+          {
+            "title": "形婚两年不同房，改嫁大佬被宠坏",
+            "book_id": 11539740,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」新上榜 《分居三年，高冷商总跪地求不离》；《惯坏她》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "第一凤女",
+            "book_id": 1803136,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「宫闱宅斗」《第一凤女》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "大院来了个带空间的小萌宝",
+            "book_id": 10152036
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」新上榜 《大院来了个带空间的小萌宝》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

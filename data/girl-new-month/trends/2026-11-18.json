@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-18",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 1836650,
+    "total_heat": 36733000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "婚前不熟，婚后失控",
+            "book_id": 13300485,
+            "rank_change": -1
+          },
+          {
+            "title": "披婚纱改嫁，爹系老公他超爱",
+            "book_id": 12862740,
+            "rank_change": -1
+          },
+          {
+            "title": "冷婚七年，夫人带娃离婚他悔疯了",
+            "book_id": 12996819,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」《婚前不熟，婚后失控》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「宫闱宅斗」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "长得太漂亮，在末世里会被疯狂觊觎",
+            "book_id": 12813204
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世求生」新上榜 《长得太漂亮，在末世里会被疯狂觊觎》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "不做替身后，小师妹一剑可破天",
+            "book_id": 12908322,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」《不做替身后，小师妹一剑可破天》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "被父弃？做罪妻？赌婚换命赚翻天",
+            "book_id": 13057029,
+            "intro": "【流放+罪妻危机+边疆生活+水系+开荒种田+经商暴富+女性互助+双强直球夫妇】\n穿越当天，宁昭昕被亲生父亲舍弃，与母亲一同随外祖母家流放南疆做罪奴。\n人人都说罪奴卑贱如泥，进了兵营不出三日就会被折辱死"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「种田经商」《被父弃？做罪妻？赌婚换命赚翻天》 掉出榜单；《流民医女：开荒把残夫养成战神》下滑1位。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

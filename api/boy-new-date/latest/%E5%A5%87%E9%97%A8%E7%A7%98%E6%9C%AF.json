@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 1,
-    "total_heat": 25000,
+    "total_heat": 16000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "厌术神匠",
           "book_id": 13342959,
-          "rank_change": 1
+          "rank_change": -8
         }
       ],
-      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "厌术神匠",
           "book_id": 13342959,
-          "heat_change": 2000
+          "heat_change": -9000
         }
       ],
-      "summary": "「奇门秘术」《厌术神匠》上升1位领涨；《厌术神匠》热度+2000。",
+      "summary": "「奇门秘术」《厌术神匠》下滑8位；《厌术神匠》热度-9000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 14,
         "title": "厌术神匠",
         "book_id": 13342959,
         "url": "https://www.qimao.com/shuku/13342959/",
@@ -51,17 +51,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "35.27万字",
-        "word_count": 352700,
-        "heat": 25000,
-        "platform_trend": "rise",
+        "word_count_text": "35.7万字",
+        "word_count": 357000,
+        "heat": 16000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "八岁那年，我撞破村支书和李寡妇在后山道观偷情。\n第二天，我便成了哑巴。\n十年后家里翻修旧房，房梁上钉着一条枯死的蛇干，蛇头正对着我的床头。\n老木匠说：“这是鲁班厌胜术，有人要你永远闭上嘴巴！”\n后来我才知道，这只是开始。\n工地鬼事、纸人夜走、梁悬木偶、七煞凶钉……\n一桩桩匪夷所思的祸事，根源从来不是鬼怪，而是人心！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4448/13342959_360x480.jpg?time=1791431635",
-        "latest_chapter": " 第156章  坛前对赌",
-        "updated_at": "2026-11-16 20:32:05",
-        "rank_change": 1,
-        "heat_change": 2000,
+        "latest_chapter": " 第158章  重金与凶讯",
+        "updated_at": "2026-11-17 20:32:04",
+        "rank_change": -8,
+        "heat_change": -9000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

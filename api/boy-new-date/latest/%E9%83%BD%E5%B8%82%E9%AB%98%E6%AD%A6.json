@@ -8,82 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 3,
-    "total_heat": 33000,
+    "total_heat": 58000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 2,
-      "new_books": [
-        {
-          "title": "五年挡灾无人问，恐怖上门你是谁！？",
-          "book_id": 13755225
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "都市极品狂龙！",
-          "book_id": 13012533,
-          "intro": "王龙没想到与绝色女总裁一夜荒唐后，变成了各种美女争抢的香饽饽……"
-        },
-        {
-          "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
-          "book_id": 13241454,
-          "intro": "豪华游轮意外失事，凌风和十九个极品美女流落到与世隔绝的荒岛。\n富家千金名媛、娱乐圈顶流，影后、千万粉丝网红、商界女精英……\n一场海难撕碎了往日的体面，物资紧缺，危机四伏。\n这群习惯了众星捧月的女人，张"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
         {
           "title": "都市大猛仙",
           "book_id": 12947607,
-          "rank_change": 2
+          "rank_change": 12
         },
         {
           "title": "我医武双绝，体内有尊神农鼎",
           "book_id": 13674141,
-          "rank_change": 1
+          "rank_change": 3
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「都市高武」新上榜 《五年挡灾无人问，恐怖上门你是谁！？》；《都市极品狂龙！》、《都荒岛求生了，一群绿茶还想让我当舔狗》 掉出榜单；《都市大猛仙》上升2位领涨。",
+      "top_fallers": [
+        {
+          "title": "五年挡灾无人问，恐怖上门你是谁！？",
+          "book_id": 13755225,
+          "rank_change": -1
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "都市大猛仙",
+          "book_id": 12947607,
+          "heat_change": 17000
+        },
+        {
+          "title": "我医武双绝，体内有尊神农鼎",
+          "book_id": 13674141,
+          "heat_change": 8000
+        }
+      ],
+      "summary": "「都市高武」《都市大猛仙》上升12位领涨；《五年挡灾无人问，恐怖上门你是谁！？》下滑1位；《都市大猛仙》热度+17000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 14,
-        "title": "我医武双绝，体内有尊神农鼎",
-        "book_id": 13674141,
-        "url": "https://www.qimao.com/shuku/13674141/",
-        "author": "月辰",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%9C%88%E8%BE%B0_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "17.27万字",
-        "word_count": 172700,
-        "heat": 12000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "半月前，我是修罗杀神，令暗黑界闻风丧胆。\n半月后，我医武双绝，体内封印上古神农鼎，本想低调做个业务员，却引无数女神竞折腰。\n神农鼎出，万毒化引，生死人肉白骨，古医世家跪地称祖。\n神农鼎落，杀气吞天，碾碎万千强者，古武宗门俯首称臣。\n直到神农鼎第九层解封，我才发现，鼎中封印的不止是神药……",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4559/13674141_360x480.jpg?time=1791784506",
-        "latest_chapter": " 第82章  苏家大小姐？调查暗夜毒君！",
-        "updated_at": "2026-11-17 09:22:02",
-        "rank_change": 1,
-        "heat_change": 0,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 15,
+        "rank": 3,
         "title": "都市大猛仙",
         "book_id": 12947607,
         "url": "https://www.qimao.com/shuku/12947607/",
@@ -95,24 +67,53 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.21万字",
-        "word_count": 432100,
-        "heat": 11000,
-        "platform_trend": "drop",
-        "badge": "",
+        "word_count_text": "43.65万字",
+        "word_count": 436500,
+        "heat": 28000,
+        "platform_trend": "rise",
+        "badge": "飙升12名",
         "intro": "陆玄，虽然因为太穷被女友甩了，可他却天赋异禀，自从觉醒了家族传承，修炼了阴阳秘术之后，身上散发出了更令异性着迷的气息……从此，他医武同修，无论是医术、修为、还是身为男人……他都勇猛无敌，总有美女慕名而来！他从小县城一路崛起，开启了无敌热血路，重现上古医道荣光！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4316/12947607_360x480.jpg?time=1785232542",
-        "latest_chapter": " 第146章  我最恨你们男医生了",
-        "updated_at": "2026-11-16 16:02:03",
-        "rank_change": 2,
-        "heat_change": 0,
+        "latest_chapter": " 第147章  兰姐被挟持",
+        "updated_at": "2026-11-17 15:23:02",
+        "rank_change": 12,
+        "heat_change": 17000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 19,
+        "rank": 11,
+        "title": "我医武双绝，体内有尊神农鼎",
+        "book_id": 13674141,
+        "url": "https://www.qimao.com/shuku/13674141/",
+        "author": "月辰",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%9C%88%E8%BE%B0_14/",
+        "major": "都市",
+        "minor": "都市高武",
+        "major_id": 203,
+        "minor_id": 219,
+        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "17.68万字",
+        "word_count": 176800,
+        "heat": 20000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "半月前，我是修罗杀神，令暗黑界闻风丧胆。\n半月后，我医武双绝，体内封印上古神农鼎，本想低调做个业务员，却引无数女神竞折腰。\n神农鼎出，万毒化引，生死人肉白骨，古医世家跪地称祖。\n神农鼎落，杀气吞天，碾碎万千强者，古武宗门俯首称臣。\n直到神农鼎第九层解封，我才发现，鼎中封印的不止是神药……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4559/13674141_360x480.jpg?time=1791784506",
+        "latest_chapter": " 第84章  古董世家千金：易凌舒！",
+        "updated_at": "2026-11-18 09:14:02",
+        "rank_change": 3,
+        "heat_change": 8000,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高武"
+      },
+      {
+        "rank": 20,
         "title": "五年挡灾无人问，恐怖上门你是谁！？",
         "book_id": 13755225,
         "url": "https://www.qimao.com/shuku/13755225/",
@@ -124,18 +125,18 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "27.19万字",
-        "word_count": 271900,
+        "word_count_text": "28.23万字",
+        "word_count": 282300,
         "heat": 10000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "为妻苏婉儿挡尽阴邪，换来一句离婚，殊不知离婚过后，恐怖复苏，她哭疯了，后悔了，可那个替她扛灾五年的男人，如今已是一尊镇世真龙，高不可攀！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4586/13755225_360x480.jpg?time=1792067354",
-        "latest_chapter": " 第132章  不止一个客人",
-        "updated_at": "2026-11-16 23:39:05",
-        "rank_change": 0,
+        "latest_chapter": " 第137章  客人入桌了？",
+        "updated_at": "2026-11-17 14:52:03",
+        "rank_change": -1,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"

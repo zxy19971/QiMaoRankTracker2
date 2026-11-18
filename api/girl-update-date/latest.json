@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "types": [
     {
       "name": "全部",
@@ -35,12 +35,12 @@
       "url": "api/girl-update-date/latest/%E7%8E%B0%E5%AE%9E%E6%95%85%E4%BA%8B.json"
     },
     {
-      "name": "娱乐明星",
-      "url": "api/girl-update-date/latest/%E5%A8%B1%E4%B9%90%E6%98%8E%E6%98%9F.json"
-    },
-    {
       "name": "都市奇幻",
       "url": "api/girl-update-date/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
+    },
+    {
+      "name": "娱乐明星",
+      "url": "api/girl-update-date/latest/%E5%A8%B1%E4%B9%90%E6%98%8E%E6%98%9F.json"
     }
   ]
 }

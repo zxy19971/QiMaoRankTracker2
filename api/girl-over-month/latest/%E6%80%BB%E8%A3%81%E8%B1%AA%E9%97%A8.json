@@ -8,21 +8,42 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
-    "count": 11,
-    "total_heat": 50592000,
+    "count": 12,
+    "total_heat": 53624000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "分居三年，高冷商总跪地求不离",
+          "book_id": 13034412
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "惯坏她",
+          "book_id": 10034568,
+          "rank_change": -1
+        },
+        {
+          "title": "消失十五年，孩子妈穿回来了！",
+          "book_id": 1843770,
+          "rank_change": -1
+        },
+        {
+          "title": "形婚两年不同房，改嫁大佬被宠坏",
+          "book_id": 11539740,
+          "rank_change": -1
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「总裁豪门」榜单结构稳定，无明显变动。",
+      "summary": "「总裁豪门」新上榜 《分居三年，高冷商总跪地求不离》；《惯坏她》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
@@ -109,7 +130,7 @@
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
-        "boards_count": 2,
+        "boards_count": 3,
         "stale_update": true,
         "category": "总裁豪门"
       },
@@ -231,6 +252,35 @@
       },
       {
         "rank": 14,
+        "title": "分居三年，高冷商总跪地求不离",
+        "book_id": 13034412,
+        "url": "https://www.qimao.com/shuku/13034412/",
+        "author": "二桥",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BA%8C%E6%A1%A5_14/",
+        "major": "现代言情",
+        "minor": "总裁豪门",
+        "major_id": 1,
+        "minor_id": 8,
+        "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "54.82万字",
+        "word_count": 548200,
+        "heat": 3032000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "三年前，因为那个丢失的孩子，温楹给了商濯池一刀，斩断了青梅竹马的情分。\n三年后，她一脸平静的回国，温柔的唤他“二哥”，只为离婚。\n世人都说商濯池是天生的商人，冷漠矜贵，是没有感情的机器，他的人生从不行差就错半步。\n可无人知道，越是内敛成熟的人，疯起来越偏执癫狂。\n恨他吧，越恨他越代表放不下。\n也爱他吧，没有爱他活不下去。\n温楹步步后退，怕自己万劫不复。\n他却寸寸紧逼，“楹楹，你的爱和恨最好都属于我。”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4345/13034412_360x480.jpg?time=1788944856",
+        "latest_chapter": " 第241章  她对总裁的爱肯定是不够的",
+        "updated_at": "2026-11-15 19:51:04",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "总裁豪门"
+      },
+      {
+        "rank": 15,
         "title": "惯坏她",
         "book_id": 10034568,
         "url": "https://www.qimao.com/shuku/10034568/",
@@ -251,7 +301,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3345/10034568_360x480.jpg?time=1776046465",
         "latest_chapter": " 第290章  冰山会为你哗然（完）",
         "updated_at": "2026-07-01 08:01:07",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -259,7 +309,7 @@
         "category": "总裁豪门"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "title": "消失十五年，孩子妈穿回来了！",
         "book_id": 1843770,
         "url": "https://www.qimao.com/shuku/1843770/",
@@ -275,12 +325,12 @@
         "word_count": 1076800,
         "heat": 2890000,
         "platform_trend": "rise",
-        "badge": "飙升31名",
+        "badge": "飙升30名",
         "intro": "飞机失事后，林禾身穿至十五后。\n小奶狗老公成了儒雅魅力老男人，荷尔蒙侵略气息拉满。\n三个小团子学业称霸，但其他方面问题多多！\n大儿子阴郁冷漠，二女儿纨绔恋爱脑，小儿子打架斗殴家常便饭……\n除了林禾，剩下的四口人互相不待见，矛盾丛生。\n林禾：这个家没我果然散了！\n教育孩子，收拾老公，拿起事业……\n最后，四个同姓的，被一个外姓的调教地服服帖帖。\n当初说我妈早死了的三个叛逆娃，成了他人口中称赞的“别人家孩子”\n林禾扫了眼因为搞事在墙角罚站的四个人，满意地点点头，现在瞧着顺眼多了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/553/1658559_360x480.jpg?time=1719486410",
         "latest_chapter": " 第492章  家庭小剧场2",
         "updated_at": "2025-03-01 01:24:05",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -288,7 +338,7 @@
         "category": "总裁豪门"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "title": "形婚两年不同房，改嫁大佬被宠坏",
         "book_id": 11539740,
         "url": "https://www.qimao.com/shuku/11539740/",
@@ -309,7 +359,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3847/11539740_360x480.jpg?time=1792518363",
         "latest_chapter": " 第474章  十分感谢",
         "updated_at": "2026-11-05 00:02:08",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -317,7 +367,7 @@
         "category": "总裁豪门"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "title": "皑如山上雪",
         "book_id": 2053898,
         "url": "https://www.qimao.com/shuku/2053898/",
@@ -338,7 +388,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/861/2580857_360x480.jpg?time=1779267111",
         "latest_chapter": " 第398章  ——津晚大结局（下）",
         "updated_at": "2026-04-22 18:18:05",
-        "rank_change": 0,
+        "rank_change": -1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

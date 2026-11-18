@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-18",
+  "board": "boy-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 134600,
+    "total_heat": 2692000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "武逆九千界",
+            "book_id": 215086,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "极道剑尊",
+            "book_id": 219040,
+            "heat_change": 7000
+          },
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "heat_change": -4000
+          },
+          {
+            "title": "玲珑塔",
+            "book_id": 1754203,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「东方玄幻」《武逆九千界》上升1位领涨；《极道剑尊》热度+7000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "无敌六皇子",
+            "book_id": 1747899,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "逍遥四公子",
+            "book_id": 1809361,
+            "heat_change": -1000
+          },
+          {
+            "title": "无敌六皇子",
+            "book_id": 1747899,
+            "heat_change": -1000
+          },
+          {
+            "title": "天命纨绔",
+            "book_id": 9839805,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「架空历史」《无敌六皇子》下滑1位；《逍遥四公子》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "山野诡闻笔记",
+            "book_id": 214783,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「奇门秘术」《山野诡闻笔记》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "师叔，你的法宝太不正经了",
+            "book_id": 1867139,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「幻想修真」《师叔，你的法宝太不正经了》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "男人野性",
+            "book_id": 2023697,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「商战职场」《男人野性》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世危机」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世大陆",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+            "book_id": 2027749,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "刚抽中SSS级天赋，你跟我说游戏停服",
+            "book_id": 2027749,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「异世大陆」《刚抽中SSS级天赋，你跟我说游戏停服》上升1位领涨；《刚抽中SSS级天赋，你跟我说游戏停服》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "穿越历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "我的岳父是崇祯",
+            "book_id": 215732,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "我的岳父是崇祯",
+            "book_id": 215732,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「穿越历史」《我的岳父是崇祯》下滑1位；《我的岳父是崇祯》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "我和软萌女友的恋爱日常",
+            "book_id": 214789,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「热血校园」《我和软萌女友的恋爱日常》热度-2000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

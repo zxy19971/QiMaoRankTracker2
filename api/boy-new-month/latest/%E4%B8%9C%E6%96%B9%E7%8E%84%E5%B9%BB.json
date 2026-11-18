@@ -8,37 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 3,
     "total_heat": 1118000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "仙子全失踪，关我一个杂役什么事",
-          "book_id": 13415388
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "说好的纨绔，怎么正魔两道全是他红颜",
-          "book_id": 13427316,
-          "rank_change": 2
-        },
-        {
-          "title": "魔天鼎：我能炼化万物",
-          "book_id": 13297746,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「东方玄幻」新上榜 《仙子全失踪，关我一个杂役什么事》；《说好的纨绔，怎么正魔两道全是他红颜》上升2位领涨。",
+      "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,16 +39,16 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.43万字",
-        "word_count": 484300,
+        "word_count_text": "49.07万字",
+        "word_count": 490700,
         "heat": 748000,
         "platform_trend": "rise",
         "badge": "飙升33名",
         "intro": "【玄幻】【无系统】\n穿越成为镇国侯府弃子，秦绝意外邂逅了玄灵界两大女宫主，虽元阳尽失，却习得绝世魔功，被家族放弃。\n旁人争灵药、炼神丹，苦苦熬修为；唯有秦绝手握魔天鼎：别人炼丹，我炼魔躯！\n鼎内三百六十五倍流速，岁月随手可取，更能炼化世间万物糟粕废料，铸就无敌之身。\n他在八位风华各异的绝色姐姐辅助下，在侯府夹缝求生，斗朝堂奸佞，战虚火邪宗，一路跨越位面壁垒。\n鼎中苦修出世，一剑横压万界，斩域外邪魔，逆袭称霸诸天。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4433/13297746_360x480.jpg?time=1788333030",
-        "latest_chapter": " 第228章  让他们睡会儿！",
-        "updated_at": "2026-11-16 12:02:09",
-        "rank_change": 1,
+        "latest_chapter": " 第231章  四姐五姐，你们……真好！",
+        "updated_at": "2026-11-17 13:32:03",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -93,7 +77,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4476/13427316_360x480.jpg?time=1791623614",
         "latest_chapter": " 第121章  你也认识我大哥？（七千五百字大章）",
         "updated_at": "2026-11-17 07:52:03",
-        "rank_change": 2,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -113,18 +97,18 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.81万字",
-        "word_count": 458100,
+        "word_count_text": "46.42万字",
+        "word_count": 464200,
         "heat": 168000,
         "platform_trend": "rise",
         "badge": "飙升37名",
         "intro": "“杂役的命就不是命吗？”\n开局被师姐放血炼丹，楚枫意外得炼天造化葫认主。\n反手囚禁师姐，榨其修为，重铸灵根！\n从此，楚枫携炼天造化葫，炼废丹成极品，炼残兵为极道帝兵，炼诸天神女为己用！\n高冷圣女，昔日婚约在身，如今冷眼相对？\n炼化圣女心魔，她哭着求复合。\n天仙宗主，觊觎纯阳之体，欲榨干做药引？\n炼化绝世丹药，宗主跪求助我修行！\n龙族神女，夺炼天造化葫，将我炼成血傀？\n炼化本命龙珠，御龙而上九重天，万族俯首！\n……\n炼天造化葫！\n唤真名，顷刻炼化！\n炼天！炼地！炼神仙！炼尽诸天！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4472/13415388_360x480.jpg?time=1788925410",
-        "latest_chapter": " 第131章  生挖剑骨，剑斩叶天，姜清月后悔了！",
-        "updated_at": "2026-11-16 17:05:03",
+        "latest_chapter": " 第133章  真龙之威！",
+        "updated_at": "2026-11-18 00:03:07",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "东方玄幻"
