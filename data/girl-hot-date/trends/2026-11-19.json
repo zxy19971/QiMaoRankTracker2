@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-19",
+  "board": "girl-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 392550,
+    "total_heat": 7851000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "封总，太太想跟你离婚很久了",
+            "book_id": 1879266,
+            "heat_change": 257000
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": -10000
+          },
+          {
+            "title": "形婚两年不同房，改嫁大佬被宠坏",
+            "book_id": 11539740,
+            "heat_change": 7000
+          }
+        ],
+        "summary": "「总裁豪门」《封总，太太想跟你离婚很久了》热度+257000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": -9000
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": -5000
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「宫闱宅斗」《皇叔借点功德，王妃把符画猛了》热度-9000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "飒美小神医虐渣忙，随军误撩首长被疯宠",
+            "book_id": 2086561,
+            "heat_change": 5000
+          },
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": -1000
+          },
+          {
+            "title": "领证日换嫁首长，随军后我连生两胎",
+            "book_id": 11835048,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「年代重生」《飒美小神医虐渣忙，随军误撩首长被疯宠》热度+5000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

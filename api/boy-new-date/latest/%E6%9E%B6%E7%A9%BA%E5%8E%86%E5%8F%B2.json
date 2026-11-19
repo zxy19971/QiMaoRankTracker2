@@ -8,36 +8,30 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 3,
-    "total_heat": 52000,
+    "total_heat": 49000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
-          "book_id": 13695813
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "开局一首洛神赋，郡主把我招进府",
-          "book_id": 13749162,
-          "intro": "【文抄公+不圣母+朝堂+温馨日常+战场】\n曹宣穿越到大夏，靠着一首洛神赋，成为王府赘婿。\n可这赘婿不好当，郡主只给名分不给同房。\n于是曹宣掏出了一堆“祖传手艺”：唐诗宋词、煤火灶、曲辕犁、马蹄铁、高炉"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
         {
-          "title": "让你当个纨绔，你咋毒谋天下",
-          "book_id": 13400022,
+          "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
+          "book_id": 13695813,
           "rank_change": 1
         }
       ],
       "top_fallers": [
+        {
+          "title": "让你当个纨绔，你咋毒谋天下",
+          "book_id": 13400022,
+          "rank_change": -3
+        },
         {
           "title": "寇天子",
           "book_id": 12817968,
@@ -56,12 +50,12 @@
           "heat_change": -1000
         }
       ],
-      "summary": "「架空历史」新上榜 《本侍卫只想躺平，皇后娘娘求我君临天下》；《开局一首洛神赋，郡主把我招进府》 掉出榜单；《让你当个纨绔，你咋毒谋天下》上升1位领涨；《寇天子》下滑1位；《让你当个纨绔，你咋毒谋天下》热度-2000。",
+      "summary": "「架空历史」《本侍卫只想躺平，皇后娘娘求我君临天下》上升1位领涨；《让你当个纨绔，你咋毒谋天下》下滑3位；《让你当个纨绔，你咋毒谋天下》热度-2000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 6,
+        "rank": 9,
         "title": "让你当个纨绔，你咋毒谋天下",
         "book_id": 13400022,
         "url": "https://www.qimao.com/shuku/13400022/",
@@ -73,16 +67,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49万字",
-        "word_count": 490000,
-        "heat": 23000,
+        "word_count_text": "49.68万字",
+        "word_count": 496800,
+        "heat": 21000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "穿越大离王朝，成为国公嫡孙，本该锦衣玉食，富贵一生。\n李玄真却迎来天崩开局，奸人陷害，他半只脚踏进鬼门关！\n生死一线，昔日人人嗤笑的纨绔，骤然觉醒，化身毒士。\n凭绝世智谋破死局，挽国公府于倾覆；\n挥笔诗词惊天下，文章震彻大离朝堂。\n党争汹汹，朝堂糜烂。\n他搅动风云，扫尽奸佞，倾力辅佐长公主登临九五之尊。\n一句‘活阎王来了’便可吓退百万雄师！\n北击蛮夷，平定四海，重整九州山河，铸就万国来朝的盛世。\n待到功成，手握‘从龙大功’的李玄真只想躺平当纨绔，\n不曾想，深夜宫车传召，女帝屏退所有内侍，独留他一人于深宫之内。\n李玄真傻了……\n陛下！哪有这么考验功臣的啊！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4467/13400022_360x480.jpg?time=1792936970",
-        "latest_chapter": " 第206章  讲证据？讲故事？",
-        "updated_at": "2026-11-18 00:12:18",
-        "rank_change": 1,
+        "latest_chapter": " 第209章  人心不足蛇吞象",
+        "updated_at": "2026-11-19 00:02:24",
+        "rank_change": -3,
         "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
@@ -90,7 +84,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "title": "寇天子",
         "book_id": 12817968,
         "url": "https://www.qimao.com/shuku/12817968/",
@@ -102,15 +96,15 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.02万字",
-        "word_count": 480200,
-        "heat": 16000,
+        "word_count_text": "48.43万字",
+        "word_count": 484300,
+        "heat": 15000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "古武传人高远穿越到乱世之中，以土匪之身坐拥四位红颜知己，实力惊人的武将，隐藏身份的女帝，多年未见的大嫂，还有一个亡国之恨的公主！剑扫四海八荒，豪气激荡云霄，白天策马奔袭，夜间笙歌环绕！且随我行，江山美人尽入怀抱！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4273/12817968_360x480.jpg?time=1785209026",
-        "latest_chapter": " 第234章  危难见人心",
-        "updated_at": "2026-11-17 18:45:04",
+        "latest_chapter": " 第236章  只有老大，没有朝廷",
+        "updated_at": "2026-11-18 19:08:03",
         "rank_change": -1,
         "heat_change": -1000,
         "is_new": false,
@@ -119,7 +113,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
         "book_id": 13695813,
         "url": "https://www.qimao.com/shuku/13695813/",
@@ -131,18 +125,18 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "27.01万字",
-        "word_count": 270100,
+        "word_count_text": "27.63万字",
+        "word_count": 276300,
         "heat": 13000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "沈重穿越古代，本想做个冷宫小侍卫混日子，没想皇后仗着自己修为高强行和自己生孩子！贵妃娘娘为了拉拢自己也愿意以身相许……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4566/13695813_360x480.jpg?time=1791613604",
-        "latest_chapter": " 第121章  你们抓回来的，究竟是谁",
-        "updated_at": "2026-11-17 10:58:03",
-        "rank_change": 0,
+        "latest_chapter": " 第124章  你的功力，老子收下了",
+        "updated_at": "2026-11-18 10:41:03",
+        "rank_change": 1,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"

@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-19",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 1,
+    "total_heat": 23,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "芙蓉帐下",
+            "book_id": 13507191,
+            "intro": "【假端庄贵女×真隐忍权宦】\n【女非男C+兄弟背德+先欲后爱+极限拉扯+HE】\n出嫁前，沈知柠是出了名的温婉端庄。嫁入永宁侯府，更是旁人眼中循规蹈矩、恪守妇德的完美世家妇。\n成婚三载，夫君顾恒风流在外、"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "母凭女贵",
+            "book_id": 12800205,
+            "rank_change": 11
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": 1
+          },
+          {
+            "title": "凰命错",
+            "book_id": 13123386,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "禁庭春",
+            "book_id": 13278996,
+            "rank_change": -3
+          },
+          {
+            "title": "枕边奴",
+            "book_id": 13537935,
+            "rank_change": -2
+          },
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "枕边奴",
+            "book_id": 13537935,
+            "heat_change": 3
+          },
+          {
+            "title": "禁庭春",
+            "book_id": 13278996,
+            "heat_change": 3
+          },
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「宫闱宅斗」《芙蓉帐下》 掉出榜单；《母凭女贵》上升11位领涨；《禁庭春》下滑3位；《枕边奴》热度+3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": -2
+          },
+          {
+            "title": "为她失控",
+            "book_id": 13425795,
+            "rank_change": -2
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "为她失控",
+            "book_id": 13425795,
+            "heat_change": -2
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「总裁豪门」《她玩火》下滑2位；《为她失控》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "领证日换嫁首长，随军后我连生两胎",
+            "book_id": 11835048
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "带着空间去下乡，生财暴富撩糙汉！",
+            "book_id": 13470801,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "带着空间去下乡，生财暴富撩糙汉！",
+            "book_id": 13470801,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「年代重生」新上榜 《领证日换嫁首长，随军后我连生两胎》；《带着空间去下乡，生财暴富撩糙汉！》上升1位领涨；《带着空间去下乡，生财暴富撩糙汉！》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「古代情缘」《新婚夜流放，飒爽太子妃种出西北大仓！》下滑2位；《新婚夜流放，飒爽太子妃种出西北大仓！》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市奇幻」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "娱乐明星",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「娱乐明星」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现实故事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "展翼",
+            "book_id": 13734264,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「现实故事」《展翼》热度-1。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,8 +8,8 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-18",
-  "prev_date": "2026-11-17",
+  "date": "2026-11-19",
+  "prev_date": "2026-11-18",
   "books": [
     {
       "rank": 1,
@@ -400,19 +400,19 @@
       "major_id": 1,
       "minor_id": 8,
       "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
-      "status": "连载中",
-      "word_count_text": "54.82万字",
-      "word_count": 548200,
+      "status": "已完结",
+      "word_count_text": "55.03万字",
+      "word_count": 550300,
       "heat": 3032000,
       "platform_trend": "rise",
       "badge": "",
       "intro": "三年前，因为那个丢失的孩子，温楹给了商濯池一刀，斩断了青梅竹马的情分。\n三年后，她一脸平静的回国，温柔的唤他“二哥”，只为离婚。\n世人都说商濯池是天生的商人，冷漠矜贵，是没有感情的机器，他的人生从不行差就错半步。\n可无人知道，越是内敛成熟的人，疯起来越偏执癫狂。\n恨他吧，越恨他越代表放不下。\n也爱他吧，没有爱他活不下去。\n温楹步步后退，怕自己万劫不复。\n他却寸寸紧逼，“楹楹，你的爱和恨最好都属于我。”",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4345/13034412_360x480.jpg?time=1788944856",
-      "latest_chapter": " 第241章  她对总裁的爱肯定是不够的",
-      "updated_at": "2026-11-15 19:51:04",
+      "latest_chapter": " 第242章  你会后悔的，我保证",
+      "updated_at": "2026-11-18 22:51:03",
       "rank_change": 0,
       "heat_change": 0,
-      "is_new": true,
+      "is_new": false,
       "boards_count": 1,
       "stale_update": false,
       "category": "总裁豪门"
@@ -439,7 +439,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3345/10034568_360x480.jpg?time=1776046465",
       "latest_chapter": " 第290章  冰山会为你哗然（完）",
       "updated_at": "2026-07-01 08:01:07",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
@@ -468,7 +468,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/553/1658559_360x480.jpg?time=1719486410",
       "latest_chapter": " 第492章  家庭小剧场2",
       "updated_at": "2025-03-01 01:24:05",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
@@ -497,7 +497,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3847/11539740_360x480.jpg?time=1792518363",
       "latest_chapter": " 第474章  十分感谢",
       "updated_at": "2026-11-05 00:02:08",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 3,
@@ -526,7 +526,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/861/2580857_360x480.jpg?time=1779267111",
       "latest_chapter": " 第398章  ——津晚大结局（下）",
       "updated_at": "2026-04-22 18:18:05",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 1,
@@ -555,7 +555,7 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
       "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
       "updated_at": "2025-08-31 14:41:10",
-      "rank_change": -1,
+      "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
       "boards_count": 2,
@@ -586,7 +586,7 @@
       "updated_at": "2026-11-18 01:51:06",
       "rank_change": 0,
       "heat_change": 0,
-      "is_new": true,
+      "is_new": false,
       "boards_count": 1,
       "stale_update": false,
       "category": "年代重生"
@@ -599,35 +599,14 @@
       "count": 12,
       "total_heat": 53624000,
       "trend": {
-        "new_count": 1,
+        "new_count": 0,
         "dropped_count": 0,
-        "new_books": [
-          {
-            "title": "分居三年，高冷商总跪地求不离",
-            "book_id": 13034412
-          }
-        ],
+        "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "惯坏她",
-            "book_id": 10034568,
-            "rank_change": -1
-          },
-          {
-            "title": "消失十五年，孩子妈穿回来了！",
-            "book_id": 1843770,
-            "rank_change": -1
-          },
-          {
-            "title": "形婚两年不同房，改嫁大佬被宠坏",
-            "book_id": 11539740,
-            "rank_change": -1
-          }
-        ],
+        "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「总裁豪门」新上榜 《分居三年，高冷商总跪地求不离》；《惯坏她》下滑1位。",
+        "summary": "「总裁豪门」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -846,19 +825,19 @@
           "major_id": 1,
           "minor_id": 8,
           "minor_url": "https://www.qimao.com/shuku/a-1-8-a-a-a-a-click-1/",
-          "status": "连载中",
-          "word_count_text": "54.82万字",
-          "word_count": 548200,
+          "status": "已完结",
+          "word_count_text": "55.03万字",
+          "word_count": 550300,
           "heat": 3032000,
           "platform_trend": "rise",
           "badge": "",
           "intro": "三年前，因为那个丢失的孩子，温楹给了商濯池一刀，斩断了青梅竹马的情分。\n三年后，她一脸平静的回国，温柔的唤他“二哥”，只为离婚。\n世人都说商濯池是天生的商人，冷漠矜贵，是没有感情的机器，他的人生从不行差就错半步。\n可无人知道，越是内敛成熟的人，疯起来越偏执癫狂。\n恨他吧，越恨他越代表放不下。\n也爱他吧，没有爱他活不下去。\n温楹步步后退，怕自己万劫不复。\n他却寸寸紧逼，“楹楹，你的爱和恨最好都属于我。”",
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4345/13034412_360x480.jpg?time=1788944856",
-          "latest_chapter": " 第241章  她对总裁的爱肯定是不够的",
-          "updated_at": "2026-11-15 19:51:04",
+          "latest_chapter": " 第242章  你会后悔的，我保证",
+          "updated_at": "2026-11-18 22:51:03",
           "rank_change": 0,
           "heat_change": 0,
-          "is_new": true,
+          "is_new": false,
           "boards_count": 1,
           "stale_update": false,
           "category": "总裁豪门"
@@ -885,7 +864,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3345/10034568_360x480.jpg?time=1776046465",
           "latest_chapter": " 第290章  冰山会为你哗然（完）",
           "updated_at": "2026-07-01 08:01:07",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
@@ -914,7 +893,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/553/1658559_360x480.jpg?time=1719486410",
           "latest_chapter": " 第492章  家庭小剧场2",
           "updated_at": "2025-03-01 01:24:05",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
@@ -943,7 +922,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3847/11539740_360x480.jpg?time=1792518363",
           "latest_chapter": " 第474章  十分感谢",
           "updated_at": "2026-11-05 00:02:08",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 3,
@@ -972,7 +951,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/861/2580857_360x480.jpg?time=1779267111",
           "latest_chapter": " 第398章  ——津晚大结局（下）",
           "updated_at": "2026-04-22 18:18:05",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 1,
@@ -992,15 +971,9 @@
         "new_books": [],
         "dropped_books": [],
         "top_risers": [],
-        "top_fallers": [
-          {
-            "title": "第一凤女",
-            "book_id": 1803136,
-            "rank_change": -1
-          }
-        ],
+        "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「宫闱宅斗」《第一凤女》下滑1位。",
+        "summary": "「宫闱宅斗」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1171,7 +1144,7 @@
           "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
           "latest_chapter": " 第1130章  番外：如果有来生（全书完）",
           "updated_at": "2025-08-31 14:41:10",
-          "rank_change": -1,
+          "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
           "boards_count": 2,
@@ -1234,19 +1207,14 @@
       "count": 1,
       "total_heat": 2491000,
       "trend": {
-        "new_count": 1,
+        "new_count": 0,
         "dropped_count": 0,
-        "new_books": [
-          {
-            "title": "大院来了个带空间的小萌宝",
-            "book_id": 10152036
-          }
-        ],
+        "new_books": [],
         "dropped_books": [],
         "top_risers": [],
         "top_fallers": [],
         "heat_leaders": [],
-        "summary": "「年代重生」新上榜 《大院来了个带空间的小萌宝》。",
+        "summary": "「年代重生」榜单结构稳定，无明显变动。",
         "ai_source": "rule"
       },
       "books": [
@@ -1274,7 +1242,7 @@
           "updated_at": "2026-11-18 01:51:06",
           "rank_change": 0,
           "heat_change": 0,
-          "is_new": true,
+          "is_new": false,
           "boards_count": 1,
           "stale_update": false,
           "category": "年代重生"
@@ -1284,8 +1252,8 @@
   ],
   "stats": {
     "total_books": 20,
-    "new_count": 2,
-    "dropped_count": 2,
+    "new_count": 0,
+    "dropped_count": 0,
     "avg_heat": 5286850,
     "total_heat": 105737000,
     "first_day": false

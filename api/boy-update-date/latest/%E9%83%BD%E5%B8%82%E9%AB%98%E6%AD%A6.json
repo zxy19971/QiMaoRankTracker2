@@ -8,48 +8,54 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 3,
-    "total_heat": 3,
+    "total_heat": 5,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "我在都市修了个野仙",
           "book_id": 2078908,
-          "rank_change": -5
-        },
-        {
-          "title": "女子监狱五年，出狱即无敌",
-          "book_id": 12791886,
-          "rank_change": -3
+          "rank_change": 4
         },
         {
           "title": "神武天下之睚眦",
           "book_id": 1977738,
-          "rank_change": -1
+          "rank_change": 1
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "女子监狱五年，出狱即无敌",
+          "book_id": 12791886,
+          "rank_change": -2
         }
       ],
       "heat_leaders": [
         {
+          "title": "神武天下之睚眦",
+          "book_id": 1977738,
+          "heat_change": 1
+        },
+        {
           "title": "我在都市修了个野仙",
           "book_id": 2078908,
-          "heat_change": -1
+          "heat_change": 1
         }
       ],
-      "summary": "「都市高武」《我在都市修了个野仙》下滑5位；《我在都市修了个野仙》热度-1。",
+      "summary": "「都市高武」《我在都市修了个野仙》上升4位领涨；《女子监狱五年，出狱即无敌》下滑2位；《神武天下之睚眦》热度+1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 6,
         "title": "神武天下之睚眦",
         "book_id": 1977738,
         "url": "https://www.qimao.com/shuku/1977738/",
@@ -63,22 +69,22 @@
         "status": "已完结",
         "word_count_text": "491.9万字",
         "word_count": 4919000,
-        "heat": 0,
-        "platform_trend": "",
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起。为隐藏身份，他进入工厂当保安，却意外卷入与武者余刚的冲突，见识到超凡力量的世界，也因硬接对方重拳留下内伤。\n在痛苦与挣扎中，温羽凡逐渐接受系统，通过修炼晋级，同时得知家人的悲剧可能与　“新神会”　有关。他一边用保安身份掩饰，一边偷偷变强，更在老中医帮助下调理伤势，决心踏上复仇之路，誓要为逝去的亲人讨回公道，揭开灾难背后的真相。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/746/2237791_360x480.jpg?time=1747831667",
         "latest_chapter": " 第1110章  欢迎来到新世界（完结）",
         "updated_at": "2026-11-15 09:32:10",
-        "rank_change": -1,
-        "heat_change": 0,
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "都市高武"
       },
       {
-        "rank": 12,
+        "rank": 14,
         "title": "女子监狱五年，出狱即无敌",
         "book_id": 12791886,
         "url": "https://www.qimao.com/shuku/12791886/",
@@ -90,16 +96,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "89.25万字",
-        "word_count": 892500,
+        "word_count_text": "90.24万字",
+        "word_count": 902400,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第380章  紫阳一指",
-        "updated_at": "2026-11-18 08:12:10",
-        "rank_change": -3,
+        "latest_chapter": " 第384章  戕害",
+        "updated_at": "2026-11-19 08:12:10",
+        "rank_change": -2,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -107,7 +113,7 @@
         "category": "都市高武"
       },
       {
-        "rank": 19,
+        "rank": 15,
         "title": "我在都市修了个野仙",
         "book_id": 2078908,
         "url": "https://www.qimao.com/shuku/2078908/",
@@ -119,17 +125,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "296.77万字",
-        "word_count": 2967700,
-        "heat": 2,
-        "platform_trend": "drop",
+        "word_count_text": "297.82万字",
+        "word_count": 2978200,
+        "heat": 3,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "林子东遭女友背叛，侥幸得到修仙传承，他幻想中的修仙是小说中那般神挡杀神佛挡杀佛，逍遥世间，怎么到了自己这里全是美人关？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/907/2718192_360x480.jpg?time=1770139124",
-        "latest_chapter": " 第1429章  暖床侍女？",
-        "updated_at": "2026-11-17 23:22:11",
-        "rank_change": -5,
-        "heat_change": -1,
+        "latest_chapter": " 第1434章  没活路了！",
+        "updated_at": "2026-11-18 22:42:12",
+        "rank_change": 4,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -8,38 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "category": {
     "name": "都市高手",
     "major": "都市",
-    "count": 2,
-    "total_heat": 72000,
+    "count": 1,
+    "total_heat": 57000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 0,
+      "dropped_count": 1,
       "new_books": [],
-      "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "dropped_books": [
         {
           "title": "医武狂龙：美女总裁非我不嫁",
           "book_id": 13716609,
-          "rank_change": -3
+          "intro": "“昨晚的事烂在肚子里，这一百万拿着滚！”\n国际暗黑界至高主宰、天医门传人陈玄遭逢背叛身中奇毒，隐姓埋名归国，开局却在酒店被中药的冰山女总裁白清宵强行扑倒！\n为寻极阴宝物与百年灵药压制残毒，他转身入职天"
         }
       ],
+      "top_risers": [],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "下山第一天，逮个美女总裁暴力宠",
           "book_id": 13008696,
-          "heat_change": -10000
-        },
-        {
-          "title": "医武狂龙：美女总裁非我不嫁",
-          "book_id": 13716609,
-          "heat_change": 1000
+          "heat_change": -3000
         }
       ],
-      "summary": "「都市高手」《医武狂龙：美女总裁非我不嫁》下滑3位；《下山第一天，逮个美女总裁暴力宠》热度-10000。",
+      "summary": "「都市高手」《医武狂龙：美女总裁非我不嫁》 掉出榜单；《下山第一天，逮个美女总裁暴力宠》热度-3000。",
       "ai_source": "rule"
     },
     "books": [
@@ -56,48 +51,19 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "47.81万字",
-        "word_count": 478100,
-        "heat": 60000,
+        "word_count_text": "48.24万字",
+        "word_count": 482400,
+        "heat": 57000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第217章  你想让我做不孝子？",
-        "updated_at": "2026-11-18 05:02:02",
+        "latest_chapter": " 第219章  太恐怖了！",
+        "updated_at": "2026-11-19 05:02:03",
         "rank_change": 0,
-        "heat_change": -10000,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": false,
-        "category": "都市高手"
-      },
-      {
-        "rank": 19,
-        "title": "医武狂龙：美女总裁非我不嫁",
-        "book_id": 13716609,
-        "url": "https://www.qimao.com/shuku/13716609/",
-        "author": "笑红尘",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%AC%91%E7%BA%A2%E5%B0%98_14/",
-        "major": "都市",
-        "minor": "都市高手",
-        "major_id": 203,
-        "minor_id": 220,
-        "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "22.54万字",
-        "word_count": 225400,
-        "heat": 12000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "“昨晚的事烂在肚子里，这一百万拿着滚！”\n国际暗黑界至高主宰、天医门传人陈玄遭逢背叛身中奇毒，隐姓埋名归国，开局却在酒店被中药的冰山女总裁白清宵强行扑倒！\n为寻极阴宝物与百年灵药压制残毒，他转身入职天元集团，成了女总裁手下一名月薪十万的看门小保安。\n他本想低调养伤，奈何总有不长眼的蝼蚁跳出来找死！假神医招摇撞骗？一巴掌扇飞！豪门大少带百人堵门？谈笑间灰飞烟灭，反手勒索百亿巨资！暗网十亿美金悬赏？杀手头目见他当场吓尿下跪！\n省城武王、苗疆邪修、隐世古族、境外叛徒接踵而至。\n陈玄叼着烟，拎着黑漆棺材一路横推：“我这人最讲道理，你们是自己躺进去，还是我帮你们体面？”\n当阎罗马甲彻底曝光，全球震颤，众美环绕，谁敢不服？",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4573/13716609_360x480.jpg?time=1794388771",
-        "latest_chapter": " 第82章  当众撩裤抹药，一搓就忍不住叫？",
-        "updated_at": "2026-11-17 23:32:02",
-        "rank_change": -3,
-        "heat_change": 1000,
-        "is_new": false,
-        "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
       }

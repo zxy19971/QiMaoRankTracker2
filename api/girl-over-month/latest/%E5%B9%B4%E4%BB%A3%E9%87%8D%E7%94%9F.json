@@ -8,26 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
     "count": 1,
     "total_heat": 2491000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "大院来了个带空间的小萌宝",
-          "book_id": 10152036
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「年代重生」新上榜 《大院来了个带空间的小萌宝》。",
+      "summary": "「年代重生」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -55,7 +50,7 @@
         "updated_at": "2026-11-18 01:51:06",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"

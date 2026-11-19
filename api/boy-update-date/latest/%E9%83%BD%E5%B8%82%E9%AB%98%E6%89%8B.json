@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 3,
-    "total_heat": 6,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,27 +24,22 @@
         {
           "title": "狂龙出渊，开局拿捏女战神！",
           "book_id": 13227645,
-          "rank_change": -5
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
-          "title": "SSSSSSSSSSSSS级镇狱狂龙",
-          "book_id": 2038385,
-          "heat_change": 1
-        },
-        {
           "title": "美女总裁，请上车",
           "book_id": 2091347,
-          "heat_change": 1
+          "heat_change": -2
         },
         {
           "title": "狂龙出渊，开局拿捏女战神！",
           "book_id": 13227645,
-          "heat_change": 1
+          "heat_change": -2
         }
       ],
-      "summary": "「都市高手」《狂龙出渊，开局拿捏女战神！》下滑5位；《SSSSSSSSSSSSS级镇狱狂龙》热度+1。",
+      "summary": "「都市高手」《狂龙出渊，开局拿捏女战神！》下滑1位；《美女总裁，请上车》热度-2。",
       "ai_source": "rule"
     },
     "books": [
@@ -61,17 +56,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "374.89万字",
-        "word_count": 3748900,
+        "word_count_text": "375.58万字",
+        "word_count": 3755800,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
-        "latest_chapter": " 第1622章  纯灵体",
-        "updated_at": "2026-11-18 07:02:16",
+        "latest_chapter": " 第1625章   我让你享受个够",
+        "updated_at": "2026-11-19 07:02:15",
         "rank_change": 0,
-        "heat_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -90,24 +85,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "385.5万字",
-        "word_count": 3855000,
-        "heat": 2,
-        "platform_trend": "rise",
+        "word_count_text": "386.61万字",
+        "word_count": 3866100,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加癫一点。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/916/2747768_360x480.jpg?time=1790776185",
-        "latest_chapter": " 第1410章  你叠不动，我还能叠！",
-        "updated_at": "2026-11-18 01:41:11",
+        "latest_chapter": " 第1414章  踏入氐人族之地！",
+        "updated_at": "2026-11-19 08:05:12",
         "rank_change": 0,
-        "heat_change": 1,
+        "heat_change": -2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "title": "狂龙出渊，开局拿捏女战神！",
         "book_id": 13227645,
         "url": "https://www.qimao.com/shuku/13227645/",
@@ -121,15 +116,15 @@
         "status": "已完结",
         "word_count_text": "69.74万字",
         "word_count": 697400,
-        "heat": 3,
+        "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "一夜九次，我解了女战神的情毒。\n她转头塞给我一纸婚书，让我入赘金陵宋家，迎娶痴傻千金。\n众人都笑我一个开情趣店的软饭男配不上豪门，可没人知道我是潜龙之主，身负真龙之体，手握通天本领，号八方豪杰。\n潜龙蛰伏五载，今朝破村出海。\n昔日所有轻视、欺辱、伤害苏家之人，都将迎来百倍痛击！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4410/13227645_360x480.jpg?time=1791469943",
         "latest_chapter": " 第206章  青莲身份曝光天下惊，苏皓赴原罪之井救人",
         "updated_at": "2026-11-12 13:25:05",
-        "rank_change": -5,
-        "heat_change": 1,
+        "rank_change": -1,
+        "heat_change": -2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

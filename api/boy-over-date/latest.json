@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "types": [
     {
       "name": "全部",
@@ -45,10 +45,6 @@
     {
       "name": "异世大陆",
       "url": "api/boy-over-date/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
-    },
-    {
-      "name": "穿越历史",
-      "url": "api/boy-over-date/latest/%E7%A9%BF%E8%B6%8A%E5%8E%86%E5%8F%B2.json"
     },
     {
       "name": "热血校园",

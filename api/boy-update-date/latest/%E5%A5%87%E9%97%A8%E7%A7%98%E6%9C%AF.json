@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
@@ -19,27 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "天黑请点灯",
           "book_id": 1982358,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "天黑请点灯",
-          "book_id": 1982358,
-          "heat_change": 1
-        }
-      ],
-      "summary": "「奇门秘术」《天黑请点灯》下滑1位；《天黑请点灯》热度+1。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「奇门秘术」《天黑请点灯》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 3,
+        "rank": 2,
         "title": "天黑请点灯",
         "book_id": 1982358,
         "url": "https://www.qimao.com/shuku/1982358/",
@@ -51,17 +45,17 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "530.88万字",
-        "word_count": 5308800,
+        "word_count_text": "531.71万字",
+        "word_count": 5317100,
         "heat": 1,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "村长说，天黑，关紧门窗，点好油灯，不要相信任何屋外人的话。\n这个世界充满了邪祟和诡异。\n贫瘠之地开出的娇艳之花带着剧毒。\n恐惧和贪婪滋养出了甜美的果实。\n这是个“人吃人”的世界。\n罗彬：“巧了，我来的世界，人也吃人。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
-        "latest_chapter": " 第1925章  方谨言：山主定然惊喜不已！",
-        "updated_at": "2026-11-18 06:57:15",
-        "rank_change": -1,
-        "heat_change": 1,
+        "latest_chapter": " 第1928章  我在房间里等你",
+        "updated_at": "2026-11-19 06:57:14",
+        "rank_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

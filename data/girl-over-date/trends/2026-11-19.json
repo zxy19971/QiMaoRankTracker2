@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-19",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 138050,
+    "total_heat": 2761000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "rank_change": 1
+          },
+          {
+            "title": "惯坏她",
+            "book_id": 10034568,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "大佬归来，假千金她不装了",
+            "book_id": 1699328,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": -10000
+          },
+          {
+            "title": "形婚两年不同房，改嫁大佬被宠坏",
+            "book_id": 11539740,
+            "heat_change": 7000
+          },
+          {
+            "title": "六年后，我携四个幼崽炸翻前夫家",
+            "book_id": 1658048,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「总裁豪门」《八年冷淡你提离婚，我签字你疯什么》上升1位领涨；《大佬归来，假千金她不装了》下滑1位；《第五年重逢，驰先生再度失控》热度-10000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+            "book_id": 2019227,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": -5000
+          },
+          {
+            "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+            "book_id": 2019227,
+            "heat_change": -4000
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「宫闱宅斗」《随母改嫁旺新家，重生嫡女嘎嘎乱杀》上升1位领涨；《凤池生春》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "小娇媳要随军，禁欲指挥官心慌慌",
+            "book_id": 1952077,
+            "rank_change": 1
+          },
+          {
+            "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+            "book_id": 1866390,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+            "book_id": 1866390,
+            "heat_change": 3000
+          },
+          {
+            "title": "骗婚三年？我转身搬空家产嫁你上司！",
+            "book_id": 9912513,
+            "heat_change": -2000
+          },
+          {
+            "title": "小娇媳要随军，禁欲指挥官心慌慌",
+            "book_id": 1952077,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「年代重生」《小娇媳要随军，禁欲指挥官心慌慌》上升1位领涨；《七零，易孕娇妻被绝嗣京少宠哭了》热度+3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「玄幻仙侠」《第一瞳术师》下滑1位；《第一瞳术师》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "为奴三年后，整个侯府跪求我原谅",
+            "book_id": 1872563,
+            "heat_change": -7000
+          }
+        ],
+        "summary": "「古代情缘」《为奴三年后，整个侯府跪求我原谅》热度-7000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "阴当",
+            "book_id": 1979356
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市奇幻」新上榜 《阴当》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "渣男不配，他哥才是顶配",
+            "book_id": 10130679,
+            "intro": "沈潇相恋多年的男友江行禹，偷偷勾搭上她同父异母的妹妹沈凌，珠胎暗结；偏心的父母软硬兼施，逼她退让成全，甚至为了护着沈凌，设计诬陷她针灸致人瘫痪，让她被停职。\n她因一手精湛针灸术，被临市华丰集团董事长江"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "邢教练，别太野",
+            "book_id": 1979319,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "邢教练，别太野",
+            "book_id": 1979319,
+            "heat_change": -13000
+          }
+        ],
+        "summary": "「职场情缘」《渣男不配，他哥才是顶配》 掉出榜单；《邢教练，别太野》下滑4位；《邢教练，别太野》热度-13000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
