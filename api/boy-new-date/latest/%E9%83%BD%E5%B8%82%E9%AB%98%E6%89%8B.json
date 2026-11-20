@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 1,
-    "total_heat": 57000,
+    "total_heat": 55000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "医武狂龙：美女总裁非我不嫁",
-          "book_id": 13716609,
-          "intro": "“昨晚的事烂在肚子里，这一百万拿着滚！”\n国际暗黑界至高主宰、天医门传人陈玄遭逢背叛身中奇毒，隐姓埋名归国，开局却在酒店被中药的冰山女总裁白清宵强行扑倒！\n为寻极阴宝物与百年灵药压制残毒，他转身入职天"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "下山第一天，逮个美女总裁暴力宠",
           "book_id": 13008696,
-          "heat_change": -3000
+          "heat_change": -2000
         }
       ],
-      "summary": "「都市高手」《医武狂龙：美女总裁非我不嫁》 掉出榜单；《下山第一天，逮个美女总裁暴力宠》热度-3000。",
+      "summary": "「都市高手」《下山第一天，逮个美女总裁暴力宠》热度-2000。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.24万字",
-        "word_count": 482400,
-        "heat": 57000,
+        "word_count_text": "48.71万字",
+        "word_count": 487100,
+        "heat": 55000,
         "platform_trend": "drop",
         "badge": "蝉联榜首",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第219章  太恐怖了！",
-        "updated_at": "2026-11-19 05:02:03",
+        "latest_chapter": " 第221章  被疯狂打脸",
+        "updated_at": "2026-11-20 05:02:03",
         "rank_change": 0,
-        "heat_change": -3000,
+        "heat_change": -2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

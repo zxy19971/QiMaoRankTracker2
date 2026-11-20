@@ -6,13 +6,13 @@
   "intro": "为妻苏婉儿挡尽阴邪，换来一句离婚，殊不知离婚过后，恐怖复苏，她哭疯了，后悔了，可那个替她扛灾五年的男人，如今已是一尊镇世真龙，高不可攀！",
   "minor": "都市高武",
   "status": "连载中",
-  "word_count_text": "28.23万字",
+  "word_count_text": "30.32万字",
   "latest": [
     {
-      "board": "boy-new-date",
-      "board_name": "男生新书日榜",
-      "rank": 20,
-      "heat": 10000
+      "board": "boy-update-date",
+      "board_name": "男生更新日榜",
+      "rank": 19,
+      "heat": 7
     }
   ],
   "history": [
@@ -27,6 +27,12 @@
       "b": "boy-new-date",
       "r": 20,
       "h": 10000
+    },
+    {
+      "d": "2026-11-20",
+      "b": "boy-update-date",
+      "r": 19,
+      "h": 7
     }
   ]
 }

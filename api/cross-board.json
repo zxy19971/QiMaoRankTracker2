@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T10:22:47",
-  "date": "2026-11-19",
+  "generated_at": "2026-11-20T10:06:13",
+  "date": "2026-11-20",
   "books": [
     {
       "book_id": 1809361,
@@ -259,26 +259,6 @@
       "total_heat": 9272000
     },
     {
-      "book_id": 12860100,
-      "title": "唯她是图",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4287/12860100_360x480.jpg?time=1791625120",
-      "author": "毛兮",
-      "minor": "总裁豪门",
-      "boards_count": 3,
-      "boards": [
-        "girl-hot-month",
-        "girl-new-date",
-        "girl-new-month"
-      ],
-      "board_names": [
-        "女生大热月榜",
-        "女生新书日榜",
-        "女生新书月榜"
-      ],
-      "best_rank": 2,
-      "total_heat": 7090000
-    },
-    {
       "book_id": 13021647,
       "title": "嫡姐惨死？她抬棺杀疯京城！",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4341/13021647_360x480.jpg?time=1793985815",
@@ -439,6 +419,26 @@
       "total_heat": 10884000
     },
     {
+      "book_id": 1655967,
+      "title": "吞噬九重天",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/91/272776_360x480.jpg?time=1689643974",
+      "author": "屠刀成佛",
+      "minor": "东方玄幻",
+      "boards_count": 3,
+      "boards": [
+        "boy-hot-date",
+        "boy-hot-month",
+        "boy-update-date"
+      ],
+      "board_names": [
+        "男生大热日榜",
+        "男生大热月榜",
+        "男生更新日榜"
+      ],
+      "best_rank": 6,
+      "total_heat": 8418000
+    },
+    {
       "book_id": 1658048,
       "title": "六年后，我携四个幼崽炸翻前夫家",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/92/275615_1659923211_360x480.jpg",
@@ -457,26 +457,6 @@
       ],
       "best_rank": 6,
       "total_heat": 5083000
-    },
-    {
-      "book_id": 1655967,
-      "title": "吞噬九重天",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/91/272776_360x480.jpg?time=1689643974",
-      "author": "屠刀成佛",
-      "minor": "东方玄幻",
-      "boards_count": 3,
-      "boards": [
-        "boy-hot-date",
-        "boy-hot-month",
-        "boy-update-date"
-      ],
-      "board_names": [
-        "男生大热日榜",
-        "男生大热月榜",
-        "男生更新日榜"
-      ],
-      "best_rank": 7,
-      "total_heat": 8418000
     },
     {
       "book_id": 1747899,
@@ -499,26 +479,6 @@
       "total_heat": 2983000
     },
     {
-      "book_id": 13537935,
-      "title": "枕边奴",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4513/13537935_360x480.jpg?time=1790758882",
-      "author": "随山月",
-      "minor": "宫闱宅斗",
-      "boards_count": 3,
-      "boards": [
-        "girl-new-date",
-        "girl-new-month",
-        "girl-update-date"
-      ],
-      "board_names": [
-        "女生新书日榜",
-        "女生新书月榜",
-        "女生更新日榜"
-      ],
-      "best_rank": 11,
-      "total_heat": 246000
-    },
-    {
       "book_id": 10373634,
       "title": "霍二爷，新婚请克制！",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3458/10373634_360x480.jpg?time=1778484086",
@@ -535,8 +495,48 @@
         "女生大热月榜",
         "女生更新日榜"
       ],
-      "best_rank": 12,
+      "best_rank": 11,
       "total_heat": 7990000
+    },
+    {
+      "book_id": 13537935,
+      "title": "枕边奴",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4513/13537935_360x480.jpg?time=1790758882",
+      "author": "随山月",
+      "minor": "宫闱宅斗",
+      "boards_count": 3,
+      "boards": [
+        "girl-new-date",
+        "girl-new-month",
+        "girl-update-date"
+      ],
+      "board_names": [
+        "女生新书日榜",
+        "女生新书月榜",
+        "女生更新日榜"
+      ],
+      "best_rank": 12,
+      "total_heat": 246000
+    },
+    {
+      "book_id": 1699328,
+      "title": "大佬归来，假千金她不装了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/410/1229482_360x480.jpg?time=1683772413",
+      "author": "骑着猫的小鱼干",
+      "minor": "总裁豪门",
+      "boards_count": 3,
+      "boards": [
+        "girl-over-date",
+        "girl-over-month",
+        "girl-collect-date"
+      ],
+      "board_names": [
+        "女生完结日榜",
+        "女生完结月榜",
+        "女生收藏日榜"
+      ],
+      "best_rank": 12,
+      "total_heat": 3180000
     },
     {
       "book_id": 219542,
@@ -557,26 +557,6 @@
       ],
       "best_rank": 13,
       "total_heat": 2069000
-    },
-    {
-      "book_id": 1699328,
-      "title": "大佬归来，假千金她不装了",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/410/1229482_360x480.jpg?time=1683772413",
-      "author": "骑着猫的小鱼干",
-      "minor": "总裁豪门",
-      "boards_count": 3,
-      "boards": [
-        "girl-over-date",
-        "girl-over-month",
-        "girl-collect-date"
-      ],
-      "board_names": [
-        "女生完结日榜",
-        "女生完结月榜",
-        "女生收藏日榜"
-      ],
-      "best_rank": 13,
-      "total_heat": 3180000
     },
     {
       "book_id": 1710753,
@@ -615,7 +595,7 @@
         "男生大热月榜",
         "男生更新日榜"
       ],
-      "best_rank": 17,
+      "best_rank": 18,
       "total_heat": 5857000
     },
     {
@@ -637,11 +617,11 @@
       "total_heat": 588000
     },
     {
-      "book_id": 13297746,
-      "title": "魔天鼎：我能炼化万物",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4433/13297746_360x480.jpg?time=1788333030",
-      "author": "晨弈",
-      "minor": "东方玄幻",
+      "book_id": 12817968,
+      "title": "寇天子",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4273/12817968_360x480.jpg?time=1785209026",
+      "author": "烟水寒",
+      "minor": "架空历史",
       "boards_count": 2,
       "boards": [
         "boy-new-date",
@@ -652,7 +632,7 @@
         "男生新书月榜"
       ],
       "best_rank": 1,
-      "total_heat": 748000
+      "total_heat": 626000
     },
     {
       "book_id": 1879266,
@@ -691,6 +671,24 @@
       "total_heat": 25010000
     },
     {
+      "book_id": 12860100,
+      "title": "唯她是图",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4287/12860100_360x480.jpg?time=1791625120",
+      "author": "毛兮",
+      "minor": "总裁豪门",
+      "boards_count": 2,
+      "boards": [
+        "girl-hot-month",
+        "girl-new-month"
+      ],
+      "board_names": [
+        "女生大热月榜",
+        "女生新书月榜"
+      ],
+      "best_rank": 2,
+      "total_heat": 7090000
+    },
+    {
       "book_id": 12947607,
       "title": "都市大猛仙",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4316/12947607_360x480.jpg?time=1785232542",
@@ -705,15 +703,15 @@
         "男生新书日榜",
         "男生新书月榜"
       ],
-      "best_rank": 2,
+      "best_rank": 3,
       "total_heat": 436000
     },
     {
-      "book_id": 12817968,
-      "title": "寇天子",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4273/12817968_360x480.jpg?time=1785209026",
-      "author": "烟水寒",
-      "minor": "架空历史",
+      "book_id": 13220790,
+      "title": "高冷校花香香软软，凭啥还舔你啊",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4407/13220790_360x480.jpg?time=1787129675",
+      "author": "云瓷",
+      "minor": "都市生活",
       "boards_count": 2,
       "boards": [
         "boy-new-date",
@@ -724,7 +722,7 @@
         "男生新书月榜"
       ],
       "best_rank": 3,
-      "total_heat": 626000
+      "total_heat": 553000
     },
     {
       "book_id": 13156719,
@@ -743,24 +741,6 @@
       ],
       "best_rank": 3,
       "total_heat": 2222000
-    },
-    {
-      "book_id": 13309743,
-      "title": "大道仙炉",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4437/13309743_360x480.jpg?time=1794896092",
-      "author": "林冰炎",
-      "minor": "古典仙侠",
-      "boards_count": 2,
-      "boards": [
-        "boy-new-date",
-        "boy-new-month"
-      ],
-      "board_names": [
-        "男生新书日榜",
-        "男生新书月榜"
-      ],
-      "best_rank": 4,
-      "total_heat": 213000
     },
     {
       "book_id": 2023697,
@@ -853,11 +833,11 @@
       "total_heat": 3019000
     },
     {
-      "book_id": 13220790,
-      "title": "高冷校花香香软软，凭啥还舔你啊",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4407/13220790_360x480.jpg?time=1787129675",
-      "author": "云瓷",
-      "minor": "都市生活",
+      "book_id": 13006284,
+      "title": "开局破庙托付，阴阳大道成就武神！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4336/13006284_360x480.jpg?time=1786182605",
+      "author": "人问渡",
+      "minor": "幻想修真",
       "boards_count": 2,
       "boards": [
         "boy-new-date",
@@ -868,7 +848,25 @@
         "男生新书月榜"
       ],
       "best_rank": 5,
-      "total_heat": 553000
+      "total_heat": 260000
+    },
+    {
+      "book_id": 13241454,
+      "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4414/13241454_360x480.jpg?time=1787536194",
+      "author": "武渣",
+      "minor": "都市高武",
+      "boards_count": 2,
+      "boards": [
+        "boy-new-date",
+        "boy-new-month"
+      ],
+      "board_names": [
+        "男生新书日榜",
+        "男生新书月榜"
+      ],
+      "best_rank": 5,
+      "total_heat": 381000
     },
     {
       "book_id": 2052700,
@@ -925,11 +923,11 @@
       "total_heat": 10785000
     },
     {
-      "book_id": 13006284,
-      "title": "开局破庙托付，阴阳大道成就武神！",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4336/13006284_360x480.jpg?time=1786182605",
-      "author": "人问渡",
-      "minor": "幻想修真",
+      "book_id": 13309743,
+      "title": "大道仙炉",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4437/13309743_360x480.jpg?time=1794896092",
+      "author": "林冰炎",
+      "minor": "古典仙侠",
       "boards_count": 2,
       "boards": [
         "boy-new-date",
@@ -940,7 +938,7 @@
         "男生新书月榜"
       ],
       "best_rank": 6,
-      "total_heat": 260000
+      "total_heat": 213000
     },
     {
       "book_id": 1754203,
@@ -976,7 +974,43 @@
         "男生收藏日榜"
       ],
       "best_rank": 6,
-      "total_heat": 49000
+      "total_heat": 50000
+    },
+    {
+      "book_id": 13172136,
+      "title": "四岁姑奶奶，叼奶瓶带全族飞升啦",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4391/13172136_360x480.jpg?time=1788767311",
+      "author": "澜岸",
+      "minor": "玄幻仙侠",
+      "boards_count": 2,
+      "boards": [
+        "girl-new-date",
+        "girl-new-month"
+      ],
+      "board_names": [
+        "女生新书日榜",
+        "女生新书月榜"
+      ],
+      "best_rank": 6,
+      "total_heat": 234000
+    },
+    {
+      "book_id": 12856758,
+      "title": "皇上开门，福宝带物资来送温暖啦",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4286/12856758_360x480.jpg?time=1793757131",
+      "author": "上春",
+      "minor": "宫闱宅斗",
+      "boards_count": 2,
+      "boards": [
+        "girl-new-date",
+        "girl-new-month"
+      ],
+      "board_names": [
+        "女生新书日榜",
+        "女生新书月榜"
+      ],
+      "best_rank": 6,
+      "total_heat": 1244000
     },
     {
       "book_id": 10024089,
@@ -1051,11 +1085,11 @@
       "total_heat": 11874000
     },
     {
-      "book_id": 11820759,
-      "title": "家有玄妻，百邪不侵！",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3941/11820759_360x480.jpg?time=1786607714",
-      "author": "雪落听风",
-      "minor": "都市奇幻",
+      "book_id": 12264417,
+      "title": "她玩火",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4089/12264417_360x480.jpg?time=1782701378",
+      "author": "如鱼",
+      "minor": "总裁豪门",
       "boards_count": 2,
       "boards": [
         "girl-hot-month",
@@ -1066,7 +1100,7 @@
         "女生更新日榜"
       ],
       "best_rank": 7,
-      "total_heat": 7032000
+      "total_heat": 5980000
     },
     {
       "book_id": 13117872,
@@ -1105,6 +1139,60 @@
       "total_heat": 4649000
     },
     {
+      "book_id": 13527720,
+      "title": "铸神朝",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4510/13527720_360x480.jpg?time=1789977110",
+      "author": "只出三剑",
+      "minor": "王朝争霸",
+      "boards_count": 2,
+      "boards": [
+        "boy-new-date",
+        "boy-new-month"
+      ],
+      "board_names": [
+        "男生新书日榜",
+        "男生新书月榜"
+      ],
+      "best_rank": 8,
+      "total_heat": 171000
+    },
+    {
+      "book_id": 13418244,
+      "title": "四合院：杀禽抢房，战天斗地！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4473/13418244_360x480.jpg?time=1788942846",
+      "author": "一把破键盘",
+      "minor": "衍生同人",
+      "boards_count": 2,
+      "boards": [
+        "boy-new-date",
+        "boy-new-month"
+      ],
+      "board_names": [
+        "男生新书日榜",
+        "男生新书月榜"
+      ],
+      "best_rank": 8,
+      "total_heat": 274000
+    },
+    {
+      "book_id": 215169,
+      "title": "寒门枭士",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/214936_360x480.jpg?time=1742968038",
+      "author": "北川",
+      "minor": "架空历史",
+      "boards_count": 2,
+      "boards": [
+        "boy-over-date",
+        "boy-collect-date"
+      ],
+      "board_names": [
+        "男生完结日榜",
+        "男生收藏日榜"
+      ],
+      "best_rank": 8,
+      "total_heat": 49000
+    },
+    {
       "book_id": 2067317,
       "title": "八年冷淡你提离婚，我签字你疯什么",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661763_360x480.jpg?time=1767668788",
@@ -1123,11 +1211,11 @@
       "total_heat": 4817000
     },
     {
-      "book_id": 13400022,
-      "title": "让你当个纨绔，你咋毒谋天下",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4467/13400022_360x480.jpg?time=1792936970",
-      "author": "人生短短急个球",
-      "minor": "架空历史",
+      "book_id": 13362843,
+      "title": "赶山79：大雪荒年，我提枪护三家！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4455/13362843_360x480.jpg?time=1795056720",
+      "author": "侃哥",
+      "minor": "乡村生活",
       "boards_count": 2,
       "boards": [
         "boy-new-date",
@@ -1138,7 +1226,7 @@
         "男生新书月榜"
       ],
       "best_rank": 9,
-      "total_heat": 278000
+      "total_heat": 263000
     },
     {
       "book_id": 1864493,
@@ -1159,40 +1247,22 @@
       "total_heat": 4038000
     },
     {
-      "book_id": 11835048,
-      "title": "领证日换嫁首长，随军后我连生两胎",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3946/11835048_360x480.jpg?time=1776935963",
-      "author": "钱小二",
-      "minor": "年代重生",
+      "book_id": 11820759,
+      "title": "家有玄妻，百邪不侵！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3941/11820759_360x480.jpg?time=1786607714",
+      "author": "雪落听风",
+      "minor": "都市奇幻",
       "boards_count": 2,
       "boards": [
-        "girl-hot-date",
+        "girl-hot-month",
         "girl-update-date"
       ],
       "board_names": [
-        "女生大热日榜",
+        "女生大热月榜",
         "女生更新日榜"
       ],
       "best_rank": 9,
-      "total_heat": 321000
-    },
-    {
-      "book_id": 13470801,
-      "title": "带着空间去下乡，生财暴富撩糙汉！",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4491/13470801_360x480.jpg?time=1793108192",
-      "author": "钧壤",
-      "minor": "年代重生",
-      "boards_count": 2,
-      "boards": [
-        "girl-new-date",
-        "girl-update-date"
-      ],
-      "board_names": [
-        "女生新书日榜",
-        "女生更新日榜"
-      ],
-      "best_rank": 9,
-      "total_heat": 25000
+      "total_heat": 7032000
     },
     {
       "book_id": 2019227,
@@ -1231,42 +1301,6 @@
       "total_heat": 9123000
     },
     {
-      "book_id": 13527720,
-      "title": "铸神朝",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4510/13527720_360x480.jpg?time=1789977110",
-      "author": "只出三剑",
-      "minor": "王朝争霸",
-      "boards_count": 2,
-      "boards": [
-        "boy-new-date",
-        "boy-new-month"
-      ],
-      "board_names": [
-        "男生新书日榜",
-        "男生新书月榜"
-      ],
-      "best_rank": 10,
-      "total_heat": 171000
-    },
-    {
-      "book_id": 13418244,
-      "title": "四合院：杀禽抢房，战天斗地！",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4473/13418244_360x480.jpg?time=1788942846",
-      "author": "一把破键盘",
-      "minor": "衍生同人",
-      "boards_count": 2,
-      "boards": [
-        "boy-new-date",
-        "boy-new-month"
-      ],
-      "board_names": [
-        "男生新书日榜",
-        "男生新书月榜"
-      ],
-      "best_rank": 10,
-      "total_heat": 274000
-    },
-    {
       "book_id": 9839805,
       "title": "天命纨绔",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3280/9839805_360x480.jpg?time=1772734262",
@@ -1283,24 +1317,6 @@
       ],
       "best_rank": 10,
       "total_heat": 3308000
-    },
-    {
-      "book_id": 12264417,
-      "title": "她玩火",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4089/12264417_360x480.jpg?time=1782701378",
-      "author": "如鱼",
-      "minor": "总裁豪门",
-      "boards_count": 2,
-      "boards": [
-        "girl-hot-month",
-        "girl-update-date"
-      ],
-      "board_names": [
-        "女生大热月榜",
-        "女生更新日榜"
-      ],
-      "best_rank": 10,
-      "total_heat": 5980000
     },
     {
       "book_id": 13378512,
@@ -1357,24 +1373,6 @@
       "total_heat": 8821000
     },
     {
-      "book_id": 13362843,
-      "title": "赶山79：大雪荒年，我提枪护三家！",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4455/13362843_360x480.jpg?time=1794985449",
-      "author": "侃哥",
-      "minor": "乡村生活",
-      "boards_count": 2,
-      "boards": [
-        "boy-new-date",
-        "boy-new-month"
-      ],
-      "board_names": [
-        "男生新书日榜",
-        "男生新书月榜"
-      ],
-      "best_rank": 11,
-      "total_heat": 263000
-    },
-    {
       "book_id": 1675640,
       "title": "镇天神医",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/173/517384_360x480.jpg?time=1701050600",
@@ -1409,24 +1407,6 @@
       ],
       "best_rank": 11,
       "total_heat": 9574000
-    },
-    {
-      "book_id": 13172136,
-      "title": "四岁姑奶奶，叼奶瓶带全族飞升啦",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4391/13172136_360x480.jpg?time=1788767311",
-      "author": "澜岸",
-      "minor": "玄幻仙侠",
-      "boards_count": 2,
-      "boards": [
-        "girl-new-date",
-        "girl-new-month"
-      ],
-      "board_names": [
-        "女生新书日榜",
-        "女生新书月榜"
-      ],
-      "best_rank": 11,
-      "total_heat": 234000
     },
     {
       "book_id": 1882754,
@@ -1483,6 +1463,24 @@
       "total_heat": 2780000
     },
     {
+      "book_id": 13470801,
+      "title": "带着空间去下乡，生财暴富撩糙汉！",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4491/13470801_360x480.jpg?time=1793108192",
+      "author": "钧壤",
+      "minor": "年代重生",
+      "boards_count": 2,
+      "boards": [
+        "girl-new-date",
+        "girl-update-date"
+      ],
+      "board_names": [
+        "女生新书日榜",
+        "女生更新日榜"
+      ],
+      "best_rank": 14,
+      "total_heat": 25000
+    },
+    {
       "book_id": 1803136,
       "title": "第一凤女",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
@@ -1537,6 +1535,24 @@
       "total_heat": 7625000
     },
     {
+      "book_id": 13342959,
+      "title": "厌术神匠",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4448/13342959_360x480.jpg?time=1791431635",
+      "author": "长耳朵的兔子",
+      "minor": "奇门秘术",
+      "boards_count": 2,
+      "boards": [
+        "boy-new-date",
+        "boy-new-month"
+      ],
+      "board_names": [
+        "男生新书日榜",
+        "男生新书月榜"
+      ],
+      "best_rank": 16,
+      "total_heat": 169000
+    },
+    {
       "book_id": 214783,
       "title": "山野诡闻笔记",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
@@ -1571,24 +1587,6 @@
       ],
       "best_rank": 17,
       "total_heat": 2187000
-    },
-    {
-      "book_id": 13342959,
-      "title": "厌术神匠",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4448/13342959_360x480.jpg?time=1791431635",
-      "author": "长耳朵的兔子",
-      "minor": "奇门秘术",
-      "boards_count": 2,
-      "boards": [
-        "boy-new-date",
-        "boy-new-month"
-      ],
-      "board_names": [
-        "男生新书日榜",
-        "男生新书月榜"
-      ],
-      "best_rank": 18,
-      "total_heat": 169000
     },
     {
       "book_id": 1968910,

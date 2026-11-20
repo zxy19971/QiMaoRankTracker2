@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "categories": [
     {
       "name": "都市高武",
@@ -62,24 +62,19 @@
       "url": "api/categories/latest/%E8%A1%8D%E7%94%9F%E5%90%8C%E4%BA%BA.json"
     },
     {
-      "name": "虚拟网游",
-      "major": "游戏",
-      "url": "api/categories/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
-    },
-    {
       "name": "末世危机",
       "major": "科幻",
       "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
     },
     {
-      "name": "异世大陆",
-      "major": "玄幻奇幻",
-      "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
-    },
-    {
       "name": "热血校园",
       "major": "都市",
       "url": "api/categories/latest/%E7%83%AD%E8%A1%80%E6%A0%A1%E5%9B%AD.json"
+    },
+    {
+      "name": "异世大陆",
+      "major": "玄幻奇幻",
+      "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
     },
     {
       "name": "恐怖灵异",
@@ -122,14 +117,14 @@
       "url": "api/categories/latest/%E5%8F%A4%E4%BB%A3%E6%83%85%E7%BC%98.json"
     },
     {
-      "name": "职场情缘",
-      "major": "现代言情",
-      "url": "api/categories/latest/%E8%81%8C%E5%9C%BA%E6%83%85%E7%BC%98.json"
-    },
-    {
       "name": "玄幻仙侠",
       "major": "幻想言情",
       "url": "api/categories/latest/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0.json"
+    },
+    {
+      "name": "职场情缘",
+      "major": "现代言情",
+      "url": "api/categories/latest/%E8%81%8C%E5%9C%BA%E6%83%85%E7%BC%98.json"
     },
     {
       "name": "种田经商",
@@ -155,6 +150,11 @@
       "name": "现实故事",
       "major": "现实主义",
       "url": "api/categories/latest/%E7%8E%B0%E5%AE%9E%E6%95%85%E4%BA%8B.json"
+    },
+    {
+      "name": "现代悬疑",
+      "major": "现代言情",
+      "url": "api/categories/latest/%E7%8E%B0%E4%BB%A3%E6%82%AC%E7%96%91.json"
     }
   ]
 }

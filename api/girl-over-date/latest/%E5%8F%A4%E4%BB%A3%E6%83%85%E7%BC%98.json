@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
@@ -20,20 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_fallers": [
         {
           "title": "为奴三年后，整个侯府跪求我原谅",
           "book_id": 1872563,
-          "heat_change": -7000
+          "rank_change": -1
         }
       ],
-      "summary": "「古代情缘」《为奴三年后，整个侯府跪求我原谅》热度-7000。",
+      "heat_leaders": [],
+      "summary": "「古代情缘」《为奴三年后，整个侯府跪求我原谅》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 16,
         "title": "为奴三年后，整个侯府跪求我原谅",
         "book_id": 1872563,
         "url": "https://www.qimao.com/shuku/1872563/",
@@ -54,8 +54,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/607/1818563_360x480.jpg?time=1742967343",
         "latest_chapter": " 第950章  平安幸福就好",
         "updated_at": "2025-11-21 21:47:11",
-        "rank_change": 0,
-        "heat_change": -7000,
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

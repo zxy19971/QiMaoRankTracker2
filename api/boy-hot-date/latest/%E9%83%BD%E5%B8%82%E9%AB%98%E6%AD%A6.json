@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 2,
-    "total_heat": 1667000,
+    "total_heat": 1670000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -25,15 +25,15 @@
         {
           "title": "盖世神医",
           "book_id": 195958,
-          "heat_change": -21000
+          "heat_change": 9000
         },
         {
           "title": "高武严父，永远比儿子高五个境界",
           "book_id": 12565608,
-          "heat_change": 7000
+          "heat_change": -6000
         }
       ],
-      "summary": "「都市高武」《盖世神医》热度-21000。",
+      "summary": "「都市高武」《盖世神医》热度+9000。",
       "ai_source": "rule"
     },
     "books": [
@@ -50,17 +50,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "937.82万字",
-        "word_count": 9378200,
-        "heat": 1170000,
-        "platform_trend": "drop",
+        "word_count_text": "938.44万字",
+        "word_count": 9384400,
+        "heat": 1179000,
+        "platform_trend": "rise",
         "badge": "蝉联榜首",
         "intro": "任你权势滔天，任你富可敌国，在我面前不要嚣张。\n我是叶秋，能救你的命，也能要你的命！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
-        "latest_chapter": " 第4574章  怨灵现！",
-        "updated_at": "2026-11-18 23:51:33",
+        "latest_chapter": " 第4577章  一支穿云箭！",
+        "updated_at": "2026-11-19 22:11:32",
         "rank_change": 0,
-        "heat_change": -21000,
+        "heat_change": 9000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,
@@ -79,17 +79,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "91.92万字",
-        "word_count": 919200,
-        "heat": 497000,
-        "platform_trend": "rise",
+        "word_count_text": "92.53万字",
+        "word_count": 925300,
+        "heat": 491000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "处在高武世界底层已久的王怀安意外觉醒了【望父成龙】的系统，并且获得了【自己永远比儿子高五个境界】的系统加持，\n从此以后，王怀安开始了培养儿子王腾的培养计划。\n向着儿子疯狂的砸资源，儿子越强，他越强！\n本来觉得自己老爹没用的王腾，突然有一天觉得父亲已经成为了不可逾越的高山。\n若干年后。\n王腾：“我爹王怀安有大帝之资！”\n王怀安：“倒反天罡！\n面对万族妖兽，阴鬼邪神，王怀安一人一剑，斩灭一切，镇守人族，独抗万族之敌，\n站在武道尽头道：“谁敢伤吾孩儿，便斩碎一切！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4189/12565608_360x480.jpg?time=1782178975",
-        "latest_chapter": " 第442章  大妖来袭！！",
-        "updated_at": "2026-11-19 00:07:09",
+        "latest_chapter": " 第445章  血肉宝药！！",
+        "updated_at": "2026-11-20 00:07:09",
         "rank_change": 0,
-        "heat_change": 7000,
+        "heat_change": -6000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

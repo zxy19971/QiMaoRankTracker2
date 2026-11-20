@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-20",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 66700,
+    "total_heat": 1334000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 3,
+        "new_books": [
+          {
+            "title": "霍总别跪了，你老婆在参加国宴",
+            "book_id": 13614846
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "唯她是图",
+            "book_id": 12860100,
+            "intro": "原书名《暗恋姜医生的第十年，她离婚了》\n【女非男c，前夫追妻火葬场+男主暗恋又争又抢】\n姜知一直觉得，和季予彻的这段婚姻，开始得有多热烈真挚，结束得就有多惨烈可笑。\n而过程，便如钝刀割肉。\n从抽皮剥骨"
+          },
+          {
+            "title": "渣夫逼我假离婚？真离另嫁他悔疯！",
+            "book_id": 13071267,
+            "intro": "小三挺孕肚上门逼宫那天，阮棠枝才知道结婚三年的竹马出轨了！\n保镖压着她跪在季朝霖面前，被他掐着脖颈签下离婚协议。\n“假离婚而已，孩子不能是私生子，等复婚记你名下，反正你也生不了。”\n“离婚期间我不碰你"
+          },
+          {
+            "title": "人前冷淡贺先生，领证当天亲不停",
+            "book_id": 13093773,
+            "intro": "订婚夜，宋滢被未婚夫亲手推进绑匪堆，只为换心上人平安。\n死里逃生后，她斩断过往，撕碎婚约。\n走投无路时，那位以冷戾寡情闻名的贺宗晏，却主动递来婚约，“大师说我们八字相合，天生一对。”\n起初宋滢只当这是"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "heat_change": -8000
+          },
+          {
+            "title": "谢总，夫人已改嫁，让你跪远点",
+            "book_id": 13156719,
+            "heat_change": -7000
+          },
+          {
+            "title": "婚前不熟，婚后失控",
+            "book_id": 13300485,
+            "heat_change": 3000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《霍总别跪了，你老婆在参加国宴》；《唯她是图》、《渣夫逼我假离婚？真离另嫁他悔疯！》、《人前冷淡贺先生，领证当天亲不停》 掉出榜单；《夫人反差太大，司总沦陷了！》热度-8000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "六零随军：大小姐她美貌动人",
+            "book_id": 13776792,
+            "rank_change": 3
+          },
+          {
+            "title": "带着空间去下乡，生财暴富撩糙汉！",
+            "book_id": 13470801,
+            "rank_change": 2
+          },
+          {
+            "title": "闪婚禁欲首长，带龙凤胎随军赢麻了",
+            "book_id": 13198989,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "七零：娇软知青闪婚冷面糙汉",
+            "book_id": 13162113,
+            "heat_change": 5000
+          },
+          {
+            "title": "八零媳妇太勾人，裴教授每天都在破防",
+            "book_id": 13716891,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「年代重生」《六零随军：大小姐她美貌动人》上升3位领涨；《七零：娇软知青闪婚冷面糙汉》热度+5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "枕边奴",
+            "book_id": 13537935,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "皇后令",
+            "book_id": 13424982,
+            "heat_change": -6000
+          },
+          {
+            "title": "枕边奴",
+            "book_id": 13537935,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「宫闱宅斗」新上榜 《皇上开门，福宝带物资来送温暖啦》；《枕边奴》下滑1位；《皇后令》热度-6000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "夺妻欢",
+            "book_id": 13263660,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "夺妻欢",
+            "book_id": 13263660,
+            "heat_change": -4000
+          },
+          {
+            "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+            "book_id": 13123449,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「古代情缘」《夺妻欢》下滑4位；《夺妻欢》热度-4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "南音无尽夏",
+            "book_id": 13913373
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」新上榜 《南音无尽夏》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "四岁姑奶奶，叼奶瓶带全族飞升啦",
+            "book_id": 13172136,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "四岁姑奶奶，叼奶瓶带全族飞升啦",
+            "book_id": 13172136,
+            "heat_change": 32000
+          }
+        ],
+        "summary": "「玄幻仙侠」《四岁姑奶奶，叼奶瓶带全族飞升啦》上升5位领涨；《四岁姑奶奶，叼奶瓶带全族飞升啦》热度+32000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

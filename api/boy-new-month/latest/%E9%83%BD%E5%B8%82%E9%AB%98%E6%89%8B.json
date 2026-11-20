@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -19,15 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "下山第一天，逮个美女总裁暴力宠",
+          "book_id": 13008696,
+          "rank_change": 2
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市高手」榜单结构稳定，无明显变动。",
+      "summary": "「都市高手」《下山第一天，逮个美女总裁暴力宠》上升2位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 4,
+        "rank": 2,
         "title": "下山第一天，逮个美女总裁暴力宠",
         "book_id": 13008696,
         "url": "https://www.qimao.com/shuku/13008696/",
@@ -39,16 +45,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.24万字",
-        "word_count": 482400,
+        "word_count_text": "48.71万字",
+        "word_count": 487100,
         "heat": 588000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天医术，无敌本领之时。\n众人才知这哪里是窝囊上门女婿，分明是震惊天下的绝世强龙！！！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4337/13008696_360x480.jpg?time=1785739600",
-        "latest_chapter": " 第219章  太恐怖了！",
-        "updated_at": "2026-11-19 05:02:03",
-        "rank_change": 0,
+        "latest_chapter": " 第221章  被疯狂打脸",
+        "updated_at": "2026-11-20 05:02:03",
+        "rank_change": 2,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
