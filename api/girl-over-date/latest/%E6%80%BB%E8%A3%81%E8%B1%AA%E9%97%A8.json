@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "category": {
     "name": "总裁豪门",
     "major": "现代言情",
@@ -19,43 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "大佬归来，假千金她不装了",
-          "book_id": 1699328,
-          "rank_change": 1
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "八年冷淡你提离婚，我签字你疯什么",
-          "book_id": 2067317,
-          "rank_change": -1
-        },
-        {
-          "title": "惯坏她",
-          "book_id": 10034568,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "第五年重逢，驰先生再度失控",
-          "book_id": 2072940,
-          "heat_change": -9000
-        },
-        {
-          "title": "婚后上瘾",
-          "book_id": 1994117,
-          "heat_change": -7000
-        },
-        {
-          "title": "八年冷淡你提离婚，我签字你疯什么",
-          "book_id": 2067317,
-          "heat_change": -5000
-        }
-      ],
-      "summary": "「总裁豪门」《大佬归来，假千金她不装了》上升1位领涨；《八年冷淡你提离婚，我签字你疯什么》下滑1位；《第五年重逢，驰先生再度失控》热度-9000。",
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「总裁豪门」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -82,7 +49,7 @@
         "latest_chapter": " 第418章  大结局",
         "updated_at": "2026-06-12 06:02:04",
         "rank_change": 0,
-        "heat_change": -9000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 4,
         "stale_update": true,
@@ -111,7 +78,7 @@
         "latest_chapter": " 第474章  十分感谢",
         "updated_at": "2026-11-05 00:02:08",
         "rank_change": 0,
-        "heat_change": 3000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -140,7 +107,7 @@
         "latest_chapter": " 第3020章  我都能给你",
         "updated_at": "2026-02-13 22:05:28",
         "rank_change": 0,
-        "heat_change": -3000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
         "stale_update": true,
@@ -169,7 +136,7 @@
         "latest_chapter": " 第633章  全剧终✿ヽ(°▽°)ノ✿",
         "updated_at": "2026-03-05 07:01:09",
         "rank_change": 0,
-        "heat_change": -7000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -197,7 +164,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/410/1229482_360x480.jpg?time=1683772413",
         "latest_chapter": " 第1284章  番外：大婚（完）",
         "updated_at": "2025-02-07 02:05:33",
-        "rank_change": 1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 3,
@@ -226,8 +193,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661763_360x480.jpg?time=1767668788",
         "latest_chapter": " 第657章  人间幸福，不过如此",
         "updated_at": "2026-09-28 19:41:06",
-        "rank_change": -1,
-        "heat_change": -5000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,
@@ -255,8 +222,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3345/10034568_360x480.jpg?time=1776046465",
         "latest_chapter": " 第290章  冰山会为你哗然（完）",
         "updated_at": "2026-07-01 08:01:07",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": true,

@@ -8,48 +8,21 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 4,
     "total_heat": 10,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "五年挡灾无人问，恐怖上门你是谁！？",
-          "book_id": 13755225
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "女子监狱五年，出狱即无敌",
-          "book_id": 12791886,
-          "rank_change": -2
-        },
-        {
-          "title": "我在都市修了个野仙",
-          "book_id": 2078908,
-          "rank_change": -2
-        },
-        {
-          "title": "神武天下之睚眦",
-          "book_id": 1977738,
-          "rank_change": -1
-        }
-      ],
-      "heat_leaders": [
-        {
-          "title": "我在都市修了个野仙",
-          "book_id": 2078908,
-          "heat_change": -2
-        }
-      ],
-      "summary": "「都市高武」新上榜 《五年挡灾无人问，恐怖上门你是谁！？》；《女子监狱五年，出狱即无敌》下滑2位；《我在都市修了个野仙》热度-2。",
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「都市高武」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -75,7 +48,7 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/746/2237791_360x480.jpg?time=1747831667",
         "latest_chapter": " 第1110章  欢迎来到新世界（完结）",
         "updated_at": "2026-11-15 09:32:10",
-        "rank_change": -1,
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -95,16 +68,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "91.37万字",
-        "word_count": 913700,
+        "word_count_text": "92.48万字",
+        "word_count": 924800,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归我手，哈——哈——哈——",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4264/12791886_360x480.jpg?time=1784271872",
-        "latest_chapter": " 第388章  告知真相",
-        "updated_at": "2026-11-20 08:12:10",
-        "rank_change": -2,
+        "latest_chapter": " 第392章  走私",
+        "updated_at": "2026-11-21 08:12:10",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -124,17 +97,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "298.85万字",
-        "word_count": 2988500,
+        "word_count_text": "300.09万字",
+        "word_count": 3000900,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "林子东遭女友背叛，侥幸得到修仙传承，他幻想中的修仙是小说中那般神挡杀神佛挡杀佛，逍遥世间，怎么到了自己这里全是美人关？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/907/2718192_360x480.jpg?time=1770139124",
-        "latest_chapter": " 第1439章  主人，我有病！",
-        "updated_at": "2026-11-19 21:38:10",
-        "rank_change": -2,
-        "heat_change": -2,
+        "latest_chapter": " 第1445章  如日中天！",
+        "updated_at": "2026-11-20 21:36:11",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -153,18 +126,18 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "30.32万字",
-        "word_count": 303200,
+        "word_count_text": "31.35万字",
+        "word_count": 313500,
         "heat": 7,
         "platform_trend": "rise",
         "badge": "",
         "intro": "为妻苏婉儿挡尽阴邪，换来一句离婚，殊不知离婚过后，恐怖复苏，她哭疯了，后悔了，可那个替她扛灾五年的男人，如今已是一尊镇世真龙，高不可攀！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4586/13755225_360x480.jpg?time=1792067354",
-        "latest_chapter": " 第147章  这把还不赢？",
-        "updated_at": "2026-11-19 22:41:04",
+        "latest_chapter": " 第152章  这桌牌，我打完了",
+        "updated_at": "2026-11-20 14:52:03",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"

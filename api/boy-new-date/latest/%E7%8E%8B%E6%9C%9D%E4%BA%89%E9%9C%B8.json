@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
@@ -19,22 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "铸神朝",
-          "book_id": 13527720,
-          "rank_change": 2
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "铸神朝",
-          "book_id": 13527720,
-          "heat_change": -1000
-        }
-      ],
-      "summary": "「王朝争霸」《铸神朝》上升2位领涨；《铸神朝》热度-1000。",
+      "heat_leaders": [],
+      "summary": "「王朝争霸」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,17 +39,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.77万字",
-        "word_count": 417700,
+        "word_count_text": "42.41万字",
+        "word_count": 424100,
         "heat": 20000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "前一世，镇北侯方瑾年被小公主和她的青梅竹马联手污蔑造反，家破人亡。\n这一世，重生在与小公主洞房花烛之夜，那么，先阉了她的青梅竹马。\n然后，造反。\n他要建立最大最强的——神朝。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4510/13527720_360x480.jpg?time=1789977110",
-        "latest_chapter": " 第183章  你在找，大宗师",
-        "updated_at": "2026-11-19 14:12:03",
-        "rank_change": 2,
-        "heat_change": -1000,
+        "latest_chapter": " 第186章  杀知州，可有把握",
+        "updated_at": "2026-11-20 14:25:04",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

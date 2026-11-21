@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -19,16 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "太监凶猛",
-          "book_id": 11674809,
-          "rank_change": 2
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「架空历史」《太监凶猛》上升2位领涨。",
+      "summary": "「架空历史」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -45,16 +39,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "150.7万字",
-        "word_count": 1507000,
+        "word_count_text": "151.39万字",
+        "word_count": 1513900,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第452章  祈雨和雷法！",
-        "updated_at": "2026-11-20 00:32:05",
-        "rank_change": 2,
+        "latest_chapter": " 第454章  震山钟响，龙虎集结！",
+        "updated_at": "2026-11-21 00:32:05",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

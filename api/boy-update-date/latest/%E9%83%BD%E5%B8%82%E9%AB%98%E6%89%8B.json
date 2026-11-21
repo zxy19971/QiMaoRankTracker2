@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -16,36 +16,13 @@
     "total_heat": 0,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "狂龙出渊，开局拿捏女战神！",
-          "book_id": 13227645,
-          "intro": "一夜九次，我解了女战神的情毒。\n她转头塞给我一纸婚书，让我入赘金陵宋家，迎娶痴傻千金。\n众人都笑我一个开情趣店的软饭男配不上豪门，可没人知道我是潜龙之主，身负真龙之体，手握通天本领，号八方豪杰。\n潜龙"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "SSSSSSSSSSSSS级镇狱狂龙",
-          "book_id": 2038385,
-          "rank_change": 1
-        },
-        {
-          "title": "美女总裁，请上车",
-          "book_id": 2091347,
-          "rank_change": 1
-        }
-      ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "SSSSSSSSSSSSS级镇狱狂龙",
-          "book_id": 2038385,
-          "heat_change": -1
-        }
-      ],
-      "summary": "「都市高手」《狂龙出渊，开局拿捏女战神！》 掉出榜单；《SSSSSSSSSSSSS级镇狱狂龙》上升1位领涨；《SSSSSSSSSSSSS级镇狱狂龙》热度-1。",
+      "heat_leaders": [],
+      "summary": "「都市高手」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -62,17 +39,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "376.27万字",
-        "word_count": 3762700,
+        "word_count_text": "376.96万字",
+        "word_count": 3769600,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
-        "latest_chapter": " 第1628章  我很可怜你",
-        "updated_at": "2026-11-20 07:02:14",
-        "rank_change": 1,
-        "heat_change": -1,
+        "latest_chapter": " 第1631章  我们出去转转",
+        "updated_at": "2026-11-21 07:02:15",
+        "rank_change": 0,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -91,16 +68,16 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "387.18万字",
-        "word_count": 3871800,
+        "word_count_text": "388.87万字",
+        "word_count": 3888700,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加癫一点。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/916/2747768_360x480.jpg?time=1790776185",
-        "latest_chapter": " 第1416章  【阵心】发威了！",
-        "updated_at": "2026-11-20 02:36:11",
-        "rank_change": 1,
+        "latest_chapter": " 第1422章  都没死！",
+        "updated_at": "2026-11-21 08:15:11",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

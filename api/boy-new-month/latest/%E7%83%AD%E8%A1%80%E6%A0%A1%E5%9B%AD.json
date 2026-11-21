@@ -8,26 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "category": {
     "name": "热血校园",
     "major": "都市",
     "count": 1,
     "total_heat": 152000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "开局回收返利：校花竟是假名媛",
-          "book_id": 13445313
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「热血校园」新上榜 《开局回收返利：校花竟是假名媛》。",
+      "summary": "「热血校园」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -44,18 +39,18 @@
         "minor_id": 222,
         "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.41万字",
-        "word_count": 414100,
+        "word_count_text": "42.25万字",
+        "word_count": 422500,
         "heat": 152000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "（回收返利+奢侈品+校花+多次修改）\n开局继承一家负债数百万的典当行，觉醒万物回收系统：\n系统功能：\n破损修复：可以花费钱财修复典当回收的奢侈品；\n返利50%：回收物品所花费的钱财，可以返利50%；\n名贵包、奢侈品名表等鉴定术……\n高冷校花：老板，再加点钱嘛，不会让你吃亏的。\n话刚说完……\n大学辅导员：哼，想占我便宜！交易完，直接删除老板微信。\n谁知老板竟然是她学生……\n校花学姐、温柔富婆、大学教授、高冷女总裁……\n在这家典当行老板面前，都乖如小猫。\n（本书经历多次修改～且看且珍惜……）",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4482/13445313_360x480.jpg?time=1789361411",
-        "latest_chapter": " 第205章  温婉凝相约",
-        "updated_at": "2026-11-20 00:02:17",
+        "latest_chapter": " 第209章  军训最后一天",
+        "updated_at": "2026-11-21 00:02:13",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "热血校园"

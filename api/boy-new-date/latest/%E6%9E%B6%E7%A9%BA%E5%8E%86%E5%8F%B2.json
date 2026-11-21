@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "category": {
     "name": "架空历史",
     "major": "历史",
@@ -16,31 +16,13 @@
     "total_heat": 29000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "让你当个纨绔，你咋毒谋天下",
-          "book_id": 13400022,
-          "intro": "穿越大离王朝，成为国公嫡孙，本该锦衣玉食，富贵一生。\n李玄真却迎来天崩开局，奸人陷害，他半只脚踏进鬼门关！\n生死一线，昔日人人嗤笑的纨绔，骤然觉醒，化身毒士。\n凭绝世智谋破死局，挽国公府于倾覆；\n挥笔"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "寇天子",
-          "book_id": 12817968,
-          "rank_change": 1
-        }
-      ],
+      "dropped_books": [],
+      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
-          "book_id": 13695813,
-          "heat_change": 1000
-        }
-      ],
-      "summary": "「架空历史」《让你当个纨绔，你咋毒谋天下》 掉出榜单；《寇天子》上升1位领涨；《本侍卫只想躺平，皇后娘娘求我君临天下》热度+1000。",
+      "heat_leaders": [],
+      "summary": "「架空历史」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -57,16 +39,16 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "48.85万字",
-        "word_count": 488500,
+        "word_count_text": "49.27万字",
+        "word_count": 492700,
         "heat": 15000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "古武传人高远穿越到乱世之中，以土匪之身坐拥四位红颜知己，实力惊人的武将，隐藏身份的女帝，多年未见的大嫂，还有一个亡国之恨的公主！剑扫四海八荒，豪气激荡云霄，白天策马奔袭，夜间笙歌环绕！且随我行，江山美人尽入怀抱！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4273/12817968_360x480.jpg?time=1785209026",
-        "latest_chapter": " 第238章  得民心者得天下",
-        "updated_at": "2026-11-19 18:27:03",
-        "rank_change": 1,
+        "latest_chapter": " 第240章  这玩意，能值十万白银？",
+        "updated_at": "2026-11-20 18:13:04",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -86,17 +68,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "28.28万字",
-        "word_count": 282800,
+        "word_count_text": "28.91万字",
+        "word_count": 289100,
         "heat": 14000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "沈重穿越古代，本想做个冷宫小侍卫混日子，没想皇后仗着自己修为高强行和自己生孩子！贵妃娘娘为了拉拢自己也愿意以身相许……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4566/13695813_360x480.jpg?time=1791613604",
-        "latest_chapter": " 第127章  格局打开",
-        "updated_at": "2026-11-19 21:58:03",
+        "latest_chapter": " 第130章  哥跟你商量个事",
+        "updated_at": "2026-11-20 23:27:04",
         "rank_change": 0,
-        "heat_change": 1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

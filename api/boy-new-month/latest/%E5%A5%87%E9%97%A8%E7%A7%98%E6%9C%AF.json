@@ -8,32 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "category": {
     "name": "奇门秘术",
     "major": "奇闻异事",
     "count": 2,
     "total_heat": 316000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "一身吞鬼术，杀遍世间敌！",
-          "book_id": 12678867
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "厌术神匠",
-          "book_id": 13342959,
-          "rank_change": 2
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「奇门秘术」新上榜 《一身吞鬼术，杀遍世间敌！》；《厌术神匠》上升2位领涨。",
+      "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -50,16 +39,16 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "36.59万字",
-        "word_count": 365900,
+        "word_count_text": "37.06万字",
+        "word_count": 370600,
         "heat": 169000,
         "platform_trend": "rise",
         "badge": "飙升24名",
         "intro": "八岁那年，我撞破村支书和李寡妇在后山道观偷情。\n第二天，我便成了哑巴。\n十年后家里翻修旧房，房梁上钉着一条枯死的蛇干，蛇头正对着我的床头。\n老木匠说：“这是鲁班厌胜术，有人要你永远闭上嘴巴！”\n后来我才知道，这只是开始。\n工地鬼事、纸人夜走、梁悬木偶、七煞凶钉……\n一桩桩匪夷所思的祸事，根源从来不是鬼怪，而是人心！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4448/13342959_360x480.jpg?time=1791431635",
-        "latest_chapter": " 第162章  黑蚌母（上）",
-        "updated_at": "2026-11-19 20:32:04",
-        "rank_change": 2,
+        "latest_chapter": " 第164章  黑珠祛毒",
+        "updated_at": "2026-11-20 20:32:03",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -79,18 +68,18 @@
         "minor_id": 231,
         "minor_url": "https://www.qimao.com/shuku/a-204-231-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.56万字",
-        "word_count": 425600,
+        "word_count_text": "42.78万字",
+        "word_count": 427800,
         "heat": 147000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "南方人好拜神，拜神之地名为神堂，立堂口的大师傅称为坐馆。\n十五岁那年，我被杀爷收为徒弟。\n杀爷传我吞鬼之法。\n此后三十年，我吞鬼修道，与天下邪修斗法，终成玄门最强坐馆。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4227/12678867_360x480.jpg?time=1787913387",
-        "latest_chapter": " 第174章  ，供妖奉妖",
-        "updated_at": "2026-11-19 17:04:04",
+        "latest_chapter": " 第175章  ，暗五家老祖宗——五娘娘",
+        "updated_at": "2026-11-20 17:16:03",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "奇门秘术"
