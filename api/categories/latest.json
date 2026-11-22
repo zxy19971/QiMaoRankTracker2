@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "categories": [
     {
       "name": "都市高武",
@@ -32,14 +32,14 @@
       "url": "api/categories/latest/%E7%8E%8B%E6%9C%9D%E4%BA%89%E9%9C%B8.json"
     },
     {
-      "name": "幻想修真",
-      "major": "武侠仙侠",
-      "url": "api/categories/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
-    },
-    {
       "name": "古典仙侠",
       "major": "武侠仙侠",
       "url": "api/categories/latest/%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0.json"
+    },
+    {
+      "name": "幻想修真",
+      "major": "武侠仙侠",
+      "url": "api/categories/latest/%E5%B9%BB%E6%83%B3%E4%BF%AE%E7%9C%9F.json"
     },
     {
       "name": "都市生活",
@@ -150,11 +150,6 @@
       "name": "现实故事",
       "major": "现实主义",
       "url": "api/categories/latest/%E7%8E%B0%E5%AE%9E%E6%95%85%E4%BA%8B.json"
-    },
-    {
-      "name": "现代悬疑",
-      "major": "现代言情",
-      "url": "api/categories/latest/%E7%8E%B0%E4%BB%A3%E6%82%AC%E7%96%91.json"
     }
   ]
 }

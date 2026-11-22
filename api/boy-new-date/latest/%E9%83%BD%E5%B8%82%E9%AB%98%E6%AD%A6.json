@@ -8,21 +8,49 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "category": {
     "name": "都市高武",
     "major": "都市",
     "count": 3,
-    "total_heat": 86000,
+    "total_heat": 81000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「都市高武」榜单结构稳定，无明显变动。",
+      "top_risers": [
+        {
+          "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+          "book_id": 13241454,
+          "rank_change": 1
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "都市大猛仙",
+          "book_id": 12947607,
+          "rank_change": -6
+        }
+      ],
+      "heat_leaders": [
+        {
+          "title": "都市大猛仙",
+          "book_id": 12947607,
+          "heat_change": -11000
+        },
+        {
+          "title": "我医武双绝，体内有尊神农鼎",
+          "book_id": 13674141,
+          "heat_change": 4000
+        },
+        {
+          "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+          "book_id": 13241454,
+          "heat_change": 2000
+        }
+      ],
+      "summary": "「都市高武」《都荒岛求生了，一群绿茶还想让我当舔狗》上升1位领涨；《都市大猛仙》下滑6位；《都市大猛仙》热度-11000。",
       "ai_source": "rule"
     },
     "books": [
@@ -41,7 +69,7 @@
         "status": "连载中",
         "word_count_text": "18.93万字",
         "word_count": 189300,
-        "heat": 35000,
+        "heat": 39000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "半月前，我是修罗杀神，令暗黑界闻风丧胆。\n半月后，我医武双绝，体内封印上古神农鼎，本想低调做个业务员，却引无数女神竞折腰。\n神农鼎出，万毒化引，生死人肉白骨，古医世家跪地称祖。\n神农鼎落，杀气吞天，碾碎万千强者，古武宗门俯首称臣。\n直到神农鼎第九层解封，我才发现，鼎中封印的不止是神药……",
@@ -49,14 +77,14 @@
         "latest_chapter": " 第90章  慕总，你的干弟弟太厉害了！",
         "updated_at": "2026-11-21 09:19:02",
         "rank_change": 0,
-        "heat_change": 0,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 3,
+        "rank": 9,
         "title": "都市大猛仙",
         "book_id": 12947607,
         "url": "https://www.qimao.com/shuku/12947607/",
@@ -68,24 +96,24 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.72万字",
-        "word_count": 437200,
-        "heat": 33000,
-        "platform_trend": "rise",
+        "word_count_text": "44.16万字",
+        "word_count": 441600,
+        "heat": 22000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "陆玄，虽然因为太穷被女友甩了，可他却天赋异禀，自从觉醒了家族传承，修炼了阴阳秘术之后，身上散发出了更令异性着迷的气息……从此，他医武同修，无论是医术、修为、还是身为男人……他都勇猛无敌，总有美女慕名而来！他从小县城一路崛起，开启了无敌热血路，重现上古医道荣光！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4316/12947607_360x480.jpg?time=1785232542",
-        "latest_chapter": " 第150章  给你按摩的资格",
-        "updated_at": "2026-11-20 15:08:03",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第152章  救人",
+        "updated_at": "2026-11-21 15:32:03",
+        "rank_change": -6,
+        "heat_change": -11000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高武"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
         "book_id": 13241454,
         "url": "https://www.qimao.com/shuku/13241454/",
@@ -97,17 +125,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.08万字",
-        "word_count": 430800,
-        "heat": 18000,
+        "word_count_text": "43.5万字",
+        "word_count": 435000,
+        "heat": 20000,
         "platform_trend": "rise",
-        "badge": "飙升12名",
+        "badge": "",
         "intro": "豪华游轮意外失事，凌风和十九个极品美女流落到与世隔绝的荒岛。\n富家千金名媛、娱乐圈顶流，影后、千万粉丝网红、商界女精英……\n一场海难撕碎了往日的体面，物资紧缺，危机四伏。\n这群习惯了众星捧月的女人，张口就要凌风任劳任怨，出力卖命当免费劳动力，把他当成召之即来挥之即去的工具人。\n不愿乖乖顺从，就集体投票把他逐出营地。\n绝境之中，凌风觉醒荒岛求生系统！\n他退守隐秘石洞庇护所，烤肉喷香，蔬果俱全，小日子过得吃香喝辣，温饱无忧。\n反观另一边，女人们守着寥寥无几的沉船物资坐吃山空，娇生惯养不堪荒野折磨，饿到饥肠辘辘远远嗅到丛林里飘来的烤肉味，瞬间红了眼。\n之前把他一脚踢开，如今看着凌风过得风生水起，又想画饼哄骗，妄图让他回头继续当舔狗？\n凌风冷笑置之。\n荒岛生存，实力为王，想蹭吃蹭喝？抱歉，概不伺候！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4414/13241454_360x480.jpg?time=1787536194",
-        "latest_chapter": " 第209章  高投入高回报",
-        "updated_at": "2026-11-20 23:21:03",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第211章  属煎饼的，太能卷了",
+        "updated_at": "2026-11-21 23:13:04",
+        "rank_change": 1,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

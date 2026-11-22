@@ -1,0 +1,312 @@
+{
+  "date": "2026-11-22",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 1,
+    "total_heat": 24,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "rank_change": -2
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": -2
+          },
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "heat_change": 2
+          },
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「东方玄幻」《鸿蒙霸体诀》下滑2位；《鸿蒙霸体诀》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "我在都市修了个野仙",
+            "book_id": 2078908,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "女子监狱五年，出狱即无敌",
+            "book_id": 12791886,
+            "rank_change": -2
+          },
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "五年挡灾无人问，恐怖上门你是谁！？",
+            "book_id": 13755225,
+            "heat_change": -7
+          },
+          {
+            "title": "我在都市修了个野仙",
+            "book_id": 2078908,
+            "heat_change": 1
+          },
+          {
+            "title": "女子监狱五年，出狱即无敌",
+            "book_id": 12791886,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高武」《我在都市修了个野仙》上升2位领涨；《女子监狱五年，出狱即无敌》下滑2位；《五年挡灾无人问，恐怖上门你是谁！？》热度-7。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "三百斤入伍，首长让我当女军医？",
+            "book_id": 13346439,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "四次入伍，我被军区拉进黑名单！",
+            "book_id": 12179937,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "四次入伍，我被军区拉进黑名单！",
+            "book_id": 12179937,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「现代军事」《三百斤入伍，首长让我当女军医？》上升1位领涨；《四次入伍，我被军区拉进黑名单！》下滑1位；《四次入伍，我被军区拉进黑名单！》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "heat_change": 4
+          }
+        ],
+        "summary": "「幻想修真」《乾坤造化诀》上升5位领涨；《乾坤造化诀》热度+4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「架空历史」《太监凶猛》上升2位领涨；《太监凶猛》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "穿越历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "外卖送到大唐，开局三倍吕布战力",
+            "book_id": 13266141,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「穿越历史」《外卖送到大唐，开局三倍吕布战力》下滑2位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "heat_change": -3
+          }
+        ],
+        "summary": "「商战职场」《野性攀登》上升1位领涨；《野性攀登》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「奇门秘术」《天黑请点灯》下滑1位；《天黑请点灯》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "恐怖灵异",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "恐怖复苏：离婚后，我不替她挡灾了",
+            "book_id": 12418653,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "恐怖复苏：离婚后，我不替她挡灾了",
+            "book_id": 12418653,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「恐怖灵异」《恐怖复苏：离婚后，我不替她挡灾了》上升1位领涨；《恐怖复苏：离婚后，我不替她挡灾了》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古典仙侠」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

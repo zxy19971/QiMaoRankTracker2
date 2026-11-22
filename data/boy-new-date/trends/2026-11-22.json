@@ -1,0 +1,291 @@
+{
+  "date": "2026-11-22",
+  "board": "boy-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 21650,
+    "total_heat": 433000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+            "book_id": 13241454,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "都市大猛仙",
+            "book_id": 12947607,
+            "rank_change": -6
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "都市大猛仙",
+            "book_id": 12947607,
+            "heat_change": -11000
+          },
+          {
+            "title": "我医武双绝，体内有尊神农鼎",
+            "book_id": 13674141,
+            "heat_change": 4000
+          },
+          {
+            "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+            "book_id": 13241454,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「都市高武」《都荒岛求生了，一群绿茶还想让我当舔狗》上升1位领涨；《都市大猛仙》下滑6位；《都市大猛仙》热度-11000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "奇葫仙缘",
+            "book_id": 13123122,
+            "rank_change": 4
+          },
+          {
+            "title": "大道仙炉",
+            "book_id": 13309743,
+            "rank_change": 3
+          },
+          {
+            "title": "长生隐仙",
+            "book_id": 13425288,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "大道仙炉",
+            "book_id": 13309743,
+            "heat_change": 10000
+          },
+          {
+            "title": "奇葫仙缘",
+            "book_id": 13123122,
+            "heat_change": 9000
+          }
+        ],
+        "summary": "「古典仙侠」《奇葫仙缘》上升4位领涨；《大道仙炉》热度+10000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "开局破庙托付，阴阳大道成就武神！",
+            "book_id": 13006284,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "废丹房老头，被仙子逼婚了",
+            "book_id": 13608798,
+            "heat_change": 3000
+          }
+        ],
+        "summary": "「幻想修真」《开局破庙托付，阴阳大道成就武神！》下滑1位；《废丹房老头，被仙子逼婚了》热度+3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "执弓，荡寇，扫八荒！",
+            "book_id": 13582923
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
+            "book_id": 13695813,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「架空历史」新上榜 《执弓，荡寇，扫八荒！》；《本侍卫只想躺平，皇后娘娘求我君临天下》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "高高在上不给碰，我换亲你哭什么",
+            "book_id": 13938639,
+            "rank_change": 6
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "高高在上不给碰，我换亲你哭什么",
+            "book_id": 13938639,
+            "heat_change": 8000
+          }
+        ],
+        "summary": "「都市生活」《高高在上不给碰，我换亲你哭什么》上升6位领涨；《高高在上不给碰，我换亲你哭什么》热度+8000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "纯阳剑仙：我的老婆是女帝",
+            "book_id": 13560672
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "荒淫无道？我那是拯救快散的宗门！",
+            "book_id": 13611585,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」新上榜 《纯阳剑仙：我的老婆是女帝》；《荒淫无道？我那是拯救快散的宗门！》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "下山第一天，逮个美女总裁暴力宠",
+            "book_id": 13008696,
+            "heat_change": -4000
+          }
+        ],
+        "summary": "「都市高手」《下山第一天，逮个美女总裁暴力宠》热度-4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "重生70：断亲入赘，三枪轰出万元户",
+            "book_id": 13780857,
+            "intro": "“叔，你要儿子不要？只要你开金口，我给您入赘当儿子！”\n\n噗通！1977年寒冬，李定国单膝跪地，直接敲开了同村绝户陈家的门。\n\n重活一世，李定国彻底看透了。大哥结婚花200，二哥花300多，到他这里，"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "赶山79：大雪荒年，我提枪护三家！",
+            "book_id": 13362843,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「乡村生活」《重生70：断亲入赘，三枪轰出万元户》 掉出榜单；《赶山79：大雪荒年，我提枪护三家！》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "厌术神匠",
+            "book_id": 13342959,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「奇门秘术」《厌术神匠》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "王朝争霸",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "铸神朝",
+            "book_id": 13527720,
+            "rank_change": -10
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "铸神朝",
+            "book_id": 13527720,
+            "heat_change": -10000
+          }
+        ],
+        "summary": "「王朝争霸」《铸神朝》下滑10位；《铸神朝》热度-10000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -8,21 +8,33 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 2,
-    "total_heat": 47000,
+    "total_heat": 55000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "高高在上不给碰，我换亲你哭什么",
+          "book_id": 13938639,
+          "rank_change": 6
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「都市生活」榜单结构稳定，无明显变动。",
+      "heat_leaders": [
+        {
+          "title": "高高在上不给碰，我换亲你哭什么",
+          "book_id": 13938639,
+          "heat_change": 8000
+        }
+      ],
+      "summary": "「都市生活」《高高在上不给碰，我换亲你哭什么》上升6位领涨；《高高在上不给碰，我换亲你哭什么》热度+8000。",
       "ai_source": "rule"
     },
     "books": [
@@ -39,15 +51,15 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "43.97万字",
-        "word_count": 439700,
+        "word_count_text": "44.43万字",
+        "word_count": 444300,
         "heat": 32000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【救赎+单女主+重生无系统+清冷校花反差病娇】\n“苏泽，我现在只想好好学习拿奖学金，不想谈恋爱，我们还是先做普通朋友好吗？”\n看着班花林婉儿那副高高在上的嘴脸，重生归来的苏泽冷笑一声。\n“大姐你没事吧？要胸没胸要腿没腿，保不齐微do过多少次的网红脸，我有病啊跟你表白？”\n在全校吃瓜群众震惊的目光中，苏泽转身，一把将怀里的99朵红玫瑰，强行塞进了路过的冰山校花夏知微怀里。\n“好汉留步！花给你了！”\n上一世，苏泽是把尊严踩在脚底的超级舔狗，一路卷成科学家却落得个猝死的下场。\n重活一世，去他妈的白月光，去他妈的内卷！老子要放飞自我，摆烂享受人生！\n习惯了被无限偏爱的林婉儿懵了。\n三个月后，她实在受不了没有苏泽这个免费提款机的日子，红着眼眶在雨中堵住他：“苏泽，我发现我其实是喜欢你的，我们和好吧……”\n可此时的苏泽，哪里还有空搭理她？\n曾经柔弱的清冷系花夏知微，此刻却将苏泽的双手缚在床头柜上。\n女孩绝美的脸蛋泛着迷离的红晕，嗓音娇软却不失偏执：“苏泽同学，你送了我玫瑰，又在柜子里抱过我，那你就是我一个人的了。”\n“再敢碰别的女人，我就关你一辈子哦。”\n苏泽却一脸笑嘻嘻道：老婆你好香~",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4407/13220790_360x480.jpg?time=1787129675",
-        "latest_chapter": " 第193章  依旧祖传玉镯",
-        "updated_at": "2026-11-20 13:26:03",
+        "latest_chapter": " 第195章  又一起看片了",
+        "updated_at": "2026-11-21 16:02:04",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -56,7 +68,7 @@
         "category": "都市生活"
       },
       {
-        "rank": 14,
+        "rank": 8,
         "title": "高高在上不给碰，我换亲你哭什么",
         "book_id": 13938639,
         "url": "https://www.qimao.com/shuku/13938639/",
@@ -68,17 +80,17 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "16.36万字",
-        "word_count": 163600,
-        "heat": 15000,
+        "word_count_text": "16.51万字",
+        "word_count": 165100,
+        "heat": 23000,
         "platform_trend": "rise",
-        "badge": "飙升16名",
+        "badge": "",
         "intro": "卖掉老婆，换来小姨子？\n全村人等着看林诚的笑话！\n彩礼被贪、外债压身、饥荒肆虐，林诚开局就是地狱模式！\n这一世，他要带着小媳妇，在饥荒年里靠赶海杀疯了！\n大青蟹、大黄鱼、极品鲍鱼堆满仓！\n当全村人饿得两眼发绿时，林诚家却飘出了红烧肉的香气，前妻一家肠子都悔青了……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4647/13938639_360x480.jpg?time=1793239938",
-        "latest_chapter": " 第79章  陈鹤年马上要平反了！",
-        "updated_at": "2026-11-21 03:02:03",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第80章  去寻找更好的船！",
+        "updated_at": "2026-11-21 14:02:02",
+        "rank_change": 6,
+        "heat_change": 8000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

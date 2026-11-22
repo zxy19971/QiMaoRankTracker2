@@ -8,26 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "category": {
     "name": "王朝争霸",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 277000,
+    "total_heat": 288000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "大周第一武夫",
+          "book_id": 2074426,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「王朝争霸」榜单结构稳定，无明显变动。",
+      "heat_leaders": [
+        {
+          "title": "大周第一武夫",
+          "book_id": 2074426,
+          "heat_change": 11000
+        }
+      ],
+      "summary": "「王朝争霸」《大周第一武夫》上升1位领涨；《大周第一武夫》热度+11000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 10,
         "title": "大周第一武夫",
         "book_id": 2074426,
         "url": "https://www.qimao.com/shuku/2074426/",
@@ -39,17 +51,17 @@
         "minor_id": 218,
         "minor_url": "https://www.qimao.com/shuku/a-202-218-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "257.51万字",
-        "word_count": 2575100,
-        "heat": 277000,
-        "platform_trend": "drop",
+        "word_count_text": "258.17万字",
+        "word_count": 2581700,
+        "heat": 288000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "穿越大周，本是将军府后厨杂役的陈玄，从将军府大夫人的床上醒来。\n　　看着这弱肉强食，落魄飘摇的大周，陈玄决定将这世道变他一变！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
-        "latest_chapter": " 第1186章  道基重铸，修为恢复",
-        "updated_at": "2026-11-20 20:37:11",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第1189章  你我皆为棋子",
+        "updated_at": "2026-11-21 21:01:10",
+        "rank_change": 1,
+        "heat_change": 11000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

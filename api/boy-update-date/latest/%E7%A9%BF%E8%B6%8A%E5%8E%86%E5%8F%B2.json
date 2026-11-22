@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "category": {
     "name": "穿越历史",
     "major": "历史",
@@ -20,14 +20,20 @@
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
+      "top_fallers": [
+        {
+          "title": "外卖送到大唐，开局三倍吕布战力",
+          "book_id": 13266141,
+          "rank_change": -2
+        }
+      ],
       "heat_leaders": [],
-      "summary": "「穿越历史」榜单结构稳定，无明显变动。",
+      "summary": "「穿越历史」《外卖送到大唐，开局三倍吕布战力》下滑2位。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 17,
         "title": "外卖送到大唐，开局三倍吕布战力",
         "book_id": 13266141,
         "url": "https://www.qimao.com/shuku/13266141/",
@@ -39,16 +45,16 @@
         "minor_id": 57,
         "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "69.35万字",
-        "word_count": 693500,
+        "word_count_text": "70.36万字",
+        "word_count": 703600,
         "heat": 2,
         "platform_trend": "drop",
         "badge": "",
         "intro": "李承乾送外卖赶时间，闯了个红灯，一不小心撞上大运，把他送到了大唐，成了当朝太子。\n突厥南下，生灵涂炭。\n意外绑定大自在系统，开局获得三倍吕布战力。\n虽说系统主打悠闲自在，逍遥快活。李承乾却有大志向。\n若不让这民族屹立世界之巅，为万世开太平，岂不是白来一场，对不起这个身份？\n因此……\n他是蛮夷戎狄的克星，黎民百姓的救星，贪官污吏的煞星。\n这个民族，因他而伟大。他因这个民族，而自豪！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4423/13266141_360x480.jpg?time=1787557844",
-        "latest_chapter": " 第316章  东宫印牒，引匠出关",
-        "updated_at": "2026-11-20 21:04:06",
-        "rank_change": 0,
+        "latest_chapter": " 第321章  旧带破谎，暗桩归京",
+        "updated_at": "2026-11-21 21:03:03",
+        "rank_change": -2,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

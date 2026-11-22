@@ -1,0 +1,252 @@
+{
+  "date": "2026-11-22",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 70650,
+    "total_heat": 1413000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "人前冷淡贺先生，领证当天亲不停",
+            "book_id": 13093773
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "霍总别跪了，你老婆在参加国宴",
+            "book_id": 13614846,
+            "rank_change": 6
+          },
+          {
+            "title": "婚前不熟，婚后失控",
+            "book_id": 13300485,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "谢总，夫人已改嫁，让你跪远点",
+            "book_id": 13156719,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "婚前不熟，婚后失控",
+            "book_id": 13300485,
+            "heat_change": 37000
+          },
+          {
+            "title": "霍总别跪了，你老婆在参加国宴",
+            "book_id": 13614846,
+            "heat_change": 6000
+          },
+          {
+            "title": "裴先生，暗恋她已十二年",
+            "book_id": 13010484,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《人前冷淡贺先生，领证当天亲不停》；《霍总别跪了，你老婆在参加国宴》上升6位领涨；《谢总，夫人已改嫁，让你跪远点》下滑1位；《婚前不熟，婚后失控》热度+37000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "六零随军：大小姐她美貌动人",
+            "book_id": 13776792,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "七零：娇软知青闪婚冷面糙汉",
+            "book_id": 13162113,
+            "rank_change": -1
+          },
+          {
+            "title": "八零媳妇太勾人，裴教授每天都在破防",
+            "book_id": 13716891,
+            "rank_change": -1
+          },
+          {
+            "title": "带着空间去下乡，生财暴富撩糙汉！",
+            "book_id": 13470801,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "六零随军：大小姐她美貌动人",
+            "book_id": 13776792,
+            "heat_change": 17000
+          },
+          {
+            "title": "七零：娇软知青闪婚冷面糙汉",
+            "book_id": 13162113,
+            "heat_change": -3000
+          },
+          {
+            "title": "八零媳妇太勾人，裴教授每天都在破防",
+            "book_id": 13716891,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「年代重生」《六零随军：大小姐她美貌动人》上升5位领涨；《七零：娇软知青闪婚冷面糙汉》下滑1位；《六零随军：大小姐她美貌动人》热度+17000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+            "book_id": 13123449,
+            "rank_change": -2
+          },
+          {
+            "title": "夺妻欢",
+            "book_id": 13263660,
+            "rank_change": -2
+          },
+          {
+            "title": "嫡姐惨死？她抬棺杀疯京城！",
+            "book_id": 13021647,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "嫡姐惨死？她抬棺杀疯京城！",
+            "book_id": 13021647,
+            "heat_change": -5000
+          },
+          {
+            "title": "夺妻欢",
+            "book_id": 13263660,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「古代情缘」《地狱归，驭百鬼，王妃回京后杀疯了》下滑2位；《嫡姐惨死？她抬棺杀疯京城！》热度-5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "枕边奴",
+            "book_id": 13537935,
+            "intro": "【公主×戏子/女A男O】，双洁×双向救赎\n赵清徽的眼底是江山、是棋局，杨澈在戏台上唱尽别人的悲欢。\n他满身落雪，戏台上等一声“赏”，等来的却是羞辱：连他带赏，一并送进穆王后院。\n她的一句“这戏，本殿还"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "夺妻色",
+            "book_id": 13378512,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "皇后令",
+            "book_id": 13424982,
+            "heat_change": 14000
+          },
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「宫闱宅斗」《枕边奴》 掉出榜单；《夺妻色》下滑1位；《皇后令》热度+14000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "rank_change": -1
+          },
+          {
+            "title": "南音无尽夏",
+            "book_id": 13913373,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "年下弟弟，人前乖软人后野",
+            "book_id": 13117872,
+            "heat_change": 1000
+          },
+          {
+            "title": "南音无尽夏",
+            "book_id": 13913373,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「职场情缘」《年下弟弟，人前乖软人后野》下滑1位；《年下弟弟，人前乖软人后野》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "四岁姑奶奶，叼奶瓶带全族飞升啦",
+            "book_id": 13172136,
+            "heat_change": 14000
+          }
+        ],
+        "summary": "「玄幻仙侠」《四岁姑奶奶，叼奶瓶带全族飞升啦》热度+14000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

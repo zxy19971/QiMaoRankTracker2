@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-22",
+  "board": "girl-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 378900,
+    "total_heat": 7578000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "离婚当天，和京圈太子爷闪婚了",
+            "book_id": 12718566,
+            "heat_change": -30000
+          },
+          {
+            "title": "封总，太太想跟你离婚很久了",
+            "book_id": 1879266,
+            "heat_change": -25000
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": -16000
+          }
+        ],
+        "summary": "「总裁豪门」《霍二爷，新婚请克制！》上升1位领涨；《离婚当天，和京圈太子爷闪婚了》下滑3位；《离婚当天，和京圈太子爷闪婚了》热度-30000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "凰宫梦",
+            "book_id": 1836527,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": 13000
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": -10000
+          },
+          {
+            "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
+            "book_id": 2048050,
+            "heat_change": -8000
+          }
+        ],
+        "summary": "「宫闱宅斗」《凰宫梦》上升1位领涨；《凤池生春》下滑1位；《皇叔借点功德，王妃把符画猛了》热度+13000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "飒美小神医虐渣忙，随军误撩首长被疯宠",
+            "book_id": 2086561,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": 6000
+          },
+          {
+            "title": "飒美小神医虐渣忙，随军误撩首长被疯宠",
+            "book_id": 2086561,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「年代重生」《飒美小神医虐渣忙，随军误撩首长被疯宠》上升2位领涨；《错嫁随军：新婚夜冷面军少沦陷了》热度+6000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
