@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-23",
+  "board": "girl-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 367800,
+    "total_heat": 7356000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "婚前不熟，婚后失控",
+            "book_id": 13300485
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "六年后，我携四个幼崽炸翻前夫家",
+            "book_id": 1658048,
+            "intro": "外界传言，南知意不孕不育，婆婆嫌弃，因此成为帝家弃妇。谁知几年后，她携崽回归，惊艳众人。\n观众1：“这两只崽，怎么有点眼熟？”\n观众2：“颜值高、智商妖……我绝对在哪见过！”\n观众3：“这不是帝少家的"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "封总，太太想跟你离婚很久了",
+            "book_id": 1879266,
+            "heat_change": -39000
+          },
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767,
+            "heat_change": -18000
+          },
+          {
+            "title": "形婚两年不同房，改嫁大佬被宠坏",
+            "book_id": 11539740,
+            "heat_change": -14000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《婚前不熟，婚后失控》；《六年后，我携四个幼崽炸翻前夫家》 掉出榜单；《封总，太太想跟你离婚很久了》热度-39000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": -38000
+          },
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": -20000
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": -18000
+          }
+        ],
+        "summary": "「宫闱宅斗」《皇叔借点功德，王妃把符画猛了》热度-38000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "错嫁随军：新婚夜冷面军少沦陷了",
+            "book_id": 12792057,
+            "heat_change": -12000
+          },
+          {
+            "title": "领证日换嫁首长，随军后我连生两胎",
+            "book_id": 11835048,
+            "heat_change": 8000
+          },
+          {
+            "title": "飒美小神医虐渣忙，随军误撩首长被疯宠",
+            "book_id": 2086561,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「年代重生」《错嫁随军：新婚夜冷面军少沦陷了》热度-12000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

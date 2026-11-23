@@ -17,29 +17,11 @@
     {
       "board": "boy-over-date",
       "board_name": "男生完结日榜",
-      "rank": 20,
-      "heat": 46000
+      "rank": 18,
+      "heat": 49000
     }
   ],
   "history": [
-    {
-      "d": "2026-08-24",
-      "b": "boy-collect-date",
-      "r": 6,
-      "h": 0
-    },
-    {
-      "d": "2026-08-24",
-      "b": "boy-over-date",
-      "r": 8,
-      "h": 100000
-    },
-    {
-      "d": "2026-08-24",
-      "b": "boy-over-month",
-      "r": 5,
-      "h": 4418000
-    },
     {
       "d": "2026-08-25",
       "b": "boy-collect-date",
@@ -1431,6 +1413,18 @@
       "b": "boy-over-date",
       "r": 20,
       "h": 46000
+    },
+    {
+      "d": "2026-11-23",
+      "b": "boy-collect-date",
+      "r": 6,
+      "h": 0
+    },
+    {
+      "d": "2026-11-23",
+      "b": "boy-over-date",
+      "r": 18,
+      "h": 49000
     }
   ]
 }

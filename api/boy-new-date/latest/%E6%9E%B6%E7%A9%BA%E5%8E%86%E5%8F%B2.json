@@ -8,23 +8,28 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "category": {
     "name": "架空历史",
     "major": "历史",
-    "count": 3,
-    "total_heat": 39000,
+    "count": 4,
+    "total_heat": 46000,
     "trend": {
       "new_count": 1,
       "dropped_count": 0,
       "new_books": [
         {
-          "title": "执弓，荡寇，扫八荒！",
-          "book_id": 13582923
+          "title": "父皇别试探了，我真不想当太子啊！",
+          "book_id": 13844022
         }
       ],
       "dropped_books": [],
       "top_risers": [
+        {
+          "title": "执弓，荡寇，扫八荒！",
+          "book_id": 13582923,
+          "rank_change": 3
+        },
         {
           "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
           "book_id": 13695813,
@@ -32,8 +37,19 @@
         }
       ],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「架空历史」新上榜 《执弓，荡寇，扫八荒！》；《本侍卫只想躺平，皇后娘娘求我君临天下》上升1位领涨。",
+      "heat_leaders": [
+        {
+          "title": "寇天子",
+          "book_id": 12817968,
+          "heat_change": -1000
+        },
+        {
+          "title": "执弓，荡寇，扫八荒！",
+          "book_id": 13582923,
+          "heat_change": -1000
+        }
+      ],
+      "summary": "「架空历史」新上榜 《父皇别试探了，我真不想当太子啊！》；《执弓，荡寇，扫八荒！》上升3位领涨；《寇天子》热度-1000。",
       "ai_source": "rule"
     },
     "books": [
@@ -50,24 +66,24 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.68万字",
-        "word_count": 496800,
-        "heat": 15000,
+        "word_count_text": "50.09万字",
+        "word_count": 500900,
+        "heat": 14000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "古武传人高远穿越到乱世之中，以土匪之身坐拥四位红颜知己，实力惊人的武将，隐藏身份的女帝，多年未见的大嫂，还有一个亡国之恨的公主！剑扫四海八荒，豪气激荡云霄，白天策马奔袭，夜间笙歌环绕！且随我行，江山美人尽入怀抱！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4273/12817968_360x480.jpg?time=1785209026",
-        "latest_chapter": " 第242章  果然还是你阴险",
-        "updated_at": "2026-11-21 21:01:05",
+        "latest_chapter": " 第244章  犬牙交错的局势",
+        "updated_at": "2026-11-22 18:22:04",
         "rank_change": 0,
-        "heat_change": 0,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
         "book_id": 13695813,
         "url": "https://www.qimao.com/shuku/13695813/",
@@ -96,7 +112,7 @@
         "category": "架空历史"
       },
       {
-        "rank": 20,
+        "rank": 17,
         "title": "执弓，荡寇，扫八荒！",
         "book_id": 13582923,
         "url": "https://www.qimao.com/shuku/13582923/",
@@ -108,15 +124,44 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "21.59万字",
-        "word_count": 215900,
-        "heat": 10000,
-        "platform_trend": "rise",
+        "word_count_text": "22万字",
+        "word_count": 220000,
+        "heat": 9000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "永安三十一年，朝堂腐败，义军突起，天下大乱。\n赵烽穿越至此，成为一名叛军小卒。\n一睁眼便遇发饷，而饷银却是两名貌美女子。\n可红颜祸水，当日就被隔壁屯长逼迫，用五两银子买走了她们。\n此时，城外官兵围困，城内同僚威逼。\n“哼，既然如此，那杀出个太平天下！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4528/13582923_360x480.jpg?time=1790581245",
-        "latest_chapter": " 第103章  三千骑兵！？",
-        "updated_at": "2026-11-21 23:18:03",
+        "latest_chapter": " 第105章  好计策？",
+        "updated_at": "2026-11-22 22:30:04",
+        "rank_change": 3,
+        "heat_change": -1000,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "架空历史"
+      },
+      {
+        "rank": 20,
+        "title": "父皇别试探了，我真不想当太子啊！",
+        "book_id": 13844022,
+        "url": "https://www.qimao.com/shuku/13844022/",
+        "author": "二十不夜",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BA%8C%E5%8D%81%E4%B8%8D%E5%A4%9C_14/",
+        "major": "历史",
+        "minor": "架空历史",
+        "major_id": 56,
+        "minor_id": 58,
+        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "24.43万字",
+        "word_count": 244300,
+        "heat": 9000,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "【躺赢纯爽流】+【搞笑不烧心】+【你们真是害苦了朕！】\n顾清穿越大乾十五年，掏空心思只想当个逍遥王爷。\n夺嫡？我又不是李二！\n皇帝？狗都不当！\n奈何太子爱打顺风局，觉得哥哥我顺极了！\n一番操作之下，顾清不但喜得太子妃，更是卷入了朝廷漩涡！\n几人太子不讲武德，那就别怪皇弟节制天下兵马了！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4615/13844022_360x480.jpg?time=1792605332",
+        "latest_chapter": " 第118章  大结局",
+        "updated_at": "2026-11-21 23:33:04",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": true,

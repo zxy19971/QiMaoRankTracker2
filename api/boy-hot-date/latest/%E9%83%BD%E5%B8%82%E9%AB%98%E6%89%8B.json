@@ -8,43 +8,48 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 3,
-    "total_heat": 1104000,
+    "total_heat": 1032000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
+      "top_risers": [],
+      "top_fallers": [
         {
           "title": "傲世潜龙",
           "book_id": 207105,
-          "rank_change": 7
-        }
-      ],
-      "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "傲世潜龙",
-          "book_id": 207105,
-          "heat_change": 58000
-        },
-        {
-          "title": "警报！真龙出狱！",
-          "book_id": 1834789,
-          "heat_change": -20000
+          "rank_change": -2
         },
         {
           "title": "舔狗反派只想苟，女主不按套路走！",
           "book_id": 1710753,
-          "heat_change": 12000
+          "rank_change": -1
         }
       ],
-      "summary": "「都市高手」《傲世潜龙》上升7位领涨；《傲世潜龙》热度+58000。",
+      "heat_leaders": [
+        {
+          "title": "警报！真龙出狱！",
+          "book_id": 1834789,
+          "heat_change": -26000
+        },
+        {
+          "title": "舔狗反派只想苟，女主不按套路走！",
+          "book_id": 1710753,
+          "heat_change": -25000
+        },
+        {
+          "title": "傲世潜龙",
+          "book_id": 207105,
+          "heat_change": -21000
+        }
+      ],
+      "summary": "「都市高手」《傲世潜龙》下滑2位；《警报！真龙出狱！》热度-26000。",
       "ai_source": "rule"
     },
     "books": [
@@ -61,24 +66,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "402.74万字",
-        "word_count": 4027400,
-        "heat": 586000,
+        "word_count_text": "403.17万字",
+        "word_count": 4031700,
+        "heat": 560000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "叶楚替兄长顶罪入狱，机缘巧合拜药皇为师，习逆天医术，三年后王者归来。面对无耻的家人，叶楚直接断绝关系，对给他关爱的妻子，叶楚拼命守护。且看叶楚如何在滚滚红尘中，闯出一条通天路。\n【短剧《警报！叶楚出狱》原著！】",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/544/1631939_360x480.jpg?time=1747031009",
-        "latest_chapter": " 第1957章  月婵",
-        "updated_at": "2026-11-21 23:42:15",
+        "latest_chapter": " 第1959章  误会",
+        "updated_at": "2026-11-22 20:41:15",
         "rank_change": 0,
-        "heat_change": -20000,
+        "heat_change": -26000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 13,
+        "rank": 15,
         "title": "傲世潜龙",
         "book_id": 207105,
         "url": "https://www.qimao.com/shuku/207105/",
@@ -90,24 +95,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "838.49万字",
-        "word_count": 8384900,
-        "heat": 268000,
-        "platform_trend": "rise",
+        "word_count_text": "838.7万字",
+        "word_count": 8387000,
+        "heat": 247000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "藏锋慰忠骨，出鞘镇山河！回归都市，王东当起夜班司机，自此他的人生如鱼得水……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/205225_360x480.jpg?time=1638355115",
-        "latest_chapter": " 第4113章  封锁现场",
-        "updated_at": "2026-11-21 18:17:28",
-        "rank_change": 7,
-        "heat_change": 58000,
+        "latest_chapter": " 第4114章  闫家指证",
+        "updated_at": "2026-11-22 16:37:28",
+        "rank_change": -2,
+        "heat_change": -21000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "title": "舔狗反派只想苟，女主不按套路走！",
         "book_id": 1710753,
         "url": "https://www.qimao.com/shuku/1710753/",
@@ -119,17 +124,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "658.89万字",
-        "word_count": 6588900,
-        "heat": 250000,
-        "platform_trend": "rise",
+        "word_count_text": "659.3万字",
+        "word_count": 6593000,
+        "heat": 225000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "一次车祸，让我穿越到了都市爽文里当反派。\n只要苟到大结局，就能带着丰厚的报酬回到现实世界给母亲治病。\n但是！女主怎么不去围着主角转啊？天天当我一个反派的跟屁虫，是嫌我死的不够快吗？\n既然天命归我，那老子干脆和主角一决高下！\n谁是主角，还特么说不定呢！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/421/1260130_360x480.jpg?time=1685672538",
-        "latest_chapter": " 第2789章  你就是个小丑",
-        "updated_at": "2026-11-21 20:21:22",
-        "rank_change": 0,
-        "heat_change": 12000,
+        "latest_chapter": " 第2791章  天选之人",
+        "updated_at": "2026-11-22 23:37:26",
+        "rank_change": -1,
+        "heat_change": -25000,
         "is_new": false,
         "boards_count": 3,
         "stale_update": false,

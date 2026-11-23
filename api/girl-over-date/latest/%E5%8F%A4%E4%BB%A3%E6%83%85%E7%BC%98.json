@@ -8,32 +8,66 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
-    "count": 1,
-    "total_heat": 76000,
+    "count": 2,
+    "total_heat": 153000,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "世子先别死，夫人有喜了",
+          "book_id": 1830570
+        }
+      ],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_fallers": [
         {
           "title": "为奴三年后，整个侯府跪求我原谅",
           "book_id": 1872563,
-          "heat_change": 2000
+          "rank_change": -1
         }
       ],
-      "summary": "「古代情缘」《为奴三年后，整个侯府跪求我原谅》热度+2000。",
+      "heat_leaders": [],
+      "summary": "「古代情缘」新上榜 《世子先别死，夫人有喜了》；《为奴三年后，整个侯府跪求我原谅》下滑1位。",
       "ai_source": "rule"
     },
     "books": [
       {
         "rank": 16,
+        "title": "世子先别死，夫人有喜了",
+        "book_id": 1830570,
+        "url": "https://www.qimao.com/shuku/1830570/",
+        "author": "沙拉薯条",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%B2%99%E6%8B%89%E8%96%AF%E6%9D%A1_14/",
+        "major": "古代言情",
+        "minor": "古代情缘",
+        "major_id": 2,
+        "minor_id": 216,
+        "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "130.57万字",
+        "word_count": 1305700,
+        "heat": 77000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "前世，沈桑宁被继妹换亲，嫁了纨绔，继妹成了世子夫人。\n可最终，世子早亡，反而纨绔浪子回头成了战神。\n重来一次，这回继妹要嫁纨绔，却不知前世沈桑宁私下苦心经营，才让纨绔功成名就。\n沈桑宁冷眼看继妹跳入火坑，自己嫁给了高冷孤傲的世子爷。\n这次，她决定要在短命夫君死之前生下小世子。\n奈何世子心里只有江山，日日禁欲，沈桑宁只好想尽一切办法靠近他、引诱他……\n后来世子爷食髓知味，明宠暗宠，“夫人要了孩子，也会要我的吧？”\n再后来，前世的丈夫突然重生，追着沈桑宁跑。\n沈桑宁冷眼拒绝，“二弟请自重，我是你嫂嫂。”\n【甜宠双洁1V1】+【虐渣打脸】+【双向奔赴治愈】\n本书已改编有声广播剧，同名有声作品在喜马拉雅收听。\n改编短剧《金枝缠梦》超甜来袭。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/542/1624639_360x480.jpg?time=1741574487",
+        "latest_chapter": " 第631章  齐行舟番外3（完结）",
+        "updated_at": "2025-05-15 07:55:12",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": true,
+        "category": "古代情缘"
+      },
+      {
+        "rank": 17,
         "title": "为奴三年后，整个侯府跪求我原谅",
         "book_id": 1872563,
         "url": "https://www.qimao.com/shuku/1872563/",
@@ -54,8 +88,8 @@
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/607/1818563_360x480.jpg?time=1742967343",
         "latest_chapter": " 第950章  平安幸福就好",
         "updated_at": "2025-11-21 21:47:11",
-        "rank_change": 0,
-        "heat_change": 2000,
+        "rank_change": -1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,

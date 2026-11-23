@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T09:03:18",
-  "date": "2026-11-22",
+  "generated_at": "2026-11-23T09:29:42",
+  "date": "2026-11-23",
   "authors": [
     {
       "author": "化十",
@@ -39,7 +39,7 @@
       "author": "随山月",
       "author_url": "https://www.qimao.com/zuozhe/%E9%9A%8F%E5%B1%B1%E6%9C%88_14/",
       "books": 2,
-      "boards": 6,
+      "boards": 7,
       "total_heat": 7043000,
       "titles": [
         "解春衫",
@@ -62,10 +62,21 @@
       "author_url": "https://www.qimao.com/zuozhe/%E7%BD%97%E6%A8%B5%E6%A3%AE_14/",
       "books": 2,
       "boards": 4,
-      "total_heat": 2090001,
+      "total_heat": 2090000,
       "titles": [
         "民间诡闻实录",
         "天黑请点灯"
+      ]
+    },
+    {
+      "author": "人生短短急个球",
+      "author_url": "https://www.qimao.com/zuozhe/%E4%BA%BA%E7%94%9F%E7%9F%AD%E7%9F%AD%E6%80%A5%E4%B8%AA%E7%90%83_14/",
+      "books": 2,
+      "boards": 2,
+      "total_heat": 278013,
+      "titles": [
+        "我率秦军三百万，为秦续命万万年",
+        "让你当个纨绔，你咋毒谋天下"
       ]
     },
     {
@@ -73,7 +84,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E4%BD%9B%E7%B3%BB%E5%92%8C%E5%B0%9A_14/",
       "books": 2,
       "boards": 2,
-      "total_heat": 46000,
+      "total_heat": 49000,
       "titles": [
         "最强学霸系统",
         "我和软萌女友的恋爱日常"
@@ -273,7 +284,7 @@
       "author": "青岳",
       "author_url": "https://www.qimao.com/zuozhe/%E9%9D%92%E5%B2%B3_14/",
       "books": 1,
-      "boards": 2,
+      "boards": 1,
       "total_heat": 8821000,
       "titles": [
         "边关兵王"
@@ -297,16 +308,6 @@
       "total_heat": 8684000,
       "titles": [
         "大周第一武夫"
-      ]
-    },
-    {
-      "author": "屠刀成佛",
-      "author_url": "https://www.qimao.com/zuozhe/%E5%B1%A0%E5%88%80%E6%88%90%E4%BD%9B_14/",
-      "books": 1,
-      "boards": 3,
-      "total_heat": 8418000,
-      "titles": [
-        "吞噬九重天"
       ]
     }
   ]
