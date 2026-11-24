@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "category": {
     "name": "玄幻仙侠",
     "major": "幻想言情",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -31,15 +31,15 @@
         {
           "title": "夺我神兽？废物二小姐不装了",
           "book_id": 12905865,
-          "heat_change": -2
+          "heat_change": -1
         }
       ],
-      "summary": "「玄幻仙侠」《夺我神兽？废物二小姐不装了》上升1位领涨；《夺我神兽？废物二小姐不装了》热度-2。",
+      "summary": "「玄幻仙侠」《夺我神兽？废物二小姐不装了》上升1位领涨；《夺我神兽？废物二小姐不装了》热度-1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 19,
+        "rank": 18,
         "title": "夺我神兽？废物二小姐不装了",
         "book_id": 12905865,
         "url": "https://www.qimao.com/shuku/12905865/",
@@ -51,19 +51,19 @@
         "minor_id": 21,
         "minor_url": "https://www.qimao.com/shuku/a-4-21-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40万字",
-        "word_count": 400000,
-        "heat": 1,
-        "platform_trend": "rise",
+        "word_count_text": "40.41万字",
+        "word_count": 404100,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "重生后，宫照夜看着嫡姐迫不及待抢走焚天雀、抢走师父、抢走她的一切机缘，还跑到她面前炫耀，得知嫡姐原来也重生了！\n她以为焚天雀可以进化成神兽凤凰，师父能让她修为飞涨，机缘能带给她无上好处。\n殊不知焚天雀是只笨鸟，师父是个邪修，机缘是个无数个等她踩入的大坑！\n而宫照夜开局就是满级丹尊！\n极品丹药信手拈来，扮猪吃虎打脸虐渣！\n被嫡姐夺去气运至宝？她收！\n有人欺负病弱妹妹？她打！\n本想扮丑装废低调行事，没想到有天当众掉马，于是全修真界火葬场了！\n从此，她抬头望天，天垂目；她踏地而行，地敛声。\n三界八荒，再无人敢让她低头半步。\n一手极品空间戒，让她意外认识了五个天才。\n本以为是神识交易、各取所需，只有利益往来，不想最后竟混成了最坚不可摧的团队！\n从此六人把修真界搅了个天翻地覆！\n当她站至巅峰，低头发现山脚的嫡姐踩了无数坑后，咒骂不断。\n这还不服？\n巧了，她专治一切不服！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4302/12905865_360x480.jpg?time=1788759382",
-        "latest_chapter": " 第192章  火种",
-        "updated_at": "2026-11-23 08:02:25",
+        "latest_chapter": " 第194章  宫采薇半路杀出",
+        "updated_at": "2026-11-24 08:02:22",
         "rank_change": 1,
-        "heat_change": -2,
+        "heat_change": -1,
         "is_new": false,
-        "boards_count": 1,
+        "boards_count": 2,
         "stale_update": false,
         "category": "玄幻仙侠"
       }

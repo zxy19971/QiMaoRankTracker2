@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-24",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 0,
+    "total_heat": 16,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "凰命错",
+            "book_id": 13123386,
+            "rank_change": 4
+          },
+          {
+            "title": "媚君侧",
+            "book_id": 11615952,
+            "rank_change": 2
+          },
+          {
+            "title": "禁庭春",
+            "book_id": 13278996,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "侯爷绝嗣？好孕丫鬟又又又是喜脉",
+            "book_id": 12583887,
+            "rank_change": -10
+          },
+          {
+            "title": "枕边奴",
+            "book_id": 13537935,
+            "rank_change": -4
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "禁庭春",
+            "book_id": 13278996,
+            "heat_change": -2
+          },
+          {
+            "title": "枕边奴",
+            "book_id": 13537935,
+            "heat_change": -2
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「宫闱宅斗」《凰命错》上升4位领涨；《侯爷绝嗣？好孕丫鬟又又又是喜脉》下滑10位；《禁庭春》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "离婚后她惊艳了世界",
+            "book_id": 222767
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "渣男骗婚？顶级大佬上门求名分",
+            "book_id": 13344123,
+            "intro": "沈辞矜贵冷冽，是站在商界顶端的掌权人，年少时的一场心动，被一句逞强的戏码彻底掩埋。\n唐颂曾把整个青春的欢喜都寄予他，却偶然听见他和朋友赌约的后半段：“谁说我搞不定唐颂，要不要打赌？”\n自卑的她以为他心"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902,
+            "rank_change": -6
+          },
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《离婚后她惊艳了世界》；《渣男骗婚？顶级大佬上门求名分》 掉出榜单；《疯犬玫瑰》下滑6位；《疯犬玫瑰》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "王妃她是引渡人",
+            "book_id": 12507633,
+            "intro": "【《将军她是引渡人》姊妹篇，悬疑+爽文+甜宠】\n归杳无过往，无五感，亦无七情六欲，却有五千张不同面孔。\n她替女子化灾解难，引渡新生。\n正妻想惩治私通的丈夫和养妹？\n当众抓奸并送渣男贱女上刑场。\n失散兄"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "rank_change": 4
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「古代情缘」《王妃她是引渡人》 掉出榜单；《新婚夜流放，飒爽太子妃种出西北大仓！》上升4位领涨；《新婚夜流放，飒爽太子妃种出西北大仓！》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "带着空间去下乡，生财暴富撩糙汉！",
+            "book_id": 13470801,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "带着空间去下乡，生财暴富撩糙汉！",
+            "book_id": 13470801,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「年代重生」《带着空间去下乡，生财暴富撩糙汉！》上升2位领涨；《带着空间去下乡，生财暴富撩糙汉！》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "家有玄妻，百邪不侵！",
+            "book_id": 11820759,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市奇幻」《家有玄妻，百邪不侵！》上升2位领涨；《家有玄妻，百邪不侵！》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "娱乐明星",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「娱乐明星」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "夺我神兽？废物二小姐不装了",
+            "book_id": 12905865,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "夺我神兽？废物二小姐不装了",
+            "book_id": 12905865,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「玄幻仙侠」《夺我神兽？废物二小姐不装了》上升1位领涨；《夺我神兽？废物二小姐不装了》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现实故事",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "展翼",
+            "book_id": 13734264
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「现实故事」新上榜 《展翼》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

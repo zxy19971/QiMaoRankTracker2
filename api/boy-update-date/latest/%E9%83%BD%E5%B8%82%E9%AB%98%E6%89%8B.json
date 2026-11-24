@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "category": {
     "name": "都市高手",
     "major": "都市",
@@ -27,14 +27,8 @@
         }
       ],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "美女总裁，请上车",
-          "book_id": 2091347,
-          "heat_change": 1
-        }
-      ],
-      "summary": "「都市高手」《美女总裁，请上车》上升1位领涨；《美女总裁，请上车》热度+1。",
+      "heat_leaders": [],
+      "summary": "「都市高手」《美女总裁，请上车》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,15 +45,15 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "378.36万字",
-        "word_count": 3783600,
+        "word_count_text": "379.06万字",
+        "word_count": 3790600,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
-        "latest_chapter": " 第1637章  都是以前年少不懂事",
-        "updated_at": "2026-11-23 07:02:16",
+        "latest_chapter": " 第1640章  你无愧于任何人",
+        "updated_at": "2026-11-24 07:02:14",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -68,7 +62,7 @@
         "category": "都市高手"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "title": "美女总裁，请上车",
         "book_id": 2091347,
         "url": "https://www.qimao.com/shuku/2091347/",
@@ -80,17 +74,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "391.08万字",
-        "word_count": 3910800,
+        "word_count_text": "392.19万字",
+        "word_count": 3921900,
         "heat": 1,
         "platform_trend": "rise",
         "badge": "",
         "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加癫一点。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/916/2747768_360x480.jpg?time=1790776185",
-        "latest_chapter": " 第1430章  你是化神境？",
-        "updated_at": "2026-11-23 01:24:11",
+        "latest_chapter": " 第1434章  字字诛心！",
+        "updated_at": "2026-11-24 01:45:12",
         "rank_change": 1,
-        "heat_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

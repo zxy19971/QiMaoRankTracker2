@@ -11,23 +11,11 @@
     {
       "board": "girl-over-date",
       "board_name": "女生完结日榜",
-      "rank": 19,
-      "heat": 75000
+      "rank": 18,
+      "heat": 67000
     }
   ],
   "history": [
-    {
-      "d": "2026-08-25",
-      "b": "girl-over-date",
-      "r": 20,
-      "h": 98000
-    },
-    {
-      "d": "2026-08-25",
-      "b": "girl-over-month",
-      "r": 15,
-      "h": 4757000
-    },
     {
       "d": "2026-08-26",
       "b": "girl-over-date",
@@ -645,6 +633,12 @@
       "b": "girl-over-date",
       "r": 19,
       "h": 75000
+    },
+    {
+      "d": "2026-11-24",
+      "b": "girl-over-date",
+      "r": 18,
+      "h": 67000
     }
   ]
 }

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
@@ -16,20 +16,9 @@
     "total_heat": 28000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 2,
+      "dropped_count": 0,
       "new_books": [],
-      "dropped_books": [
-        {
-          "title": "嫡姐惨死？她抬棺杀疯京城！",
-          "book_id": 13021647,
-          "intro": "女强爽文+打脸虐渣+复仇+马甲\n宋南枝嫡姐被人凌辱致死，婆家以七出之罪将她尸体送回将军府。\n祖母以有辱门风之名，不准嫡姐下葬！\n宋南枝教他们做人！\n镇国公世子毁背信弃义，娶平妻，辱阿姐？\n宋南枝当众废"
-        },
-        {
-          "title": "夺妻欢",
-          "book_id": 13263660,
-          "intro": "【上位者低头+见色起意+强取豪夺+烂人真心】\n【娇软单纯养媳*高位坏种权臣】（男主高需求）\n绣绣是个盲女，自小作为养媳嫁给夫君。\n分离多年，她上京寻夫，才知夫君考取功名后，只将她视为累赘。\n还欲与京城"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [
         {
           "title": "地狱归，驭百鬼，王妃回京后杀疯了",
@@ -38,19 +27,13 @@
         }
       ],
       "top_fallers": [],
-      "heat_leaders": [
-        {
-          "title": "地狱归，驭百鬼，王妃回京后杀疯了",
-          "book_id": 13123449,
-          "heat_change": -1000
-        }
-      ],
-      "summary": "「古代情缘」《嫡姐惨死？她抬棺杀疯京城！》、《夺妻欢》 掉出榜单；《地狱归，驭百鬼，王妃回京后杀疯了》上升2位领涨；《地狱归，驭百鬼，王妃回京后杀疯了》热度-1000。",
+      "heat_leaders": [],
+      "summary": "「古代情缘」《地狱归，驭百鬼，王妃回京后杀疯了》上升2位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 10,
         "title": "地狱归，驭百鬼，王妃回京后杀疯了",
         "book_id": 13123449,
         "url": "https://www.qimao.com/shuku/13123449/",
@@ -62,17 +45,17 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.07万字",
-        "word_count": 450700,
+        "word_count_text": "45.5万字",
+        "word_count": 455000,
         "heat": 28000,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "江黎在大婚日被未婚夫送来保护她的暗卫灌毒酒，被舅舅一家剥了脸皮，最后九根镇魂钉将她钉死在梨树下。\n\n　　阴差阳错之下，体内尘封的玄医灵脉被打通，可她的肉身被毁，魂魄进入了镇西侯府大小姐江离的身体。\n\n　　从此世间再无郡主江黎，只有侯府嫡女江离。\n\n　　江离的仇，她来报。\n\n　　只是她惊觉，长公主无法安息的夭折麟儿、皇后寝宫夜半呜咽的屏风、太子身后阴魂不散的无头厉鬼，一桩桩血海冤孽，幕后推手竟然全是残害她并夺走她容貌的舅舅一家人。\n\n　　换一张皮囊，怀满腔仇火，她驱使阴鬼步步布局。\n\n　　要让这群敲骨吸髓的恶人，加倍偿还剥皮钉魂之痛！\n\n　　……\n\n　　世人只知摄政王梁昼沉大权在握，杀伐果断。\n\n　　可无人知道入夜后，他将侯府大小姐按在榻上，吻上她眼尾的一点泪痣，白日里清冷疏离的眸子染着欲色的暗沉，动作越发放肆。\n\n　　“阿黎，求求你看看我，好不好？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4375/13123449_360x480.jpg?time=1787731531",
-        "latest_chapter": " 第206章  平阳竟然又给人下药",
-        "updated_at": "2026-11-23 01:37:03",
+        "latest_chapter": " 第208章  原皇后找到她的头了",
+        "updated_at": "2026-11-24 02:02:03",
         "rank_change": 2,
-        "heat_change": -1000,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

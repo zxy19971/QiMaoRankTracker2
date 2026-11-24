@@ -8,55 +8,89 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "category": {
     "name": "都市高武",
     "major": "都市",
-    "count": 4,
-    "total_heat": 4,
+    "count": 3,
+    "total_heat": 9,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "高武严父，永远比儿子高五个境界",
-          "book_id": 12565608
-        }
-      ],
+      "new_books": [],
       "dropped_books": [
         {
-          "title": "女子监狱五年，出狱即无敌",
-          "book_id": 12791886,
-          "intro": "萧尘身负万古罕见的九阳圣体，在幽冥女子牢狱中，于群芳噬骨般的采补狂潮里涅槃重生。\n\n刑满释放之日，昔日恋人背信弃义，逼他迎娶一个痴傻废女。\n\n萧尘非但不怒，反而仰天大笑应允。\n\n天下奇珍异体，终将尽归"
+          "title": "高武严父，永远比儿子高五个境界",
+          "book_id": 12565608,
+          "intro": "处在高武世界底层已久的王怀安意外觉醒了【望父成龙】的系统，并且获得了【自己永远比儿子高五个境界】的系统加持，\n从此以后，王怀安开始了培养儿子王腾的培养计划。\n向着儿子疯狂的砸资源，儿子越强，他越强！\n"
         }
       ],
       "top_risers": [
         {
-          "title": "神武天下之睚眦",
-          "book_id": 1977738,
-          "rank_change": 1
+          "title": "五年挡灾无人问，恐怖上门你是谁！？",
+          "book_id": 13755225,
+          "rank_change": 4
         }
       ],
       "top_fallers": [
         {
+          "title": "神武天下之睚眦",
+          "book_id": 1977738,
+          "rank_change": -9
+        },
+        {
           "title": "我在都市修了个野仙",
           "book_id": 2078908,
-          "rank_change": -1
+          "rank_change": -2
         }
       ],
       "heat_leaders": [
         {
-          "title": "我在都市修了个野仙",
-          "book_id": 2078908,
-          "heat_change": -1
+          "title": "五年挡灾无人问，恐怖上门你是谁！？",
+          "book_id": 13755225,
+          "heat_change": 4
+        },
+        {
+          "title": "神武天下之睚眦",
+          "book_id": 1977738,
+          "heat_change": 3
         }
       ],
-      "summary": "「都市高武」新上榜 《高武严父，永远比儿子高五个境界》；《女子监狱五年，出狱即无敌》 掉出榜单；《神武天下之睚眦》上升1位领涨；《我在都市修了个野仙》下滑1位；《我在都市修了个野仙》热度-1。",
+      "summary": "「都市高武」《高武严父，永远比儿子高五个境界》 掉出榜单；《五年挡灾无人问，恐怖上门你是谁！？》上升4位领涨；《神武天下之睚眦》下滑9位；《五年挡灾无人问，恐怖上门你是谁！？》热度+4。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 15,
+        "title": "五年挡灾无人问，恐怖上门你是谁！？",
+        "book_id": 13755225,
+        "url": "https://www.qimao.com/shuku/13755225/",
+        "author": "碗里夹",
+        "author_url": "https://www.qimao.com/zuozhe/%E7%A2%97%E9%87%8C%E5%A4%B9_14/",
+        "major": "都市",
+        "minor": "都市高武",
+        "major_id": 203,
+        "minor_id": 219,
+        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "34.48万字",
+        "word_count": 344800,
+        "heat": 4,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "为妻苏婉儿挡尽阴邪，换来一句离婚，殊不知离婚过后，恐怖复苏，她哭疯了，后悔了，可那个替她扛灾五年的男人，如今已是一尊镇世真龙，高不可攀！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4586/13755225_360x480.jpg?time=1792067354",
+        "latest_chapter": " 第167章  你要一个人下去？",
+        "updated_at": "2026-11-23 22:02:06",
+        "rank_change": 4,
+        "heat_change": 4,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "都市高武"
+      },
+      {
+        "rank": 16,
         "title": "神武天下之睚眦",
         "book_id": 1977738,
         "url": "https://www.qimao.com/shuku/1977738/",
@@ -70,22 +104,22 @@
         "status": "已完结",
         "word_count_text": "491.9万字",
         "word_count": 4919000,
-        "heat": 1,
-        "platform_trend": "rise",
+        "heat": 4,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "讲述了温羽凡从幸福崩塌到绝境重生的故事。原本拥有温馨家庭的他，在儿子生日当晚遭遇楼体坍塌，妻儿离世，自己重伤瘫痪，陷入绝望。\n濒死之际，他被　“造神系统”　选中，成为　“神种”　获得力量，从瘫痪中站起。为隐藏身份，他进入工厂当保安，却意外卷入与武者余刚的冲突，见识到超凡力量的世界，也因硬接对方重拳留下内伤。\n在痛苦与挣扎中，温羽凡逐渐接受系统，通过修炼晋级，同时得知家人的悲剧可能与　“新神会”　有关。他一边用保安身份掩饰，一边偷偷变强，更在老中医帮助下调理伤势，决心踏上复仇之路，誓要为逝去的亲人讨回公道，揭开灾难背后的真相。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/746/2237791_360x480.jpg?time=1747831667",
         "latest_chapter": " 第1110章  欢迎来到新世界（完结）",
         "updated_at": "2026-11-15 09:32:10",
-        "rank_change": 1,
-        "heat_change": 0,
+        "rank_change": -9,
+        "heat_change": 3,
         "is_new": false,
         "boards_count": 1,
         "stale_update": true,
         "category": "都市高武"
       },
       {
-        "rank": 16,
+        "rank": 18,
         "title": "我在都市修了个野仙",
         "book_id": 2078908,
         "url": "https://www.qimao.com/shuku/2078908/",
@@ -97,77 +131,19 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "301.94万字",
-        "word_count": 3019400,
+        "word_count_text": "303.17万字",
+        "word_count": 3031700,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "林子东遭女友背叛，侥幸得到修仙传承，他幻想中的修仙是小说中那般神挡杀神佛挡杀佛，逍遥世间，怎么到了自己这里全是美人关？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/907/2718192_360x480.jpg?time=1770139124",
-        "latest_chapter": " 第1454章  魔核！",
-        "updated_at": "2026-11-22 22:12:11",
-        "rank_change": -1,
-        "heat_change": -1,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 19,
-        "title": "五年挡灾无人问，恐怖上门你是谁！？",
-        "book_id": 13755225,
-        "url": "https://www.qimao.com/shuku/13755225/",
-        "author": "碗里夹",
-        "author_url": "https://www.qimao.com/zuozhe/%E7%A2%97%E9%87%8C%E5%A4%B9_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "33.43万字",
-        "word_count": 334300,
-        "heat": 0,
-        "platform_trend": "",
-        "badge": "",
-        "intro": "为妻苏婉儿挡尽阴邪，换来一句离婚，殊不知离婚过后，恐怖复苏，她哭疯了，后悔了，可那个替她扛灾五年的男人，如今已是一尊镇世真龙，高不可攀！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4586/13755225_360x480.jpg?time=1792067354",
-        "latest_chapter": " 第162章  多出的一根绳",
-        "updated_at": "2026-11-22 22:20:05",
-        "rank_change": 0,
+        "latest_chapter": " 第1460章  奴仆？",
+        "updated_at": "2026-11-24 06:42:11",
+        "rank_change": -2,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 20,
-        "title": "高武严父，永远比儿子高五个境界",
-        "book_id": 12565608,
-        "url": "https://www.qimao.com/shuku/12565608/",
-        "author": "邯郸财阀",
-        "author_url": "https://www.qimao.com/zuozhe/%E9%82%AF%E9%83%B8%E8%B4%A2%E9%98%80_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "94.36万字",
-        "word_count": 943600,
-        "heat": 2,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "处在高武世界底层已久的王怀安意外觉醒了【望父成龙】的系统，并且获得了【自己永远比儿子高五个境界】的系统加持，\n从此以后，王怀安开始了培养儿子王腾的培养计划。\n向着儿子疯狂的砸资源，儿子越强，他越强！\n本来觉得自己老爹没用的王腾，突然有一天觉得父亲已经成为了不可逾越的高山。\n若干年后。\n王腾：“我爹王怀安有大帝之资！”\n王怀安：“倒反天罡！\n面对万族妖兽，阴鬼邪神，王怀安一人一剑，斩灭一切，镇守人族，独抗万族之敌，\n站在武道尽头道：“谁敢伤吾孩儿，便斩碎一切！”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4189/12565608_360x480.jpg?time=1782178975",
-        "latest_chapter": " 第454章  超品，三品！",
-        "updated_at": "2026-11-23 00:07:10",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
-        "boards_count": 2,
         "stale_update": false,
         "category": "都市高武"
       }

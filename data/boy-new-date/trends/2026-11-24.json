@@ -1,0 +1,330 @@
+{
+  "date": "2026-11-24",
+  "board": "boy-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 7,
+    "dropped_count": 7,
+    "avg_heat": 21300,
+    "total_heat": 426000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "诡异降临：离婚后无我镇命，她全家慌了",
+            "book_id": 13734438
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+            "book_id": 13241454,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "都市大猛仙",
+            "book_id": 12947607,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "我医武双绝，体内有尊神农鼎",
+            "book_id": 13674141,
+            "heat_change": 5000
+          },
+          {
+            "title": "都市大猛仙",
+            "book_id": 12947607,
+            "heat_change": -2000
+          },
+          {
+            "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+            "book_id": 13241454,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「都市高武」新上榜 《诡异降临：离婚后无我镇命，她全家慌了》；《都荒岛求生了，一群绿茶还想让我当舔狗》上升2位领涨；《都市大猛仙》下滑4位；《我医武双绝，体内有尊神农鼎》热度+5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "穿越70：娶美女知青，狩猎兴安岭",
+            "book_id": 13399662
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "高高在上不给碰，我换亲你哭什么",
+            "book_id": 13938639,
+            "rank_change": 4
+          },
+          {
+            "title": "高冷校花香香软软，凭啥还舔你啊",
+            "book_id": 13220790,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "高高在上不给碰，我换亲你哭什么",
+            "book_id": 13938639,
+            "heat_change": 14000
+          },
+          {
+            "title": "高冷校花香香软软，凭啥还舔你啊",
+            "book_id": 13220790,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "「都市生活」新上榜 《穿越70：娶美女知青，狩猎兴安岭》；《高高在上不给碰，我换亲你哭什么》上升4位领涨；《高高在上不给碰，我换亲你哭什么》热度+14000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "大道仙炉",
+            "book_id": 13309743,
+            "rank_change": -1
+          },
+          {
+            "title": "奇葫仙缘",
+            "book_id": 13123122,
+            "rank_change": -1
+          },
+          {
+            "title": "长生隐仙",
+            "book_id": 13425288,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "奇葫仙缘",
+            "book_id": 13123122,
+            "heat_change": -4000
+          },
+          {
+            "title": "长生隐仙",
+            "book_id": 13425288,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「古典仙侠」《大道仙炉》下滑1位；《奇葫仙缘》热度-4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "开局破庙托付，阴阳大道成就武神！",
+            "book_id": 13006284,
+            "rank_change": 3
+          },
+          {
+            "title": "废丹房老头，被仙子逼婚了",
+            "book_id": 13608798,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "成仙",
+            "book_id": 13343910,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "开局破庙托付，阴阳大道成就武神！",
+            "book_id": 13006284,
+            "heat_change": 2000
+          },
+          {
+            "title": "废丹房老头，被仙子逼婚了",
+            "book_id": 13608798,
+            "heat_change": -1000
+          },
+          {
+            "title": "成仙",
+            "book_id": 13343910,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「幻想修真」《开局破庙托付，阴阳大道成就武神！》上升3位领涨；《成仙》下滑3位；《开局破庙托付，阴阳大道成就武神！》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 3,
+        "new_books": [
+          {
+            "title": "犯上家奴，替假世子成亲后问鼎武圣！",
+            "book_id": 13307478
+          },
+          {
+            "title": "大乾第一好圣孙",
+            "book_id": 13619796
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "寇天子",
+            "book_id": 12817968,
+            "intro": "古武传人高远穿越到乱世之中，以土匪之身坐拥四位红颜知己，实力惊人的武将，隐藏身份的女帝，多年未见的大嫂，还有一个亡国之恨的公主！剑扫四海八荒，豪气激荡云霄，白天策马奔袭，夜间笙歌环绕！且随我行，江山美"
+          },
+          {
+            "title": "执弓，荡寇，扫八荒！",
+            "book_id": 13582923,
+            "intro": "永安三十一年，朝堂腐败，义军突起，天下大乱。\n赵烽穿越至此，成为一名叛军小卒。\n一睁眼便遇发饷，而饷银却是两名貌美女子。\n可红颜祸水，当日就被隔壁屯长逼迫，用五两银子买走了她们。\n此时，城外官兵围困，"
+          },
+          {
+            "title": "父皇别试探了，我真不想当太子啊！",
+            "book_id": 13844022,
+            "intro": "【躺赢纯爽流】+【搞笑不烧心】+【你们真是害苦了朕！】\n顾清穿越大乾十五年，掏空心思只想当个逍遥王爷。\n夺嫡？我又不是李二！\n皇帝？狗都不当！\n奈何太子爱打顺风局，觉得哥哥我顺极了！\n一番操作之下，顾"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
+            "book_id": 13695813,
+            "rank_change": -3
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
+            "book_id": 13695813,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「架空历史」新上榜 《犯上家奴，替假世子成亲后问鼎武圣！》、《大乾第一好圣孙》；《寇天子》、《执弓，荡寇，扫八荒！》、《父皇别试探了，我真不想当太子啊！》 掉出榜单；《本侍卫只想躺平，皇后娘娘求我君临天下》下滑3位；《本侍卫只想躺平，皇后娘娘求我君临天下》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "纯阳剑仙：我的老婆是女帝",
+            "book_id": 13560672,
+            "intro": "在一个月黑风高的夜晚，两名身中剧毒的绝色女帝先后钻进林烬屋子，让林烬帮她们解毒。\n林烬费尽全身精力帮她们解毒之后，她们竟都让林烬帮忙镇压对方。\n林烬很懵逼，有没有搞错？我废柴一个，哪能镇压你们这两个威"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "荒淫无道？我那是拯救快散的宗门！",
+            "book_id": 13611585,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「东方玄幻」《纯阳剑仙：我的老婆是女帝》 掉出榜单；《荒淫无道？我那是拯救快散的宗门！》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "重生70：断亲入赘，三枪轰出万元户",
+            "book_id": 13780857
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「乡村生活」新上榜 《重生70：断亲入赘，三枪轰出万元户》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "缆车求生：我能升级一切",
+            "book_id": 13279389
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世危机」新上榜 《缆车求生：我能升级一切》。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "退役兵王想躺平，奈何女神太倾城",
+            "book_id": 13501665
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "下山第一天，逮个美女总裁暴力宠",
+            "book_id": 13008696,
+            "intro": "林峰从小被九个绝世大佬收养，修得惊天本领，夺天机，逆苍穹。\n刚下山就捡了一个被算计的美女总裁，阴差阳错解除逆天体质的副作用。\n本想退婚，不曾想被羞辱，意外与自己有肌肤之亲的美女总裁成婚。\n当他展现逆天"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」新上榜 《退役兵王想躺平，奈何女神太倾城》；《下山第一天，逮个美女总裁暴力宠》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "date": "2026-11-24",
+  "board": "boy-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 5,
+    "dropped_count": 5,
+    "avg_heat": 217200,
+    "total_heat": 4344000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "都市之极品修仙",
+            "book_id": 13525731,
+            "rank_change": 5
+          },
+          {
+            "title": "都市大猛仙",
+            "book_id": 12947607,
+            "rank_change": 2
+          },
+          {
+            "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+            "book_id": 13241454,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高武」《都市之极品修仙》上升5位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "你捧你的干弟弟，我离我的婚",
+            "book_id": 13458249
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "重生70：大国栋梁，从正阳门下开始",
+            "book_id": 12867831,
+            "intro": "博士导师周朝阳在人生最辉煌的时候，被自己最得意的弟子诬陷S小气抄袭他的学术成果，他气得心脏病突发去世，等他醒过来，却发现自己穿越到了京城一个十六岁的少年身上，而且现在是七六年，没有AI人工智能！没有大"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "穿越70：娶美女知青，狩猎兴安岭",
+            "book_id": 13399662,
+            "rank_change": 5
+          },
+          {
+            "title": "高冷校花香香软软，凭啥还舔你啊",
+            "book_id": 13220790,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市生活」新上榜 《你捧你的干弟弟，我离我的婚》；《重生70：大国栋梁，从正阳门下开始》 掉出榜单；《穿越70：娶美女知青，狩猎兴安岭》上升5位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "奇葫仙缘",
+            "book_id": 13123122
+          },
+          {
+            "title": "长生隐仙",
+            "book_id": 13425288
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "大道仙炉",
+            "book_id": 13309743,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古典仙侠」新上榜 《奇葫仙缘》、《长生隐仙》；《大道仙炉》上升5位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "说好的纨绔，怎么正魔两道全是他红颜",
+            "book_id": 13427316,
+            "rank_change": 5
+          },
+          {
+            "title": "仙子全失踪，关我一个杂役什么事",
+            "book_id": 13415388,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」《说好的纨绔，怎么正魔两道全是他红颜》上升5位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "厌术神匠",
+            "book_id": 13342959,
+            "rank_change": 5
+          },
+          {
+            "title": "一身吞鬼术，杀遍世间敌！",
+            "book_id": 12678867,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」《厌术神匠》上升5位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "重生1976：开局救下高干千金",
+            "book_id": 13462677
+          },
+          {
+            "title": "重生八零：我靠狩猎养活全家",
+            "book_id": 13295337
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "赶山79：大雪荒年，我提枪护三家！",
+            "book_id": 13362843,
+            "intro": "重生到了18岁，在那贫饥年代，家里穷的就剩三个美貌嫂子了。\n要保住陆家根基，就要挺起男人的脊梁。\n债主逼迫，我来挡。\n缺衣少穿，我来赚。\n拿起枪来能猎熊杀狼，拿起渔网能捕鱼捉鳖。\n全靠具有锚线异能来提"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「乡村生活」新上榜 《重生1976：开局救下高干千金》、《重生八零：我靠狩猎养活全家》；《赶山79：大雪荒年，我提枪护三家！》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "衍生同人",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "四合院：杀禽抢房，战天斗地！",
+            "book_id": 13418244,
+            "rank_change": 4
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「衍生同人」《四合院：杀禽抢房，战天斗地！》上升4位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "开局破庙托付，阴阳大道成就武神！",
+            "book_id": 13006284,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「幻想修真」《开局破庙托付，阴阳大道成就武神！》上升5位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "缆车求生：我能升级一切",
+            "book_id": 13279389,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世危机」《缆车求生：我能升级一切》上升5位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "王朝争霸",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "铸神朝",
+            "book_id": 13527720,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「王朝争霸」《铸神朝》上升5位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "热血校园",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "开局回收返利：校花竟是假名媛",
+            "book_id": 13445313,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「热血校园」《开局回收返利：校花竟是假名媛》上升5位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

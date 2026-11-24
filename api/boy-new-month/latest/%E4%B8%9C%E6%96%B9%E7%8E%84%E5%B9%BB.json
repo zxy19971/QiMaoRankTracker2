@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
@@ -19,15 +19,26 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "说好的纨绔，怎么正魔两道全是他红颜",
+          "book_id": 13427316,
+          "rank_change": 5
+        },
+        {
+          "title": "仙子全失踪，关我一个杂役什么事",
+          "book_id": 13415388,
+          "rank_change": 5
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
+      "summary": "「东方玄幻」《说好的纨绔，怎么正魔两道全是他红颜》上升5位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 12,
+        "rank": 7,
         "title": "说好的纨绔，怎么正魔两道全是他红颜",
         "book_id": 13427316,
         "url": "https://www.qimao.com/shuku/13427316/",
@@ -39,16 +50,16 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.88万字",
-        "word_count": 428800,
+        "word_count_text": "43.71万字",
+        "word_count": 437100,
         "heat": 202000,
         "platform_trend": "rise",
-        "badge": "飙升42名",
+        "badge": "飙升47名",
         "intro": "【穿越游戏+游戏系统+多女主+纨绔+江湖】\n穿成纨绔反派，开局就差点玷污正道仙子！\n什么？她大哥还是未来剑神？\n为求活命，我被迫上演浪子回头、为爱痴狂的戏码！\n天天送花，日日表白，眼看就要把冰山仙子暖化，让她忘了我的黑历史！\n谁知，我当初为表忠心拒之门外的魔教妖女，竟乔装成她，骗我爬上神女峰！\n悬崖之上，面对魔女“你跳我就放了她”的致命考验，我心一横，纵身一跃！\n这一跳，跳得正道仙子泪崩表白，跳得魔教妖女心神摇曳！\n可我万万没想到，启动秘境传送时，本想拉着仙子私奔，却抓错了人，和那媚眼如丝的魔女一起掉了进去！\n看着怀里笑得花枝乱颤的妖女，我人麻了：救命！拉错人了啊！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4476/13427316_360x480.jpg?time=1791623614",
-        "latest_chapter": " 第126章  东海剑仙，桃花岛主（八千字大章）",
-        "updated_at": "2026-11-23 00:02:27",
-        "rank_change": 0,
+        "latest_chapter": " 第127章  红莲业母，梵天姬（八千二百字）",
+        "updated_at": "2026-11-24 00:03:04",
+        "rank_change": 5,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -56,7 +67,7 @@
         "category": "东方玄幻"
       },
       {
-        "rank": 18,
+        "rank": 13,
         "title": "仙子全失踪，关我一个杂役什么事",
         "book_id": 13415388,
         "url": "https://www.qimao.com/shuku/13415388/",
@@ -68,16 +79,16 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "49.83万字",
-        "word_count": 498300,
+        "word_count_text": "50.5万字",
+        "word_count": 505000,
         "heat": 168000,
         "platform_trend": "rise",
-        "badge": "飙升39名",
+        "badge": "飙升44名",
         "intro": "“杂役的命就不是命吗？”\n开局被师姐放血炼丹，楚枫意外得炼天造化葫认主。\n反手囚禁师姐，榨其修为，重铸灵根！\n从此，楚枫携炼天造化葫，炼废丹成极品，炼残兵为极道帝兵，炼诸天神女为己用！\n高冷圣女，昔日婚约在身，如今冷眼相对？\n炼化圣女心魔，她哭着求复合。\n天仙宗主，觊觎纯阳之体，欲榨干做药引？\n炼化绝世丹药，宗主跪求助我修行！\n龙族神女，夺炼天造化葫，将我炼成血傀？\n炼化本命龙珠，御龙而上九重天，万族俯首！\n……\n炼天造化葫！\n唤真名，顷刻炼化！\n炼天！炼地！炼神仙！炼尽诸天！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4472/13415388_360x480.jpg?time=1788925410",
-        "latest_chapter": " 第144章  炼化老祖，四大宗门围攻血煞宗！",
-        "updated_at": "2026-11-22 22:39:03",
-        "rank_change": 0,
+        "latest_chapter": " 第146章  楚枫：丹阳宗太上长老！",
+        "updated_at": "2026-11-24 00:02:11",
+        "rank_change": 5,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

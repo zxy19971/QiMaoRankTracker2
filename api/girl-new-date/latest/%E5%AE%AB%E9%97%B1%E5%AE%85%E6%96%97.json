@@ -8,41 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "category": {
     "name": "宫闱宅斗",
     "major": "古代言情",
-    "count": 4,
-    "total_heat": 200000,
+    "count": 3,
+    "total_heat": 218000,
     "trend": {
-      "new_count": 2,
+      "new_count": 0,
       "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "枕边奴",
-          "book_id": 13537935
-        },
-        {
-          "title": "从通房丫鬟干到一品诰命",
-          "book_id": 13023483
-        }
-      ],
+      "new_books": [],
       "dropped_books": [
         {
-          "title": "皇上开门，福宝带物资来送温暖啦",
-          "book_id": 12856758,
-          "intro": "【萌宝、通古今、团宠、治愈异能】\n暖暖是带着治愈异能出生的。\n亲生父母嫌弃她奇怪，离婚后把她一个人留在老房子里。\n她抱着祖传的铜镜，意外穿越到了古代。\n小将军身中剧毒，她刚好能治！\n百姓吃不饱饭，别怕"
+          "title": "从通房丫鬟干到一品诰命",
+          "book_id": 13023483,
+          "intro": "【丫鬟+男二上位+治愈+谋划】\n一开始青岚的愿望很简单，等当丫鬟年限满了之后，便出府去，找一个温柔的男人嫁了，生一双乖巧的儿女，过普通的生活。\n可上辈子被渣男算计告诉她这条路行不通，重生后，她打算留在"
         }
       ],
       "top_risers": [
         {
-          "title": "皇后令",
-          "book_id": 13424982,
+          "title": "夺妻色",
+          "book_id": 13378512,
           "rank_change": 2
         },
         {
-          "title": "夺妻色",
-          "book_id": 13378512,
+          "title": "枕边奴",
+          "book_id": 13537935,
           "rank_change": 1
         }
       ],
@@ -51,10 +42,20 @@
         {
           "title": "皇后令",
           "book_id": 13424982,
-          "heat_change": 14000
+          "heat_change": 39000
+        },
+        {
+          "title": "枕边奴",
+          "book_id": 13537935,
+          "heat_change": 2000
+        },
+        {
+          "title": "夺妻色",
+          "book_id": 13378512,
+          "heat_change": -1000
         }
       ],
-      "summary": "「宫闱宅斗」新上榜 《枕边奴》、《从通房丫鬟干到一品诰命》；《皇上开门，福宝带物资来送温暖啦》 掉出榜单；《皇后令》上升2位领涨；《皇后令》热度+14000。",
+      "summary": "「宫闱宅斗」《从通房丫鬟干到一品诰命》 掉出榜单；《夺妻色》上升2位领涨；《皇后令》热度+39000。",
       "ai_source": "rule"
     },
     "books": [
@@ -71,24 +72,24 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.85万字",
-        "word_count": 328500,
-        "heat": 119000,
+        "word_count_text": "33.31万字",
+        "word_count": 333100,
+        "heat": 158000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "原名（蛰伏十年报母仇，她问鼎东宫）\n她本该是捻卷研磨，一生无忧的世家娇女\n十五年前，寒门出身的父亲为了攀附权贵，迎娶高门女子\n只因高门女说不喜欢拖家带口的男人\n父亲便设局将妻女活活丢进贼窝虐杀\n雷雨夜，怀着身孕的娘亲拼尽全力替她趟出一条生路。\n那一晚五岁的她带着浑身的伤，在娘亲的惨嚎声中，踏出地狱，又踏入重重宫城。\n十年蛰伏，今日新帝选秀，她成了人人尊称的御前大宫女沈姑姑。\n这一次她要断了渣爹所有的生路，先从他入宫选秀的女儿开始。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4475/13424982_360x480.jpg?time=1793005339",
-        "latest_chapter": " 第146章  抹杀你",
-        "updated_at": "2026-11-22 20:21:04",
-        "rank_change": 2,
-        "heat_change": 14000,
+        "latest_chapter": " 第148章  不能解释",
+        "updated_at": "2026-11-23 22:11:03",
+        "rank_change": 0,
+        "heat_change": 39000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 10,
+        "rank": 8,
         "title": "夺妻色",
         "book_id": 13378512,
         "url": "https://www.qimao.com/shuku/13378512/",
@@ -100,24 +101,24 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "28.14万字",
-        "word_count": 281400,
-        "heat": 33000,
-        "platform_trend": "rise",
+        "word_count_text": "28.55万字",
+        "word_count": 285500,
+        "heat": 32000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【强取豪夺，追妻火葬场】\n罗幼徽本是教书先生的女儿，因救命之恩，嫁给了裴彦青。\n谁知婚后郎君待她疏离冷淡，新婚不过一载，却如同过了半辈子。\n宴席上，宗族来了位贵人下榻府中，意外发生。\n一夜荒唐过后，她假装无事发生，只想要摆脱此人。\n谁料，公婆再三叮嘱她：好生操持贵人内务，莫要出了差错。\n荒唐事一件接着一件。\n*\n裴叙未及而立之年，房中常年冷清，不近女色。\n在河州，他不只一次看到那小妇人是如何对待裴彦青，又是如何吴侬软语。\n之后，他用尽手段，使得她与夫君和离，成为他的外室。\n那些在黑暗中滋生的欲望，无数次告诉他，不过就是一妇人。\n要了便要了，夺了便夺了。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4460/13378512_360x480.jpg?time=1789464709",
-        "latest_chapter": " 第138章  规矩",
-        "updated_at": "2026-11-23 00:08:05",
-        "rank_change": 1,
-        "heat_change": 0,
+        "latest_chapter": " 第140章  恩宠",
+        "updated_at": "2026-11-24 01:11:03",
+        "rank_change": 2,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "宫闱宅斗"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "title": "枕边奴",
         "book_id": 13537935,
         "url": "https://www.qimao.com/shuku/13537935/",
@@ -129,48 +130,19 @@
         "minor_id": 209,
         "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.22万字",
-        "word_count": 372200,
-        "heat": 26000,
-        "platform_trend": "rise",
+        "word_count_text": "37.83万字",
+        "word_count": 378300,
+        "heat": 28000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【公主×戏子/女A男O】，双洁×双向救赎\n赵清徽的眼底是江山、是棋局，杨澈在戏台上唱尽别人的悲欢。\n他满身落雪，戏台上等一声“赏”，等来的却是羞辱：连他带赏，一并送进穆王后院。\n她的一句“这戏，本殿还未听完”将他救下。\n后来，他踩着她铺就的路，走到高处。\n白天，他一身官袍立于大殿，夜里，他换上戏服，水袖落下来，覆住她的眼，低低唤她乳名：“虫娘，我算什么？”\n“越发没规矩了。”赵清徽说道。\n他含住她的耳，腰身沉下去：“白日规矩太多，夜里放肆些……才得趣。”\n戏子无情，是本性，逢场作戏，是本行。\n直到他将锋芒对准她，她才明白，他终究不再是那个只会唱戏的少年了。\n世人跪观音，求渡己，杨澈心里也供着一尊观音，是照着一个人的模样塑出来的，他所求：用尽手段，拉她下神坛！\n他一遍一遍地吻她，敬她是真，亵渎也是真……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4513/13537935_360x480.jpg?time=1790758882",
-        "latest_chapter": " 第183章  背后之人的真面目",
-        "updated_at": "2026-11-23 08:07:05",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第186章  那个热血少年",
+        "updated_at": "2026-11-24 08:07:05",
+        "rank_change": 1,
+        "heat_change": 2000,
+        "is_new": false,
         "boards_count": 3,
-        "stale_update": false,
-        "category": "宫闱宅斗"
-      },
-      {
-        "rank": 18,
-        "title": "从通房丫鬟干到一品诰命",
-        "book_id": 13023483,
-        "url": "https://www.qimao.com/shuku/13023483/",
-        "author": "吉寺",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%90%89%E5%AF%BA_14/",
-        "major": "古代言情",
-        "minor": "宫闱宅斗",
-        "major_id": 2,
-        "minor_id": 209,
-        "minor_url": "https://www.qimao.com/shuku/a-2-209-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "48.22万字",
-        "word_count": 482200,
-        "heat": 22000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "【丫鬟+男二上位+治愈+谋划】\n一开始青岚的愿望很简单，等当丫鬟年限满了之后，便出府去，找一个温柔的男人嫁了，生一双乖巧的儿女，过普通的生活。\n可上辈子被渣男算计告诉她这条路行不通，重生后，她打算留在国公府，成为大少爷的通房丫鬟，一步步往上爬，最终手刃了前世的仇人。\n她本是谋生之举。\n却未曾想到，让大少爷的心升起阵阵波澜，甚至非她不娶。\n——\n活了二十多年，沈言回一直认为只有家族传承和官场权力才是最重要的，女人对他而言并非很重要。\n可母亲的一个决定，让一个叫青岚的丫鬟来到了他的身边。\n自那以后，他才懂什么叫做食髓知味，什么叫做春心暗动，渐渐沉沦。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4342/13023483_360x480.jpg?time=1786471933",
-        "latest_chapter": " 第234章  突然的聚会",
-        "updated_at": "2026-11-22 23:52:03",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
         "stale_update": false,
         "category": "宫闱宅斗"
       }
