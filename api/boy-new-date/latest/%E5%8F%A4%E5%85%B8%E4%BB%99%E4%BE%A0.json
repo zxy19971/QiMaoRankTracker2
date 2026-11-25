@@ -8,40 +8,30 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "category": {
     "name": "古典仙侠",
     "major": "武侠仙侠",
     "count": 3,
-    "total_heat": 75000,
+    "total_heat": 73000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "大道仙炉",
-          "book_id": 13309743,
-          "rank_change": -1
-        },
-        {
-          "title": "奇葫仙缘",
-          "book_id": 13123122,
-          "rank_change": -1
-        },
+      "top_risers": [
         {
           "title": "长生隐仙",
           "book_id": 13425288,
-          "rank_change": -1
+          "rank_change": 2
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "奇葫仙缘",
           "book_id": 13123122,
-          "heat_change": -4000
+          "heat_change": -3000
         },
         {
           "title": "长生隐仙",
@@ -49,7 +39,7 @@
           "heat_change": 1000
         }
       ],
-      "summary": "「古典仙侠」《大道仙炉》下滑1位；《奇葫仙缘》热度-4000。",
+      "summary": "「古典仙侠」《长生隐仙》上升2位领涨；《奇葫仙缘》热度-3000。",
       "ai_source": "rule"
     },
     "books": [
@@ -66,16 +56,16 @@
         "minor_id": 52,
         "minor_url": "https://www.qimao.com/shuku/a-205-52-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.39万字",
-        "word_count": 393900,
+        "word_count_text": "39.8万字",
+        "word_count": 398000,
         "heat": 36000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "一朝穿成苍云宗杂役，随时都会被杀，偏遇上疯批师姐　，甩锅杀人不眨眼……\n李元最大的梦想，是早日晋升正式弟子　，像人一样活着，奈何资质平庸，缺乏资源。\n偶然发现神秘小黑罐，废丹放进去，转眼变成极品丹药……\n一夜突破，拿捏师姐，修法炼丹　，问道长生　，从此踏上一条无敌仙路！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4437/13309743_360x480.jpg?time=1794896092",
-        "latest_chapter": " 第185章  玄黄古族的算计",
-        "updated_at": "2026-11-23 23:42:06",
-        "rank_change": -1,
+        "latest_chapter": " 第187章  混沌剑体！",
+        "updated_at": "2026-11-24 23:41:04",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -95,24 +85,24 @@
         "minor_id": 52,
         "minor_url": "https://www.qimao.com/shuku/a-205-52-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.03万字",
-        "word_count": 370300,
-        "heat": 24000,
+        "word_count_text": "37.44万字",
+        "word_count": 374400,
+        "heat": 21000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【凡人流】【稳健流】【杀伐果断】【不圣母】\n五行废灵根真的不适合修仙吗？\n宋长风拥有最差的五行废灵根，凭借爷爷给的拜山令他才得以加入落霞宗，成为了一名丹房杂役弟子。\n机缘巧合之下，他得到了一个可以融合丹药，提升丹药品质的黄皮葫芦。\n两枚废丹融合一枚下品丹药，两枚下品丹药融合一枚中品丹药……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4375/13123122_360x480.jpg?time=1787733366",
-        "latest_chapter": " 第179章  龙脉现",
-        "updated_at": "2026-11-23 23:41:03",
-        "rank_change": -1,
-        "heat_change": -4000,
+        "latest_chapter": " 第181章  成为两国盟长老",
+        "updated_at": "2026-11-25 00:07:17",
+        "rank_change": 0,
+        "heat_change": -3000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "古典仙侠"
       },
       {
-        "rank": 13,
+        "rank": 11,
         "title": "长生隐仙",
         "book_id": 13425288,
         "url": "https://www.qimao.com/shuku/13425288/",
@@ -124,16 +114,16 @@
         "minor_id": 52,
         "minor_url": "https://www.qimao.com/shuku/a-205-52-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.55万字",
-        "word_count": 325500,
-        "heat": 15000,
+        "word_count_text": "32.95万字",
+        "word_count": 329500,
+        "heat": 16000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【凡人修仙】【长生流】【无系统】【苟道无敌】【有血有肉】【忍无可忍，则无需再忍】\n永生者林奇，本打算静静苟过万年。\n直到一名凡人老者，赠他一碗热面，一袭书生袍，轻声道一句：“留下吧。”\n他死了。那是林奇第一次落泪。\n漫长岁月里他渐渐懂得：永生是蛰伏苟存，生命却是激情和不屈。\n悠悠万载，始终是当年那一碗热面，让他未曾冷漠成一块顽石，心底长存那一丝，属于人类的温热。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4476/13425288_360x480.jpg?time=1792569254",
-        "latest_chapter": " 第153章  李冰后人",
-        "updated_at": "2026-11-24 10:02:06",
-        "rank_change": -1,
+        "latest_chapter": " 第155章  天下大乱",
+        "updated_at": "2026-11-25 10:23:03",
+        "rank_change": 2,
         "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,

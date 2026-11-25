@@ -8,59 +8,59 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "category": {
     "name": "都市高武",
     "major": "都市",
-    "count": 4,
-    "total_heat": 88000,
+    "count": 3,
+    "total_heat": 85000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 0,
-      "new_books": [
+      "new_count": 0,
+      "dropped_count": 1,
+      "new_books": [],
+      "dropped_books": [
         {
           "title": "诡异降临：离婚后无我镇命，她全家慌了",
-          "book_id": 13734438
+          "book_id": 13734438,
+          "intro": "林轩受父亲之命，剥离自身地魂封于婚书内，为妻子秦若雪镇命三年。\n最终却被秦若雪嫌弃是个傻子，选择烧毁婚书，与他离婚，打算另寻新欢。\n婚书焚，地魂归，神智现。\n林轩走得干脆，没有一丝留恋。\n就在当晚，秦"
         }
       ],
-      "dropped_books": [],
       "top_risers": [
-        {
-          "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
-          "book_id": 13241454,
-          "rank_change": 2
-        }
-      ],
-      "top_fallers": [
         {
           "title": "都市大猛仙",
           "book_id": 12947607,
-          "rank_change": -4
+          "rank_change": 2
+        },
+        {
+          "title": "我医武双绝，体内有尊神农鼎",
+          "book_id": 13674141,
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "我医武双绝，体内有尊神农鼎",
           "book_id": 13674141,
-          "heat_change": 5000
-        },
-        {
-          "title": "都市大猛仙",
-          "book_id": 12947607,
-          "heat_change": -2000
+          "heat_change": 9000
         },
         {
           "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
           "book_id": 13241454,
           "heat_change": 1000
+        },
+        {
+          "title": "都市大猛仙",
+          "book_id": 12947607,
+          "heat_change": -1000
         }
       ],
-      "summary": "「都市高武」新上榜 《诡异降临：离婚后无我镇命，她全家慌了》；《都荒岛求生了，一群绿茶还想让我当舔狗》上升2位领涨；《都市大猛仙》下滑4位；《我医武双绝，体内有尊神农鼎》热度+5000。",
+      "summary": "「都市高武」《诡异降临：离婚后无我镇命，她全家慌了》 掉出榜单；《都市大猛仙》上升2位领涨；《我医武双绝，体内有尊神农鼎》热度+9000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 2,
+        "rank": 1,
         "title": "我医武双绝，体内有尊神农鼎",
         "book_id": 13674141,
         "url": "https://www.qimao.com/shuku/13674141/",
@@ -72,17 +72,17 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "20.18万字",
-        "word_count": 201800,
-        "heat": 41000,
+        "word_count_text": "20.61万字",
+        "word_count": 206100,
+        "heat": 50000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "半月前，我是修罗杀神，令暗黑界闻风丧胆。\n半月后，我医武双绝，体内封印上古神农鼎，本想低调做个业务员，却引无数女神竞折腰。\n神农鼎出，万毒化引，生死人肉白骨，古医世家跪地称祖。\n神农鼎落，杀气吞天，碾碎万千强者，古武宗门俯首称臣。\n直到神农鼎第九层解封，我才发现，鼎中封印的不止是神药……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4559/13674141_360x480.jpg?time=1791784506",
-        "latest_chapter": " 第96章  一手遮天？一枪击毙！",
-        "updated_at": "2026-11-24 09:25:03",
-        "rank_change": 0,
-        "heat_change": 5000,
+        "latest_chapter": " 第98章  秦锋泡我妹？还睡了？",
+        "updated_at": "2026-11-25 09:08:02",
+        "rank_change": 1,
+        "heat_change": 9000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -101,16 +101,16 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.74万字",
-        "word_count": 447400,
-        "heat": 20000,
+        "word_count_text": "44.95万字",
+        "word_count": 449500,
+        "heat": 21000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "豪华游轮意外失事，凌风和十九个极品美女流落到与世隔绝的荒岛。\n富家千金名媛、娱乐圈顶流，影后、千万粉丝网红、商界女精英……\n一场海难撕碎了往日的体面，物资紧缺，危机四伏。\n这群习惯了众星捧月的女人，张口就要凌风任劳任怨，出力卖命当免费劳动力，把他当成召之即来挥之即去的工具人。\n不愿乖乖顺从，就集体投票把他逐出营地。\n绝境之中，凌风觉醒荒岛求生系统！\n他退守隐秘石洞庇护所，烤肉喷香，蔬果俱全，小日子过得吃香喝辣，温饱无忧。\n反观另一边，女人们守着寥寥无几的沉船物资坐吃山空，娇生惯养不堪荒野折磨，饿到饥肠辘辘远远嗅到丛林里飘来的烤肉味，瞬间红了眼。\n之前把他一脚踢开，如今看着凌风过得风生水起，又想画饼哄骗，妄图让他回头继续当舔狗？\n凌风冷笑置之。\n荒岛生存，实力为王，想蹭吃蹭喝？抱歉，概不伺候！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4414/13241454_360x480.jpg?time=1787536194",
-        "latest_chapter": " 第217章  共浴邀请，赵娜激动坏了",
-        "updated_at": "2026-11-23 22:51:03",
-        "rank_change": 2,
+        "latest_chapter": " 第218章  营养不良，没发育好的赵娜",
+        "updated_at": "2026-11-24 23:19:03",
+        "rank_change": 0,
         "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
@@ -118,7 +118,7 @@
         "category": "都市高武"
       },
       {
-        "rank": 15,
+        "rank": 13,
         "title": "都市大猛仙",
         "book_id": 12947607,
         "url": "https://www.qimao.com/shuku/12947607/",
@@ -130,48 +130,19 @@
         "minor_id": 219,
         "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.73万字",
-        "word_count": 447300,
-        "heat": 15000,
+        "word_count_text": "45.17万字",
+        "word_count": 451700,
+        "heat": 14000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "陆玄，虽然因为太穷被女友甩了，可他却天赋异禀，自从觉醒了家族传承，修炼了阴阳秘术之后，身上散发出了更令异性着迷的气息……从此，他医武同修，无论是医术、修为、还是身为男人……他都勇猛无敌，总有美女慕名而来！他从小县城一路崛起，开启了无敌热血路，重现上古医道荣光！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4316/12947607_360x480.jpg?time=1785232542",
-        "latest_chapter": " 第154章  一次就好",
-        "updated_at": "2026-11-23 15:16:03",
-        "rank_change": -4,
-        "heat_change": -2000,
+        "latest_chapter": " 第155章  你快去洗澡吧……",
+        "updated_at": "2026-11-24 15:47:03",
+        "rank_change": 2,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": false,
-        "category": "都市高武"
-      },
-      {
-        "rank": 16,
-        "title": "诡异降临：离婚后无我镇命，她全家慌了",
-        "book_id": 13734438,
-        "url": "https://www.qimao.com/shuku/13734438/",
-        "author": "七绝散人",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%B8%83%E7%BB%9D%E6%95%A3%E4%BA%BA_14/",
-        "major": "都市",
-        "minor": "都市高武",
-        "major_id": 203,
-        "minor_id": 219,
-        "minor_url": "https://www.qimao.com/shuku/a-203-219-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "22.01万字",
-        "word_count": 220100,
-        "heat": 12000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "林轩受父亲之命，剥离自身地魂封于婚书内，为妻子秦若雪镇命三年。\n最终却被秦若雪嫌弃是个傻子，选择烧毁婚书，与他离婚，打算另寻新欢。\n婚书焚，地魂归，神智现。\n林轩走得干脆，没有一丝留恋。\n就在当晚，秦若雪在去找新欢的电梯上遭遇诡异袭击，秦家上下才知晓她离婚之事，举家惶恐！\n同时，林轩推开镇阴司尘封三年的大门，瞬间引得诸方势力震动！\n自那日开始。\n华国各地怪事频发，废弃多年的旧小学里夜里为何有唱戏声，偏远村落又为何全村人一夜之间消失无踪，翻涌江面下那双灯笼大小的眼睛又是何物之眸？\n顶流女星邀他同床驱邪，高岭之花女总裁甘愿侍奉左右，百年女鬼为仆，千年狐妖为婢。\n而林轩行事只遵循一个法则。\n镇压天下阴邪，司掌人间正义！\n在此途中，他也一点点揭开诡异降临人间的秘辛，母亲的真实身份，最终窥得镇阴司隐藏最深的秘密！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4579/13734438_360x480.jpg?time=1792047717",
-        "latest_chapter": " 第104章  念头通达，老祖赠宝",
-        "updated_at": "2026-11-23 23:54:04",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
-        "boards_count": 1,
         "stale_update": false,
         "category": "都市高武"
       }

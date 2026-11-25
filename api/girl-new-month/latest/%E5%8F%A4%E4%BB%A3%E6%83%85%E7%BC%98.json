@@ -8,38 +8,37 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
-    "count": 1,
-    "total_heat": 358000,
+    "count": 2,
+    "total_heat": 550000,
     "trend": {
-      "new_count": 0,
-      "dropped_count": 1,
-      "new_books": [],
-      "dropped_books": [
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
         {
-          "title": "嫡姐惨死？她抬棺杀疯京城！",
-          "book_id": 13021647,
-          "intro": "女强爽文+打脸虐渣+复仇+马甲\n宋南枝嫡姐被人凌辱致死，婆家以七出之罪将她尸体送回将军府。\n祖母以有辱门风之名，不准嫡姐下葬！\n宋南枝教他们做人！\n镇国公世子毁背信弃义，娶平妻，辱阿姐？\n宋南枝当众废"
+          "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+          "book_id": 13463133
         }
       ],
+      "dropped_books": [],
       "top_risers": [
         {
           "title": "地狱归，驭百鬼，王妃回京后杀疯了",
           "book_id": 13123449,
-          "rank_change": 4
+          "rank_change": 2
         }
       ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「古代情缘」《嫡姐惨死？她抬棺杀疯京城！》 掉出榜单；《地狱归，驭百鬼，王妃回京后杀疯了》上升4位领涨。",
+      "summary": "「古代情缘」新上榜 《新婚夜流放，飒爽太子妃种出西北大仓！》；《地狱归，驭百鬼，王妃回京后杀疯了》上升2位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 9,
+        "rank": 7,
         "title": "地狱归，驭百鬼，王妃回京后杀疯了",
         "book_id": 13123449,
         "url": "https://www.qimao.com/shuku/13123449/",
@@ -51,18 +50,47 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.5万字",
-        "word_count": 455000,
+        "word_count_text": "45.92万字",
+        "word_count": 459200,
         "heat": 358000,
         "platform_trend": "rise",
-        "badge": "飙升25名",
+        "badge": "飙升27名",
         "intro": "江黎在大婚日被未婚夫送来保护她的暗卫灌毒酒，被舅舅一家剥了脸皮，最后九根镇魂钉将她钉死在梨树下。\n\n　　阴差阳错之下，体内尘封的玄医灵脉被打通，可她的肉身被毁，魂魄进入了镇西侯府大小姐江离的身体。\n\n　　从此世间再无郡主江黎，只有侯府嫡女江离。\n\n　　江离的仇，她来报。\n\n　　只是她惊觉，长公主无法安息的夭折麟儿、皇后寝宫夜半呜咽的屏风、太子身后阴魂不散的无头厉鬼，一桩桩血海冤孽，幕后推手竟然全是残害她并夺走她容貌的舅舅一家人。\n\n　　换一张皮囊，怀满腔仇火，她驱使阴鬼步步布局。\n\n　　要让这群敲骨吸髓的恶人，加倍偿还剥皮钉魂之痛！\n\n　　……\n\n　　世人只知摄政王梁昼沉大权在握，杀伐果断。\n\n　　可无人知道入夜后，他将侯府大小姐按在榻上，吻上她眼尾的一点泪痣，白日里清冷疏离的眸子染着欲色的暗沉，动作越发放肆。\n\n　　“阿黎，求求你看看我，好不好？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4375/13123449_360x480.jpg?time=1787731531",
-        "latest_chapter": " 第208章  原皇后找到她的头了",
-        "updated_at": "2026-11-24 02:02:03",
-        "rank_change": 4,
+        "latest_chapter": " 第210章  纸人点睛，厉鬼索命",
+        "updated_at": "2026-11-25 02:02:03",
+        "rank_change": 2,
         "heat_change": 0,
         "is_new": false,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "古代情缘"
+      },
+      {
+        "rank": 19,
+        "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+        "book_id": 13463133,
+        "url": "https://www.qimao.com/shuku/13463133/",
+        "author": "萱宝儿",
+        "author_url": "https://www.qimao.com/zuozhe/%E8%90%B1%E5%AE%9D%E5%84%BF_14/",
+        "major": "古代言情",
+        "minor": "古代情缘",
+        "major_id": 2,
+        "minor_id": 216,
+        "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "46.25万字",
+        "word_count": 462500,
+        "heat": 192000,
+        "platform_trend": "rise",
+        "badge": "飙升72名",
+        "intro": "【替嫁流放+打脸爽文+基建+双向救赎】\n沈婉宁拿着证据去公司的路上，被车撞飞了，一睁眼，成了书中的炮灰太子妃，刚醒来就发现自己竟然被渣爹和姨娘算计，替代残废太子，新婚夜还强了短命太子！\n沈婉宁气不过，直接将渣爹一家拉来作伴，流放路上，别人饿成皮包骨，她一路上吃香喝辣，还赚得盆满钵满！\n二皇子派人暗杀，不好意思！一枪一个解决，杀进京扫荡国库，连个裤叉子都没给皇帝老儿留下！\n皇帝老儿站在西北城墙下可怜兮兮！\n“儿媳妇，我错了，你就让我入城，收我为徒吧！”",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4488/13463133_360x480.jpg?time=1789452098",
+        "latest_chapter": " 第225章  打瞎他的眼睛",
+        "updated_at": "2026-11-25 08:32:05",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
         "boards_count": 2,
         "stale_update": false,
         "category": "古代情缘"

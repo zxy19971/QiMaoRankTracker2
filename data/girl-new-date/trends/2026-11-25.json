@@ -1,0 +1,253 @@
+{
+  "date": "2026-11-25",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 66250,
+    "total_heat": 1325000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "深吻，太太要离婚，陆总失控越界",
+            "book_id": 13546641
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "裴先生，暗恋她已十二年",
+            "book_id": 13010484,
+            "intro": "温晞暗恋了裴湛十二年。\n从青梅竹马到约定同一所大学，她以为这辈子非他不可。\n可高三那年盛夏，他消失得干干净净——没有解释，没有告别。\n八年光阴流转，她把恨磨成习惯，把想念吞进肚子里。\n她以为，自己早已"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "婚尽，周总却对前妻念念不忘了",
+            "book_id": 13484496,
+            "rank_change": 9
+          },
+          {
+            "title": "霍总别跪了，你老婆在参加国宴",
+            "book_id": 13614846,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "heat_change": -43000
+          },
+          {
+            "title": "婚尽，周总却对前妻念念不忘了",
+            "book_id": 13484496,
+            "heat_change": 9000
+          },
+          {
+            "title": "谢总，夫人已改嫁，让你跪远点",
+            "book_id": 13156719,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《深吻，太太要离婚，陆总失控越界》；《裴先生，暗恋她已十二年》 掉出榜单；《婚尽，周总却对前妻念念不忘了》上升9位领涨；《夫人反差太大，司总沦陷了！》热度-43000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "带崽签字离婚后，知青教授他疯了",
+            "book_id": 13266312,
+            "intro": "【七零重生+空间+追妻火葬场+女强爽文+1V1】\n凉千夏穿了，穿在一个丈夫失踪六年，育有一对龙凤胎的同名恋爱脑女人身上。\n消踪五年的渣夫传出另娶有娃，父母上京想给她讨要公道，却病死在床。\n开局就是死局"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "八零媳妇太勾人，裴教授每天都在破防",
+            "book_id": 13716891,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "七零：娇软知青闪婚冷面糙汉",
+            "book_id": 13162113,
+            "rank_change": -6
+          },
+          {
+            "title": "六零随军：大小姐她美貌动人",
+            "book_id": 13776792,
+            "rank_change": -4
+          },
+          {
+            "title": "带着空间去下乡，生财暴富撩糙汉！",
+            "book_id": 13470801,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "七零：娇软知青闪婚冷面糙汉",
+            "book_id": 13162113,
+            "heat_change": -8000
+          },
+          {
+            "title": "六零随军：大小姐她美貌动人",
+            "book_id": 13776792,
+            "heat_change": -2000
+          },
+          {
+            "title": "带着空间去下乡，生财暴富撩糙汉！",
+            "book_id": 13470801,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「年代重生」《带崽签字离婚后，知青教授他疯了》 掉出榜单；《八零媳妇太勾人，裴教授每天都在破防》上升1位领涨；《七零：娇软知青闪婚冷面糙汉》下滑6位；《七零：娇软知青闪婚冷面糙汉》热度-8000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "夺凤命？重生嫡女屠尽渣渣满门",
+            "book_id": 13600971
+          },
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "枕边奴",
+            "book_id": 13537935,
+            "rank_change": 7
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "夺妻色",
+            "book_id": 13378512,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "枕边奴",
+            "book_id": 13537935,
+            "heat_change": 39000
+          },
+          {
+            "title": "皇后令",
+            "book_id": 13424982,
+            "heat_change": -10000
+          },
+          {
+            "title": "夺妻色",
+            "book_id": 13378512,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「宫闱宅斗」新上榜 《夺凤命？重生嫡女屠尽渣渣满门》、《皇上开门，福宝带物资来送温暖啦》；《枕边奴》上升7位领涨；《夺妻色》下滑2位；《枕边奴》热度+39000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "夺我神兽？废物二小姐不装了",
+            "book_id": 12905865,
+            "intro": "重生后，宫照夜看着嫡姐迫不及待抢走焚天雀、抢走师父、抢走她的一切机缘，还跑到她面前炫耀，得知嫡姐原来也重生了！\n她以为焚天雀可以进化成神兽凤凰，师父能让她修为飞涨，机缘能带给她无上好处。\n殊不知焚天雀"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "四岁姑奶奶，叼奶瓶带全族飞升啦",
+            "book_id": 13172136,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「玄幻仙侠」《夺我神兽？废物二小姐不装了》 掉出榜单；《四岁姑奶奶，叼奶瓶带全族飞升啦》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "白捡七个崽，我摆摊成了全京首富",
+            "book_id": 13540389,
+            "rank_change": 6
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "白捡七个崽，我摆摊成了全京首富",
+            "book_id": 13540389,
+            "heat_change": 5000
+          }
+        ],
+        "summary": "「种田经商」《白捡七个崽，我摆摊成了全京首富》上升6位领涨；《白捡七个崽，我摆摊成了全京首富》热度+5000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+            "book_id": 13123449,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+            "book_id": 13123449,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「古代情缘」《地狱归，驭百鬼，王妃回京后杀疯了》下滑4位；《地狱归，驭百鬼，王妃回京后杀疯了》热度-1000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

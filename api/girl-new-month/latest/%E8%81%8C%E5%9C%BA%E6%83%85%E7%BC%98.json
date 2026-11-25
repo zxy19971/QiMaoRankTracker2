@@ -8,37 +8,32 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "category": {
     "name": "职场情缘",
     "major": "现代言情",
     "count": 1,
     "total_heat": 226000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "南音无尽夏",
-          "book_id": 13913373
+          "book_id": 13913373,
+          "rank_change": 2
         }
       ],
-      "dropped_books": [
-        {
-          "title": "年下弟弟，人前乖软人后野",
-          "book_id": 13117872,
-          "intro": "她以为的一夜放纵，是他等了八年的久别重逢。\n那晚，清昭跨坐在乔聿身上，拇指按在他最要命的地方，低头咬他耳朵：“乖，帮姐姐。”\n男人喉结滚了又滚，从嗓子眼里挤出两个字：“确定？”\n一夜温存后，林清昭甩了"
-        }
-      ],
-      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「职场情缘」新上榜 《南音无尽夏》；《年下弟弟，人前乖软人后野》 掉出榜单。",
+      "summary": "「职场情缘」《南音无尽夏》上升2位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 14,
         "title": "南音无尽夏",
         "book_id": 13913373,
         "url": "https://www.qimao.com/shuku/13913373/",
@@ -50,18 +45,18 @@
         "minor_id": 11,
         "minor_url": "https://www.qimao.com/shuku/a-1-11-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "12.25万字",
-        "word_count": 122500,
+        "word_count_text": "12.66万字",
+        "word_count": 126600,
         "heat": 226000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "【蓄谋已久+先婚后爱，久别重逢，上位者低头，新加坡短篇征文】\n“明总，我有一个合作要谈吗？”\n时隔多年，他站在她面前，只说了一句：\n\"八年了，夏南音，你总算撞进我的地盘了……\"\n不是请求，是强求。\n夏南音来新加坡，本以为是奔赴所爱，结果是一场彻头彻尾的背叛。\n结束六年的婚姻，一段长达八年的感情，转身时却被一场延迟八年的重逢，唤醒了新加坡的夏天。\n他是赤道的风，似暖还寒。飞了八年的蝴蝶，越过海，终落在万代兰上。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4638/13913373_360x480.jpg?time=1793069457",
-        "latest_chapter": " 第57章  闷骚",
-        "updated_at": "2026-11-23 17:04:02",
-        "rank_change": 0,
+        "latest_chapter": " 第59章  帮我，求你",
+        "updated_at": "2026-11-24 18:06:03",
+        "rank_change": 2,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "职场情缘"

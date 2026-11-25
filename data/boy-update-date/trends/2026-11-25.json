@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-25",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 1,
+    "total_heat": 22,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "让你当炉做鼎，你炼阴阳证大道？",
+            "book_id": 11556534,
+            "intro": "百岁炉鼎，地狱开局，受尽妖女垂涎。\n即将被敲骨吸髓之际，梦入太虚，得无上传承！\n【先天圣体】觉醒！\n【逆天神功】加身！\n一夜之间，老树开花，震彻八方！\n自此，满门妖女、世间绝色，皆为李寒山登临绝巅的无"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "heat_change": -4
+          },
+          {
+            "title": "太初仙鼎",
+            "book_id": 13499934,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「东方玄幻」《让你当炉做鼎，你炼阴阳证大道？》 掉出榜单；《鸿蒙霸体诀》上升1位领涨；《吞噬九重天》下滑1位；《吞天神体》热度-4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "高武严父，永远比儿子高五个境界",
+            "book_id": 12565608
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "五年挡灾无人问，恐怖上门你是谁！？",
+            "book_id": 13755225,
+            "rank_change": -1
+          },
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "五年挡灾无人问，恐怖上门你是谁！？",
+            "book_id": 13755225,
+            "heat_change": -2
+          },
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "heat_change": -2
+          },
+          {
+            "title": "我在都市修了个野仙",
+            "book_id": 2078908,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市高武」新上榜 《高武严父，永远比儿子高五个境界》；《五年挡灾无人问，恐怖上门你是谁！？》下滑1位；《五年挡灾无人问，恐怖上门你是谁！？》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "三百斤入伍，首长让我当女军医？",
+            "book_id": 13346439,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "四次入伍，我被军区拉进黑名单！",
+            "book_id": 12179937,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "四次入伍，我被军区拉进黑名单！",
+            "book_id": 12179937,
+            "heat_change": 3
+          }
+        ],
+        "summary": "「现代军事」《三百斤入伍，首长让我当女军医？》上升1位领涨；《四次入伍，我被军区拉进黑名单！》下滑1位；《四次入伍，我被军区拉进黑名单！》热度+3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「都市高手」《美女总裁，请上车》热度-1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "heat_change": 4
+          }
+        ],
+        "summary": "「架空历史」《太监凶猛》下滑1位；《太监凶猛》热度+4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「商战职场」《野性攀登》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「幻想修真」《乾坤造化诀》上升5位领涨；《乾坤造化诀》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "恐怖灵异",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「恐怖灵异」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "穿越历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "外卖送到大唐，开局三倍吕布战力",
+            "book_id": 13266141
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "我率秦军三百万，为秦续命万万年",
+            "book_id": 9464730,
+            "intro": "开局身陷囹圄，投胎成祖龙之子，扶苏。\n非但不悲，反而喜上心头。\n三十万戍边大军，尽在掌握中。\n到那时，挥三十万大军直奔咸阳，杀入章台宫，以清君侧。\n檄文昭告天下，胡亥受阉人蛊惑，我扶苏才是正统。\n大秦"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「穿越历史」新上榜 《外卖送到大唐，开局三倍吕布战力》；《我率秦军三百万，为秦续命万万年》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

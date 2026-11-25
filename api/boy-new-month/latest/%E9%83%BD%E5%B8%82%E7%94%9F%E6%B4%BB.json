@@ -8,43 +8,27 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "category": {
     "name": "都市生活",
     "major": "都市",
     "count": 3,
     "total_heat": 895000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        {
-          "title": "你捧你的干弟弟，我离我的婚",
-          "book_id": 13458249
-        }
-      ],
-      "dropped_books": [
-        {
-          "title": "重生70：大国栋梁，从正阳门下开始",
-          "book_id": 12867831,
-          "intro": "博士导师周朝阳在人生最辉煌的时候，被自己最得意的弟子诬陷S小气抄袭他的学术成果，他气得心脏病突发去世，等他醒过来，却发现自己穿越到了京城一个十六岁的少年身上，而且现在是七六年，没有AI人工智能！没有大"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
         {
-          "title": "穿越70：娶美女知青，狩猎兴安岭",
-          "book_id": 13399662,
-          "rank_change": 5
-        },
-        {
-          "title": "高冷校花香香软软，凭啥还舔你啊",
-          "book_id": 13220790,
-          "rank_change": 2
+          "title": "你捧你的干弟弟，我离我的婚",
+          "book_id": 13458249,
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「都市生活」新上榜 《你捧你的干弟弟，我离我的婚》；《重生70：大国栋梁，从正阳门下开始》 掉出榜单；《穿越70：娶美女知青，狩猎兴安岭》上升5位领涨。",
+      "summary": "「都市生活」《你捧你的干弟弟，我离我的婚》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
@@ -61,16 +45,16 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.41万字",
-        "word_count": 454100,
+        "word_count_text": "45.88万字",
+        "word_count": 458800,
         "heat": 553000,
         "platform_trend": "rise",
         "badge": "飙升12名",
         "intro": "【救赎+单女主+重生无系统+清冷校花反差病娇】\n“苏泽，我现在只想好好学习拿奖学金，不想谈恋爱，我们还是先做普通朋友好吗？”\n看着班花林婉儿那副高高在上的嘴脸，重生归来的苏泽冷笑一声。\n“大姐你没事吧？要胸没胸要腿没腿，保不齐微do过多少次的网红脸，我有病啊跟你表白？”\n在全校吃瓜群众震惊的目光中，苏泽转身，一把将怀里的99朵红玫瑰，强行塞进了路过的冰山校花夏知微怀里。\n“好汉留步！花给你了！”\n上一世，苏泽是把尊严踩在脚底的超级舔狗，一路卷成科学家却落得个猝死的下场。\n重活一世，去他妈的白月光，去他妈的内卷！老子要放飞自我，摆烂享受人生！\n习惯了被无限偏爱的林婉儿懵了。\n三个月后，她实在受不了没有苏泽这个免费提款机的日子，红着眼眶在雨中堵住他：“苏泽，我发现我其实是喜欢你的，我们和好吧……”\n可此时的苏泽，哪里还有空搭理她？\n曾经柔弱的清冷系花夏知微，此刻却将苏泽的双手缚在床头柜上。\n女孩绝美的脸蛋泛着迷离的红晕，嗓音娇软却不失偏执：“苏泽同学，你送了我玫瑰，又在柜子里抱过我，那你就是我一个人的了。”\n“再敢碰别的女人，我就关你一辈子哦。”\n苏泽却一脸笑嘻嘻道：老婆你好香~",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4407/13220790_360x480.jpg?time=1787129675",
-        "latest_chapter": " 第199章  这就是跟我谈交易的下场",
-        "updated_at": "2026-11-24 03:12:07",
-        "rank_change": 2,
+        "latest_chapter": " 第201章  灯下黑",
+        "updated_at": "2026-11-24 18:42:05",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -90,16 +74,16 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.41万字",
-        "word_count": 374100,
+        "word_count_text": "37.89万字",
+        "word_count": 378900,
         "heat": 201000,
         "platform_trend": "rise",
         "badge": "飙升52名",
         "intro": "【年代赶山+单女主+天道酬勤+日常种田+杀伐果断】\n一朝梦醒，徐长乐回到了缺衣少食的七十年代。\n开局连口棒子面都喝不上，老叔却领着个成分不好、肩不能扛手不能提的绝美知青塞给他当媳妇。\n村里人都在看笑话，连饭都吃不饱，还娶个城里娇气包，怕不是要双双饿死在风雪天？\n面对饥荒与极品村民的刁难，徐长乐看着眼前浮现的【属性加点面板】，默默抄起墙角的猎枪，一头扎进了尚未禁枪的兴安岭。\n没有任务，没有商城，只要努力就有收获！\n射击熟练度+1，陷阱熟练度+1，体质加点，精神加点！\n当别人还在冰天雪地里为了半个窝窝头抢破头时，徐长乐的院子里已经挂满了飞龙、野猪和傻狍子。\n他搂着怀里水润漂亮的知青娇妻，看着堆满粮仓的兽肉和山货，一不小心，竟成了整座大山最野的王！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4467/13399662_360x480.jpg?time=1788804008",
-        "latest_chapter": " 第151章  宋明：这届知青太难带了",
-        "updated_at": "2026-11-23 18:14:03",
-        "rank_change": 5,
+        "latest_chapter": " 第153章  什么叫专业？",
+        "updated_at": "2026-11-24 19:57:02",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
@@ -107,7 +91,7 @@
         "category": "都市生活"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "title": "你捧你的干弟弟，我离我的婚",
         "book_id": 13458249,
         "url": "https://www.qimao.com/shuku/13458249/",
@@ -119,18 +103,18 @@
         "minor_id": 223,
         "minor_url": "https://www.qimao.com/shuku/a-203-223-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.19万字",
-        "word_count": 321900,
+        "word_count_text": "32.66万字",
+        "word_count": 326600,
         "heat": 141000,
         "platform_trend": "rise",
-        "badge": "飙升64名",
+        "badge": "飙升65名",
         "intro": "【无绿帽+无重生+无系统+追夫火葬场+多女主】\n沈砚和总裁老婆姜澜结婚三年，为了支持妻子事业，他选择照顾家庭。\n从校园到婚姻，沈砚一直以为自己有一段完美的婚姻\n可自从妻子公司来了个练习生后，一切都变了。\n妻子认他当干弟弟。\n为了干弟弟，妻子频频放他的鸽子。\n沈砚一忍再忍，然而......\n一次车祸，他性命垂危，妻子却陪着干弟弟，还答应装他的女朋友。\n沈砚终于心灰意冷，选择离婚。\n只是后来，前妻怎么就后悔了呢？",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4487/13458249_360x480.jpg?time=1789984612",
-        "latest_chapter": " 第144章  姜澜：老公好像失恋了",
-        "updated_at": "2026-11-24 07:58:03",
-        "rank_change": 0,
+        "latest_chapter": " 第146章  周扬觉得沈砚很邪气",
+        "updated_at": "2026-11-25 07:54:03",
+        "rank_change": 1,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市生活"

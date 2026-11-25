@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T13:13:42",
-  "date": "2026-11-24",
+  "generated_at": "2026-11-25T12:02:39",
+  "date": "2026-11-25",
   "authors": [
     {
       "author": "化十",
@@ -11,17 +11,6 @@
       "titles": [
         "荒古武神",
         "吞天神体"
-      ]
-    },
-    {
-      "author": "锦锦不是妖",
-      "author_url": "https://www.qimao.com/zuozhe/%E9%94%A6%E9%94%A6%E4%B8%8D%E6%98%AF%E5%A6%96_14/",
-      "books": 2,
-      "boards": 6,
-      "total_heat": 13201000,
-      "titles": [
-        "第五年重逢，驰先生再度失控",
-        "裴先生，暗恋她已十二年"
       ]
     },
     {
@@ -73,7 +62,7 @@
       "author_url": "https://www.qimao.com/zuozhe/%E4%BD%9B%E7%B3%BB%E5%92%8C%E5%B0%9A_14/",
       "books": 2,
       "boards": 2,
-      "total_heat": 50000,
+      "total_heat": 47000,
       "titles": [
         "最强学霸系统",
         "我和软萌女友的恋爱日常"
@@ -123,7 +112,7 @@
       "author": "明婳",
       "author_url": "https://www.qimao.com/zuozhe/%E6%98%8E%E5%A9%B3_14/",
       "books": 1,
-      "boards": 4,
+      "boards": 3,
       "total_heat": 21990000,
       "titles": [
         "离婚后她惊艳了世界"
@@ -227,6 +216,16 @@
       "total_heat": 10396000,
       "titles": [
         "夫人在上！"
+      ]
+    },
+    {
+      "author": "锦锦不是妖",
+      "author_url": "https://www.qimao.com/zuozhe/%E9%94%A6%E9%94%A6%E4%B8%8D%E6%98%AF%E5%A6%96_14/",
+      "books": 1,
+      "boards": 4,
+      "total_heat": 10182000,
+      "titles": [
+        "第五年重逢，驰先生再度失控"
       ]
     },
     {

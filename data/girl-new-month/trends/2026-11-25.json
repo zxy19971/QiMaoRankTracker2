@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-25",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 3,
+    "dropped_count": 3,
+    "avg_heat": 927500,
+    "total_heat": 18550000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 3,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "裴先生，暗恋她已十二年",
+            "book_id": 13010484,
+            "intro": "温晞暗恋了裴湛十二年。\n从青梅竹马到约定同一所大学，她以为这辈子非他不可。\n可高三那年盛夏，他消失得干干净净——没有解释，没有告别。\n八年光阴流转，她把恨磨成习惯，把想念吞进肚子里。\n她以为，自己早已"
+          },
+          {
+            "title": "披婚纱改嫁，爹系老公他超爱",
+            "book_id": 12862740,
+            "intro": "婚礼当天，姜九音才发现未婚夫是个死装男，娶自己只是为了给白月光续命！\n姜九音扭头就嫁给了白月光她爹！\n那位传闻中终身未婚，清心寡欲，常年往来全球各地的财阀大佬。\n后来——\n二婚现场，姜九音挽着楼敬明胳"
+          },
+          {
+            "title": "渣夫逼我假离婚？真离另嫁他悔疯！",
+            "book_id": 13071267,
+            "intro": "小三挺孕肚上门逼宫那天，阮棠枝才知道结婚三年的竹马出轨了！\n保镖压着她跪在季朝霖面前，被他掐着脖颈签下离婚协议。\n“假离婚而已，孩子不能是私生子，等复婚记你名下，反正你也生不了。”\n“离婚期间我不碰你"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "冷婚七年，夫人带娃离婚他悔疯了",
+            "book_id": 12996819,
+            "rank_change": 2
+          },
+          {
+            "title": "只是生理性喜欢，陆总怎么沦陷了",
+            "book_id": 13424436,
+            "rank_change": 2
+          },
+          {
+            "title": "京潮暗涌",
+            "book_id": 12788373,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」《裴先生，暗恋她已十二年》、《披婚纱改嫁，爹系老公他超爱》、《渣夫逼我假离婚？真离另嫁他悔疯！》 掉出榜单；《冷婚七年，夫人带娃离婚他悔疯了》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "皇后令",
+            "book_id": 13424982
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "夺妻色",
+            "book_id": 13378512,
+            "rank_change": 2
+          },
+          {
+            "title": "枕边奴",
+            "book_id": 13537935,
+            "rank_change": 2
+          },
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「宫闱宅斗」新上榜 《皇后令》；《夺妻色》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "八零：带崽上门，周团长他蓄谋已久",
+            "book_id": 13222098
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "养错孩子嫁错郎！重生七零她翻身嫁首长",
+            "book_id": 13356918,
+            "rank_change": 3
+          },
+          {
+            "title": "闪婚禁欲首长，带龙凤胎随军赢麻了",
+            "book_id": 13198989,
+            "rank_change": 3
+          },
+          {
+            "title": "七零：娇软知青闪婚冷面糙汉",
+            "book_id": 13162113,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」新上榜 《八零：带崽上门，周团长他蓄谋已久》；《养错孩子嫁错郎！重生七零她翻身嫁首长》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+            "book_id": 13123449,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」新上榜 《新婚夜流放，飒爽太子妃种出西北大仓！》；《地狱归，驭百鬼，王妃回京后杀疯了》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」《流民医女：开荒把残夫养成战神》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "四岁姑奶奶，叼奶瓶带全族飞升啦",
+            "book_id": 13172136,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」《四岁姑奶奶，叼奶瓶带全族飞升啦》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世求生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "我，榜一，开轮椅杀穿公路游戏",
+            "book_id": 12936051,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「末世求生」《我，榜一，开轮椅杀穿公路游戏》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "南音无尽夏",
+            "book_id": 13913373,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」《南音无尽夏》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

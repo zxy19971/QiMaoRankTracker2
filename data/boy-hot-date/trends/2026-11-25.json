@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-25",
+  "board": "boy-hot-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 351200,
+    "total_heat": 7024000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "葬神棺",
+            "book_id": 1761978,
+            "rank_change": 1
+          },
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "rank_change": 1
+          },
+          {
+            "title": "极道剑尊",
+            "book_id": 219040,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "荒古武神",
+            "book_id": 216404,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "heat_change": 4000
+          },
+          {
+            "title": "葬天神帝",
+            "book_id": 213697,
+            "heat_change": 2000
+          },
+          {
+            "title": "吞噬九重天",
+            "book_id": 1655967,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「东方玄幻」《葬神棺》上升1位领涨；《荒古武神》下滑2位；《鸿蒙霸体诀》热度+4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "让你当个替身，你咋君临天下",
+            "book_id": 12647139,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "夫人在上！",
+            "book_id": 12465015,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "夫人在上！",
+            "book_id": 12465015,
+            "heat_change": -9000
+          },
+          {
+            "title": "逍遥四公子",
+            "book_id": 1809361,
+            "heat_change": -5000
+          },
+          {
+            "title": "让你当个替身，你咋君临天下",
+            "book_id": 12647139,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "「架空历史」《让你当个替身，你咋君临天下》上升1位领涨；《夫人在上！》下滑1位；《夫人在上！》热度-9000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "傲世潜龙",
+            "book_id": 207105,
+            "heat_change": -14000
+          },
+          {
+            "title": "警报！真龙出狱！",
+            "book_id": 1834789,
+            "heat_change": -6000
+          },
+          {
+            "title": "舔狗反派只想苟，女主不按套路走！",
+            "book_id": 1710753,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「都市高手」《傲世潜龙》下滑1位；《傲世潜龙》热度-14000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "高武严父，永远比儿子高五个境界",
+            "book_id": 12565608,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "高武严父，永远比儿子高五个境界",
+            "book_id": 12565608,
+            "heat_change": -8000
+          },
+          {
+            "title": "盖世神医",
+            "book_id": 195958,
+            "heat_change": 7000
+          }
+        ],
+        "summary": "「都市高武」《高武严父，永远比儿子高五个境界》下滑1位；《高武严父，永远比儿子高五个境界》热度-8000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "桃花劫",
+            "book_id": 2028957,
+            "heat_change": -16000
+          }
+        ],
+        "summary": "「商战职场」《桃花劫》热度-16000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "王朝争霸",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "大周第一武夫",
+            "book_id": 2074426,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "大周第一武夫",
+            "book_id": 2074426,
+            "heat_change": 8000
+          }
+        ],
+        "summary": "「王朝争霸」《大周第一武夫》上升1位领涨；《大周第一武夫》热度+8000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古典仙侠」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "categories": [
     {
       "name": "都市高武",
@@ -57,14 +57,14 @@
       "url": "api/categories/latest/%E6%9C%AB%E4%B8%96%E5%8D%B1%E6%9C%BA.json"
     },
     {
-      "name": "衍生同人",
-      "major": "N次元",
-      "url": "api/categories/latest/%E8%A1%8D%E7%94%9F%E5%90%8C%E4%BA%BA.json"
-    },
-    {
       "name": "奇门秘术",
       "major": "奇闻异事",
       "url": "api/categories/latest/%E5%A5%87%E9%97%A8%E7%A7%98%E6%9C%AF.json"
+    },
+    {
+      "name": "衍生同人",
+      "major": "N次元",
+      "url": "api/categories/latest/%E8%A1%8D%E7%94%9F%E5%90%8C%E4%BA%BA.json"
     },
     {
       "name": "热血校园",
@@ -77,6 +77,11 @@
       "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
     },
     {
+      "name": "穿越历史",
+      "major": "历史",
+      "url": "api/categories/latest/%E7%A9%BF%E8%B6%8A%E5%8E%86%E5%8F%B2.json"
+    },
+    {
       "name": "恐怖灵异",
       "major": "奇闻异事",
       "url": "api/categories/latest/%E6%81%90%E6%80%96%E7%81%B5%E5%BC%82.json"
@@ -85,11 +90,6 @@
       "name": "现代军事",
       "major": "军事",
       "url": "api/categories/latest/%E7%8E%B0%E4%BB%A3%E5%86%9B%E4%BA%8B.json"
-    },
-    {
-      "name": "穿越历史",
-      "major": "历史",
-      "url": "api/categories/latest/%E7%A9%BF%E8%B6%8A%E5%8E%86%E5%8F%B2.json"
     },
     {
       "name": "总裁豪门",
@@ -107,14 +107,14 @@
       "url": "api/categories/latest/%E5%B9%B4%E4%BB%A3%E9%87%8D%E7%94%9F.json"
     },
     {
-      "name": "都市奇幻",
-      "major": "现代言情",
-      "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
-    },
-    {
       "name": "古代情缘",
       "major": "古代言情",
       "url": "api/categories/latest/%E5%8F%A4%E4%BB%A3%E6%83%85%E7%BC%98.json"
+    },
+    {
+      "name": "都市奇幻",
+      "major": "现代言情",
+      "url": "api/categories/latest/%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB.json"
     },
     {
       "name": "玄幻仙侠",
@@ -150,6 +150,16 @@
       "name": "现实故事",
       "major": "现实主义",
       "url": "api/categories/latest/%E7%8E%B0%E5%AE%9E%E6%95%85%E4%BA%8B.json"
+    },
+    {
+      "name": "现代悬疑",
+      "major": "现代言情",
+      "url": "api/categories/latest/%E7%8E%B0%E4%BB%A3%E6%82%AC%E7%96%91.json"
+    },
+    {
+      "name": "异世幻想",
+      "major": "幻想言情",
+      "url": "api/categories/latest/%E5%BC%82%E4%B8%96%E5%B9%BB%E6%83%B3.json"
     }
   ]
 }

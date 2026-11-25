@@ -8,39 +8,47 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
-    "count": 3,
-    "total_heat": 614000,
+    "count": 4,
+    "total_heat": 808000,
     "trend": {
-      "new_count": 3,
+      "new_count": 1,
       "dropped_count": 0,
       "new_books": [
         {
-          "title": "养错孩子嫁错郎！重生七零她翻身嫁首长",
-          "book_id": 13356918
-        },
-        {
-          "title": "闪婚禁欲首长，带龙凤胎随军赢麻了",
-          "book_id": 13198989
-        },
-        {
-          "title": "七零：娇软知青闪婚冷面糙汉",
-          "book_id": 13162113
+          "title": "八零：带崽上门，周团长他蓄谋已久",
+          "book_id": 13222098
         }
       ],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "养错孩子嫁错郎！重生七零她翻身嫁首长",
+          "book_id": 13356918,
+          "rank_change": 3
+        },
+        {
+          "title": "闪婚禁欲首长，带龙凤胎随军赢麻了",
+          "book_id": 13198989,
+          "rank_change": 3
+        },
+        {
+          "title": "七零：娇软知青闪婚冷面糙汉",
+          "book_id": 13162113,
+          "rank_change": 3
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「年代重生」新上榜 《养错孩子嫁错郎！重生七零她翻身嫁首长》、《闪婚禁欲首长，带龙凤胎随军赢麻了》、《七零：娇软知青闪婚冷面糙汉》。",
+      "summary": "「年代重生」新上榜 《八零：带崽上门，周团长他蓄谋已久》；《养错孩子嫁错郎！重生七零她翻身嫁首长》上升3位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 18,
+        "rank": 15,
         "title": "养错孩子嫁错郎！重生七零她翻身嫁首长",
         "book_id": 13356918,
         "url": "https://www.qimao.com/shuku/13356918/",
@@ -56,20 +64,20 @@
         "word_count": 339400,
         "heat": 209000,
         "platform_trend": "rise",
-        "badge": "飙升36名",
+        "badge": "飙升39名",
         "intro": "上辈子，父母被人算计下放前，为了护住她，\n把她匆匆塞给早有婚约的陆宸屿。都以为那是绝境里她唯一的出路，却不知道那是另一条死路，\n陆宸屿心里装的是寡嫂林念慈。\n结婚前，他逼她让出刚考上的酒厂工作，\n结婚后，他让林念慈生下两个孩子，塞到她怀里，骗她养了三十年。\n她伺候公婆，操持家务，掏空自己，为了这个家奉献了一辈子，\n直到死她才知道，自己这辈子活成了一个笑话。\n再睁眼，回到结婚前一周，\n陆宸屿正站在她面前，理直气壮的让她把工作让出来。\n孟晚晴抬手就给了他一巴掌。\n这一世，工作她不让。房子她不给。那个骗了她一辈子的男人，她一脚踹开。\n祖传的玉葫芦空间里，藏着灵泉医书和孟家几代人攒下的底牌。\n她用灵泉水种药材，考大学，一步步把下放的父母接回身边，把被陆家霸占的东西一件件抢回来。\n嫁给上辈子错过的白月光。\n这一世，属于她的，谁也别想拿走。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4453/13356918_360x480.jpg?time=1788672853",
         "latest_chapter": " 第163章  获救",
         "updated_at": "2026-11-23 23:15:03",
-        "rank_change": 0,
+        "rank_change": 3,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"
       },
       {
-        "rank": 19,
+        "rank": 16,
         "title": "闪婚禁欲首长，带龙凤胎随军赢麻了",
         "book_id": 13198989,
         "url": "https://www.qimao.com/shuku/13198989/",
@@ -81,24 +89,24 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.13万字",
-        "word_count": 401300,
+        "word_count_text": "40.53万字",
+        "word_count": 405300,
         "heat": 207000,
         "platform_trend": "rise",
-        "badge": "飙升51名",
+        "badge": "飙升54名",
         "intro": "【年代+先婚后爱+带崽+重生虐渣+爽文】\n林月桥重生了，回到渣男逼她把铁饭碗让给小三的那天。\n上辈子，渣男用假结婚证骗她做牛做马，和小三珠胎暗结，却倒打一耙污蔑她作风不检点。\n最终，她父母惨死异乡，一双龙凤胎被全村当成野种活活冻饿而死！\n她绝望放火，拉着狗男女同归于尽。\n再睁眼，看着道貌岸然的渣男，林月桥冷笑，反手就是三个大耳光！\n   这辈子这个冤大头，谁爱当谁当！\n她当众戳穿假结婚，带着全村老少活捉正在白日宣淫的渣男贱女，直接让他们身败名裂！\n大仇得报，林月桥带着双胞胎，找上冷面军官霍行舟。\n“霍首长，借个军婚保命，送你俩亲生崽，干不干？”\n林月桥以为结婚只是各取所需，可当协议期满，林月桥提出离婚时，平日里冷漠禁欲的铁血首长却将她死死抵在门后，眼底猩红。\n“老婆，你竟然想始乱终弃？晚了！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4400/13198989_360x480.jpg?time=1787032782",
-        "latest_chapter": " 第174章  以为是想开了，实际是自闭中",
-        "updated_at": "2026-11-23 23:57:03",
-        "rank_change": 0,
+        "latest_chapter": " 第175章  离开农场",
+        "updated_at": "2026-11-25 00:23:03",
+        "rank_change": 3,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "年代重生"
       },
       {
-        "rank": 20,
+        "rank": 17,
         "title": "七零：娇软知青闪婚冷面糙汉",
         "book_id": 13162113,
         "url": "https://www.qimao.com/shuku/13162113/",
@@ -110,19 +118,48 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.85万字",
-        "word_count": 388500,
+        "word_count_text": "39.27万字",
+        "word_count": 392700,
         "heat": 198000,
         "platform_trend": "rise",
-        "badge": "飙升53名",
+        "badge": "飙升56名",
         "intro": "一场车祸，现代毕业生姜若兰穿越七零，成为命运坎坷的同名女知青。\n原主暂定结婚，避开下乡吃苦。\n谁料领证前夕，遭继妹和未婚夫双双背叛。\n逃不开下乡的命运，姜若兰远赴他乡。\n命运兜转，她遇到糙汉周建平，阴差阳错领完证。\n本以为是凑合搭伙过日子，谁料这位看着不好惹的汉子，把所有温柔尽数给她！\n周建平：吃干抹净就想跑？\n姜若兰：我对你负责，明儿就去领证！\n周建平：小兰兰，这辈子我只对你好！\n姜若兰：建平哥哥，我心里只有你！\n……\n夫妻二人肩并肩，在滚滚浪潮里，爱情、前程双丰收！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4388/13162113_360x480.jpg?time=1788227986",
-        "latest_chapter": " 第174章  这两口子到底有没有完",
-        "updated_at": "2026-11-24 09:51:03",
+        "latest_chapter": " 第176章  我跟你拼了！",
+        "updated_at": "2026-11-25 10:13:03",
+        "rank_change": 3,
+        "heat_change": 0,
+        "is_new": false,
+        "boards_count": 2,
+        "stale_update": false,
+        "category": "年代重生"
+      },
+      {
+        "rank": 18,
+        "title": "八零：带崽上门，周团长他蓄谋已久",
+        "book_id": 13222098,
+        "url": "https://www.qimao.com/shuku/13222098/",
+        "author": "幸夷",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%B9%B8%E5%A4%B7_14/",
+        "major": "现代言情",
+        "minor": "年代重生",
+        "major_id": 1,
+        "minor_id": 278,
+        "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "39.32万字",
+        "word_count": 393200,
+        "heat": 194000,
+        "platform_trend": "rise",
+        "badge": "飙升33名",
+        "intro": "因反抗家里的催婚无果后，宋熹微索性直接逃婚。\n然而，刚离家就被一小团子给“讹”上了。\n三岁多的小团子，软萌可爱，却非要说自己是她的儿子。\n宋熹微被气笑了，她洁身自爱二十年，连男同志的手都没牵过，怎么可能会有孩子。\n可笑着笑着，天就塌了！\n原来一切都是真的，小团子不仅是她的好大儿，就连爹也是个不一般的人物…\n——\n京都大院太子爷周思远心里一直藏着个小姑娘。\n他等啊等，盼啊盼，终于熬到小姑娘长大了。\n可还不待他表明心意，小姑娘就带回来了个男子，两人郎才女貌，一下子成了大院里最般配的一对。\n无法斩断对小姑娘的心思，他毅然决然地远赴了西北。\n原以为此生都不会再与小姑娘有任何交集了。\n可某个平常的早上，小姑娘就突然带着个小团子找上门了……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4408/13222098_360x480.jpg?time=1787190972",
+        "latest_chapter": " 第191章  今天之前，过时不候",
+        "updated_at": "2026-11-24 23:24:03",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": true,
-        "boards_count": 2,
+        "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"
       }

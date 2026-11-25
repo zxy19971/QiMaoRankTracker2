@@ -1,0 +1,338 @@
+{
+  "date": "2026-11-25",
+  "board": "boy-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 5,
+    "dropped_count": 5,
+    "avg_heat": 20950,
+    "total_heat": 419000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "状元，诗仙，女帝相好的！",
+            "book_id": 13767324
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "大乾第一好圣孙",
+            "book_id": 13619796,
+            "rank_change": 5
+          },
+          {
+            "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
+            "book_id": 13695813,
+            "rank_change": 3
+          },
+          {
+            "title": "犯上家奴，替假世子成亲后问鼎武圣！",
+            "book_id": 13307478,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "犯上家奴，替假世子成亲后问鼎武圣！",
+            "book_id": 13307478,
+            "heat_change": 2000
+          },
+          {
+            "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
+            "book_id": 13695813,
+            "heat_change": 2000
+          },
+          {
+            "title": "大乾第一好圣孙",
+            "book_id": 13619796,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「架空历史」新上榜 《状元，诗仙，女帝相好的！》；《大乾第一好圣孙》上升5位领涨；《犯上家奴，替假世子成亲后问鼎武圣！》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "穿越70：娶美女知青，狩猎兴安岭",
+            "book_id": 13399662,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "高高在上不给碰，我换亲你哭什么",
+            "book_id": 13938639,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "穿越70：娶美女知青，狩猎兴安岭",
+            "book_id": 13399662,
+            "heat_change": 2000
+          }
+        ],
+        "summary": "「都市生活」《穿越70：娶美女知青，狩猎兴安岭》上升2位领涨；《高高在上不给碰，我换亲你哭什么》下滑1位；《穿越70：娶美女知青，狩猎兴安岭》热度+2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "诡异降临：离婚后无我镇命，她全家慌了",
+            "book_id": 13734438,
+            "intro": "林轩受父亲之命，剥离自身地魂封于婚书内，为妻子秦若雪镇命三年。\n最终却被秦若雪嫌弃是个傻子，选择烧毁婚书，与他离婚，打算另寻新欢。\n婚书焚，地魂归，神智现。\n林轩走得干脆，没有一丝留恋。\n就在当晚，秦"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "都市大猛仙",
+            "book_id": 12947607,
+            "rank_change": 2
+          },
+          {
+            "title": "我医武双绝，体内有尊神农鼎",
+            "book_id": 13674141,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "我医武双绝，体内有尊神农鼎",
+            "book_id": 13674141,
+            "heat_change": 9000
+          },
+          {
+            "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+            "book_id": 13241454,
+            "heat_change": 1000
+          },
+          {
+            "title": "都市大猛仙",
+            "book_id": 12947607,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「都市高武」《诡异降临：离婚后无我镇命，她全家慌了》 掉出榜单；《都市大猛仙》上升2位领涨；《我医武双绝，体内有尊神农鼎》热度+9000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "长生隐仙",
+            "book_id": 13425288,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "奇葫仙缘",
+            "book_id": 13123122,
+            "heat_change": -3000
+          },
+          {
+            "title": "长生隐仙",
+            "book_id": 13425288,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「古典仙侠」《长生隐仙》上升2位领涨；《奇葫仙缘》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 2,
+        "new_books": [
+          {
+            "title": "凡人：让你看守废书楼，你却偷偷成仙了",
+            "book_id": 13437552
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "开局破庙托付，阴阳大道成就武神！",
+            "book_id": 13006284,
+            "intro": "穿越异界，陈凡成了一名没有人权的漕工。\n累死累活的工作，换不来一口饭吃，同时还要面对恶霸欺凌，管事打骂！\n好在觉醒了熟练度面板，只要够肝，就能变强！\n【滴，基础拳法提升到圆满级，解锁凡境无敌！】\n【滴"
+          },
+          {
+            "title": "成仙",
+            "book_id": 13343910,
+            "intro": "【凡人流】【无系统】凡人皇朝大衍太子萧澈，天生浊灵锁脉，八年时间倾尽国库之财换不来一缕灵气入体，满朝文武跪请废储。\n父皇以帝王颜面换来仙门举荐帖，送他入青阳宗求仙。\n仙门不收废人，他成了无人问津的伙房"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "废丹房老头，被仙子逼婚了",
+            "book_id": 13608798,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "废丹房老头，被仙子逼婚了",
+            "book_id": 13608798,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「幻想修真」新上榜 《凡人：让你看守废书楼，你却偷偷成仙了》；《开局破庙托付，阴阳大道成就武神！》、《成仙》 掉出榜单；《废丹房老头，被仙子逼婚了》上升1位领涨；《废丹房老头，被仙子逼婚了》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "重生70：断亲入赘，三枪轰出万元户",
+            "book_id": 13780857,
+            "rank_change": 4
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "重生70：断亲入赘，三枪轰出万元户",
+            "book_id": 13780857,
+            "heat_change": 6000
+          }
+        ],
+        "summary": "「乡村生活」《重生70：断亲入赘，三枪轰出万元户》上升4位领涨；《重生70：断亲入赘，三枪轰出万元户》热度+6000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "缆车求生：我能升级一切",
+            "book_id": 13279389,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "缆车求生：我能升级一切",
+            "book_id": 13279389,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「末世危机」《缆车求生：我能升级一切》上升2位领涨；《缆车求生：我能升级一切》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "天道酬勤，从杀猪匠肝成人间武神",
+            "book_id": 13267041
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "荒淫无道？我那是拯救快散的宗门！",
+            "book_id": 13611585,
+            "intro": "【师姐你好香】+【正人君子读春秋】+【我合道就变强！】\n陆沉舟穿越修仙界，正逢妖潮在即，宗门危难！\n关键时候，陆沉舟觉醒【天命道侣系统】。\n只要与天资出众的女修结为道侣，他便能获得天道奖励，而且道侣本"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「东方玄幻」新上榜 《天道酬勤，从杀猪匠肝成人间武神》；《荒淫无道？我那是拯救快散的宗门！》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "医武狂龙：美女总裁非我不嫁",
+            "book_id": 13716609
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "退役兵王想躺平，奈何女神太倾城",
+            "book_id": 13501665,
+            "intro": "杀手之王秦峰，代号【修罗王】，因为厌倦了海外的腥风血雨，选择回归都市成了一名小保安。\n一心躺平的他偶然被高冷女神强推之后，自此桃运不断，各路美女纷纷对他投怀送抱，纠缠不休。\n邻家妹妹：“秦峰哥，房子车"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市高手」新上榜 《医武狂龙：美女总裁非我不嫁》；《退役兵王想躺平，奈何女神太倾城》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "厌术神匠",
+            "book_id": 13342959
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「奇门秘术」新上榜 《厌术神匠》。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

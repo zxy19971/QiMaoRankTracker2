@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "category": {
     "name": "衍生同人",
     "major": "N次元",
@@ -19,16 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "四合院：杀禽抢房，战天斗地！",
-          "book_id": 13418244,
-          "rank_change": 4
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「衍生同人」《四合院：杀禽抢房，战天斗地！》上升4位领涨。",
+      "summary": "「衍生同人」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -45,16 +39,16 @@
         "minor_id": 239,
         "minor_url": "https://www.qimao.com/shuku/a-207-239-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.46万字",
-        "word_count": 314600,
+        "word_count_text": "31.87万字",
+        "word_count": 318700,
         "heat": 274000,
         "platform_trend": "rise",
         "badge": "飙升48名",
         "intro": "社畜何雨峰接管了傻柱堂哥的身体，回到了那个火红的年代。\n回到四合院时觉醒了大地主系统，一间房子一次奖励，妥妥的爽文系统！\n禽兽们总是惦记别人家房子，现在被何雨峰惦记上也很合理吧？\n“人，我得打，房子，我也要，谁赞成，谁反对？”\n面对一众禽兽，何雨峰双手插兜不知道什么是收敛。\n大地主系统：“讲话了，宿主你别光打，要不嘎几个试试呢？”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4473/13418244_360x480.jpg?time=1788942846",
-        "latest_chapter": " 第155章  苏砚失踪",
-        "updated_at": "2026-11-24 10:02:03",
-        "rank_change": 4,
+        "latest_chapter": " 第157章  黑市倾巢而出",
+        "updated_at": "2026-11-25 10:02:03",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
