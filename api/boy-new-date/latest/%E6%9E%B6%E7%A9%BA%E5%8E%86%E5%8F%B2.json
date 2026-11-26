@@ -8,42 +8,43 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "category": {
     "name": "架空历史",
     "major": "历史",
-    "count": 4,
-    "total_heat": 55000,
+    "count": 3,
+    "total_heat": 51000,
     "trend": {
-      "new_count": 1,
-      "dropped_count": 0,
-      "new_books": [
+      "new_count": 0,
+      "dropped_count": 1,
+      "new_books": [],
+      "dropped_books": [
         {
           "title": "状元，诗仙，女帝相好的！",
-          "book_id": 13767324
+          "book_id": 13767324,
+          "intro": "大学生沈贞穿越成安国公世子，本该享尽荣华，　可他刚一睁眼，却发现自己已半只脚踩进了鬼门关。\n爷爷满朝政敌，前身却偏偏买了个进士！\n当着皇帝的面殿试，不是风光无限，而是杀机临门！\n满城都在等着看他掉脑袋"
         }
       ],
-      "dropped_books": [],
       "top_risers": [
         {
           "title": "大乾第一好圣孙",
           "book_id": 13619796,
-          "rank_change": 5
-        },
-        {
-          "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
-          "book_id": 13695813,
-          "rank_change": 3
+          "rank_change": 4
         },
         {
           "title": "犯上家奴，替假世子成亲后问鼎武圣！",
           "book_id": 13307478,
-          "rank_change": 2
+          "rank_change": 1
         }
       ],
       "top_fallers": [],
       "heat_leaders": [
         {
+          "title": "大乾第一好圣孙",
+          "book_id": 13619796,
+          "heat_change": 4000
+        },
+        {
           "title": "犯上家奴，替假世子成亲后问鼎武圣！",
           "book_id": 13307478,
           "heat_change": 2000
@@ -51,20 +52,15 @@
         {
           "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
           "book_id": 13695813,
-          "heat_change": 2000
-        },
-        {
-          "title": "大乾第一好圣孙",
-          "book_id": 13619796,
-          "heat_change": 2000
+          "heat_change": 1000
         }
       ],
-      "summary": "「架空历史」新上榜 《状元，诗仙，女帝相好的！》；《大乾第一好圣孙》上升5位领涨；《犯上家奴，替假世子成亲后问鼎武圣！》热度+2000。",
+      "summary": "「架空历史」《状元，诗仙，女帝相好的！》 掉出榜单；《大乾第一好圣孙》上升4位领涨；《大乾第一好圣孙》热度+4000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 10,
+        "rank": 9,
         "title": "犯上家奴，替假世子成亲后问鼎武圣！",
         "book_id": 13307478,
         "url": "https://www.qimao.com/shuku/13307478/",
@@ -76,17 +72,46 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "41.07万字",
-        "word_count": 410700,
-        "heat": 17000,
+        "word_count_text": "41.79万字",
+        "word_count": 417900,
+        "heat": 19000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "身为侯府小厮，李玄不小心撞破女扮男装的公子，以为死路一条，万万没想到，唯一的活路是帮假公子去跟将门之女洞房！\n更让他没想到的是，洞房之后将门之女食髓知味，居然要求他做出......\n为了在侯府更好的活下去，李玄踏上了武道，从家奴到侍从，从护院到管家，从拜将到封侯，一桩桩艳遇，一次次危险之后，李玄问鼎了人间武圣！\n有人问：“武圣，你是怎么从微末中崛起的?”\n“我李玄能走到今天，是一步一步，一步一步爬上来的。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4436/13307478_360x480.jpg?time=1794470727",
-        "latest_chapter": " 第180章  多倍快乐，多倍修行速度（第三更）",
-        "updated_at": "2026-11-24 23:02:05",
-        "rank_change": 2,
+        "latest_chapter": " 第183章  寿尽福来走北境，短命霉头爬穷山（第三更）",
+        "updated_at": "2026-11-25 23:02:08",
+        "rank_change": 1,
         "heat_change": 2000,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "架空历史"
+      },
+      {
+        "rank": 11,
+        "title": "大乾第一好圣孙",
+        "book_id": 13619796,
+        "url": "https://www.qimao.com/shuku/13619796/",
+        "author": "明月天衣",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%98%8E%E6%9C%88%E5%A4%A9%E8%A1%A3_14/",
+        "major": "历史",
+        "minor": "架空历史",
+        "major_id": 56,
+        "minor_id": 58,
+        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "36.88万字",
+        "word_count": 368800,
+        "heat": 17000,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "李宁穿越成大乾好圣孙　　\n自己的皇爷爷正沉溺于修仙　　\n自己的父王正和叔叔们夺嫡　　\n自己则深陷科举舞弊的阴谋　　\n整个京城都在等着看自己笑话　　\n可谁曾想。　　\n他一个连名字都不会写的废物世子　　\n竟能七步成诗、文章烁今、丹青无价、群儒胆寒　　\n从此，李宁一步一步，靠着权谋和布局。　　\n成为了大乾第一好圣孙。　　\n皇爷爷：好圣孙，可旺大乾三代　　\n父王：好孩儿，你看，爹当太子这事儿？　　\n众皇叔：大侄，快收了神通吧！　　\n众大儒：什么叫文坛今后都要评职称了？　　\n众红颜：为了圣孙，我们什么都愿意做！　　\n众世子：不是，你全是活啊？\n李宁：世子之争，向来如此！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4540/13619796_360x480.jpg?time=1791135983",
+        "latest_chapter": " 第168章  你监你的国，我变我的法",
+        "updated_at": "2026-11-26 00:31:03",
+        "rank_change": 4,
+        "heat_change": 4000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
@@ -105,76 +130,18 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "31.54万字",
-        "word_count": 315400,
-        "heat": 14000,
+        "word_count_text": "32.41万字",
+        "word_count": 324100,
+        "heat": 15000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "沈重穿越古代，本想做个冷宫小侍卫混日子，没想皇后仗着自己修为高强行和自己生孩子！贵妃娘娘为了拉拢自己也愿意以身相许……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4566/13695813_360x480.jpg?time=1791613604",
-        "latest_chapter": " 第142章  你不是牛嘛",
-        "updated_at": "2026-11-24 23:07:04",
-        "rank_change": 3,
-        "heat_change": 2000,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "架空历史"
-      },
-      {
-        "rank": 15,
-        "title": "大乾第一好圣孙",
-        "book_id": 13619796,
-        "url": "https://www.qimao.com/shuku/13619796/",
-        "author": "明月天衣",
-        "author_url": "https://www.qimao.com/zuozhe/%E6%98%8E%E6%9C%88%E5%A4%A9%E8%A1%A3_14/",
-        "major": "历史",
-        "minor": "架空历史",
-        "major_id": 56,
-        "minor_id": 58,
-        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "36.23万字",
-        "word_count": 362300,
-        "heat": 13000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "李宁穿越成大乾好圣孙　　\n自己的皇爷爷正沉溺于修仙　　\n自己的父王正和叔叔们夺嫡　　\n自己则深陷科举舞弊的阴谋　　\n整个京城都在等着看自己笑话　　\n可谁曾想。　　\n他一个连名字都不会写的废物世子　　\n竟能七步成诗、文章烁今、丹青无价、群儒胆寒　　\n从此，李宁一步一步，靠着权谋和布局。　　\n成为了大乾第一好圣孙。　　\n皇爷爷：好圣孙，可旺大乾三代　　\n父王：好孩儿，你看，爹当太子这事儿？　　\n众皇叔：大侄，快收了神通吧！　　\n众大儒：什么叫文坛今后都要评职称了？　　\n众红颜：为了圣孙，我们什么都愿意做！　　\n众世子：不是，你全是活啊？\n李宁：世子之争，向来如此！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4540/13619796_360x480.jpg?time=1791135983",
-        "latest_chapter": " 第165章  细盐和白糖的生意",
-        "updated_at": "2026-11-25 00:15:06",
-        "rank_change": 5,
-        "heat_change": 2000,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "架空历史"
-      },
-      {
-        "rank": 19,
-        "title": "状元，诗仙，女帝相好的！",
-        "book_id": 13767324,
-        "url": "https://www.qimao.com/shuku/13767324/",
-        "author": "张正经",
-        "author_url": "https://www.qimao.com/zuozhe/%E5%BC%A0%E6%AD%A3%E7%BB%8F_14/",
-        "major": "历史",
-        "minor": "架空历史",
-        "major_id": 56,
-        "minor_id": 58,
-        "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "16.87万字",
-        "word_count": 168700,
-        "heat": 11000,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "大学生沈贞穿越成安国公世子，本该享尽荣华，　可他刚一睁眼，却发现自己已半只脚踩进了鬼门关。\n爷爷满朝政敌，前身却偏偏买了个进士！\n当着皇帝的面殿试，不是风光无限，而是杀机临门！\n满城都在等着看他掉脑袋，可谁都没想到，这个人人看不起的纨绔世子，竟从一场诗会开始，步步翻盘！\n诗词惊世，文章镇国，权谋入局，搅动天下风云！\n女帝惊呼：“状元是你，秀衣门少主是你，就连反贼头目都是你相好的，说，还有什么瞒着朕的？”",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4590/13767324_360x480.jpg?time=1792145502",
-        "latest_chapter": " 第67章  就问你带不带劲",
-        "updated_at": "2026-11-25 11:14:03",
+        "latest_chapter": " 第146章  陆鸿，死",
+        "updated_at": "2026-11-25 22:39:03",
         "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "heat_change": 1000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "架空历史"

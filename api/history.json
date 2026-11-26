@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:02:39",
+  "generated_at": "2026-11-26T11:27:46",
   "days_retained": 90,
   "books": {
     "195958": {
@@ -7,30 +7,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/203050_360x480.jpg?time=1607394498",
       "author": "狐颜乱语",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 1,
-          "h": 0
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 1,
-          "h": 1283000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 1,
-          "h": 43735000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 15,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-collect-date",
@@ -1740,6 +1716,24 @@
           "b": "boy-hot-month",
           "r": 1,
           "h": 36604000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-collect-date",
+          "r": 1,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 1,
+          "h": 1146000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 1,
+          "h": 36604000
         }
       ]
     },
@@ -1748,18 +1742,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/520/1558519_360x480.jpg?time=1719540912",
       "author": "修果",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 2,
-          "h": 797000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 2,
-          "h": 27131000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -3187,6 +3169,30 @@
           "b": "boy-over-month",
           "r": 1,
           "h": 18053000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 4,
+          "h": 437000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 3,
+          "h": 18053000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 1,
+          "h": 437000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 1,
+          "h": 18053000
         }
       ]
     },
@@ -3195,18 +3201,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/544/1631939_360x480.jpg?time=1747031009",
       "author": "红透半边天",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 3,
-          "h": 629000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 3,
-          "h": 26442000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -4280,6 +4274,18 @@
           "b": "boy-hot-month",
           "r": 2,
           "h": 25010000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 2,
+          "h": 573000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 2,
+          "h": 25010000
         }
       ]
     },
@@ -4288,24 +4294,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/625/1872928_360x480.jpg?time=1774947942",
       "author": "化十",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 6,
-          "h": 504000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 4,
-          "h": 19008000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 5,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -5919,6 +5907,24 @@
           "b": "boy-update-date",
           "r": 9,
           "h": 2
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 6,
+          "h": 321000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 5,
+          "h": 11576000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 12,
+          "h": 3
         }
       ]
     },
@@ -5927,24 +5933,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/91/270336_1659697789_360x480.jpg",
       "author": "鱼初见",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 5,
-          "h": 519000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 5,
-          "h": 18313000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 2,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -7558,6 +7546,24 @@
           "b": "boy-update-date",
           "r": 10,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 3,
+          "h": 506000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 4,
+          "h": 15912000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 11,
+          "h": 1
         }
       ]
     },
@@ -7566,24 +7572,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/479/1434782_360x480.jpg?time=1734080492",
       "author": "浮生一诺",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 18,
-          "h": 0
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 4,
-          "h": 555000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 6,
-          "h": 16119000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-collect-date",
@@ -9371,6 +9359,24 @@
           "b": "boy-hot-month",
           "r": 6,
           "h": 10884000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-collect-date",
+          "r": 18,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 7,
+          "h": 308000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 6,
+          "h": 10884000
         }
       ]
     },
@@ -9379,30 +9385,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/74/219850_360x480.jpg?time=1638350404",
       "author": "化十",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 8,
-          "h": 423000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 7,
-          "h": 15210000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 1,
-          "h": 423000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 1,
-          "h": 15210000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -11550,6 +11532,30 @@
           "b": "boy-over-month",
           "r": 2,
           "h": 10228000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 11,
+          "h": 286000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 9,
+          "h": 10228000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 2,
+          "h": 286000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 2,
+          "h": 10228000
         }
       ]
     },
@@ -11558,18 +11564,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266924_360x480.jpg?time=1756372892",
       "author": "江湖如梦",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 7,
-          "h": 463000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 8,
-          "h": 15122000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -12315,18 +12309,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/773/2318640_360x480.jpg?time=1751479525",
       "author": "青岳",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 9,
-          "h": 397000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 9,
-          "h": 13186000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -13394,6 +13376,18 @@
           "b": "boy-hot-month",
           "r": 11,
           "h": 8821000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 20,
+          "h": 203000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 11,
+          "h": 8821000
         }
       ]
     },
@@ -13402,18 +13396,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/821/2462694_360x480.jpg?time=1755851848",
       "author": "推窗望岳",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 10,
-          "h": 377000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 10,
-          "h": 11963000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -14487,6 +14469,18 @@
           "b": "boy-hot-month",
           "r": 7,
           "h": 10785000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 5,
+          "h": 375000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 7,
+          "h": 10785000
         }
       ]
     },
@@ -14682,24 +14676,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4156/12465015_360x480.jpg?time=1794881211",
       "author": "一嘟噜葡萄",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 12,
-          "h": 326000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 1,
-          "h": 326000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 4,
-          "h": 1494000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -15803,6 +15779,18 @@
           "b": "boy-hot-month",
           "r": 8,
           "h": 10396000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 10,
+          "h": 290000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 8,
+          "h": 10396000
         }
       ]
     },
@@ -15811,18 +15799,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/895/2684970_360x480.jpg?time=1778644008",
       "author": "醉不致死",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 14,
-          "h": 287000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 13,
-          "h": 9612000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -16896,6 +16872,18 @@
           "b": "boy-hot-month",
           "r": 13,
           "h": 8684000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 9,
+          "h": 290000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 13,
+          "h": 8684000
         }
       ]
     },
@@ -16904,24 +16892,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/421/1260130_360x480.jpg?time=1685672538",
       "author": "我是愤怒",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 19,
-          "h": 0
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 13,
-          "h": 303000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 11,
-          "h": 10859000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-collect-date",
@@ -18529,6 +18499,24 @@
           "b": "boy-hot-month",
           "r": 15,
           "h": 8049000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-collect-date",
+          "r": 19,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 17,
+          "h": 246000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 15,
+          "h": 8049000
         }
       ]
     },
@@ -18537,18 +18525,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/205225_360x480.jpg?time=1638355115",
       "author": "西装暴徒",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 15,
-          "h": 274000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 14,
-          "h": 9399000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -19622,6 +19598,18 @@
           "b": "boy-hot-month",
           "r": 16,
           "h": 7625000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 13,
+          "h": 265000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 16,
+          "h": 7625000
         }
       ]
     },
@@ -19949,18 +19937,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/628/1882015_360x480.jpg?time=1734693389",
       "author": "木有金箍",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 18,
-          "h": 254000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 12,
-          "h": 9856000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -21034,6 +21010,18 @@
           "b": "boy-hot-month",
           "r": 12,
           "h": 8756000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 16,
+          "h": 252000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 12,
+          "h": 8756000
         }
       ]
     },
@@ -21042,24 +21030,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/91/272776_360x480.jpg?time=1689643974",
       "author": "屠刀成佛",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 16,
-          "h": 260000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 18,
-          "h": 7932000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 8,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -22661,6 +22631,24 @@
           "b": "boy-update-date",
           "r": 7,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 15,
+          "h": 257000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 14,
+          "h": 8418000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 7,
+          "h": 0
         }
       ]
     },
@@ -22669,18 +22657,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/483/1446010_360x480.jpg?time=1720575032",
       "author": "惊蛰落月",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 17,
-          "h": 256000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 15,
-          "h": 9108000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -23700,6 +23676,12 @@
           "b": "boy-hot-month",
           "r": 17,
           "h": 7054000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 17,
+          "h": 7054000
         }
       ]
     },
@@ -23708,18 +23690,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/810/2429111_360x480.jpg?time=1757065054",
       "author": "月下冰河",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 20,
-          "h": 219000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 16,
-          "h": 8647000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -24067,6 +24037,18 @@
           "b": "boy-over-month",
           "r": 4,
           "h": 5050000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 6,
+          "h": 183000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 4,
+          "h": 5050000
         }
       ]
     },
@@ -24075,18 +24057,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4060/12179937_360x480.jpg?time=1779853760",
       "author": "因果逆转",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 11,
-          "h": 365000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 17,
-          "h": 8190000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -25010,6 +24980,12 @@
           "b": "boy-update-date",
           "r": 11,
           "h": 5
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 16,
+          "h": 5
         }
       ]
     },
@@ -25018,18 +24994,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/882/2643190_360x480.jpg?time=1757347533",
       "author": "仗剑修真",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-date",
-          "r": 19,
-          "h": 222000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 19,
-          "h": 7707000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-date",
@@ -25347,6 +25311,12 @@
           "b": "boy-hot-month",
           "r": 18,
           "h": 5965000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 18,
+          "h": 5965000
         }
       ]
     },
@@ -25355,12 +25325,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3349/10046268_360x480.jpg?time=1770100323",
       "author": "东一方",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-hot-month",
-          "r": 20,
-          "h": 7401000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-hot-month",
@@ -25398,18 +25362,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4189/12565608_360x480.jpg?time=1782178975",
       "author": "邯郸财阀",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 6,
-          "h": 90000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 9,
-          "h": 486000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-new-date",
@@ -25721,6 +25673,18 @@
           "b": "boy-update-date",
           "r": 14,
           "h": 3
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 14,
+          "h": 262000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 14,
+          "h": 0
         }
       ]
     },
@@ -25729,18 +25693,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4120/12357096_360x480.jpg?time=1781940481",
       "author": "一缕微光",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 12,
-          "h": 56000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 10,
-          "h": 434000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-new-date",
@@ -26102,12 +26054,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4216/12647139_360x480.jpg?time=1786559398",
       "author": "骑着蜗牛追奔驰",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 9,
-          "h": 62000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-new-date",
@@ -27151,6 +27097,18 @@
           "b": "boy-hot-month",
           "r": 10,
           "h": 9123000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 8,
+          "h": 292000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 10,
+          "h": 9123000
         }
       ]
     },
@@ -27159,18 +27117,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4086/12257385_360x480.jpg?time=1790582193",
       "author": "咸鱼老白",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 5,
-          "h": 111000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 3,
-          "h": 1520000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-new-date",
@@ -27599,18 +27545,6 @@
       "author": "我在丛中笑",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 4,
-          "h": 112000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 8,
-          "h": 612000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-new-date",
           "r": 4,
@@ -28026,18 +27960,6 @@
       "author": "三月雨",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 8,
-          "h": 69000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 2,
-          "h": 1638000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-new-date",
           "r": 9,
@@ -28075,18 +27997,6 @@
       "author": "粮满仓",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 11,
-          "h": 57000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 1,
-          "h": 1711000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-new-date",
           "r": 12,
@@ -28115,19 +28025,6 @@
           "b": "boy-new-month",
           "r": 1,
           "h": 1711000
-        }
-      ]
-    },
-    "12605832": {
-      "title": "重生70：猎山猎水猎人生",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4202/12605832_360x480.jpg?time=1782463102",
-      "author": "指能生金",
-      "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 16,
-          "h": 305000
         }
       ]
     },
@@ -28209,18 +28106,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4029/12086658_360x480.jpg?time=1787628489",
       "author": "叶听澜",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 2,
-          "h": 163000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 14,
-          "h": 321000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-new-date",
@@ -28516,18 +28401,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4186/12556227_360x480.jpg?time=1783490729",
       "author": "最后的黄金回旋",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 16,
-          "h": 41000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 19,
-          "h": 284000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-new-date",
@@ -28866,12 +28739,6 @@
       "author": "借东风",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 14,
-          "h": 53000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-new-date",
           "r": 13,
@@ -28902,18 +28769,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4172/12514650_360x480.jpg?time=1781702155",
       "author": "蓝莓是只猫",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 17,
-          "h": 41000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 20,
-          "h": 278000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-new-date",
@@ -29150,12 +29005,6 @@
       "author": "南风拂玉竹",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 20,
-          "h": 37000
-        },
-        {
           "d": "2026-08-29",
           "b": "boy-new-date",
           "r": 19,
@@ -29384,12 +29233,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3945/11834034_360x480.jpg?time=1781155827",
       "author": "月出长安",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 3,
-          "h": 113000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-new-date",
@@ -29980,12 +29823,6 @@
       "author": "懒惰的帅比",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 18,
-          "h": 40000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-new-date",
           "r": 17,
@@ -30115,12 +29952,6 @@
       "author": "爆裂无声",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 5,
-          "h": 752000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-new-month",
           "r": 5,
@@ -30248,12 +30079,6 @@
       "author": "知名气人作者",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 6,
-          "h": 731000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-new-month",
           "r": 6,
@@ -30284,18 +30109,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3968/11901855_360x480.jpg?time=1780983369",
       "author": "飞鱼牛牛",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 10,
-          "h": 61000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 7,
-          "h": 623000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-new-date",
@@ -30640,12 +30453,6 @@
       "author": "帝者",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 11,
-          "h": 359000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-new-month",
           "r": 11,
@@ -30682,12 +30489,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4062/12183366_360x480.jpg?time=1780224949",
       "author": "醉西风",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 12,
-          "h": 348000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-new-month",
@@ -30815,18 +30616,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4203/12606405_360x480.jpg?time=1782891520",
       "author": "任逍游",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 13,
-          "h": 55000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 13,
-          "h": 343000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-new-date",
@@ -31104,18 +30893,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/860/2577837_360x480.jpg?time=1756131016",
       "author": "最爱老板娘",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 2,
-          "h": 180000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 2,
-          "h": 7044000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-over-date",
@@ -32189,6 +31966,18 @@
           "b": "boy-over-month",
           "r": 5,
           "h": 4846000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 7,
+          "h": 116000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 5,
+          "h": 4846000
         }
       ]
     },
@@ -32197,12 +31986,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/213313_360x480.jpg?time=1638353317",
       "author": "吴大胆",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 10,
-          "h": 87000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-over-date",
@@ -33210,6 +32993,18 @@
           "b": "boy-over-month",
           "r": 16,
           "h": 2190000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 20,
+          "h": 47000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 16,
+          "h": 2190000
         }
       ]
     },
@@ -33218,18 +33013,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/173/517384_360x480.jpg?time=1701050600",
       "author": "五杯咖啡",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 4,
-          "h": 128000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 4,
-          "h": 4660000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-over-date",
@@ -34303,6 +34086,18 @@
           "b": "boy-over-month",
           "r": 11,
           "h": 3225000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 15,
+          "h": 65000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 11,
+          "h": 3225000
         }
       ]
     },
@@ -34311,18 +34106,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/596/1786901_360x480.jpg?time=1741945783",
       "author": "橡皮泥",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 3,
-          "h": 160000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 6,
-          "h": 4414000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-over-date",
@@ -35396,6 +35179,18 @@
           "b": "boy-over-month",
           "r": 9,
           "h": 4038000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 11,
+          "h": 79000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 9,
+          "h": 4038000
         }
       ]
     },
@@ -35404,24 +35199,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/463/1386980_360x480.jpg?time=1697014079",
       "author": "梁山老鬼",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 7,
-          "h": 0
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 5,
-          "h": 113000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 7,
-          "h": 4226000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-collect-date",
@@ -37029,6 +36806,24 @@
           "b": "boy-over-month",
           "r": 13,
           "h": 2983000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-collect-date",
+          "r": 7,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 10,
+          "h": 86000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 13,
+          "h": 2983000
         }
       ]
     },
@@ -37037,24 +36832,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/210523_360x480.jpg?time=1638353914",
       "author": "佛系和尚",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 6,
-          "h": 0
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 6,
-          "h": 94000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 5,
-          "h": 4418000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-collect-date",
@@ -38428,6 +38205,12 @@
           "b": "boy-over-date",
           "r": 20,
           "h": 47000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-collect-date",
+          "r": 6,
+          "h": 0
         }
       ]
     },
@@ -38436,18 +38219,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/584/1750976_360x480.jpg?time=1724384957",
       "author": "宁峥",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 8,
-          "h": 88000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 9,
-          "h": 3920000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-over-date",
@@ -39290,18 +39061,6 @@
       "author": "笑红尘",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 15,
-          "h": 69000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 8,
-          "h": 3978000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-over-date",
           "r": 18,
@@ -39590,18 +39349,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/472/1413115_360x480.jpg?time=1724380359",
       "author": "痞子老妖",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 7,
-          "h": 89000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 13,
-          "h": 2916000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-over-date",
@@ -40615,6 +40362,12 @@
           "b": "boy-over-month",
           "r": 15,
           "h": 2284000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 15,
+          "h": 2284000
         }
       ]
     },
@@ -40623,18 +40376,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/563/1688939_360x480.jpg?time=1743561959",
       "author": "鱼生",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 11,
-          "h": 86000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 11,
-          "h": 3703000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-over-date",
@@ -41393,24 +41134,6 @@
       "author": "罗樵森",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 2,
-          "h": 0
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 9,
-          "h": 87000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 15,
-          "h": 2812000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-collect-date",
           "r": 2,
@@ -43017,6 +42740,24 @@
           "b": "boy-over-month",
           "r": 19,
           "h": 2090000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-collect-date",
+          "r": 2,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 13,
+          "h": 70000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 19,
+          "h": 2090000
         }
       ]
     },
@@ -43025,18 +42766,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/565/1694697_360x480.jpg?time=1720776044",
       "author": "夜泊秦淮",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 16,
-          "h": 68000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 17,
-          "h": 2471000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-over-date",
@@ -43332,24 +43061,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/77/230791_360x480.jpg?time=1638497797",
       "author": "我爱吃猫片",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 17,
-          "h": 0
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 12,
-          "h": 77000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 18,
-          "h": 2339000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-collect-date",
@@ -44957,6 +44668,24 @@
           "b": "boy-over-month",
           "r": 20,
           "h": 2069000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-collect-date",
+          "r": 16,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 12,
+          "h": 75000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 20,
+          "h": 2069000
         }
       ]
     },
@@ -44965,18 +44694,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/763/2286780_360x480.jpg?time=1778231266",
       "author": "嚣张农民",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 19,
-          "h": 56000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 10,
-          "h": 3786000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-over-date",
@@ -45088,12 +44805,6 @@
       "author": "一脸糊涂",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 14,
-          "h": 74000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-over-date",
           "r": 15,
@@ -45136,12 +44847,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/773/2318355_360x480.jpg?time=1753185858",
       "author": "当仁不让",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 12,
-          "h": 3210000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-over-month",
@@ -45229,12 +44934,6 @@
       "author": "雨夜终曲",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 3,
-          "h": 4854000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-over-month",
           "r": 3,
@@ -45314,12 +45013,6 @@
       "author": "亦晨",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 14,
-          "h": 2901000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-over-month",
           "r": 14,
@@ -45357,12 +45050,6 @@
       "author": "金猫作者鸭",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 20,
-          "h": 2172000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-over-month",
           "r": 20,
@@ -45393,12 +45080,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/201376_360x480.jpg?time=1602468941",
       "author": "佛系和尚",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 3,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-collect-date",
@@ -45932,6 +45613,12 @@
           "b": "boy-collect-date",
           "r": 3,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-collect-date",
+          "r": 3,
+          "h": 0
         }
       ]
     },
@@ -45940,12 +45627,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/216931_360x480.jpg?time=1742968055",
       "author": "张龙虎",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 4,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-collect-date",
@@ -46485,6 +46166,12 @@
           "b": "boy-collect-date",
           "r": 4,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-collect-date",
+          "r": 4,
+          "h": 0
         }
       ]
     },
@@ -46493,12 +46180,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/67/200220_360x480.jpg?time=1638409404",
       "author": "师小生",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 5,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-collect-date",
@@ -47032,6 +46713,12 @@
           "b": "boy-collect-date",
           "r": 5,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-collect-date",
+          "r": 5,
+          "h": 0
         }
       ]
     },
@@ -47040,12 +46727,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/72/214936_360x480.jpg?time=1742968038",
       "author": "北川",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 8,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-collect-date",
@@ -47597,6 +47278,18 @@
           "b": "boy-collect-date",
           "r": 8,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-collect-date",
+          "r": 8,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 16,
+          "h": 64000
         }
       ]
     },
@@ -47605,12 +47298,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/67/200305_360x480.jpg?time=1638408457",
       "author": "淮阴小侯",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 9,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-collect-date",
@@ -48141,6 +47828,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-collect-date",
+          "r": 9,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-collect-date",
           "r": 9,
           "h": 0
@@ -48153,12 +47846,6 @@
       "author": "必焱",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 10,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-collect-date",
           "r": 10,
@@ -48688,6 +48375,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-collect-date",
+          "r": 10,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-collect-date",
           "r": 10,
           "h": 0
@@ -48700,12 +48393,6 @@
       "author": "我吃面包",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 11,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-collect-date",
           "r": 11,
@@ -49235,6 +48922,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-collect-date",
+          "r": 11,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-collect-date",
           "r": 11,
           "h": 0
@@ -49247,12 +48940,6 @@
       "author": "黑白仙鹤",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 12,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-collect-date",
           "r": 12,
@@ -49782,6 +49469,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-collect-date",
+          "r": 12,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-collect-date",
           "r": 12,
           "h": 0
@@ -49794,12 +49487,6 @@
       "author": "存叶",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 13,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-collect-date",
           "r": 13,
@@ -50329,6 +50016,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-collect-date",
+          "r": 13,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-collect-date",
           "r": 13,
           "h": 0
@@ -50341,12 +50034,6 @@
       "author": "小骨",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 14,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-collect-date",
           "r": 14,
@@ -50876,6 +50563,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-collect-date",
+          "r": 14,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-collect-date",
           "r": 14,
           "h": 0
@@ -50888,12 +50581,6 @@
       "author": "葡萄",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 15,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-collect-date",
           "r": 15,
@@ -51426,6 +51113,12 @@
           "b": "boy-collect-date",
           "r": 15,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-collect-date",
+          "r": 15,
+          "h": 0
         }
       ]
     },
@@ -51434,12 +51127,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/69/206727_360x480.jpg?time=1638354611",
       "author": "九把火",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 16,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-collect-date",
@@ -51973,6 +51660,12 @@
           "b": "boy-collect-date",
           "r": 17,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-collect-date",
+          "r": 17,
+          "h": 0
         }
       ]
     },
@@ -51981,12 +51674,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/68/201124_360x480.jpg?time=1638408263",
       "author": "小晨",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-collect-date",
-          "r": 20,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-collect-date",
@@ -52520,6 +52207,12 @@
           "b": "boy-collect-date",
           "r": 20,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-collect-date",
+          "r": 20,
+          "h": 0
         }
       ]
     },
@@ -52528,12 +52221,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3966/11895729_360x480.jpg?time=1777558080",
       "author": "云飞乱",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 1,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-update-date",
@@ -52697,12 +52384,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/71/212005_360x480.jpg?time=1638353695",
       "author": "我爱弹棉花",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 3,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-update-date",
@@ -53458,6 +53139,24 @@
           "b": "boy-over-month",
           "r": 8,
           "h": 4654000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 12,
+          "h": 269000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 3,
+          "h": 269000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 8,
+          "h": 4654000
         }
       ]
     },
@@ -53466,12 +53165,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3853/11556534_360x480.jpg?time=1783684018",
       "author": "茶巨",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 13,
-          "h": 1
-        },
         {
           "d": "2026-09-01",
           "b": "boy-update-date",
@@ -53725,12 +53418,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4071/12212670_360x480.jpg?time=1784795221",
       "author": "西山落尘",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 11,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-update-date",
@@ -54660,6 +54347,12 @@
           "b": "boy-hot-month",
           "r": 20,
           "h": 5757000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-month",
+          "r": 20,
+          "h": 5757000
         }
       ]
     },
@@ -54668,12 +54361,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/741/2220705_360x480.jpg?time=1777191636",
       "author": "咸鱼老白",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 9,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-update-date",
@@ -54850,12 +54537,6 @@
       "author": "火财神",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 14,
-          "h": 1
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-update-date",
           "r": 20,
@@ -54886,12 +54567,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/654/1960135_360x480.jpg?time=1742464871",
       "author": "不太勇敢",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 6,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-update-date",
@@ -55431,6 +55106,12 @@
           "b": "boy-update-date",
           "r": 5,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 5,
+          "h": 0
         }
       ]
     },
@@ -55439,12 +55120,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4187/12560163_360x480.jpg?time=1782205579",
       "author": "善良的大灰狼",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 7,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-update-date",
@@ -55567,12 +55242,6 @@
       "author": "鸳鸯另丫头",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 17,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-update-date",
           "r": 12,
@@ -55603,12 +55272,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/755/2264332_360x480.jpg?time=1753271336",
       "author": "罗樵森",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 12,
-          "h": 8
-        },
         {
           "d": "2026-08-28",
           "b": "boy-update-date",
@@ -56136,6 +55799,12 @@
           "b": "boy-update-date",
           "r": 3,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 3,
+          "h": 0
         }
       ]
     },
@@ -56144,12 +55813,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/784/2349392_360x480.jpg?time=1747360787",
       "author": "韩想娶白",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 16,
-          "h": 2
-        },
         {
           "d": "2026-08-28",
           "b": "boy-update-date",
@@ -56247,12 +55910,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/505/1512118_360x480.jpg?time=1711704309",
       "author": "以云为墨",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 19,
-          "h": 2
-        },
         {
           "d": "2026-08-28",
           "b": "boy-update-date",
@@ -56368,12 +56025,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4124/12371697_360x480.jpg?time=1781074679",
       "author": "杏雨书风",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 4,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-update-date",
@@ -57616,6 +57267,18 @@
           "b": "boy-over-month",
           "r": 6,
           "h": 4728000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 8,
+          "h": 102000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 6,
+          "h": 4728000
         }
       ]
     },
@@ -57727,18 +57390,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/625/1873260_360x480.jpg?time=1733737290",
       "author": "云中觅",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 1,
-          "h": 2378000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 1,
-          "h": 62477000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -58458,6 +58109,18 @@
           "b": "girl-hot-month",
           "r": 1,
           "h": 51456000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 1,
+          "h": 1657000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 1,
+          "h": 51456000
         }
       ]
     },
@@ -58466,30 +58129,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/512/1534117_360x480.jpg?time=1778636506",
       "author": "安卿心",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 17,
-          "h": 0
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 2,
-          "h": 907000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 2,
-          "h": 32195000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 9,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "girl-collect-date",
@@ -60631,6 +60270,30 @@
           "b": "girl-update-date",
           "r": 6,
           "h": 1
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-collect-date",
+          "r": 17,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 3,
+          "h": 634000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 2,
+          "h": 22223000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 10,
+          "h": 4
         }
       ]
     },
@@ -60639,30 +60302,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/82/245473_1648091517_360x480.jpg",
       "author": "明婳",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 4,
-          "h": 0
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 3,
-          "h": 818000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 3,
-          "h": 30048000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 4,
-          "h": 1
-        },
         {
           "d": "2026-08-28",
           "b": "girl-collect-date",
@@ -62750,6 +62389,24 @@
           "b": "girl-hot-month",
           "r": 3,
           "h": 21990000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-collect-date",
+          "r": 4,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 2,
+          "h": 668000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 3,
+          "h": 21990000
         }
       ]
     },
@@ -62758,24 +62415,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/914/2740964_360x480.jpg?time=1761528709",
       "author": "琼玉",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 4,
-          "h": 776000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 4,
-          "h": 28691000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 2,
-          "h": 1
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -64131,6 +63770,18 @@
           "b": "girl-hot-month",
           "r": 4,
           "h": 18597000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 4,
+          "h": 447000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 4,
+          "h": 18597000
         }
       ]
     },
@@ -64140,30 +63791,6 @@
       "author": "锦锦不是妖",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 5,
-          "h": 590000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 5,
-          "h": 26696000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 1,
-          "h": 590000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 1,
-          "h": 26696000
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-hot-date",
           "r": 5,
@@ -66307,6 +65934,30 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-over-month",
+          "r": 3,
+          "h": 10182000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 10,
+          "h": 271000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 9,
+          "h": 10182000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 2,
+          "h": 271000
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-over-month",
           "r": 3,
           "h": 10182000
@@ -66318,24 +65969,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/440/1319050_360x480.jpg?time=1706144634",
       "author": "白生米",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 6,
-          "h": 456000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 7,
-          "h": 15532000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 3,
-          "h": 1
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -67691,6 +67324,18 @@
           "b": "girl-hot-month",
           "r": 8,
           "h": 11874000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 7,
+          "h": 361000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 8,
+          "h": 11874000
         }
       ]
     },
@@ -67699,18 +67344,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3302/9903723_360x480.jpg?time=1769476836",
       "author": "吟雾",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 7,
-          "h": 451000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 6,
-          "h": 15959000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -68970,6 +68603,18 @@
           "b": "girl-over-month",
           "r": 4,
           "h": 8256000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 13,
+          "h": 8256000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 4,
+          "h": 8256000
         }
       ]
     },
@@ -68978,18 +68623,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/856/2566014_360x480.jpg?time=1756189899",
       "author": "缓缓归",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 9,
-          "h": 402000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 12,
-          "h": 14300000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -70063,6 +69696,18 @@
           "b": "girl-hot-month",
           "r": 11,
           "h": 9574000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 14,
+          "h": 237000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 11,
+          "h": 9574000
         }
       ]
     },
@@ -70071,18 +69716,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/756/2266285_360x480.jpg?time=1756369154",
       "author": "乐恩",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 11,
-          "h": 353000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 8,
-          "h": 15361000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -70228,24 +69861,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/542/1624570_360x480.jpg?time=1717343578",
       "author": "秦安安",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 13,
-          "h": 349000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 2,
-          "h": 349000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 6,
-          "h": 8485000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -72363,6 +71978,30 @@
           "b": "girl-over-month",
           "r": 1,
           "h": 13369000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 15,
+          "h": 227000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 6,
+          "h": 13369000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 3,
+          "h": 227000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 1,
+          "h": 13369000
         }
       ]
     },
@@ -72371,18 +72010,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661763_360x480.jpg?time=1767668788",
       "author": "严以妃",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 12,
-          "h": 350000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 15,
-          "h": 11731000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -73792,6 +73419,18 @@
           "b": "girl-over-month",
           "r": 8,
           "h": 4817000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 14,
+          "h": 89000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 8,
+          "h": 4817000
         }
       ]
     },
@@ -73800,18 +73439,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3176/9527521_360x480.jpg?time=1770861857",
       "author": "一世从欢",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 18,
-          "h": 289000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 17,
-          "h": 11447000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -74167,30 +73794,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/801/2400937_360x480.jpg?time=1753811344",
       "author": "三十嘉",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 20,
-          "h": 274000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 11,
-          "h": 14433000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 5,
-          "h": 274000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 2,
-          "h": 14433000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -75858,6 +75461,18 @@
           "b": "girl-over-month",
           "r": 9,
           "h": 4656000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 11,
+          "h": 110000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 9,
+          "h": 4656000
         }
       ]
     },
@@ -75866,24 +75481,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/545/1634043_360x480.jpg?time=1758178885",
       "author": "蓝九九",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 14,
-          "h": 342000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 14,
-          "h": 12325000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 16,
-          "h": 1
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -77443,6 +77040,24 @@
           "b": "girl-update-date",
           "r": 2,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 11,
+          "h": 255000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 12,
+          "h": 9272000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 2,
+          "h": 0
         }
       ]
     },
@@ -77451,24 +77066,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3458/10373634_360x480.jpg?time=1778484086",
       "author": "墨墨卿卿",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 19,
-          "h": 274000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 13,
-          "h": 12860000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 5,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -79064,6 +78661,24 @@
           "b": "girl-update-date",
           "r": 10,
           "h": 1
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 16,
+          "h": 209000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 14,
+          "h": 7990000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 11,
+          "h": 1
         }
       ]
     },
@@ -79072,30 +78687,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/888/2661154_360x480.jpg?time=1761644493",
       "author": "随山月",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 15,
-          "h": 328000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 16,
-          "h": 11533000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 3,
-          "h": 328000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 3,
-          "h": 11533000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -81243,6 +80834,30 @@
           "b": "girl-over-month",
           "r": 5,
           "h": 6797000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 18,
+          "h": 181000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 17,
+          "h": 6797000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 4,
+          "h": 181000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 5,
+          "h": 6797000
         }
       ]
     },
@@ -81251,18 +80866,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/896/2686789_360x480.jpg?time=1761327901",
       "author": "柠檬小丸子",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 8,
-          "h": 405000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 18,
-          "h": 10817000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -83410,6 +83013,30 @@
           "b": "girl-over-month",
           "r": 2,
           "h": 11987000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 8,
+          "h": 348000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 7,
+          "h": 11987000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 1,
+          "h": 348000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 2,
+          "h": 11987000
         }
       ]
     },
@@ -83735,6 +83362,24 @@
           "b": "girl-over-month",
           "r": 17,
           "h": 2602000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 20,
+          "h": 167000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 5,
+          "h": 167000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 17,
+          "h": 2602000
         }
       ]
     },
@@ -83743,12 +83388,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3307/9920208_360x480.jpg?time=1769234664",
       "author": "伊淼",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 10,
-          "h": 14600000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-month",
@@ -83786,12 +83425,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3888/11663199_360x480.jpg?time=1778126471",
       "author": "秋仪",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 16,
-          "h": 327000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -84382,18 +84015,6 @@
       "author": "玖笑1",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 9,
-          "h": 14695000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 17,
-          "h": 21
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-hot-month",
           "r": 9,
@@ -84671,18 +84292,6 @@
       "author": "韶光煮雪",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 19,
-          "h": 10024000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 12,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-hot-month",
           "r": 19,
@@ -84755,30 +84364,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/410/1229482_360x480.jpg?time=1683772413",
       "author": "骑着猫的小鱼干",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 16,
-          "h": 0
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-month",
-          "r": 20,
-          "h": 9863000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 8,
-          "h": 196000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 4,
-          "h": 9863000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-collect-date",
@@ -86548,6 +86133,24 @@
           "b": "girl-over-month",
           "r": 13,
           "h": 3180000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-collect-date",
+          "r": 16,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 13,
+          "h": 92000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 13,
+          "h": 3180000
         }
       ]
     },
@@ -86556,24 +86159,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4089/12264417_360x480.jpg?time=1782701378",
       "author": "如鱼",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 2,
-          "h": 149000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 4,
-          "h": 1637000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 6,
-          "h": 5
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-date",
@@ -87521,6 +87106,18 @@
           "b": "girl-update-date",
           "r": 5,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 20,
+          "h": 5980000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 7,
+          "h": 2
         }
       ]
     },
@@ -87529,18 +87126,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4043/12127944_360x480.jpg?time=1779328050",
       "author": "满地梨花雪",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 1,
-          "h": 202000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 3,
-          "h": 1655000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-date",
@@ -87590,18 +87175,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4072/12214737_360x480.jpg?time=1780052801",
       "author": "星星口袋",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 4,
-          "h": 116000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 11,
-          "h": 384000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-date",
@@ -87813,12 +87386,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3833/11498553_360x480.jpg?time=1781168473",
       "author": "我是宝宝",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 10,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "girl-update-date",
@@ -88277,18 +87844,6 @@
       "author": "借点酒",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 3,
-          "h": 122000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 6,
-          "h": 932000
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-new-date",
           "r": 4,
@@ -88602,12 +88157,6 @@
       "author": "一颗花花",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 15,
-          "h": 46000
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-new-date",
           "r": 13,
@@ -88801,18 +88350,6 @@
       "author": "雪泥",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 8,
-          "h": 67000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 1,
-          "h": 3659000
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-new-month",
           "r": 1,
@@ -88843,18 +88380,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4088/12261993_360x480.jpg?time=1786711256",
       "author": "简眠",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 5,
-          "h": 99000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 14,
-          "h": 278000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-date",
@@ -89018,18 +88543,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4065/12193602_360x480.jpg?time=1788935232",
       "author": "安鲤",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 7,
-          "h": 71000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 9,
-          "h": 573000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-date",
@@ -89332,18 +88845,6 @@
       "author": "月影千帆",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 14,
-          "h": 47000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 18,
-          "h": 225000
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-new-date",
           "r": 11,
@@ -89645,12 +89146,6 @@
       "author": "关墨兮",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 10,
-          "h": 52000
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-new-date",
           "r": 16,
@@ -89891,18 +89386,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/636/1905281_360x480.jpg?time=1736792489",
       "author": "二喜",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 17,
-          "h": 41000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 2,
-          "h": 2576000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-date",
@@ -90337,12 +89820,6 @@
       "author": "煎bingo子",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 20,
-          "h": 216000
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-new-month",
           "r": 20,
@@ -90500,18 +89977,6 @@
       "author": "一燕云歌笑",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 11,
-          "h": 49000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 5,
-          "h": 1217000
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-new-date",
           "r": 10,
@@ -90644,18 +90109,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4089/12265746_360x480.jpg?time=1780386908",
       "author": "橘灯照岁",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 16,
-          "h": 41000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 8,
-          "h": 589000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-date",
@@ -90988,12 +90441,6 @@
       "author": "宴礼",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 15,
-          "h": 273000
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-new-month",
           "r": 15,
@@ -91114,6 +90561,12 @@
           "b": "girl-over-date",
           "r": 13,
           "h": 91000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 18,
+          "h": 72000
         }
       ]
     },
@@ -91122,12 +90575,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3907/11718738_360x480.jpg?time=1783568075",
       "author": "染仙衣",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 7,
-          "h": 832000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-month",
@@ -91383,12 +90830,6 @@
       "author": "燃北",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 10,
-          "h": 396000
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-new-month",
           "r": 10,
@@ -91587,24 +91028,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/73/216077_360x480.jpg?time=1638352861",
       "author": "喵喵大人",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 2,
-          "h": 0
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 6,
-          "h": 221000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 7,
-          "h": 8165000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-collect-date",
@@ -93230,6 +92653,24 @@
           "b": "girl-over-month",
           "r": 11,
           "h": 4517000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-collect-date",
+          "r": 2,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 12,
+          "h": 104000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 11,
+          "h": 4517000
         }
       ]
     },
@@ -93238,18 +92679,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/772/2315755_360x480.jpg?time=1768286147",
       "author": "苏不迟",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 7,
-          "h": 209000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 5,
-          "h": 8828000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-over-date",
@@ -94509,6 +93938,18 @@
           "b": "girl-over-month",
           "r": 10,
           "h": 4649000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 6,
+          "h": 164000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 10,
+          "h": 4649000
         }
       ]
     },
@@ -94517,18 +93958,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/754/2260672_360x480.jpg?time=1745544770",
       "author": "白木木",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 11,
-          "h": 152000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 11,
-          "h": 5324000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-over-date",
@@ -95160,18 +94589,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/92/275615_1659923211_360x480.jpg",
       "author": "相思一顾",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 9,
-          "h": 192000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 9,
-          "h": 7235000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-over-date",
@@ -96425,6 +95842,18 @@
           "b": "girl-over-month",
           "r": 7,
           "h": 5083000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 7,
+          "h": 162000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 7,
+          "h": 5083000
         }
       ]
     },
@@ -96433,18 +95862,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/504/1510567_360x480.jpg?time=1728714692",
       "author": "十二妖",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 10,
-          "h": 181000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 8,
-          "h": 7849000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-over-date",
@@ -97518,6 +96935,18 @@
           "b": "girl-over-month",
           "r": 19,
           "h": 2500000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 16,
+          "h": 80000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 19,
+          "h": 2500000
         }
       ]
     },
@@ -97526,18 +96955,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/861/2580857_360x480.jpg?time=1779267111",
       "author": "街灯读我",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 12,
-          "h": 145000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 10,
-          "h": 5682000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-over-date",
@@ -98485,6 +97902,12 @@
           "b": "girl-over-month",
           "r": 18,
           "h": 2517000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 18,
+          "h": 2517000
         }
       ]
     },
@@ -98493,18 +97916,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/478/1432610_360x480.jpg?time=1704683308",
       "author": "瑰夏",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 16,
-          "h": 107000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 20,
-          "h": 4333000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-over-date",
@@ -98746,18 +98157,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/748/2242515_360x480.jpg?time=1778636494",
       "author": "北派无尽夏",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 13,
-          "h": 126000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 12,
-          "h": 5230000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-over-date",
@@ -99597,6 +98996,12 @@
           "b": "girl-over-date",
           "r": 20,
           "h": 65000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 19,
+          "h": 69000
         }
       ]
     },
@@ -99798,18 +99203,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3345/10034568_360x480.jpg?time=1776046465",
       "author": "再寻再寻",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 14,
-          "h": 120000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 18,
-          "h": 4373000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-over-date",
@@ -100859,6 +100252,12 @@
           "b": "girl-over-month",
           "r": 15,
           "h": 2912000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 15,
+          "h": 2912000
         }
       ]
     },
@@ -100867,18 +100266,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/874/2619633_360x480.jpg?time=1763973880",
       "author": "三颗小石头",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 15,
-          "h": 111000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 17,
-          "h": 4529000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-over-date",
@@ -101252,12 +100639,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/607/1818563_360x480.jpg?time=1742967343",
       "author": "莫小弃",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 18,
-          "h": 101000
-        },
         {
           "d": "2026-08-29",
           "b": "girl-over-date",
@@ -101716,18 +101097,6 @@
       "author": "观云涧",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 17,
-          "h": 104000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 13,
-          "h": 5155000
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-over-date",
           "r": 16,
@@ -101998,18 +101367,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/595/1784376_360x480.jpg?time=1726332415",
       "author": "福宝贝",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 19,
-          "h": 101000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 15,
-          "h": 4757000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-over-date",
@@ -102609,6 +101966,12 @@
           "b": "girl-over-date",
           "r": 18,
           "h": 67000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 17,
+          "h": 76000
         }
       ]
     },
@@ -102617,12 +101980,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/720/2158496_360x480.jpg?time=1778636499",
       "author": "如鱼",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 14,
-          "h": 4784000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-over-month",
@@ -102660,12 +102017,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/509/1524039_360x480.jpg?time=1709703740",
       "author": "易小升",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 16,
-          "h": 4631000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-over-month",
@@ -102728,12 +102079,6 @@
       "author": "小白蛇",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-over-month",
-          "r": 19,
-          "h": 4368000
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-over-month",
           "r": 19,
@@ -102771,12 +102116,6 @@
       "author": "姑苏小七",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 1,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 1,
@@ -103306,6 +102645,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-collect-date",
+          "r": 1,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-collect-date",
           "r": 1,
           "h": 0
@@ -103318,12 +102663,6 @@
       "author": "白七诺",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 3,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 3,
@@ -103853,6 +103192,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-collect-date",
+          "r": 3,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-collect-date",
           "r": 3,
           "h": 0
@@ -103865,12 +103210,6 @@
       "author": "竹子不哭",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 5,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 5,
@@ -104400,6 +103739,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-collect-date",
+          "r": 6,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-collect-date",
           "r": 6,
           "h": 0
@@ -104412,12 +103757,6 @@
       "author": "浮生三千",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 6,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 6,
@@ -104947,6 +104286,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-collect-date",
+          "r": 5,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-collect-date",
           "r": 5,
           "h": 0
@@ -104959,12 +104304,6 @@
       "author": "白木木",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 7,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 7,
@@ -105494,6 +104833,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-collect-date",
+          "r": 7,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-collect-date",
           "r": 7,
           "h": 0
@@ -105506,12 +104851,6 @@
       "author": "恋简",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 8,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 8,
@@ -106041,6 +105380,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-collect-date",
+          "r": 8,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-collect-date",
           "r": 8,
           "h": 0
@@ -106053,12 +105398,6 @@
       "author": "垂耳兔",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 9,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 9,
@@ -106588,6 +105927,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-collect-date",
+          "r": 9,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-collect-date",
           "r": 9,
           "h": 0
@@ -106600,12 +105945,6 @@
       "author": "锦一",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 10,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 10,
@@ -107135,6 +106474,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-collect-date",
+          "r": 10,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-collect-date",
           "r": 10,
           "h": 0
@@ -107147,12 +106492,6 @@
       "author": "尘沐沐",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 11,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 11,
@@ -107682,6 +107021,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-collect-date",
+          "r": 11,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-collect-date",
           "r": 11,
           "h": 0
@@ -107694,12 +107039,6 @@
       "author": "一碧榶榶",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 12,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 12,
@@ -108229,6 +107568,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-collect-date",
+          "r": 12,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-collect-date",
           "r": 12,
           "h": 0
@@ -108241,12 +107586,6 @@
       "author": "奶油胖芙",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 13,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 13,
@@ -108776,6 +108115,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-collect-date",
+          "r": 13,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-collect-date",
           "r": 13,
           "h": 0
@@ -108788,12 +108133,6 @@
       "author": "棠花落",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 14,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 14,
@@ -109323,6 +108662,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-collect-date",
+          "r": 14,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-collect-date",
           "r": 14,
           "h": 0
@@ -109335,12 +108680,6 @@
       "author": "杨酒七",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 15,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 15,
@@ -109870,6 +109209,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-collect-date",
+          "r": 15,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-collect-date",
           "r": 15,
           "h": 0
@@ -109882,12 +109227,6 @@
       "author": "江墨甜",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 18,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 18,
@@ -110417,6 +109756,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-collect-date",
+          "r": 18,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-collect-date",
           "r": 18,
           "h": 0
@@ -110429,12 +109774,6 @@
       "author": "灰夫人",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 19,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 19,
@@ -110964,6 +110303,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-collect-date",
+          "r": 19,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-collect-date",
           "r": 19,
           "h": 0
@@ -110976,12 +110321,6 @@
       "author": "言夕",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-collect-date",
-          "r": 20,
-          "h": 0
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-collect-date",
           "r": 20,
@@ -111514,6 +110853,12 @@
           "b": "girl-collect-date",
           "r": 20,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-collect-date",
+          "r": 20,
+          "h": 0
         }
       ]
     },
@@ -111522,12 +110867,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3490/10469241_360x480.jpg?time=1780899373",
       "author": "文月樱",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 1,
-          "h": 1
-        },
         {
           "d": "2026-08-28",
           "b": "girl-update-date",
@@ -111649,12 +110988,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3872/11615952_360x480.jpg?time=1783934412",
       "author": "昔也",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 14,
-          "h": 7
-        },
         {
           "d": "2026-08-28",
           "b": "girl-update-date",
@@ -111906,6 +111239,12 @@
           "b": "girl-update-date",
           "r": 14,
           "h": 1
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 18,
+          "h": 4
         }
       ]
     },
@@ -111914,12 +111253,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3318/9951162_360x480.jpg?time=1769620689",
       "author": "燃枫",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 7,
-          "h": 1
-        },
         {
           "d": "2026-08-28",
           "b": "girl-update-date",
@@ -111969,12 +111302,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3459/10374897_360x480.jpg?time=1774336606",
       "author": "月漠",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 13,
-          "h": 1
-        },
         {
           "d": "2026-08-28",
           "b": "girl-update-date",
@@ -112235,12 +111562,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3941/11820759_360x480.jpg?time=1786607714",
       "author": "雪落听风",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 19,
-          "h": 3
-        },
         {
           "d": "2026-09-07",
           "b": "girl-hot-date",
@@ -113338,6 +112659,18 @@
           "b": "girl-update-date",
           "r": 9,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 16,
+          "h": 7032000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 9,
+          "h": 0
         }
       ]
     },
@@ -113346,12 +112679,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4273/12818454_360x480.jpg?time=1784194022",
       "author": "行舟浅滩",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 19,
-          "h": 39000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-new-date",
@@ -113569,18 +112896,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/414/1240382_360x480.jpg?time=1747624118",
       "author": "一只狸猫",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 17,
-          "h": 64000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 19,
-          "h": 2226000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-over-date",
@@ -114955,6 +114270,18 @@
           "b": "girl-hot-month",
           "r": 19,
           "h": 6026000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 19,
+          "h": 174000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 19,
+          "h": 6026000
         }
       ]
     },
@@ -114963,18 +114290,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4219/12655653_360x480.jpg?time=1782883299",
       "author": "喵晓柒",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 6,
-          "h": 95000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 8,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-date",
@@ -115620,12 +114935,6 @@
       "author": "夜行书生",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 17,
-          "h": 304000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-new-month",
           "r": 16,
@@ -115657,12 +114966,6 @@
       "author": "半包假烟",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 18,
-          "h": 296000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-new-month",
           "r": 17,
@@ -115688,30 +114991,11 @@
         }
       ]
     },
-    "1924828": {
-      "title": "还不起人情债，我只好当她男朋友了",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/653/1958718_360x480.jpg?time=1740125957",
-      "author": "无色",
-      "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 20,
-          "h": 55000
-        }
-      ]
-    },
     "10494720": {
       "title": "重生新婚夜，提和离他失控了",
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3499/10494720_360x480.jpg?time=1785137630",
       "author": "酒尾鱼",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 10,
-          "h": 386000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -115737,12 +115021,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4151/12452187_360x480.jpg?time=1786160083",
       "author": "我没偷懒",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 7,
-          "h": 84000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-new-date",
@@ -116357,18 +115635,6 @@
       "author": "神笔马丁爷",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 18,
-          "h": 58000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-month",
-          "r": 16,
-          "h": 2736000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-over-month",
           "r": 16,
@@ -116920,6 +116186,12 @@
           "b": "boy-update-date",
           "r": 8,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 9,
+          "h": 1
         }
       ]
     },
@@ -116928,12 +116200,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3495/10482120_360x480.jpg?time=1775012281",
       "author": "白兔先生",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 15,
-          "h": 1
-        },
         {
           "d": "2026-08-28",
           "b": "girl-update-date",
@@ -117109,12 +116375,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
       "author": "水山",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 10,
-          "h": 0
-        },
         {
           "d": "2026-08-28",
           "b": "boy-update-date",
@@ -117588,6 +116848,12 @@
           "b": "boy-update-date",
           "r": 15,
           "h": 6
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 10,
+          "h": 5
         }
       ]
     },
@@ -117615,18 +116881,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4043/12127431_360x480.jpg?time=1780367604",
       "author": "慕荣华",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 18,
-          "h": 35000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 12,
-          "h": 380000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-date",
@@ -117791,12 +117045,6 @@
       "author": "塞壬想吃鱼",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 13,
-          "h": 281000
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-new-month",
           "r": 13,
@@ -117947,12 +117195,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4036/12107619_360x480.jpg?time=1789371229",
       "author": "一亩草",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 11,
-          "h": 4
-        },
         {
           "d": "2026-08-28",
           "b": "girl-update-date",
@@ -118408,6 +117650,12 @@
           "b": "girl-update-date",
           "r": 3,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 3,
+          "h": 0
         }
       ]
     },
@@ -118416,12 +117664,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4140/12417402_360x480.jpg?time=1781245105",
       "author": "半山听雨",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 9,
-          "h": 54000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-date",
@@ -118615,12 +117857,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4148/12443391_360x480.jpg?time=1787454423",
       "author": "汐家锦锂",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 12,
-          "h": 48000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-date",
@@ -118862,12 +118098,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3280/9839805_360x480.jpg?time=1772734262",
       "author": "梁山老鬼",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 18,
-          "h": 2
-        },
         {
           "d": "2026-08-28",
           "b": "boy-update-date",
@@ -119317,6 +118547,18 @@
           "b": "boy-over-month",
           "r": 10,
           "h": 3308000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 14,
+          "h": 69000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 10,
+          "h": 3308000
         }
       ]
     },
@@ -119325,18 +118567,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/475/1424722_360x480.jpg?time=1700531982",
       "author": "毛团儿",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-hot-date",
-          "r": 17,
-          "h": 289000
-        },
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 4,
-          "h": 289000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-hot-date",
@@ -119939,12 +119169,6 @@
       "author": "橡皮泥",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-new-date",
-          "r": 15,
-          "h": 42000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-new-date",
           "r": 18,
@@ -120101,12 +119325,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/602/1804403_360x480.jpg?time=1731377147",
       "author": "三千晴空",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "boy-over-date",
-          "r": 13,
-          "h": 75000
-        },
         {
           "d": "2026-08-28",
           "b": "boy-over-date",
@@ -120463,12 +119681,6 @@
       "author": "归川",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-update-date",
-          "r": 20,
-          "h": 1
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-update-date",
           "r": 19,
@@ -120602,12 +119814,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4112/12335439_360x480.jpg?time=1788431656",
       "author": "唐十雾",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 13,
-          "h": 48000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-date",
@@ -120915,12 +120121,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3475/10423605_360x480.jpg?time=1788431642",
       "author": "香菜达达",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 19,
-          "h": 33000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-date",
@@ -121445,12 +120645,6 @@
       "author": "树己不树人",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 16,
-          "h": 228000
-        },
-        {
           "d": "2026-08-28",
           "b": "girl-new-month",
           "r": 16,
@@ -121517,12 +120711,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4095/12283731_360x480.jpg?time=1788204562",
       "author": "赚钱买大屋",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 17,
-          "h": 227000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-month",
@@ -121704,12 +120892,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4152/12454263_360x480.jpg?time=1782271753",
       "author": "星语月谈",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-month",
-          "r": 19,
-          "h": 223000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-month",
@@ -121964,12 +121146,6 @@
       "author": "土不拉几",
       "points": [
         {
-          "d": "2026-08-27",
-          "b": "boy-new-month",
-          "r": 15,
-          "h": 317000
-        },
-        {
           "d": "2026-08-28",
           "b": "boy-new-month",
           "r": 15,
@@ -122006,12 +121182,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4265/12792057_360x480.jpg?time=1784770379",
       "author": "桃三月",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-new-date",
-          "r": 20,
-          "h": 31000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-new-date",
@@ -123325,6 +122495,18 @@
           "b": "girl-hot-month",
           "r": 5,
           "h": 15208000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 5,
+          "h": 396000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 5,
+          "h": 15208000
         }
       ]
     },
@@ -123333,12 +122515,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3246/9737745_360x480.jpg?time=1776736669",
       "author": "红袖绮筵前",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-over-date",
-          "r": 20,
-          "h": 89000
-        },
         {
           "d": "2026-08-28",
           "b": "girl-over-date",
@@ -123364,12 +122540,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3997/11989218_360x480.jpg?time=1779108944",
       "author": "木头花",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 18,
-          "h": 5
-        },
         {
           "d": "2026-08-28",
           "b": "girl-update-date",
@@ -123449,12 +122619,6 @@
       "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4088/12262317_360x480.jpg?time=1784032707",
       "author": "目成心许",
       "points": [
-        {
-          "d": "2026-08-27",
-          "b": "girl-update-date",
-          "r": 20,
-          "h": 1
-        },
         {
           "d": "2026-09-12",
           "b": "girl-update-date",
@@ -123854,6 +123018,12 @@
           "b": "girl-update-date",
           "r": 18,
           "h": 1
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 16,
+          "h": 5
         }
       ]
     },
@@ -124707,6 +123877,18 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-hot-month",
+          "r": 19,
+          "h": 5857000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 18,
+          "h": 232000
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-hot-month",
           "r": 19,
           "h": 5857000
@@ -125931,6 +125113,12 @@
           "d": "2026-11-16",
           "b": "boy-over-date",
           "r": 20,
+          "h": 49000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 19,
           "h": 49000
         }
       ]
@@ -129517,6 +128705,12 @@
           "b": "boy-update-date",
           "r": 17,
           "h": 2
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 20,
+          "h": 3
         }
       ]
     },
@@ -130014,6 +129208,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-update-date",
+          "r": 4,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-update-date",
           "r": 4,
           "h": 0
@@ -130998,6 +130198,12 @@
           "b": "girl-update-date",
           "r": 4,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 4,
+          "h": 0
         }
       ]
     },
@@ -131792,6 +130998,12 @@
           "b": "girl-hot-date",
           "r": 9,
           "h": 295000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 9,
+          "h": 280000
         }
       ]
     },
@@ -134485,6 +133697,12 @@
           "b": "girl-update-date",
           "r": 14,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 14,
+          "h": 0
         }
       ]
     },
@@ -135281,6 +134499,18 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-over-month",
+          "r": 17,
+          "h": 2187000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 17,
+          "h": 55000
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-over-month",
           "r": 17,
           "h": 2187000
@@ -136148,6 +135378,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-over-month",
+          "r": 18,
+          "h": 2143000
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-over-month",
           "r": 18,
           "h": 2143000
@@ -138513,6 +137749,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-over-month",
+          "r": 16,
+          "h": 2890000
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-over-month",
           "r": 16,
           "h": 2890000
@@ -141005,6 +140247,12 @@
           "b": "boy-update-date",
           "r": 12,
           "h": 1
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 13,
+          "h": 1
         }
       ]
     },
@@ -142346,6 +141594,12 @@
           "b": "girl-hot-month",
           "r": 15,
           "h": 7090000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 15,
+          "h": 7090000
         }
       ]
     },
@@ -143395,6 +142649,12 @@
           "b": "boy-over-month",
           "r": 12,
           "h": 3085000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 12,
+          "h": 3085000
         }
       ]
     },
@@ -144004,6 +143264,12 @@
           "b": "boy-update-date",
           "r": 2,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 2,
+          "h": 0
         }
       ]
     },
@@ -144566,6 +143832,12 @@
           "b": "girl-update-date",
           "r": 15,
           "h": 1
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 17,
+          "h": 2
         }
       ]
     },
@@ -146239,6 +145511,12 @@
           "b": "boy-update-date",
           "r": 20,
           "h": 2
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 18,
+          "h": 4
         }
       ]
     },
@@ -152088,6 +151366,12 @@
           "b": "girl-over-date",
           "r": 17,
           "h": 71000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 10,
+          "h": 126000
         }
       ]
     },
@@ -153383,6 +152667,30 @@
           "b": "girl-new-month",
           "r": 1,
           "h": 9899000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 6,
+          "h": 374000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 10,
+          "h": 9899000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 1,
+          "h": 374000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-month",
+          "r": 1,
+          "h": 9899000
         }
       ]
     },
@@ -153987,6 +153295,12 @@
           "b": "girl-update-date",
           "r": 20,
           "h": 4
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 20,
+          "h": 0
         }
       ]
     },
@@ -155065,6 +154379,12 @@
           "b": "girl-over-month",
           "r": 14,
           "h": 3032000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 14,
+          "h": 3032000
         }
       ]
     },
@@ -155596,6 +154916,12 @@
           "b": "girl-over-date",
           "r": 16,
           "h": 77000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 20,
+          "h": 66000
         }
       ]
     },
@@ -156073,6 +155399,18 @@
           "b": "girl-update-date",
           "r": 7,
           "h": 1
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-month",
+          "r": 19,
+          "h": 192000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 6,
+          "h": 1
         }
       ]
     },
@@ -156433,6 +155771,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-new-month",
+          "r": 3,
+          "h": 1244000
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-new-month",
           "r": 3,
           "h": 1244000
@@ -157881,6 +157225,12 @@
           "b": "boy-update-date",
           "r": 13,
           "h": 1
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 15,
+          "h": 2
         }
       ]
     },
@@ -159594,6 +158944,18 @@
           "b": "boy-over-month",
           "r": 14,
           "h": 2780000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 18,
+          "h": 55000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 14,
+          "h": 2780000
         }
       ]
     },
@@ -160628,6 +159990,18 @@
           "b": "girl-hot-month",
           "r": 18,
           "h": 6326000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 17,
+          "h": 189000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-month",
+          "r": 18,
+          "h": 6326000
         }
       ]
     },
@@ -161214,6 +160588,18 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-over-month",
+          "r": 6,
+          "h": 5796000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 8,
+          "h": 152000
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-over-month",
           "r": 6,
           "h": 5796000
@@ -162288,6 +161674,18 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-new-month",
+          "r": 1,
+          "h": 553000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 4,
+          "h": 38000
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-new-month",
           "r": 1,
           "h": 553000
@@ -163454,6 +162852,18 @@
           "b": "boy-new-month",
           "r": 3,
           "h": 381000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 6,
+          "h": 21000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-month",
+          "r": 3,
+          "h": 381000
         }
       ]
     },
@@ -164246,6 +163656,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-over-month",
+          "r": 12,
+          "h": 3504000
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-over-month",
           "r": 12,
           "h": 3504000
@@ -165730,7 +165146,7 @@
     },
     "13006284": {
       "title": "开局破庙托付，阴阳大道成就武神！",
-      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4336/13006284_360x480.jpg?time=1786182605",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4336/13006284_360x480.jpg?time=1795653200",
       "author": "人问渡",
       "points": [
         {
@@ -165885,6 +165301,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-new-month",
+          "r": 5,
+          "h": 260000
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-new-month",
           "r": 5,
           "h": 260000
@@ -166312,6 +165734,12 @@
           "b": "boy-new-month",
           "r": 7,
           "h": 202000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-month",
+          "r": 7,
+          "h": 202000
         }
       ]
     },
@@ -166448,6 +165876,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-new-month",
+          "r": 10,
+          "h": 171000
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-new-month",
           "r": 10,
           "h": 171000
@@ -166882,6 +166316,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-new-month",
+          "r": 5,
+          "h": 611000
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-new-month",
           "r": 5,
           "h": 611000
@@ -167710,6 +167150,18 @@
           "b": "boy-new-month",
           "r": 2,
           "h": 436000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 15,
+          "h": 14000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-month",
+          "r": 2,
+          "h": 436000
         }
       ]
     },
@@ -167889,6 +167341,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-new-month",
+          "r": 6,
+          "h": 528000
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-new-month",
           "r": 6,
           "h": 528000
@@ -168587,6 +168045,24 @@
           "b": "girl-new-month",
           "r": 4,
           "h": 695000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 13,
+          "h": 240000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 2,
+          "h": 240000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-month",
+          "r": 4,
+          "h": 695000
         }
       ]
     },
@@ -168748,6 +168224,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-new-month",
+          "r": 12,
+          "h": 169000
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-new-month",
           "r": 12,
           "h": 169000
@@ -169247,6 +168729,18 @@
           "b": "boy-over-date",
           "r": 4,
           "h": 220000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-hot-date",
+          "r": 19,
+          "h": 223000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 4,
+          "h": 223000
         }
       ]
     },
@@ -169647,6 +169141,18 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-new-month",
+          "r": 2,
+          "h": 2222000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 4,
+          "h": 114000
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-new-month",
           "r": 2,
           "h": 2222000
@@ -170573,6 +170079,12 @@
           "b": "boy-new-month",
           "r": 14,
           "h": 147000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-month",
+          "r": 14,
+          "h": 147000
         }
       ]
     },
@@ -170893,6 +170405,12 @@
           "b": "boy-new-month",
           "r": 4,
           "h": 274000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-month",
+          "r": 4,
+          "h": 274000
         }
       ]
     },
@@ -171062,6 +170580,12 @@
           "b": "girl-over-date",
           "r": 16,
           "h": 84000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 15,
+          "h": 81000
         }
       ]
     },
@@ -171224,6 +170748,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-new-month",
+          "r": 14,
+          "h": 226000
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-new-month",
           "r": 14,
           "h": 226000
@@ -171568,6 +171098,12 @@
           "b": "boy-new-month",
           "r": 16,
           "h": 141000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-month",
+          "r": 16,
+          "h": 141000
         }
       ]
     },
@@ -171750,6 +171286,12 @@
           "b": "boy-update-date",
           "r": 1,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 1,
+          "h": 0
         }
       ]
     },
@@ -171914,6 +171456,12 @@
           "b": "girl-hot-date",
           "r": 12,
           "h": 254000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-hot-date",
+          "r": 12,
+          "h": 248000
         }
       ]
     },
@@ -172155,6 +171703,18 @@
           "b": "girl-new-month",
           "r": 7,
           "h": 358000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 13,
+          "h": 27000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-month",
+          "r": 7,
+          "h": 358000
         }
       ]
     },
@@ -172382,6 +171942,18 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-new-month",
+          "r": 18,
+          "h": 133000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 13,
+          "h": 15000
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-new-month",
           "r": 18,
           "h": 133000
@@ -172765,6 +172337,18 @@
           "b": "boy-over-month",
           "r": 3,
           "h": 5371000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 5,
+          "h": 195000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-month",
+          "r": 3,
+          "h": 5371000
         }
       ]
     },
@@ -173033,6 +172617,18 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-over-month",
+          "r": 7,
+          "h": 4723000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-over-date",
+          "r": 9,
+          "h": 89000
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-over-month",
           "r": 7,
           "h": 4723000
@@ -173569,6 +173165,24 @@
           "b": "girl-update-date",
           "r": 19,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 5,
+          "h": 45000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-month",
+          "r": 10,
+          "h": 246000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 19,
+          "h": 0
         }
       ]
     },
@@ -173636,6 +173250,12 @@
           "b": "girl-new-month",
           "r": 11,
           "h": 244000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-month",
+          "r": 11,
+          "h": 244000
         }
       ]
     },
@@ -173673,6 +173293,12 @@
           "b": "boy-new-date",
           "r": 17,
           "h": 11000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 16,
+          "h": 12000
         }
       ]
     },
@@ -173851,6 +173477,18 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-new-month",
+          "r": 12,
+          "h": 234000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 7,
+          "h": 37000
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-new-month",
           "r": 12,
           "h": 234000
@@ -174084,6 +173722,18 @@
           "b": "girl-new-month",
           "r": 9,
           "h": 290000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 10,
+          "h": 31000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-month",
+          "r": 9,
+          "h": 290000
         }
       ]
     },
@@ -174208,6 +173858,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-update-date",
+          "r": 1,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-update-date",
           "r": 1,
           "h": 0
@@ -174539,6 +174195,18 @@
           "b": "boy-new-month",
           "r": 6,
           "h": 213000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 3,
+          "h": 39000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-month",
+          "r": 6,
+          "h": 213000
         }
       ]
     },
@@ -174663,6 +174331,18 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-new-month",
+          "r": 20,
+          "h": 190000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 3,
+          "h": 151000
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-new-month",
           "r": 20,
           "h": 190000
@@ -174896,6 +174576,18 @@
           "b": "girl-update-date",
           "r": 11,
           "h": 1
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 14,
+          "h": 27000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 8,
+          "h": 3
         }
       ]
     },
@@ -175110,6 +174802,18 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-new-month",
+          "r": 11,
+          "h": 169000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 18,
+          "h": 11000
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-new-month",
           "r": 11,
           "h": 169000
@@ -175339,6 +175043,18 @@
           "b": "boy-new-month",
           "r": 8,
           "h": 201000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 10,
+          "h": 19000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-month",
+          "r": 8,
+          "h": 201000
         }
       ]
     },
@@ -175436,6 +175152,12 @@
           "b": "boy-update-date",
           "r": 20,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 19,
+          "h": 1
         }
       ]
     },
@@ -175676,6 +175398,12 @@
           "b": "boy-new-date",
           "r": 19,
           "h": 11000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 19,
+          "h": 10000
         }
       ]
     },
@@ -175872,6 +175600,12 @@
           "b": "girl-new-month",
           "r": 8,
           "h": 333000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-month",
+          "r": 8,
+          "h": 333000
         }
       ]
     },
@@ -175963,6 +175697,12 @@
           "b": "girl-update-date",
           "r": 8,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 5,
+          "h": 3
         }
       ]
     },
@@ -176057,6 +175797,18 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-new-month",
+          "r": 9,
+          "h": 172000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 12,
+          "h": 17000
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-new-month",
           "r": 9,
           "h": 172000
@@ -176171,6 +175923,12 @@
           "b": "boy-new-date",
           "r": 1,
           "h": 50000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 1,
+          "h": 55000
         }
       ]
     },
@@ -176270,6 +176028,12 @@
           "b": "boy-update-date",
           "r": 19,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 17,
+          "h": 2
         }
       ]
     },
@@ -176374,6 +176138,18 @@
           "b": "boy-new-month",
           "r": 15,
           "h": 143000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 8,
+          "h": 20000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-month",
+          "r": 15,
+          "h": 143000
         }
       ]
     },
@@ -176435,6 +176211,12 @@
           "b": "boy-new-date",
           "r": 5,
           "h": 24000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 7,
+          "h": 20000
         }
       ]
     },
@@ -176517,6 +176299,18 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-new-month",
+          "r": 17,
+          "h": 198000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 18,
+          "h": 23000
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-new-month",
           "r": 17,
           "h": 198000
@@ -176618,6 +176412,12 @@
           "b": "girl-update-date",
           "r": 12,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 13,
+          "h": 1
         }
       ]
     },
@@ -176643,6 +176443,12 @@
           "b": "boy-new-date",
           "r": 18,
           "h": 11000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 17,
+          "h": 12000
         }
       ]
     },
@@ -176698,6 +176504,12 @@
           "b": "boy-update-date",
           "r": 16,
           "h": 2
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-update-date",
+          "r": 8,
+          "h": 8
         }
       ]
     },
@@ -176839,6 +176651,12 @@
           "b": "girl-new-month",
           "r": 16,
           "h": 207000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-month",
+          "r": 16,
+          "h": 207000
         }
       ]
     },
@@ -176900,6 +176718,12 @@
           "b": "girl-new-date",
           "r": 18,
           "h": 24000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 19,
+          "h": 22000
         }
       ]
     },
@@ -176974,6 +176798,12 @@
           "b": "boy-new-date",
           "r": 14,
           "h": 14000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 14,
+          "h": 15000
         }
       ]
     },
@@ -177041,6 +176871,12 @@
           "d": "2026-11-25",
           "b": "girl-new-date",
           "r": 8,
+          "h": 31000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 12,
           "h": 31000
         }
       ]
@@ -177115,6 +176951,18 @@
           "b": "girl-over-month",
           "r": 20,
           "h": 2491000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-date",
+          "r": 9,
+          "h": 127000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-over-month",
+          "r": 20,
+          "h": 2491000
         }
       ]
     },
@@ -177164,6 +177012,12 @@
           "b": "girl-update-date",
           "r": 13,
           "h": 0
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 12,
+          "h": 1
         }
       ]
     },
@@ -177201,6 +177055,12 @@
           "b": "boy-new-date",
           "r": 6,
           "h": 23000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 5,
+          "h": 24000
         }
       ]
     },
@@ -177247,6 +177107,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-update-date",
+          "r": 6,
+          "h": 0
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-update-date",
           "r": 6,
           "h": 0
@@ -177299,6 +177165,12 @@
           "b": "girl-new-month",
           "r": 13,
           "h": 230000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-month",
+          "r": 13,
+          "h": 230000
         }
       ]
     },
@@ -177342,6 +177214,12 @@
           "b": "boy-new-date",
           "r": 2,
           "h": 42000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 2,
+          "h": 44000
         }
       ]
     },
@@ -177382,6 +177260,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-new-month",
+          "r": 13,
+          "h": 152000
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-new-month",
           "r": 13,
           "h": 152000
@@ -177428,6 +177312,12 @@
           "b": "girl-new-date",
           "r": 19,
           "h": 23000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 15,
+          "h": 27000
         }
       ]
     },
@@ -177503,6 +177393,12 @@
           "b": "girl-update-date",
           "r": 16,
           "h": 1
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-update-date",
+          "r": 15,
+          "h": 1
         }
       ]
     },
@@ -177560,6 +177456,12 @@
           "b": "girl-new-date",
           "r": 17,
           "h": 25000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 16,
+          "h": 25000
         }
       ]
     },
@@ -177579,6 +177481,12 @@
           "b": "boy-new-date",
           "r": 10,
           "h": 17000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 9,
+          "h": 19000
         }
       ]
     },
@@ -177611,6 +177519,12 @@
           "b": "boy-new-date",
           "r": 15,
           "h": 13000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 11,
+          "h": 17000
         }
       ]
     },
@@ -177627,6 +177541,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "boy-new-month",
+          "r": 17,
+          "h": 135000
+        },
+        {
+          "d": "2026-11-26",
           "b": "boy-new-month",
           "r": 17,
           "h": 135000
@@ -177649,6 +177569,12 @@
           "b": "boy-new-month",
           "r": 19,
           "h": 124000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-month",
+          "r": 19,
+          "h": 124000
         }
       ]
     },
@@ -177667,6 +177593,12 @@
           "d": "2026-11-25",
           "b": "girl-new-date",
           "r": 9,
+          "h": 31000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 11,
           "h": 31000
         }
       ]
@@ -177687,6 +177619,12 @@
           "b": "girl-new-date",
           "r": 7,
           "h": 34000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 6,
+          "h": 39000
         }
       ]
     },
@@ -177703,6 +177641,12 @@
         },
         {
           "d": "2026-11-25",
+          "b": "girl-new-month",
+          "r": 15,
+          "h": 209000
+        },
+        {
+          "d": "2026-11-26",
           "b": "girl-new-month",
           "r": 15,
           "h": 209000
@@ -177745,6 +177689,12 @@
           "b": "boy-new-month",
           "r": 20,
           "h": 122000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-month",
+          "r": 20,
+          "h": 122000
         }
       ]
     },
@@ -177758,6 +177708,12 @@
           "b": "girl-new-date",
           "r": 11,
           "h": 30000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 8,
+          "h": 36000
         }
       ]
     },
@@ -177771,6 +177727,12 @@
           "b": "girl-new-date",
           "r": 16,
           "h": 26000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 17,
+          "h": 25000
         }
       ]
     },
@@ -177784,6 +177746,51 @@
           "b": "girl-new-month",
           "r": 18,
           "h": 194000
+        },
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-month",
+          "r": 18,
+          "h": 194000
+        }
+      ]
+    },
+    "14016483": {
+      "title": "重返76：下乡北大荒，三枪轰出万元户",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4673/14016483_360x480.jpg?time=1794540047",
+      "author": "少吃亿点",
+      "points": [
+        {
+          "d": "2026-11-26",
+          "b": "boy-new-date",
+          "r": 20,
+          "h": 10000
+        }
+      ]
+    },
+    "13449312": {
+      "title": "镇远侯家的寡嫂杀疯了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4484/13449312_360x480.jpg?time=1794547010",
+      "author": "莫小弃",
+      "points": [
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 9,
+          "h": 32000
+        }
+      ]
+    },
+    "13462458": {
+      "title": "八零寡妇小渔女，海钓养崽赢麻了",
+      "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4488/13462458_360x480.jpg?time=1789349913",
+      "author": "倚楼听笙歌",
+      "points": [
+        {
+          "d": "2026-11-26",
+          "b": "girl-new-date",
+          "r": 20,
+          "h": 22000
         }
       ]
     }

@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "category": {
     "name": "现代军事",
     "major": "军事",
@@ -19,28 +19,16 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "三百斤入伍，首长让我当女军医？",
-          "book_id": 13346439,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [
         {
           "title": "四次入伍，我被军区拉进黑名单！",
           "book_id": 12179937,
-          "rank_change": -1
+          "rank_change": -5
         }
       ],
-      "heat_leaders": [
-        {
-          "title": "四次入伍，我被军区拉进黑名单！",
-          "book_id": 12179937,
-          "heat_change": 3
-        }
-      ],
-      "summary": "「现代军事」《三百斤入伍，首长让我当女军医？》上升1位领涨；《四次入伍，我被军区拉进黑名单！》下滑1位；《四次入伍，我被军区拉进黑名单！》热度+3。",
+      "heat_leaders": [],
+      "summary": "「现代军事」《四次入伍，我被军区拉进黑名单！》下滑5位。",
       "ai_source": "rule"
     },
     "books": [
@@ -57,16 +45,16 @@
         "minor_id": 61,
         "minor_url": "https://www.qimao.com/shuku/a-60-61-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "53.18万字",
-        "word_count": 531800,
+        "word_count_text": "54.88万字",
+        "word_count": 548800,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "为了满足爷爷遗愿，三百多斤的陆轩假意参军。\n本想体检就会直接被刷下来。\n结果万万没想到，老军医爷爷不仅诈病，甚至还安排了司令老战友，将陆轩破格录取了！\n将近半吨的陆轩被迫参军入伍，正发愁时，好在系统觉醒。\n“用脂肪可以兑换能力？那还等什么，换！”\n陆轩一边用脂肪兑换能力，同时持续胡吃海塞增加体重。\n当三个月新兵训练期结束。\n陆轩上称。\n嚯，四百一十斤，高高的！\n军区首长震惊。\n“卧槽？一定是训练量还不够，从今天开始，新兵训练五公里改五十公里！”\n“引体向上一千个！”\n“俯卧撑两千个，我不信他还瘦不下来！”\n又三个月过去，陆轩再次上称。\n嚯，四百八十斤，胖了七十！\n全军：？？？？\n自此，陆轩声名鹊起。\n但却没人知道，重达半吨的陆轩已悄悄掌握了所有的军事技能！\n肉身堪比空天母舰，是全球步兵的巅峰，是兵王中的兵王！\n陆轩：“从今天开始，叫我超级特重兵军医！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4449/13346439_360x480.jpg?time=1791973917",
-        "latest_chapter": " 第234章  八个名额，九个人",
-        "updated_at": "2026-11-24 18:43:04",
-        "rank_change": 1,
+        "latest_chapter": " 第241章  下回不看练，看你们打",
+        "updated_at": "2026-11-25 18:42:04",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
@@ -74,7 +62,7 @@
         "category": "现代军事"
       },
       {
-        "rank": 11,
+        "rank": 16,
         "title": "四次入伍，我被军区拉进黑名单！",
         "book_id": 12179937,
         "url": "https://www.qimao.com/shuku/12179937/",
@@ -89,14 +77,14 @@
         "word_count_text": "158.77万字",
         "word_count": 1587700,
         "heat": 5,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "林毅，偷鸡摸狗霍霍猪的“军营钉子户”，终于第三次戴上大红花，光荣退伍！\n战友们哭得稀里哗啦——终于送走这个让全连破防的男人了！\n六年，整整六年！\n你知道班长们是怎么过的吗？\n偷过炊事班的鸡，吓跑过养殖场的猪，三次入伍三次退伍，愣是把义务兵当成了“终身职业。”\n如今他终于滚蛋了！\n花花世界，灯红酒绿，老子自由了！\n下一秒，脑海炸响：\n【叮！系统已绑定。请宿主即刻提交入伍申请表。】\n林毅：？？？我刚退伍仨小时，你就让我回去？\n刚进家门，老爹一拍桌子：“明天相亲！李家姑娘，今年结婚，明年生娃，你敢说个不字试试？”\n一边是逼他回部队的系统，一边是逼他传宗接代的亲爹。\n林毅深吸一口气，放下筷子，露出一个让全家人血压飙升的笑容。\n“爸，爷爷，我决定了，我要第四次入伍！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4060/12179937_360x480.jpg?time=1779853760",
         "latest_chapter": " 第704章  老K佣兵团！刚开战就跑了！",
         "updated_at": "2026-11-25 11:01:07",
-        "rank_change": -1,
-        "heat_change": 3,
+        "rank_change": -5,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

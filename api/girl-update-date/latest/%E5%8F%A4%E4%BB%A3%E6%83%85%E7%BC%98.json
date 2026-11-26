@@ -8,27 +8,32 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "category": {
     "name": "古代情缘",
     "major": "古代言情",
-    "count": 2,
-    "total_heat": 1,
+    "count": 3,
+    "total_heat": 6,
     "trend": {
-      "new_count": 0,
+      "new_count": 1,
       "dropped_count": 0,
-      "new_books": [],
+      "new_books": [
+        {
+          "title": "王妃她是引渡人",
+          "book_id": 12507633
+        }
+      ],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
           "book_id": 13463133,
-          "rank_change": -2
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「古代情缘」《新婚夜流放，飒爽太子妃种出西北大仓！》下滑2位。",
+      "summary": "「古代情缘」新上榜 《王妃她是引渡人》；《新婚夜流放，飒爽太子妃种出西北大仓！》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
@@ -45,15 +50,15 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "69.02万字",
-        "word_count": 690200,
+        "word_count_text": "69.48万字",
+        "word_count": 694800,
         "heat": 0,
         "platform_trend": "",
         "badge": "",
         "intro": "【强取豪夺+通房文学+上位者低头+带球跑+追妻火葬场】阿芙在赎身离开侯府的前一天，被侯夫人送上了的世子爷的床。三日三夜，他尝到了滋味，便不肯松手。人人都说，她得了天大的体面和恩宠。可只有阿芙自己知道，床上的谢寻有多恶劣。她盼着他能早日成婚，便能依着通房的惯例被遣散。婚事敲定，阿芙求他放她离府，谢寻皱眉道：“爷给你一个孩子傍身，莫要闹了。”他一面停了她的避子药，日日赐下雨露，一面却任由自己的未婚妻对她肆意折辱。阿芙表面隐忍，实则早已做好死遁的准备。后来，得知怀有三个月身孕的阿芙跳下了梓源河后，谢寻直接呕出一口心头血。多年之后再见阿芙，他拿出正妻之位求她回心转意，姿态低的不能再低。可阿芙早非当日阿芙，她坐拥大盛半壁财富，人称姜半城，天下男子争相攀附。那日风雪漫天，谢寻立于绵长的队伍末尾，从晨至昏，只为求见半城夫人一面。阿芙知晓后，只是淡淡一笑：“随他。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4036/12107619_360x480.jpg?time=1789371229",
-        "latest_chapter": " 第318章  熟人拜帖",
-        "updated_at": "2026-11-25 09:02:06",
+        "latest_chapter": " 第320章  护国夫人",
+        "updated_at": "2026-11-26 09:02:07",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
@@ -62,7 +67,7 @@
         "category": "古代情缘"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
         "book_id": 13463133,
         "url": "https://www.qimao.com/shuku/13463133/",
@@ -74,19 +79,48 @@
         "minor_id": 216,
         "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "46.25万字",
-        "word_count": 462500,
+        "word_count_text": "46.66万字",
+        "word_count": 466600,
         "heat": 1,
-        "platform_trend": "drop",
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【替嫁流放+打脸爽文+基建+双向救赎】\n沈婉宁拿着证据去公司的路上，被车撞飞了，一睁眼，成了书中的炮灰太子妃，刚醒来就发现自己竟然被渣爹和姨娘算计，替代残废太子，新婚夜还强了短命太子！\n沈婉宁气不过，直接将渣爹一家拉来作伴，流放路上，别人饿成皮包骨，她一路上吃香喝辣，还赚得盆满钵满！\n二皇子派人暗杀，不好意思！一枪一个解决，杀进京扫荡国库，连个裤叉子都没给皇帝老儿留下！\n皇帝老儿站在西北城墙下可怜兮兮！\n“儿媳妇，我错了，你就让我入城，收我为徒吧！”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4488/13463133_360x480.jpg?time=1789452098",
-        "latest_chapter": " 第225章  打瞎他的眼睛",
-        "updated_at": "2026-11-25 08:32:05",
-        "rank_change": -2,
+        "latest_chapter": " 第227章  用麻辣兔头找人",
+        "updated_at": "2026-11-26 08:32:05",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 2,
+        "stale_update": false,
+        "category": "古代情缘"
+      },
+      {
+        "rank": 16,
+        "title": "王妃她是引渡人",
+        "book_id": 12507633,
+        "url": "https://www.qimao.com/shuku/12507633/",
+        "author": "指尖上的行走",
+        "author_url": "https://www.qimao.com/zuozhe/%E6%8C%87%E5%B0%96%E4%B8%8A%E7%9A%84%E8%A1%8C%E8%B5%B0_14/",
+        "major": "古代言情",
+        "minor": "古代情缘",
+        "major_id": 2,
+        "minor_id": 216,
+        "minor_url": "https://www.qimao.com/shuku/a-2-216-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "89.08万字",
+        "word_count": 890800,
+        "heat": 5,
+        "platform_trend": "rise",
+        "badge": "",
+        "intro": "【《将军她是引渡人》姊妹篇，悬疑+爽文+甜宠】\n归杳无过往，无五感，亦无七情六欲，却有五千张不同面孔。\n她替女子化灾解难，引渡新生。\n正妻想惩治私通的丈夫和养妹？\n当众抓奸并送渣男贱女上刑场。\n失散兄妹错恋成痴，妹妹想救相思成疾的哥哥？\n斩情丝，断情念，拨乱反正各自安好。\n被凌虐却要救凶手母亲的少女？被娘家算计与男子同床，却怪她因此带来厄运的出嫁女？雌雄同体爱而不得的阴阳人……\n归杳通通接下，与之结契，借五感，塑已身，收愿力，补神魂。\n世间最美的男子，也被她收于裙下，五感是借来的，但枕边的风景是自己的……\n世人问她为何只渡女子？\n她眉目慈悲：女子万般苦楚，总该有人来渡。\n实则她若懈怠，便会天雷滚滚，外焦里嫩。\n而天雷背后，是五千忠魂的以命相护，是毁天灭地的血海深仇……",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4170/12507633_360x480.jpg?time=1784801356",
+        "latest_chapter": " 第347章  杀人原因",
+        "updated_at": "2026-11-25 20:55:05",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
         "stale_update": false,
         "category": "古代情缘"
       }

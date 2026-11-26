@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "category": {
     "name": "热血校园",
     "major": "都市",
@@ -19,16 +19,10 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "开局回收返利：校花竟是假名媛",
-          "book_id": 13445313,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「热血校园」《开局回收返利：校花竟是假名媛》上升1位领涨。",
+      "summary": "「热血校园」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -45,16 +39,16 @@
         "minor_id": 222,
         "minor_url": "https://www.qimao.com/shuku/a-203-222-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "44.74万字",
-        "word_count": 447400,
+        "word_count_text": "45.37万字",
+        "word_count": 453700,
         "heat": 152000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "（回收返利+奢侈品+校花+多次修改）\n开局继承一家负债数百万的典当行，觉醒万物回收系统：\n系统功能：\n破损修复：可以花费钱财修复典当回收的奢侈品；\n返利50%：回收物品所花费的钱财，可以返利50%；\n名贵包、奢侈品名表等鉴定术……\n高冷校花：老板，再加点钱嘛，不会让你吃亏的。\n话刚说完……\n大学辅导员：哼，想占我便宜！交易完，直接删除老板微信。\n谁知老板竟然是她学生……\n校花学姐、温柔富婆、大学教授、高冷女总裁……\n在这家典当行老板面前，都乖如小猫。\n（本书经历多次修改～且看且珍惜……）",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4482/13445313_360x480.jpg?time=1789361411",
-        "latest_chapter": " 第221章  朱怜玉第一天上班！",
-        "updated_at": "2026-11-25 00:02:14",
-        "rank_change": 1,
+        "latest_chapter": " 第224章  你……够骚！（求金币礼物！求免费礼物！）",
+        "updated_at": "2026-11-26 00:02:17",
+        "rank_change": 0,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

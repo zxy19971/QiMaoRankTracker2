@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-26",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 138200,
+    "total_heat": 2764000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "外室登堂？状元嫡女踹翻全家",
+            "book_id": 11816211,
+            "rank_change": -5
+          },
+          {
+            "title": "裂春风",
+            "book_id": 10024089,
+            "rank_change": -1
+          },
+          {
+            "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+            "book_id": 2019227,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "外室登堂？状元嫡女踹翻全家",
+            "book_id": 11816211,
+            "heat_change": -19000
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": -7000
+          },
+          {
+            "title": "第一凤女",
+            "book_id": 1803136,
+            "heat_change": -5000
+          }
+        ],
+        "summary": "「宫闱宅斗」《外室登堂？状元嫡女踹翻全家》下滑5位；《外室登堂？状元嫡女踹翻全家》热度-19000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "惯坏她",
+            "book_id": 10034568,
+            "intro": "清醒小白花+年上爹系大佬\n/先婚后爱/上位者低头/蓄谋已久/\n恋爱六年，快结婚时，男友一句“我爸不会让你这种背景进门”，虞妍就被分手了。\n虞妍心底讽刺，她知道，贺凡的白月光回来了，她该让位了。\n失魂落"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "婚后上瘾",
+            "book_id": 1994117,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "六年后，我携四个幼崽炸翻前夫家",
+            "book_id": 1658048,
+            "rank_change": -1
+          },
+          {
+            "title": "大佬归来，假千金她不装了",
+            "book_id": 1699328,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "婚后上瘾",
+            "book_id": 1994117,
+            "heat_change": 11000
+          },
+          {
+            "title": "形婚两年不同房，改嫁大佬被宠坏",
+            "book_id": 11539740,
+            "heat_change": -5000
+          },
+          {
+            "title": "八年冷淡你提离婚，我签字你疯什么",
+            "book_id": 2067317,
+            "heat_change": 3000
+          }
+        ],
+        "summary": "「总裁豪门」《惯坏她》 掉出榜单；《婚后上瘾》上升2位领涨；《六年后，我携四个幼崽炸翻前夫家》下滑1位；《婚后上瘾》热度+11000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+            "book_id": 1866390
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "小娇媳要随军，禁欲指挥官心慌慌",
+            "book_id": 1952077,
+            "rank_change": 7
+          },
+          {
+            "title": "骗婚三年？我转身搬空家产嫁你上司！",
+            "book_id": 9912513,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "小娇媳要随军，禁欲指挥官心慌慌",
+            "book_id": 1952077,
+            "heat_change": 55000
+          },
+          {
+            "title": "大院来了个带空间的小萌宝",
+            "book_id": 10152036,
+            "heat_change": 9000
+          },
+          {
+            "title": "骗婚三年？我转身搬空家产嫁你上司！",
+            "book_id": 9912513,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「年代重生」新上榜 《七零，易孕娇妻被绝嗣京少宠哭了》；《小娇媳要随军，禁欲指挥官心慌慌》上升7位领涨；《小娇媳要随军，禁欲指挥官心慌慌》热度+55000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "第一瞳术师",
+            "book_id": 215243,
+            "heat_change": -2000
+          }
+        ],
+        "summary": "「玄幻仙侠」《第一瞳术师》下滑1位；《第一瞳术师》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "「都市奇幻」《阴当》上升1位领涨；《阴当》热度+4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "世子先别死，夫人有喜了",
+            "book_id": 1830570
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "为奴三年后，整个侯府跪求我原谅",
+            "book_id": 1872563,
+            "intro": "又名《念昭归》\n乔念做了侯府十五年的掌上明珠，却在那日突然被告知自己只是个假千金。\n从此，疼爱她的爹娘成了林鸢的，宠溺她的阿兄为了林鸢亲手将她推下小楼，就连她的未婚夫，那位封狼居胥的萧将军都选择站在了"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」新上榜 《世子先别死，夫人有喜了》；《为奴三年后，整个侯府跪求我原谅》 掉出榜单。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

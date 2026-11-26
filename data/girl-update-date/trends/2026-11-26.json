@@ -1,0 +1,253 @@
+{
+  "date": "2026-11-26",
+  "board": "girl-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 1,
+    "total_heat": 28,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "媚君侧",
+            "book_id": 11615952
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "禁庭春",
+            "book_id": 13278996,
+            "rank_change": 3
+          },
+          {
+            "title": "芙蓉帐下",
+            "book_id": 13507191,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "rank_change": -4
+          },
+          {
+            "title": "凰命错",
+            "book_id": 13123386,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "禁庭春",
+            "book_id": 13278996,
+            "heat_change": 3
+          },
+          {
+            "title": "皇叔借点功德，王妃把符画猛了",
+            "book_id": 1803283,
+            "heat_change": 3
+          },
+          {
+            "title": "芙蓉帐下",
+            "book_id": 13507191,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「宫闱宅斗」新上榜 《媚君侧》；《禁庭春》上升3位领涨；《皇叔借点功德，王妃把符画猛了》下滑4位；《禁庭春》热度+3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "王妃她是引渡人",
+            "book_id": 12507633
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」新上榜 《王妃她是引渡人》；《新婚夜流放，飒爽太子妃种出西北大仓！》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "疯犬玫瑰",
+            "book_id": 1939902,
+            "intro": "梵音落魄那日，去了个破落小镇\n她肤白貌美大长腿，十指不沾阳春水，很快成了这个地方的焦点\n所有男人都对她趋之若鹜，独独一人对她退避三舍\n梵音看那人一眼，随他去，懒得理\n后来，男人醉酒敲开她的房门，掐着她"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "rank_change": -2
+          },
+          {
+            "title": "霍二爷，新婚请克制！",
+            "book_id": 10373634,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "她玩火",
+            "book_id": 12264417,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「总裁豪门」《疯犬玫瑰》 掉出榜单；《她玩火》下滑2位；《她玩火》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "带着空间去下乡，生财暴富撩糙汉！",
+            "book_id": 13470801,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "带着空间去下乡，生财暴富撩糙汉！",
+            "book_id": 13470801,
+            "heat_change": 2
+          }
+        ],
+        "summary": "「年代重生」《带着空间去下乡，生财暴富撩糙汉！》上升3位领涨；《带着空间去下乡，生财暴富撩糙汉！》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "夺我神兽？废物二小姐不装了",
+            "book_id": 12905865,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」《夺我神兽？废物二小姐不装了》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现实故事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "展翼",
+            "book_id": 13734264,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "展翼",
+            "book_id": 13734264,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「现实故事」《展翼》下滑1位；《展翼》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "娱乐明星",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「娱乐明星」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "异世幻想",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "兽世万人迷：大佬们为占她一胎抢疯了",
+            "book_id": 12828771,
+            "heat_change": -4
+          }
+        ],
+        "summary": "「异世幻想」《兽世万人迷：大佬们为占她一胎抢疯了》热度-4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市奇幻」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

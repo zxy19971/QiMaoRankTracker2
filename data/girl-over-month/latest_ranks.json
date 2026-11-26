@@ -8,8 +8,8 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-25",
-  "prev_date": "2026-11-24",
+  "date": "2026-11-26",
+  "prev_date": "2026-11-25",
   "books": [
     {
       "rank": 1,
@@ -442,7 +442,7 @@
       "rank_change": 0,
       "heat_change": 0,
       "is_new": false,
-      "boards_count": 2,
+      "boards_count": 1,
       "stale_update": true,
       "category": "总裁豪门"
     },
@@ -867,7 +867,7 @@
           "rank_change": 0,
           "heat_change": 0,
           "is_new": false,
-          "boards_count": 2,
+          "boards_count": 1,
           "stale_update": true,
           "category": "总裁豪门"
         },

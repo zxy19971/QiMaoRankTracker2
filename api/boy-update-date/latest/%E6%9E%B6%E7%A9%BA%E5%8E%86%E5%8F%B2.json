@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 1,
-    "total_heat": 6,
+    "total_heat": 5,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "太监凶猛",
           "book_id": 11674809,
-          "rank_change": -1
+          "rank_change": 5
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "太监凶猛",
           "book_id": 11674809,
-          "heat_change": 4
+          "heat_change": -1
         }
       ],
-      "summary": "「架空历史」《太监凶猛》下滑1位；《太监凶猛》热度+4。",
+      "summary": "「架空历史」《太监凶猛》上升5位领涨；《太监凶猛》热度-1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 15,
+        "rank": 10,
         "title": "太监凶猛",
         "book_id": 11674809,
         "url": "https://www.qimao.com/shuku/11674809/",
@@ -51,17 +51,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "153.93万字",
-        "word_count": 1539300,
-        "heat": 6,
-        "platform_trend": "drop",
+        "word_count_text": "154.68万字",
+        "word_count": 1546800,
+        "heat": 5,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第462章  天罚降临！",
-        "updated_at": "2026-11-25 00:32:05",
-        "rank_change": -1,
-        "heat_change": 4,
+        "latest_chapter": " 第464章  天师府第四宝！",
+        "updated_at": "2026-11-26 00:32:06",
+        "rank_change": 5,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
