@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "category": {
     "name": "古典仙侠",
     "major": "武侠仙侠",
     "count": 3,
-    "total_heat": 74000,
+    "total_heat": 76000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,28 +21,22 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "大道仙炉",
-          "book_id": 13309743,
+          "title": "奇葫仙缘",
+          "book_id": 13123122,
           "rank_change": 1
-        }
-      ],
-      "top_fallers": [
+        },
         {
           "title": "长生隐仙",
           "book_id": 13425288,
-          "rank_change": -2
-        },
-        {
-          "title": "奇葫仙缘",
-          "book_id": 13123122,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "大道仙炉",
           "book_id": 13309743,
-          "heat_change": 3000
+          "heat_change": 2000
         },
         {
           "title": "奇葫仙缘",
@@ -52,10 +46,10 @@
         {
           "title": "长生隐仙",
           "book_id": 13425288,
-          "heat_change": -1000
+          "heat_change": 1000
         }
       ],
-      "summary": "「古典仙侠」《大道仙炉》上升1位领涨；《长生隐仙》下滑2位；《大道仙炉》热度+3000。",
+      "summary": "「古典仙侠」《奇葫仙缘》上升1位领涨；《大道仙炉》热度+2000。",
       "ai_source": "rule"
     },
     "books": [
@@ -72,24 +66,24 @@
         "minor_id": 52,
         "minor_url": "https://www.qimao.com/shuku/a-205-52-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.21万字",
-        "word_count": 402100,
-        "heat": 39000,
+        "word_count_text": "40.63万字",
+        "word_count": 406300,
+        "heat": 41000,
         "platform_trend": "rise",
         "badge": "",
         "intro": "一朝穿成苍云宗杂役，随时都会被杀，偏遇上疯批师姐　，甩锅杀人不眨眼……\n李元最大的梦想，是早日晋升正式弟子　，像人一样活着，奈何资质平庸，缺乏资源。\n偶然发现神秘小黑罐，废丹放进去，转眼变成极品丹药……\n一夜突破，拿捏师姐，修法炼丹　，问道长生　，从此踏上一条无敌仙路！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4437/13309743_360x480.jpg?time=1794896092",
-        "latest_chapter": " 第189章  秘术，袖乾坤！",
-        "updated_at": "2026-11-26 00:07:09",
-        "rank_change": 1,
-        "heat_change": 3000,
+        "latest_chapter": " 第191章  司主的心思，绝世机缘",
+        "updated_at": "2026-11-26 23:22:07",
+        "rank_change": 0,
+        "heat_change": 2000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "古典仙侠"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "title": "奇葫仙缘",
         "book_id": 13123122,
         "url": "https://www.qimao.com/shuku/13123122/",
@@ -101,16 +95,16 @@
         "minor_id": 52,
         "minor_url": "https://www.qimao.com/shuku/a-205-52-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.85万字",
-        "word_count": 378500,
-        "heat": 20000,
+        "word_count_text": "38.26万字",
+        "word_count": 382600,
+        "heat": 19000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【凡人流】【稳健流】【杀伐果断】【不圣母】\n五行废灵根真的不适合修仙吗？\n宋长风拥有最差的五行废灵根，凭借爷爷给的拜山令他才得以加入落霞宗，成为了一名丹房杂役弟子。\n机缘巧合之下，他得到了一个可以融合丹药，提升丹药品质的黄皮葫芦。\n两枚废丹融合一枚下品丹药，两枚下品丹药融合一枚中品丹药……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4375/13123122_360x480.jpg?time=1787733366",
-        "latest_chapter": " 第183章  矿山挖矿",
-        "updated_at": "2026-11-26 00:03:04",
-        "rank_change": -1,
+        "latest_chapter": " 第185章  黄裳与黄洪",
+        "updated_at": "2026-11-26 23:37:07",
+        "rank_change": 1,
         "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
@@ -118,7 +112,7 @@
         "category": "古典仙侠"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "title": "长生隐仙",
         "book_id": 13425288,
         "url": "https://www.qimao.com/shuku/13425288/",
@@ -130,17 +124,17 @@
         "minor_id": 52,
         "minor_url": "https://www.qimao.com/shuku/a-205-52-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "32.95万字",
-        "word_count": 329500,
-        "heat": 15000,
-        "platform_trend": "drop",
+        "word_count_text": "33.79万字",
+        "word_count": 337900,
+        "heat": 16000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【凡人修仙】【长生流】【无系统】【苟道无敌】【有血有肉】【忍无可忍，则无需再忍】\n永生者林奇，本打算静静苟过万年。\n直到一名凡人老者，赠他一碗热面，一袭书生袍，轻声道一句：“留下吧。”\n他死了。那是林奇第一次落泪。\n漫长岁月里他渐渐懂得：永生是蛰伏苟存，生命却是激情和不屈。\n悠悠万载，始终是当年那一碗热面，让他未曾冷漠成一块顽石，心底长存那一丝，属于人类的温热。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4476/13425288_360x480.jpg?time=1792569254",
-        "latest_chapter": " 第155章  天下大乱",
-        "updated_at": "2026-11-25 10:23:03",
-        "rank_change": -2,
-        "heat_change": -1000,
+        "latest_chapter": " 第159章  你是谁",
+        "updated_at": "2026-11-27 10:28:03",
+        "rank_change": 1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

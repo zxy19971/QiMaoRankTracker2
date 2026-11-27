@@ -1,0 +1,242 @@
+{
+  "date": "2026-11-27",
+  "board": "girl-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 1,
+    "dropped_count": 1,
+    "avg_heat": 64700,
+    "total_heat": 1294000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "霍总别跪了，你老婆在参加国宴",
+            "book_id": 13614846,
+            "rank_change": 4
+          },
+          {
+            "title": "深吻，太太要离婚，陆总失控越界",
+            "book_id": 13546641,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "婚尽，周总却对前妻念念不忘了",
+            "book_id": 13484496,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "婚前不熟，婚后失控",
+            "book_id": 13300485,
+            "heat_change": -19000
+          },
+          {
+            "title": "谢总，夫人已改嫁，让你跪远点",
+            "book_id": 13156719,
+            "heat_change": -9000
+          },
+          {
+            "title": "夫人反差太大，司总沦陷了！",
+            "book_id": 13030701,
+            "heat_change": -6000
+          }
+        ],
+        "summary": "「总裁豪门」《霍总别跪了，你老婆在参加国宴》上升4位领涨；《婚尽，周总却对前妻念念不忘了》下滑1位；《婚前不熟，婚后失控》热度-19000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "嫡女又茶又媚，勾权臣，谋上位",
+            "book_id": 13408986
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "夺凤命？重生嫡女屠尽渣渣满门",
+            "book_id": 13600971,
+            "rank_change": 2
+          },
+          {
+            "title": "镇远侯家的寡嫂杀疯了",
+            "book_id": 13449312,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "皇后令",
+            "book_id": 13424982,
+            "heat_change": -17000
+          },
+          {
+            "title": "镇远侯家的寡嫂杀疯了",
+            "book_id": 13449312,
+            "heat_change": 6000
+          },
+          {
+            "title": "夺凤命？重生嫡女屠尽渣渣满门",
+            "book_id": 13600971,
+            "heat_change": 5000
+          }
+        ],
+        "summary": "「宫闱宅斗」新上榜 《嫡女又茶又媚，勾权臣，谋上位》；《夺凤命？重生嫡女屠尽渣渣满门》上升2位领涨；《皇后令》热度-17000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "八零寡妇小渔女，海钓养崽赢麻了",
+            "book_id": 13462458,
+            "intro": "【年代+赶海+听懂兽语+随军+双洁+爱国】\n上辈子何小鱼稀里糊涂二嫁给小叔子陈耀祖后，在乡下尽心尽力伺候婆婆和养子，挣钱养家，疾病缠身卧床不起。\n直到临死前才知道这辈子白活了！\n一切都是婆婆和小叔子的"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "六零随军：大小姐她美貌动人",
+            "book_id": 13776792,
+            "rank_change": 3
+          },
+          {
+            "title": "七零：娇软知青闪婚冷面糙汉",
+            "book_id": 13162113,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "带着空间去下乡，生财暴富撩糙汉！",
+            "book_id": 13470801,
+            "rank_change": -6
+          },
+          {
+            "title": "六零美人娇又媚，糙汉军长沦陷了",
+            "book_id": 13343844,
+            "rank_change": -3
+          },
+          {
+            "title": "八零媳妇太勾人，裴教授每天都在破防",
+            "book_id": 13716891,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "带着空间去下乡，生财暴富撩糙汉！",
+            "book_id": 13470801,
+            "heat_change": -9000
+          },
+          {
+            "title": "六零美人娇又媚，糙汉军长沦陷了",
+            "book_id": 13343844,
+            "heat_change": -7000
+          },
+          {
+            "title": "七零：娇软知青闪婚冷面糙汉",
+            "book_id": 13162113,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「年代重生」《八零寡妇小渔女，海钓养崽赢麻了》 掉出榜单；《六零随军：大小姐她美貌动人》上升3位领涨；《带着空间去下乡，生财暴富撩糙汉！》下滑6位；《带着空间去下乡，生财暴富撩糙汉！》热度-9000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "四岁姑奶奶，叼奶瓶带全族飞升啦",
+            "book_id": 13172136,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "四岁姑奶奶，叼奶瓶带全族飞升啦",
+            "book_id": 13172136,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「玄幻仙侠」《四岁姑奶奶，叼奶瓶带全族飞升啦》下滑2位；《四岁姑奶奶，叼奶瓶带全族飞升啦》热度-3000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "白捡七个崽，我摆摊成了全京首富",
+            "book_id": 13540389,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「种田经商」《白捡七个崽，我摆摊成了全京首富》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+            "book_id": 13123449,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+            "book_id": 13123449,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「古代情缘」《地狱归，驭百鬼，王妃回京后杀疯了》下滑1位；《地狱归，驭百鬼，王妃回京后杀疯了》热度-1000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

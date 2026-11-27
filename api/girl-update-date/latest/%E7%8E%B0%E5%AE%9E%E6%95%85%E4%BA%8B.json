@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "category": {
     "name": "现实故事",
     "major": "现实主义",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
       "top_risers": [],
-      "top_fallers": [
-        {
-          "title": "展翼",
-          "book_id": 13734264,
-          "rank_change": -1
-        }
-      ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "展翼",
           "book_id": 13734264,
-          "heat_change": 1
+          "heat_change": -1
         }
       ],
-      "summary": "「现实故事」《展翼》下滑1位；《展翼》热度+1。",
+      "summary": "「现实故事」《展翼》热度-1。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 309,
         "minor_url": "https://www.qimao.com/shuku/a-307-309-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "27.33万字",
-        "word_count": 273300,
-        "heat": 1,
-        "platform_trend": "drop",
+        "word_count_text": "27.79万字",
+        "word_count": 277900,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "2001年4月1日，南海上空，81192再也没有返航。高三教室里，十八岁的舒扬划掉志愿表上所有学校，只留下一所。　二十三年后，银杏叶落满蓉都，一架没有名字的战机掠过天际，全网沸腾。\n本书聚焦反映中国式现代化国防领域及航空领域的科技攻关：从描图员到副总设计师，从\"我要报仇\"到\"我来护航\"——她把半生写在图纸上，把一个时代画进了天空。　谨以此书，致敬每一个把名字藏进祖国蓝天的人。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4579/13734264_360x480.jpg?time=1791967964",
-        "latest_chapter": " 第111章  辽海的船与南海的风",
-        "updated_at": "2026-11-26 07:02:05",
-        "rank_change": -1,
-        "heat_change": 1,
+        "latest_chapter": " 第113章  风平浪静之后",
+        "updated_at": "2026-11-27 07:02:04",
+        "rank_change": 0,
+        "heat_change": -1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

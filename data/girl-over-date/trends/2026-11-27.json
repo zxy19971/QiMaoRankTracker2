@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-27",
+  "board": "girl-over-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 137350,
+    "total_heat": 2747000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "惯坏她",
+            "book_id": 10034568
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "婚后上瘾",
+            "book_id": 1994117,
+            "rank_change": 1
+          },
+          {
+            "title": "六年后，我携四个幼崽炸翻前夫家",
+            "book_id": 1658048,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "形婚两年不同房，改嫁大佬被宠坏",
+            "book_id": 11539740,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "形婚两年不同房，改嫁大佬被宠坏",
+            "book_id": 11539740,
+            "heat_change": -6000
+          },
+          {
+            "title": "第五年重逢，驰先生再度失控",
+            "book_id": 2072940,
+            "heat_change": -3000
+          },
+          {
+            "title": "大佬归来，假千金她不装了",
+            "book_id": 1699328,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「总裁豪门」新上榜 《惯坏她》；《婚后上瘾》上升1位领涨；《形婚两年不同房，改嫁大佬被宠坏》下滑2位；《形婚两年不同房，改嫁大佬被宠坏》热度-6000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "外室登堂？状元嫡女踹翻全家",
+            "book_id": 11816211,
+            "intro": "【打脸虐渣+两代人追妻火葬场+真假千金+双洁】\n父亲为扶正外室私生，不惜与母亲和离，并拿我做条件，换取母亲嫁妆。\n为保住豪门与我定下的娃娃亲，让外室顶替了母亲身份，私生女顶替了我。\n一家子拿着母亲的巨"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "被逼自刎，嫡女重生撕婚书覆皇朝",
+            "book_id": 2074363,
+            "heat_change": 11000
+          },
+          {
+            "title": "凤池生春",
+            "book_id": 1830569,
+            "heat_change": -5000
+          },
+          {
+            "title": "解春衫",
+            "book_id": 2065888,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「宫闱宅斗」《外室登堂？状元嫡女踹翻全家》 掉出榜单；《被逼自刎，嫡女重生撕婚书覆皇朝》热度+11000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "七零，易孕娇妻被绝嗣京少宠哭了",
+            "book_id": 1866390,
+            "intro": "【绝嗣团长vs好孕美人，双重生+换嫁+先婚后爱】秦姝重生后，被堂妹换婚了！\n前世，秦姝嫁的知青是全国首富，她是人人羡慕的阔太太。\n堂妹嫁的年轻军官，瘸腿、毁容、绝嗣，没多久病死了。\n秦姝看着病床上一米"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "骗婚三年？我转身搬空家产嫁你上司！",
+            "book_id": 9912513,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "小娇媳要随军，禁欲指挥官心慌慌",
+            "book_id": 1952077,
+            "heat_change": -7000
+          },
+          {
+            "title": "大院来了个带空间的小萌宝",
+            "book_id": 10152036,
+            "heat_change": 5000
+          },
+          {
+            "title": "骗婚三年？我转身搬空家产嫁你上司！",
+            "book_id": 9912513,
+            "heat_change": -3000
+          }
+        ],
+        "summary": "「年代重生」《七零，易孕娇妻被绝嗣京少宠哭了》 掉出榜单；《骗婚三年？我转身搬空家产嫁你上司！》下滑2位；《小娇媳要随军，禁欲指挥官心慌慌》热度-7000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "为奴三年后，整个侯府跪求我原谅",
+            "book_id": 1872563
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "世子先别死，夫人有喜了",
+            "book_id": 1830570,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "世子先别死，夫人有喜了",
+            "book_id": 1830570,
+            "heat_change": 17000
+          }
+        ],
+        "summary": "「古代情缘」新上榜 《为奴三年后，整个侯府跪求我原谅》；《世子先别死，夫人有喜了》上升5位领涨；《世子先别死，夫人有喜了》热度+17000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市奇幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "阴当",
+            "book_id": 1979356,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「都市奇幻」《阴当》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

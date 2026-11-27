@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-25",
+  "date": "2026-11-27",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
@@ -16,49 +16,43 @@
     "total_heat": 12000,
     "trend": {
       "new_count": 1,
-      "dropped_count": 1,
+      "dropped_count": 0,
       "new_books": [
         {
-          "title": "天道酬勤，从杀猪匠肝成人间武神",
-          "book_id": 13267041
+          "title": "纯阳剑仙：我的老婆是女帝",
+          "book_id": 13560672
         }
       ],
-      "dropped_books": [
-        {
-          "title": "荒淫无道？我那是拯救快散的宗门！",
-          "book_id": 13611585,
-          "intro": "【师姐你好香】+【正人君子读春秋】+【我合道就变强！】\n陆沉舟穿越修仙界，正逢妖潮在即，宗门危难！\n关键时候，陆沉舟觉醒【天命道侣系统】。\n只要与天资出众的女修结为道侣，他便能获得天道奖励，而且道侣本"
-        }
-      ],
+      "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「东方玄幻」新上榜 《天道酬勤，从杀猪匠肝成人间武神》；《荒淫无道？我那是拯救快散的宗门！》 掉出榜单。",
+      "summary": "「东方玄幻」新上榜 《纯阳剑仙：我的老婆是女帝》。",
       "ai_source": "rule"
     },
     "books": [
       {
         "rank": 16,
-        "title": "天道酬勤，从杀猪匠肝成人间武神",
-        "book_id": 13267041,
-        "url": "https://www.qimao.com/shuku/13267041/",
-        "author": "逍遥自在",
-        "author_url": "https://www.qimao.com/zuozhe/%E9%80%8D%E9%81%A5%E8%87%AA%E5%9C%A8_14/",
+        "title": "纯阳剑仙：我的老婆是女帝",
+        "book_id": 13560672,
+        "url": "https://www.qimao.com/shuku/13560672/",
+        "author": "叶问",
+        "author_url": "https://www.qimao.com/zuozhe/%E5%8F%B6%E9%97%AE_14/",
         "major": "玄幻奇幻",
         "minor": "东方玄幻",
         "major_id": 202,
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "38.63万字",
-        "word_count": 386300,
+        "word_count_text": "23.55万字",
+        "word_count": 235500,
         "heat": 12000,
         "platform_trend": "rise",
-        "badge": "",
-        "intro": "（肝帝+杀伐果断+热血爽文+简介无力请看正文）\n陆辰穿越成一名杀猪匠，同时觉醒天道酬勤面板。\n只要肝够足够的熟练度，就能修成任何技艺。\n于是从杀猪开始，他踏上了自己的武道之路。\n从杀猪匠，到天骄刀，再到镇北王，斩妖皇，全能尊，一个又一个称号响彻天上地下。\n直到若干年后，当年的杀猪匠早已肝成了让漫天仙佛都为之闻风丧胆的——人间武神！！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4423/13267041_360x480.jpg?time=1787638853",
-        "latest_chapter": " 第183章  阎罗附体，离国求援！",
-        "updated_at": "2026-11-24 20:02:05",
+        "badge": "飙升14名",
+        "intro": "在一个月黑风高的夜晚，两名身中剧毒的绝色女帝先后钻进林烬屋子，让林烬帮她们解毒。\n林烬费尽全身精力帮她们解毒之后，她们竟都让林烬帮忙镇压对方。\n林烬很懵逼，有没有搞错？我废柴一个，哪能镇压你们这两个威震万界的绝世大佬啊？\n两名女帝各自赐予林烬惊天动地的大帝传承，让林烬迅速修炼变强。\n多年后，林烬终于修到至强，脚踏乾坤，登临万界之巅。\n两名女帝再次要求，让林烬帮忙镇压对方。\n林烬冷笑，反手就将两名女帝霸道地拥入怀中。\n帮你们镇压对方？开玩笑呢！\n俗话说，家和才能万事兴，我连诸天万界都能执掌，还掌握不了你们？\n来来来，都乖乖给为夫生孩子，生他个十个八个的，都给为夫好好相处！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4521/13560672_360x480.jpg?time=1790210139",
+        "latest_chapter": " 第109章  林烬：被阴了！",
+        "updated_at": "2026-11-27 00:02:18",
         "rank_change": 0,
         "heat_change": 0,
         "is_new": true,

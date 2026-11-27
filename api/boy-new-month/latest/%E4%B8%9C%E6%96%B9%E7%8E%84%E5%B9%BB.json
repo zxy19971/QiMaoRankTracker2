@@ -8,7 +8,7 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
@@ -19,15 +19,21 @@
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "说好的纨绔，怎么正魔两道全是他红颜",
+          "book_id": 13427316,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「东方玄幻」榜单结构稳定，无明显变动。",
+      "summary": "「东方玄幻」《说好的纨绔，怎么正魔两道全是他红颜》上升1位领涨。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 6,
         "title": "说好的纨绔，怎么正魔两道全是他红颜",
         "book_id": 13427316,
         "url": "https://www.qimao.com/shuku/13427316/",
@@ -39,16 +45,16 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "45.07万字",
-        "word_count": 450700,
+        "word_count_text": "45.78万字",
+        "word_count": 457800,
         "heat": 202000,
         "platform_trend": "rise",
-        "badge": "飙升47名",
+        "badge": "飙升48名",
         "intro": "【穿越游戏+游戏系统+多女主+纨绔+江湖】\n穿成纨绔反派，开局就差点玷污正道仙子！\n什么？她大哥还是未来剑神？\n为求活命，我被迫上演浪子回头、为爱痴狂的戏码！\n天天送花，日日表白，眼看就要把冰山仙子暖化，让她忘了我的黑历史！\n谁知，我当初为表忠心拒之门外的魔教妖女，竟乔装成她，骗我爬上神女峰！\n悬崖之上，面对魔女“你跳我就放了她”的致命考验，我心一横，纵身一跃！\n这一跳，跳得正道仙子泪崩表白，跳得魔教妖女心神摇曳！\n可我万万没想到，启动秘境传送时，本想拉着仙子私奔，却抓错了人，和那媚眼如丝的魔女一起掉了进去！\n看着怀里笑得花枝乱颤的妖女，我人麻了：救命！拉错人了啊！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4476/13427316_360x480.jpg?time=1791623614",
-        "latest_chapter": " 第129章  越来越不对劲",
-        "updated_at": "2026-11-26 00:32:04",
-        "rank_change": 0,
+        "latest_chapter": " 第130章  恼怒的梵天姬（七千字）",
+        "updated_at": "2026-11-27 00:00:09",
+        "rank_change": 1,
         "heat_change": 0,
         "is_new": false,
         "boards_count": 1,

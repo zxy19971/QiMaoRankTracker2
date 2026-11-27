@@ -1,0 +1,293 @@
+{
+  "date": "2026-11-27",
+  "board": "boy-update-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 0,
+    "dropped_count": 0,
+    "avg_heat": 1,
+    "total_heat": 22,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "吞天神体",
+            "book_id": 1880008,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "rank_change": -3
+          },
+          {
+            "title": "太初仙鼎",
+            "book_id": 13499934,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "鸿蒙霸体诀",
+            "book_id": 1655407,
+            "heat_change": 2
+          },
+          {
+            "title": "太初仙鼎",
+            "book_id": 13499934,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「东方玄幻」《吞天神体》上升3位领涨；《鸿蒙霸体诀》下滑3位；《鸿蒙霸体诀》热度+2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "高武严父，永远比儿子高五个境界",
+            "book_id": 12565608,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "五年挡灾无人问，恐怖上门你是谁！？",
+            "book_id": 13755225,
+            "rank_change": -4
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "五年挡灾无人问，恐怖上门你是谁！？",
+            "book_id": 13755225,
+            "heat_change": -4
+          },
+          {
+            "title": "神武天下之睚眦",
+            "book_id": 1977738,
+            "heat_change": -3
+          },
+          {
+            "title": "高武严父，永远比儿子高五个境界",
+            "book_id": 12565608,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高武」《高武严父，永远比儿子高五个境界》上升1位领涨；《五年挡灾无人问，恐怖上门你是谁！？》下滑4位；《五年挡灾无人问，恐怖上门你是谁！？》热度-4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "美女总裁，请上车",
+            "book_id": 2091347,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "SSSSSSSSSSSSS级镇狱狂龙",
+            "book_id": 2038385,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「都市高手」《SSSSSSSSSSSSS级镇狱狂龙》上升1位领涨；《美女总裁，请上车》下滑1位；《SSSSSSSSSSSSS级镇狱狂龙》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "穿越历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "我率秦军三百万，为秦续命万万年",
+            "book_id": 9464730,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "我率秦军三百万，为秦续命万万年",
+            "book_id": 9464730,
+            "heat_change": -3
+          },
+          {
+            "title": "外卖送到大唐，开局三倍吕布战力",
+            "book_id": 13266141,
+            "heat_change": -1
+          }
+        ],
+        "summary": "「穿越历史」《我率秦军三百万，为秦续命万万年》上升1位领涨；《我率秦军三百万，为秦续命万万年》热度-3。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "现代军事",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "四次入伍，我被军区拉进黑名单！",
+            "book_id": 12179937,
+            "heat_change": -5
+          }
+        ],
+        "summary": "「现代军事」《四次入伍，我被军区拉进黑名单！》热度-5。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "rank_change": 5
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "乾坤造化诀",
+            "book_id": 12897039,
+            "heat_change": 4
+          }
+        ],
+        "summary": "「幻想修真」《乾坤造化诀》上升5位领涨；《乾坤造化诀》热度+4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "奇门秘术",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "天黑请点灯",
+            "book_id": 1982358,
+            "heat_change": 1
+          }
+        ],
+        "summary": "「奇门秘术」《天黑请点灯》下滑1位；《天黑请点灯》热度+1。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "太监凶猛",
+            "book_id": 11674809,
+            "heat_change": -4
+          }
+        ],
+        "summary": "「架空历史」《太监凶猛》下滑1位；《太监凶猛》热度-4。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "商战职场",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "野性攀登",
+            "book_id": 13408218,
+            "heat_change": -2
+          }
+        ],
+        "summary": "「商战职场」《野性攀登》热度-2。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "恐怖灵异",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「恐怖灵异」榜单结构稳定，无明显变动。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

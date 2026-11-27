@@ -8,54 +8,53 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 3,
-    "total_heat": 42000,
+    "total_heat": 40000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "成仙",
-          "book_id": 13343910
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "凡人：让你看守废书楼，你却偷偷成仙了",
-          "book_id": 13437552,
-          "rank_change": 1
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [
         {
           "title": "废丹房老头，被仙子逼婚了",
           "book_id": 13608798,
           "rank_change": -2
+        },
+        {
+          "title": "凡人：让你看守废书楼，你却偷偷成仙了",
+          "book_id": 13437552,
+          "rank_change": -1
+        },
+        {
+          "title": "成仙",
+          "book_id": 13343910,
+          "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
           "title": "废丹房老头，被仙子逼婚了",
           "book_id": 13608798,
-          "heat_change": -4000
+          "heat_change": -1000
         },
         {
           "title": "凡人：让你看守废书楼，你却偷偷成仙了",
           "book_id": 13437552,
-          "heat_change": 1000
+          "heat_change": -1000
         }
       ],
-      "summary": "「幻想修真」新上榜 《成仙》；《凡人：让你看守废书楼，你却偷偷成仙了》上升1位领涨；《废丹房老头，被仙子逼婚了》下滑2位；《废丹房老头，被仙子逼婚了》热度-4000。",
+      "summary": "「幻想修真」《废丹房老头，被仙子逼婚了》下滑2位；《废丹房老头，被仙子逼婚了》热度-1000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 7,
+        "rank": 9,
         "title": "废丹房老头，被仙子逼婚了",
         "book_id": 13608798,
         "url": "https://www.qimao.com/shuku/13608798/",
@@ -67,24 +66,24 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "29.34万字",
-        "word_count": 293400,
-        "heat": 20000,
+        "word_count_text": "30.03万字",
+        "word_count": 300300,
+        "heat": 19000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "【凡人流】　【传统玄幻】　【多女主】　【扮猪吃虎】【杀伐果断】\n玄天宗废丹峰杂役李凡，身怀废品五灵根，年入古稀行将就木之时，竟被宗门仙子沈婉凝逼婚！\n可成婚当晚，便被仙子做了炉鼎，濒死之时，竟唤醒了造化仙鼎。\n造化仙鼎可变废为宝！\n废丹顷刻便极品灵丹！\n不仅如此，兵器，符箓，甚至功法，都可晋升！\n而且，只要和女修双修，造化仙鼎可晋升的品阶便越高，功能越多！\n只要双修，就变强！\n自此，李凡于微末崛起，踏上长生路，艳遇不断。\n李凡：这仙好啊，这仙，得修！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4537/13608798_360x480.jpg?time=1791364816",
-        "latest_chapter": " 第117章  阵法之山，万年灵焰！？",
-        "updated_at": "2026-11-26 00:32:04",
+        "latest_chapter": " 第120章  拿下姜玲珑，李凡大色魔！",
+        "updated_at": "2026-11-27 00:32:04",
         "rank_change": -2,
-        "heat_change": -4000,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "幻想修真"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "title": "凡人：让你看守废书楼，你却偷偷成仙了",
         "book_id": 13437552,
         "url": "https://www.qimao.com/shuku/13437552/",
@@ -96,24 +95,24 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "24.46万字",
-        "word_count": 244600,
-        "heat": 12000,
-        "platform_trend": "rise",
+        "word_count_text": "24.87万字",
+        "word_count": 248700,
+        "heat": 11000,
+        "platform_trend": "drop",
         "badge": "",
         "intro": "林砚本是云天宗的杂役弟子， 却因外门长老篡改他晋升外门弟子的名额意外获得一支破旧粗笔，自此以后，一位融合百家所长的妖孽天才就此诞生。\n\n　　丹道学识繁杂？\n\n　　我林砚有一笔可将单方药理烂熟于心！\n\n　　阵法玄妙无比？\n\n　　我林砚有一笔可令万千阵法化繁为简！\n\n　　修炼功法深奥难懂？\n\n　　我林砚有一笔可使无上道法瞬间领悟！\n\n　　……\n\n　　若干年后！\n\n　　林砚持一笔指点众生，最后在苍穹之上写下一行字：万古长夜，唯有大道永恒！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4480/13437552_360x480.jpg?time=1791804637",
-        "latest_chapter": " 第116章  爹娘！砚儿回来了",
-        "updated_at": "2026-11-26 00:30:04",
-        "rank_change": 1,
-        "heat_change": 1000,
+        "latest_chapter": " 第118章  突变",
+        "updated_at": "2026-11-27 00:00:08",
+        "rank_change": -1,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "幻想修真"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "title": "成仙",
         "book_id": 13343910,
         "url": "https://www.qimao.com/shuku/13343910/",
@@ -125,18 +124,18 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "37.76万字",
-        "word_count": 377600,
+        "word_count_text": "38.18万字",
+        "word_count": 381800,
         "heat": 10000,
-        "platform_trend": "rise",
+        "platform_trend": "drop",
         "badge": "",
         "intro": "【凡人流】【无系统】凡人皇朝大衍太子萧澈，天生浊灵锁脉，八年时间倾尽国库之财换不来一缕灵气入体，满朝文武跪请废储。\n父皇以帝王颜面换来仙门举荐帖，送他入青阳宗求仙。\n仙门不收废人，他成了无人问津的伙房杂役。\n直到那半块清浊玉染血——\n缠锁灵根的先天浊气，开始寸寸崩解。\n世人皆以灵根定天命，断言他此生止步凡人！\n他偏要以这身浊骨，亲手叩开仙门！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4448/13343910_360x480.jpg?time=1793100390",
-        "latest_chapter": " 第177章  五条岔口，探路！",
-        "updated_at": "2026-11-26 00:07:07",
-        "rank_change": 0,
+        "latest_chapter": " 第179章  叶朗，另有图谋？",
+        "updated_at": "2026-11-26 23:59:05",
+        "rank_change": -1,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "幻想修真"

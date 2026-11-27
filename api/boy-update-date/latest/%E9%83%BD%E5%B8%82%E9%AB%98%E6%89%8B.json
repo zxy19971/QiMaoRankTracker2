@@ -8,18 +8,24 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "category": {
     "name": "都市高手",
     "major": "都市",
     "count": 2,
-    "total_heat": 1,
+    "total_heat": 2,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
+      "top_risers": [
+        {
+          "title": "SSSSSSSSSSSSS级镇狱狂龙",
+          "book_id": 2038385,
+          "rank_change": 1
+        }
+      ],
       "top_fallers": [
         {
           "title": "美女总裁，请上车",
@@ -29,17 +35,17 @@
       ],
       "heat_leaders": [
         {
-          "title": "美女总裁，请上车",
-          "book_id": 2091347,
+          "title": "SSSSSSSSSSSSS级镇狱狂龙",
+          "book_id": 2038385,
           "heat_change": 1
         }
       ],
-      "summary": "「都市高手」《美女总裁，请上车》下滑1位；《美女总裁，请上车》热度+1。",
+      "summary": "「都市高手」《SSSSSSSSSSSSS级镇狱狂龙》上升1位领涨；《美女总裁，请上车》下滑1位；《SSSSSSSSSSSSS级镇狱狂龙》热度+1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 4,
+        "rank": 3,
         "title": "SSSSSSSSSSSSS级镇狱狂龙",
         "book_id": 2038385,
         "url": "https://www.qimao.com/shuku/2038385/",
@@ -51,24 +57,24 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "380.45万字",
-        "word_count": 3804500,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "381.14万字",
+        "word_count": 3811400,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【红果爆火短剧《SSSSS级镇狱狂龙》原著】【爆爽预警！！！】【圣母心慎点！！！】【脑子寄存处！！！】豪门少爷楚凌霄被初恋女友设计入狱，家人意外惨死，家业被女友一家掠夺侵占！出狱后，楚凌霄为家人报仇，夺回家业，最后却发现，这一切的主谋竟然是……",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/844/2530155_360x480.jpg?time=1758768998",
-        "latest_chapter": " 第1646章  你们是打死不承认",
-        "updated_at": "2026-11-26 07:02:14",
-        "rank_change": 0,
-        "heat_change": 0,
+        "latest_chapter": " 第1649章  不要招惹我家人",
+        "updated_at": "2026-11-27 07:02:15",
+        "rank_change": 1,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "都市高手"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "title": "美女总裁，请上车",
         "book_id": 2091347,
         "url": "https://www.qimao.com/shuku/2091347/",
@@ -80,17 +86,17 @@
         "minor_id": 220,
         "minor_url": "https://www.qimao.com/shuku/a-203-220-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "394.45万字",
-        "word_count": 3944500,
+        "word_count_text": "395.56万字",
+        "word_count": 3955600,
         "heat": 1,
         "platform_trend": "drop",
         "badge": "",
         "intro": "“大嫂，老大看着呢！”\n“当他是死人！”\n……\n“总裁姐姐，我不是司机。”\n“现在，是我的专属司机！”\n……\n最开始，叶辰只想老老实实在夜总会，当一名服务员赚钱还债，奈何这世界的女人太癫，那他只好更加癫一点。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/916/2747768_360x480.jpg?time=1790776185",
-        "latest_chapter": " 第1442章  礼尚往来！",
-        "updated_at": "2026-11-26 00:55:11",
+        "latest_chapter": " 第1446章  回昆仑墟！",
+        "updated_at": "2026-11-27 01:50:20",
         "rank_change": -1,
-        "heat_change": 1,
+        "heat_change": 0,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

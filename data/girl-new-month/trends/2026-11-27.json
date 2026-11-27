@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-27",
+  "board": "girl-new-month",
+  "stats": {
+    "total_books": 20,
+    "new_count": 4,
+    "dropped_count": 4,
+    "avg_heat": 852900,
+    "total_heat": 17058000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "总裁豪门",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "作精妹宝提分手，阴湿太子爷他失控了",
+            "book_id": 13192890
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "冷婚七年，夫人带娃离婚他悔疯了",
+            "book_id": 12996819,
+            "intro": "【带球跑/先虐后爽/错认/雄竞/追妻火葬场】\n结婚七年，宋知晚怀孕了，老公傅聿修还不知道。\n傅聿修对她冷淡至极，宋知晚仍然深爱着他。\n结婚纪念日，宋知晚拿着孕检单，想把这个好消息告诉傅聿修和儿子。\n却"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "只是生理性喜欢，陆总怎么沦陷了",
+            "book_id": 13424436,
+            "rank_change": 2
+          },
+          {
+            "title": "京潮暗涌",
+            "book_id": 12788373,
+            "rank_change": 2
+          },
+          {
+            "title": "婚前不熟，婚后失控",
+            "book_id": 13300485,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「总裁豪门」新上榜 《作精妹宝提分手，阴湿太子爷他失控了》；《冷婚七年，夫人带娃离婚他悔疯了》 掉出榜单；《只是生理性喜欢，陆总怎么沦陷了》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "年代重生",
+      "trend": {
+        "new_count": 2,
+        "dropped_count": 1,
+        "new_books": [
+          {
+            "title": "带着空间去下乡，生财暴富撩糙汉！",
+            "book_id": 13470801
+          },
+          {
+            "title": "带崽签字离婚后，知青教授他疯了",
+            "book_id": 13266312
+          }
+        ],
+        "dropped_books": [
+          {
+            "title": "养错孩子嫁错郎！重生七零她翻身嫁首长",
+            "book_id": 13356918,
+            "intro": "上辈子，父母被人算计下放前，为了护住她，\n把她匆匆塞给早有婚约的陆宸屿。都以为那是绝境里她唯一的出路，却不知道那是另一条死路，\n陆宸屿心里装的是寡嫂林念慈。\n结婚前，他逼她让出刚考上的酒厂工作，\n结婚"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "闪婚禁欲首长，带龙凤胎随军赢麻了",
+            "book_id": 13198989,
+            "rank_change": 4
+          },
+          {
+            "title": "七零：娇软知青闪婚冷面糙汉",
+            "book_id": 13162113,
+            "rank_change": 4
+          },
+          {
+            "title": "八零：带崽上门，周团长他蓄谋已久",
+            "book_id": 13222098,
+            "rank_change": 4
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「年代重生」新上榜 《带着空间去下乡，生财暴富撩糙汉！》、《带崽签字离婚后，知青教授他疯了》；《养错孩子嫁错郎！重生七零她翻身嫁首长》 掉出榜单；《闪婚禁欲首长，带龙凤胎随军赢麻了》上升4位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古代情缘",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "夺妻欢",
+            "book_id": 13263660
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "新婚夜流放，飒爽太子妃种出西北大仓！",
+            "book_id": 13463133,
+            "rank_change": 4
+          },
+          {
+            "title": "地狱归，驭百鬼，王妃回京后杀疯了",
+            "book_id": 13123449,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「古代情缘」新上榜 《夺妻欢》；《新婚夜流放，飒爽太子妃种出西北大仓！》上升4位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "宫闱宅斗",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "皇上开门，福宝带物资来送温暖啦",
+            "book_id": 12856758,
+            "intro": "【萌宝、通古今、团宠、治愈异能】\n暖暖是带着治愈异能出生的。\n亲生父母嫌弃她奇怪，离婚后把她一个人留在老房子里。\n她抱着祖传的铜镜，意外穿越到了古代。\n小将军身中剧毒，她刚好能治！\n百姓吃不饱饭，别怕"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "皇后令",
+            "book_id": 13424982,
+            "rank_change": 4
+          },
+          {
+            "title": "夺妻色",
+            "book_id": 13378512,
+            "rank_change": 2
+          },
+          {
+            "title": "枕边奴",
+            "book_id": 13537935,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「宫闱宅斗」《皇上开门，福宝带物资来送温暖啦》 掉出榜单；《皇后令》上升4位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "种田经商",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "流民医女：开荒把残夫养成战神",
+            "book_id": 13157514,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「种田经商」《流民医女：开荒把残夫养成战神》上升1位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "玄幻仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "四岁姑奶奶，叼奶瓶带全族飞升啦",
+            "book_id": 13172136,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「玄幻仙侠」《四岁姑奶奶，叼奶瓶带全族飞升啦》上升2位领涨。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "职场情缘",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "南音无尽夏",
+            "book_id": 13913373,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [],
+        "summary": "「职场情缘」《南音无尽夏》上升3位领涨。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}
