@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "category": {
     "name": "穿越历史",
     "major": "历史",
     "count": 2,
-    "total_heat": 1,
+    "total_heat": 3,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -21,59 +21,36 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "我率秦军三百万，为秦续命万万年",
-          "book_id": 9464730,
+          "title": "外卖送到大唐，开局三倍吕布战力",
+          "book_id": 13266141,
           "rank_change": 1
         }
       ],
-      "top_fallers": [],
-      "heat_leaders": [
+      "top_fallers": [
         {
           "title": "我率秦军三百万，为秦续命万万年",
           "book_id": 9464730,
-          "heat_change": -3
-        },
+          "rank_change": -2
+        }
+      ],
+      "heat_leaders": [
         {
           "title": "外卖送到大唐，开局三倍吕布战力",
           "book_id": 13266141,
-          "heat_change": -1
+          "heat_change": 1
+        },
+        {
+          "title": "我率秦军三百万，为秦续命万万年",
+          "book_id": 9464730,
+          "heat_change": 1
         }
       ],
-      "summary": "「穿越历史」《我率秦军三百万，为秦续命万万年》上升1位领涨；《我率秦军三百万，为秦续命万万年》热度-3。",
+      "summary": "「穿越历史」《外卖送到大唐，开局三倍吕布战力》上升1位领涨；《我率秦军三百万，为秦续命万万年》下滑2位；《外卖送到大唐，开局三倍吕布战力》热度+1。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 17,
-        "title": "我率秦军三百万，为秦续命万万年",
-        "book_id": 9464730,
-        "url": "https://www.qimao.com/shuku/9464730/",
-        "author": "人生短短急个球",
-        "author_url": "https://www.qimao.com/zuozhe/%E4%BA%BA%E7%94%9F%E7%9F%AD%E7%9F%AD%E6%80%A5%E4%B8%AA%E7%90%83_14/",
-        "major": "历史",
-        "minor": "穿越历史",
-        "major_id": 56,
-        "minor_id": 57,
-        "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "241.52万字",
-        "word_count": 2415200,
-        "heat": 1,
-        "platform_trend": "rise",
-        "badge": "",
-        "intro": "开局身陷囹圄，投胎成祖龙之子，扶苏。\n非但不悲，反而喜上心头。\n三十万戍边大军，尽在掌握中。\n到那时，挥三十万大军直奔咸阳，杀入章台宫，以清君侧。\n檄文昭告天下，胡亥受阉人蛊惑，我扶苏才是正统。\n大秦，非二世而亡！\n平百越，战匈奴，杀胡蛮，横扫九州，扫平世界！\n使天下，真正的书同文，车同轨，肤同黄！\n日月所照，皆归秦土！\n粉丝群：902222695。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/941/2821131_360x480.jpg?time=1777338598",
-        "latest_chapter": " 第1108章  一切顺利",
-        "updated_at": "2026-11-27 00:01:14",
-        "rank_change": 1,
-        "heat_change": -3,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "穿越历史"
-      },
-      {
-        "rank": 19,
+        "rank": 18,
         "title": "外卖送到大唐，开局三倍吕布战力",
         "book_id": 13266141,
         "url": "https://www.qimao.com/shuku/13266141/",
@@ -85,17 +62,46 @@
         "minor_id": 57,
         "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "75.58万字",
-        "word_count": 755800,
-        "heat": 0,
-        "platform_trend": "",
+        "word_count_text": "76.6万字",
+        "word_count": 766000,
+        "heat": 1,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "李承乾送外卖赶时间，闯了个红灯，一不小心撞上大运，把他送到了大唐，成了当朝太子。\n突厥南下，生灵涂炭。\n意外绑定大自在系统，开局获得三倍吕布战力。\n虽说系统主打悠闲自在，逍遥快活。李承乾却有大志向。\n若不让这民族屹立世界之巅，为万世开太平，岂不是白来一场，对不起这个身份？\n因此……\n他是蛮夷戎狄的克星，黎民百姓的救星，贪官污吏的煞星。\n这个民族，因他而伟大。他因这个民族，而自豪！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4423/13266141_360x480.jpg?time=1787557844",
-        "latest_chapter": " 第346章  假使夺囚，丧报惊营",
-        "updated_at": "2026-11-26 20:48:04",
-        "rank_change": 0,
-        "heat_change": -1,
+        "latest_chapter": " 第351章  军器回执，暗藏东宫",
+        "updated_at": "2026-11-27 19:57:04",
+        "rank_change": 1,
+        "heat_change": 1,
+        "is_new": false,
+        "boards_count": 1,
+        "stale_update": false,
+        "category": "穿越历史"
+      },
+      {
+        "rank": 19,
+        "title": "我率秦军三百万，为秦续命万万年",
+        "book_id": 9464730,
+        "url": "https://www.qimao.com/shuku/9464730/",
+        "author": "人生短短急个球",
+        "author_url": "https://www.qimao.com/zuozhe/%E4%BA%BA%E7%94%9F%E7%9F%AD%E7%9F%AD%E6%80%A5%E4%B8%AA%E7%90%83_14/",
+        "major": "历史",
+        "minor": "穿越历史",
+        "major_id": 56,
+        "minor_id": 57,
+        "minor_url": "https://www.qimao.com/shuku/a-56-57-a-a-a-a-click-1/",
+        "status": "连载中",
+        "word_count_text": "242.59万字",
+        "word_count": 2425900,
+        "heat": 2,
+        "platform_trend": "drop",
+        "badge": "",
+        "intro": "开局身陷囹圄，投胎成祖龙之子，扶苏。\n非但不悲，反而喜上心头。\n三十万戍边大军，尽在掌握中。\n到那时，挥三十万大军直奔咸阳，杀入章台宫，以清君侧。\n檄文昭告天下，胡亥受阉人蛊惑，我扶苏才是正统。\n大秦，非二世而亡！\n平百越，战匈奴，杀胡蛮，横扫九州，扫平世界！\n使天下，真正的书同文，车同轨，肤同黄！\n日月所照，皆归秦土！\n粉丝群：902222695。",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/941/2821131_360x480.jpg?time=1777338598",
+        "latest_chapter": " 第1113章  疲城之法",
+        "updated_at": "2026-11-28 00:01:11",
+        "rank_change": -2,
+        "heat_change": 1,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

@@ -1,0 +1,65 @@
+{
+  "board": {
+    "slug": "boy-over-date",
+    "name": "男生完结日榜",
+    "channel": "male",
+    "type": "over",
+    "type_name": "完结榜",
+    "period": "date",
+    "period_name": "日榜"
+  },
+  "date": "2026-11-28",
+  "category": {
+    "name": "虚拟网游",
+    "major": "游戏",
+    "count": 1,
+    "total_heat": 47000,
+    "trend": {
+      "new_count": 1,
+      "dropped_count": 0,
+      "new_books": [
+        {
+          "title": "网游之全服公敌",
+          "book_id": 221137
+        }
+      ],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
+      "heat_leaders": [],
+      "summary": "「虚拟网游」新上榜 《网游之全服公敌》。",
+      "ai_source": "rule"
+    },
+    "books": [
+      {
+        "rank": 20,
+        "title": "网游之全服公敌",
+        "book_id": 221137,
+        "url": "https://www.qimao.com/shuku/221137/",
+        "author": "黑白相间",
+        "author_url": "https://www.qimao.com/zuozhe/%E9%BB%91%E7%99%BD%E7%9B%B8%E9%97%B4_14/",
+        "major": "游戏",
+        "minor": "虚拟网游",
+        "major_id": 75,
+        "minor_id": 232,
+        "minor_url": "https://www.qimao.com/shuku/a-75-232-a-a-a-a-click-1/",
+        "status": "已完结",
+        "word_count_text": "174.8万字",
+        "word_count": 1748000,
+        "heat": 47000,
+        "platform_trend": "rise",
+        "badge": "飙升23名",
+        "intro": "这是一个难度极其离谱的游戏，如果你没足够的能耐，村都别想出去！",
+        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/80/239096_1644457932_360x480.jpg",
+        "latest_chapter": " 第763章  江天帝的故事（大结局）",
+        "updated_at": "2023-01-31 17:46:06",
+        "rank_change": 0,
+        "heat_change": 0,
+        "is_new": true,
+        "boards_count": 1,
+        "stale_update": true,
+        "category": "虚拟网游"
+      }
+    ]
+  }
+}

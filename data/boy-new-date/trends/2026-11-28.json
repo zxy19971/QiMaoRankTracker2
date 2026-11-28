@@ -1,0 +1,311 @@
+{
+  "date": "2026-11-28",
+  "board": "boy-new-date",
+  "stats": {
+    "total_books": 20,
+    "new_count": 2,
+    "dropped_count": 2,
+    "avg_heat": 22300,
+    "total_heat": 446000,
+    "first_day": false
+  },
+  "categories": [
+    {
+      "name": "架空历史",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "边关第一杀神",
+            "book_id": 13428687
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "开局一首洛神赋，郡主把我招进府",
+            "book_id": 13749162,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
+            "book_id": 13695813,
+            "rank_change": -3
+          },
+          {
+            "title": "犯上家奴，替假世子成亲后问鼎武圣！",
+            "book_id": 13307478,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "本侍卫只想躺平，皇后娘娘求我君临天下",
+            "book_id": 13695813,
+            "heat_change": -2000
+          },
+          {
+            "title": "犯上家奴，替假世子成亲后问鼎武圣！",
+            "book_id": 13307478,
+            "heat_change": 1000
+          },
+          {
+            "title": "大乾第一好圣孙",
+            "book_id": 13619796,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「架空历史」新上榜 《边关第一杀神》；《开局一首洛神赋，郡主把我招进府》上升3位领涨；《本侍卫只想躺平，皇后娘娘求我君临天下》下滑3位；《本侍卫只想躺平，皇后娘娘求我君临天下》热度-2000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "高冷校花香香软软，凭啥还舔你啊",
+            "book_id": 13220790,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "高高在上不给碰，我换亲你哭什么",
+            "book_id": 13938639,
+            "heat_change": -1000
+          },
+          {
+            "title": "高冷校花香香软软，凭啥还舔你啊",
+            "book_id": 13220790,
+            "heat_change": 1000
+          },
+          {
+            "title": "穿越70：娶美女知青，狩猎兴安岭",
+            "book_id": 13399662,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「都市生活」《高冷校花香香软软，凭啥还舔你啊》上升1位领涨；《高高在上不给碰，我换亲你哭什么》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高武",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+            "book_id": 13241454,
+            "rank_change": -2
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "都荒岛求生了，一群绿茶还想让我当舔狗",
+            "book_id": 13241454,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「都市高武」《都荒岛求生了，一群绿茶还想让我当舔狗》下滑2位；《都荒岛求生了，一群绿茶还想让我当舔狗》热度+1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "古典仙侠",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "奇葫仙缘",
+            "book_id": 13123122,
+            "intro": "【凡人流】【稳健流】【杀伐果断】【不圣母】\n五行废灵根真的不适合修仙吗？\n宋长风拥有最差的五行废灵根，凭借爷爷给的拜山令他才得以加入落霞宗，成为了一名丹房杂役弟子。\n机缘巧合之下，他得到了一个可以融合"
+          }
+        ],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "长生隐仙",
+            "book_id": 13425288,
+            "rank_change": -2
+          },
+          {
+            "title": "大道仙炉",
+            "book_id": 13309743,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "大道仙炉",
+            "book_id": 13309743,
+            "heat_change": -10000
+          },
+          {
+            "title": "长生隐仙",
+            "book_id": 13425288,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「古典仙侠」《奇葫仙缘》 掉出榜单；《长生隐仙》下滑2位；《大道仙炉》热度-10000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "幻想修真",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 1,
+        "new_books": [],
+        "dropped_books": [
+          {
+            "title": "成仙",
+            "book_id": 13343910,
+            "intro": "【凡人流】【无系统】凡人皇朝大衍太子萧澈，天生浊灵锁脉，八年时间倾尽国库之财换不来一缕灵气入体，满朝文武跪请废储。\n父皇以帝王颜面换来仙门举荐帖，送他入青阳宗求仙。\n仙门不收废人，他成了无人问津的伙房"
+          }
+        ],
+        "top_risers": [
+          {
+            "title": "废丹房老头，被仙子逼婚了",
+            "book_id": 13608798,
+            "rank_change": 2
+          }
+        ],
+        "top_fallers": [
+          {
+            "title": "凡人：让你看守废书楼，你却偷偷成仙了",
+            "book_id": 13437552,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "废丹房老头，被仙子逼婚了",
+            "book_id": 13608798,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "「幻想修真」《成仙》 掉出榜单；《废丹房老头，被仙子逼婚了》上升2位领涨；《凡人：让你看守废书楼，你却偷偷成仙了》下滑1位；《废丹房老头，被仙子逼婚了》热度+4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "都市高手",
+      "trend": {
+        "new_count": 1,
+        "dropped_count": 0,
+        "new_books": [
+          {
+            "title": "野妻似刀",
+            "book_id": 14094483
+          }
+        ],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "医武狂龙：美女总裁非我不嫁",
+            "book_id": 13716609,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [],
+        "summary": "「都市高手」新上榜 《野妻似刀》；《医武狂龙：美女总裁非我不嫁》下滑1位。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "乡村生活",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [
+          {
+            "title": "重生70：断亲入赘，三枪轰出万元户",
+            "book_id": 13780857,
+            "rank_change": -1
+          }
+        ],
+        "heat_leaders": [
+          {
+            "title": "重生70：断亲入赘，三枪轰出万元户",
+            "book_id": 13780857,
+            "heat_change": -1000
+          }
+        ],
+        "summary": "「乡村生活」《重生70：断亲入赘，三枪轰出万元户》下滑1位；《重生70：断亲入赘，三枪轰出万元户》热度-1000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "东方玄幻",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "纯阳剑仙：我的老婆是女帝",
+            "book_id": 13560672,
+            "rank_change": 3
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "纯阳剑仙：我的老婆是女帝",
+            "book_id": 13560672,
+            "heat_change": 4000
+          }
+        ],
+        "summary": "「东方玄幻」《纯阳剑仙：我的老婆是女帝》上升3位领涨；《纯阳剑仙：我的老婆是女帝》热度+4000。",
+        "ai_source": "rule"
+      }
+    },
+    {
+      "name": "末世危机",
+      "trend": {
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [
+          {
+            "title": "缆车求生：我能升级一切",
+            "book_id": 13279389,
+            "rank_change": 1
+          }
+        ],
+        "top_fallers": [],
+        "heat_leaders": [
+          {
+            "title": "缆车求生：我能升级一切",
+            "book_id": 13279389,
+            "heat_change": 1000
+          }
+        ],
+        "summary": "「末世危机」《缆车求生：我能升级一切》上升1位领涨；《缆车求生：我能升级一切》热度+1000。",
+        "ai_source": "rule"
+      }
+    }
+  ]
+}

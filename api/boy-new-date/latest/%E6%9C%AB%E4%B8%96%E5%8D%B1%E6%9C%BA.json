@@ -8,38 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "category": {
     "name": "末世危机",
     "major": "科幻",
     "count": 1,
-    "total_heat": 15000,
+    "total_heat": 16000,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [],
-      "top_fallers": [
+      "top_risers": [
         {
           "title": "缆车求生：我能升级一切",
           "book_id": 13279389,
-          "rank_change": -1
+          "rank_change": 1
         }
       ],
+      "top_fallers": [],
       "heat_leaders": [
         {
           "title": "缆车求生：我能升级一切",
           "book_id": 13279389,
-          "heat_change": -2000
+          "heat_change": 1000
         }
       ],
-      "summary": "「末世危机」《缆车求生：我能升级一切》下滑1位；《缆车求生：我能升级一切》热度-2000。",
+      "summary": "「末世危机」《缆车求生：我能升级一切》上升1位领涨；《缆车求生：我能升级一切》热度+1000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 12,
         "title": "缆车求生：我能升级一切",
         "book_id": 13279389,
         "url": "https://www.qimao.com/shuku/13279389/",
@@ -51,17 +51,17 @@
         "minor_id": 66,
         "minor_url": "https://www.qimao.com/shuku/a-64-66-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "39.64万字",
-        "word_count": 396400,
-        "heat": 15000,
-        "platform_trend": "drop",
+        "word_count_text": "40.05万字",
+        "word_count": 400500,
+        "heat": 16000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "【全民求生】【缆车求生】【末世】【杀伐果断】【小副本】\n全球79亿人强制来到缆车求生世界，破旧缆车是唯一安全区。\n每日仅限一次落地，搜刮物资、猎杀丧尸妖兽，日落黑雾降临未归者直接抹杀。\n极寒、极热天灾接踵而至，人人挣扎在生死边缘。\n姜白被相恋七年的女友谋财害命，坠楼后重生至此，觉醒　SSS　级唯一天赋万物升级。\n打撤稳扎稳打，杀伐果断绝不圣母。从锈迹斑斑的破旧缆车开始，升级武装、拓展舱室，最终成为横贯天穹的空中堡垒。\n当其他人还在为一口食物拼死争抢、为升级材料疲于奔命时，姜白正驾驶着他的空中要塞，在末世天穹之上走出一条独属于强者的求生之路。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4427/13279389_360x480.jpg?time=1787737302",
-        "latest_chapter": " 第189章  道贺",
-        "updated_at": "2026-11-26 18:32:04",
-        "rank_change": -1,
-        "heat_change": -2000,
+        "latest_chapter": " 第191章  前往王都",
+        "updated_at": "2026-11-27 18:32:03",
+        "rank_change": 1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 2,
         "stale_update": false,

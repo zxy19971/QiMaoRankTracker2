@@ -8,12 +8,12 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 1,
-    "total_heat": 1,
+    "total_heat": 3,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
@@ -24,22 +24,22 @@
         {
           "title": "太监凶猛",
           "book_id": 11674809,
-          "rank_change": -1
+          "rank_change": -3
         }
       ],
       "heat_leaders": [
         {
           "title": "太监凶猛",
           "book_id": 11674809,
-          "heat_change": -4
+          "heat_change": 2
         }
       ],
-      "summary": "「架空历史」《太监凶猛》下滑1位；《太监凶猛》热度-4。",
+      "summary": "「架空历史」《太监凶猛》下滑3位；《太监凶猛》热度+2。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 11,
+        "rank": 14,
         "title": "太监凶猛",
         "book_id": 11674809,
         "url": "https://www.qimao.com/shuku/11674809/",
@@ -51,17 +51,17 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "155.29万字",
-        "word_count": 1552900,
-        "heat": 1,
+        "word_count_text": "155.91万字",
+        "word_count": 1559100,
+        "heat": 3,
         "platform_trend": "drop",
         "badge": "",
         "intro": "现代医道圣手意外成为后宫假太监！那便只能一步一步往上爬，从小魏子变成九千岁！醒掌天下权，醉卧美人膝！脚踹狗权贵，拳打恶皇帝！\n魏无忌的逆袭之路，要从贵妃娘娘想怀孕开始！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/3892/11674809_360x480.jpg?time=1775701161",
-        "latest_chapter": " 第466章  入魔张天师！",
-        "updated_at": "2026-11-27 00:32:06",
-        "rank_change": -1,
-        "heat_change": -4,
+        "latest_chapter": " 第468章  金甲巨力符！",
+        "updated_at": "2026-11-28 00:32:05",
+        "rank_change": -3,
+        "heat_change": 2,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

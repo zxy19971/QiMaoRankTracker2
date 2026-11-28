@@ -8,33 +8,27 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "category": {
     "name": "幻想修真",
     "major": "武侠仙侠",
     "count": 1,
-    "total_heat": 5,
+    "total_heat": 0,
     "trend": {
       "new_count": 0,
       "dropped_count": 0,
       "new_books": [],
       "dropped_books": [],
-      "top_risers": [
-        {
-          "title": "乾坤造化诀",
-          "book_id": 12897039,
-          "rank_change": 5
-        }
-      ],
+      "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [
         {
           "title": "乾坤造化诀",
           "book_id": 12897039,
-          "heat_change": 4
+          "heat_change": -5
         }
       ],
-      "summary": "「幻想修真」《乾坤造化诀》上升5位领涨；《乾坤造化诀》热度+4。",
+      "summary": "「幻想修真」《乾坤造化诀》热度-5。",
       "ai_source": "rule"
     },
     "books": [
@@ -51,17 +45,17 @@
         "minor_id": 225,
         "minor_url": "https://www.qimao.com/shuku/a-205-225-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "105.76万字",
-        "word_count": 1057600,
-        "heat": 5,
-        "platform_trend": "rise",
+        "word_count_text": "106.79万字",
+        "word_count": 1067900,
+        "heat": 0,
+        "platform_trend": "",
         "badge": "",
         "intro": "我是望仙宗最不起眼的杂役。\n直到那天，宗主被人追杀，身中情毒，从天而降。\n我只是好心救人，却差点被她活活吸干。\n濒死之际，沉寂已久的乾坤诀终于觉醒。\n一夜之间，我连破数境。\n从今日起，我不再认命。\n假灵根又如何？杂役又如何？\n这一世，我偏要叩开仙门！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4300/12897039_360x480.jpg?time=1785867415",
-        "latest_chapter": " 第424章  刚突破就不老实？",
-        "updated_at": "2026-11-27 00:52:06",
-        "rank_change": 5,
-        "heat_change": 4,
+        "latest_chapter": " 第428章  杀狗儆猴！",
+        "updated_at": "2026-11-28 00:52:06",
+        "rank_change": 0,
+        "heat_change": -5,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,

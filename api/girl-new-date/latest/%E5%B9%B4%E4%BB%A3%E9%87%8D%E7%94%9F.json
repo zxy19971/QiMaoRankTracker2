@@ -8,75 +8,70 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "category": {
     "name": "年代重生",
     "major": "现代言情",
-    "count": 5,
-    "total_heat": 108000,
+    "count": 3,
+    "total_heat": 73000,
     "trend": {
       "new_count": 0,
-      "dropped_count": 1,
+      "dropped_count": 2,
       "new_books": [],
       "dropped_books": [
         {
-          "title": "八零寡妇小渔女，海钓养崽赢麻了",
-          "book_id": 13462458,
-          "intro": "【年代+赶海+听懂兽语+随军+双洁+爱国】\n上辈子何小鱼稀里糊涂二嫁给小叔子陈耀祖后，在乡下尽心尽力伺候婆婆和养子，挣钱养家，疾病缠身卧床不起。\n直到临死前才知道这辈子白活了！\n一切都是婆婆和小叔子的"
+          "title": "六零美人娇又媚，糙汉军长沦陷了",
+          "book_id": 13343844,
+          "intro": "【年代军婚+带崽+日久生情+打脸逆袭+冷面团长×作精翻译】\n高翻院翻译陆思秋，穿成六零年代军婚文里的炮灰前妻。\n原主是恋爱脑晚期，放着团长丈夫不要，非要跟小白脸私奔，把全家送上绝路。\n陆思秋醒来第一件"
+        },
+        {
+          "title": "带着空间去下乡，生财暴富撩糙汉！",
+          "book_id": 13470801,
+          "intro": "【专心向钱女知青×爹系糙汉护林员】\n【甜宠+东北林场+年龄差+追妻+大女主+挣钱暴富】\n穿到1971年，沈鹊应成了被迫下乡的林场知青。\n开局被分到公分最低的五七队，其他人都等着看热闹。\n谁知道，这个城"
         }
       ],
       "top_risers": [
         {
-          "title": "六零随军：大小姐她美貌动人",
-          "book_id": 13776792,
-          "rank_change": 3
-        },
-        {
-          "title": "七零：娇软知青闪婚冷面糙汉",
-          "book_id": 13162113,
-          "rank_change": 1
+          "title": "八零媳妇太勾人，裴教授每天都在破防",
+          "book_id": 13716891,
+          "rank_change": 2
         }
       ],
       "top_fallers": [
         {
-          "title": "带着空间去下乡，生财暴富撩糙汉！",
-          "book_id": 13470801,
-          "rank_change": -6
+          "title": "七零：娇软知青闪婚冷面糙汉",
+          "book_id": 13162113,
+          "rank_change": -2
         },
         {
-          "title": "六零美人娇又媚，糙汉军长沦陷了",
-          "book_id": 13343844,
-          "rank_change": -3
-        },
-        {
-          "title": "八零媳妇太勾人，裴教授每天都在破防",
-          "book_id": 13716891,
+          "title": "六零随军：大小姐她美貌动人",
+          "book_id": 13776792,
           "rank_change": -1
         }
       ],
       "heat_leaders": [
         {
-          "title": "带着空间去下乡，生财暴富撩糙汉！",
-          "book_id": 13470801,
-          "heat_change": -9000
+          "title": "八零媳妇太勾人，裴教授每天都在破防",
+          "book_id": 13716891,
+          "heat_change": 1000
         },
         {
-          "title": "六零美人娇又媚，糙汉军长沦陷了",
-          "book_id": 13343844,
-          "heat_change": -7000
+          "title": "六零随军：大小姐她美貌动人",
+          "book_id": 13776792,
+          "heat_change": 1000
         },
         {
           "title": "七零：娇软知青闪婚冷面糙汉",
           "book_id": 13162113,
-          "heat_change": -3000
+          "heat_change": -1000
         }
       ],
-      "summary": "「年代重生」《八零寡妇小渔女，海钓养崽赢麻了》 掉出榜单；《六零随军：大小姐她美貌动人》上升3位领涨；《带着空间去下乡，生财暴富撩糙汉！》下滑6位；《带着空间去下乡，生财暴富撩糙汉！》热度-9000。",
+      "summary": "「年代重生」《六零美人娇又媚，糙汉军长沦陷了》、《带着空间去下乡，生财暴富撩糙汉！》 掉出榜单；《八零媳妇太勾人，裴教授每天都在破防》上升2位领涨；《七零：娇软知青闪婚冷面糙汉》下滑2位；《八零媳妇太勾人，裴教授每天都在破防》热度+1000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 13,
+        "rank": 11,
         "title": "八零媳妇太勾人，裴教授每天都在破防",
         "book_id": 13716891,
         "url": "https://www.qimao.com/shuku/13716891/",
@@ -90,22 +85,22 @@
         "status": "连载中",
         "word_count_text": "19.19万字",
         "word_count": 191900,
-        "heat": 30000,
-        "platform_trend": "drop",
+        "heat": 31000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "裴桢一直坚定的认为，沈玉姝此女爱慕虚荣、攀附权势，不是好女人。\n但他还坚定认为，睡了他就是他的人，想和其他男人在一起，除非他死。\n沈玉姝：“知道我不是好女人，你也要娶？”\n裴桢：“权势随你用，我只有一个要求。”\n沈玉姝：“什么？”\n裴桢：“和我结婚后，必须履行夫妻义务，一周七次。”\n沈玉姝：“……”\n当初是谁骂她是女妖精，让她拿钱滚出京北？\n高冷之花逐渐发疯，恨她太美太勾人，更恨明月高悬不独照我。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4573/13716891_360x480.jpg?time=1792767790",
         "latest_chapter": " 第90章  你能考虑和我在一起吗？",
         "updated_at": "2026-11-27 08:02:08",
-        "rank_change": -1,
-        "heat_change": -1000,
+        "rank_change": 2,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "title": "六零随军：大小姐她美貌动人",
         "book_id": 13776792,
         "url": "https://www.qimao.com/shuku/13776792/",
@@ -117,24 +112,24 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "18.65万字",
-        "word_count": 186500,
-        "heat": 22000,
-        "platform_trend": "drop",
+        "word_count_text": "19.07万字",
+        "word_count": 190700,
+        "heat": 23000,
+        "platform_trend": "rise",
         "badge": "",
         "intro": "娇软端庄美腻大小姐VS粗野痞帅糙汉军官\n温漾为求庇护千里奔赴海岛履行婚约，没成想娃娃亲对象被重生女截胡了。\n正打算无功而返，谁曾想娃娃亲的死对头对她一见钟情，又争又抢。\n“结婚吗？老子不抽烟不喝酒工作上进婚姻忠诚，唯一的缺点就是太疼媳妇。”\n原以为只是一场交易，他图她身子，她谋他庇护。\n谁知婚后他还真将她宠上了天，在这风雨飘摇的年代，护她一世周全，予她一生幸福。\n就是这糙汉，糙了点，也粗了点，她有些吃不消。",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4593/13776792_360x480.jpg?time=1792247918",
-        "latest_chapter": " 第86章  破局",
-        "updated_at": "2026-11-27 00:02:15",
-        "rank_change": 3,
-        "heat_change": 0,
+        "latest_chapter": " 第88章  羞愧",
+        "updated_at": "2026-11-28 00:02:12",
+        "rank_change": -1,
+        "heat_change": 1000,
         "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "年代重生"
       },
       {
-        "rank": 17,
+        "rank": 19,
         "title": "七零：娇软知青闪婚冷面糙汉",
         "book_id": 13162113,
         "url": "https://www.qimao.com/shuku/13162113/",
@@ -146,77 +141,19 @@
         "minor_id": 278,
         "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "40.16万字",
-        "word_count": 401600,
-        "heat": 20000,
+        "word_count_text": "40.36万字",
+        "word_count": 403600,
+        "heat": 19000,
         "platform_trend": "drop",
         "badge": "",
         "intro": "一场车祸，现代毕业生姜若兰穿越七零，成为命运坎坷的同名女知青。\n原主暂定结婚，避开下乡吃苦。\n谁料领证前夕，遭继妹和未婚夫双双背叛。\n逃不开下乡的命运，姜若兰远赴他乡。\n命运兜转，她遇到糙汉周建平，阴差阳错领完证。\n本以为是凑合搭伙过日子，谁料这位看着不好惹的汉子，把所有温柔尽数给她！\n周建平：吃干抹净就想跑？\n姜若兰：我对你负责，明儿就去领证！\n周建平：小兰兰，这辈子我只对你好！\n姜若兰：建平哥哥，我心里只有你！\n……\n夫妻二人肩并肩，在滚滚浪潮里，爱情、前程双丰收！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4388/13162113_360x480.jpg?time=1788227986",
-        "latest_chapter": " 第180章  他待你，到底好不好？",
-        "updated_at": "2026-11-27 09:50:04",
-        "rank_change": 1,
-        "heat_change": -3000,
+        "latest_chapter": " 第181章  医院里的深情",
+        "updated_at": "2026-11-28 10:29:03",
+        "rank_change": -2,
+        "heat_change": -1000,
         "is_new": false,
         "boards_count": 2,
-        "stale_update": false,
-        "category": "年代重生"
-      },
-      {
-        "rank": 19,
-        "title": "六零美人娇又媚，糙汉军长沦陷了",
-        "book_id": 13343844,
-        "url": "https://www.qimao.com/shuku/13343844/",
-        "author": "麻辣牛蛙",
-        "author_url": "https://www.qimao.com/zuozhe/%E9%BA%BB%E8%BE%A3%E7%89%9B%E8%9B%99_14/",
-        "major": "现代言情",
-        "minor": "年代重生",
-        "major_id": 1,
-        "minor_id": 278,
-        "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "42.79万字",
-        "word_count": 427900,
-        "heat": 18000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "【年代军婚+带崽+日久生情+打脸逆袭+冷面团长×作精翻译】\n高翻院翻译陆思秋，穿成六零年代军婚文里的炮灰前妻。\n原主是恋爱脑晚期，放着团长丈夫不要，非要跟小白脸私奔，把全家送上绝路。\n陆思秋醒来第一件事：一脚踹翻渣男，反手就把人送到大西北劳改，顺手把原主哪些见不得人的情书全部烧了\n第二件事：随军到家属院，凭一口流利外语被部队特聘为翻译，事业干得风生水起，家属院的闲言碎语全被她堵了回去。\n第三件事：让冷面团长冷骁对她刮目相看，从“同意离婚”到“你敢跑试试”。\n某天夜里，陆思秋洗漱完往他身边一坐，手不太老实地摸上他小腹：“冷团长，你这肌肉怎么练的？”\n冷骁手一僵。\n“让我再摸摸。”\n“陆思秋。”\n“你这喉结也好看，下巴也好看。”她撑起身子凑近了，眨着眼，“嘴也好亲。”\n冷骁额头青筋跳了跳，一把将人按在床沿，粗粝的大手掐着她后颈，嗓音哑得不像话：\n“招我是吧？别后悔。”\n她弯着眼睛笑：“谁后悔谁孙子。”\n冷骁低头，狠狠堵住了她的嘴。\n后来全团都知道，冷团长的媳妇不能惹，不能逗，不能看。\n那是他拿命护着的人。",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4448/13343844_360x480.jpg?time=1794808973",
-        "latest_chapter": " 第182章  以后有机会一定来",
-        "updated_at": "2026-11-26 23:44:04",
-        "rank_change": -3,
-        "heat_change": -7000,
-        "is_new": false,
-        "boards_count": 1,
-        "stale_update": false,
-        "category": "年代重生"
-      },
-      {
-        "rank": 20,
-        "title": "带着空间去下乡，生财暴富撩糙汉！",
-        "book_id": 13470801,
-        "url": "https://www.qimao.com/shuku/13470801/",
-        "author": "钧壤",
-        "author_url": "https://www.qimao.com/zuozhe/%E9%92%A7%E5%A3%A4_14/",
-        "major": "现代言情",
-        "minor": "年代重生",
-        "major_id": 1,
-        "minor_id": 278,
-        "minor_url": "https://www.qimao.com/shuku/a-1-278-a-a-a-a-click-1/",
-        "status": "连载中",
-        "word_count_text": "47.39万字",
-        "word_count": 473900,
-        "heat": 18000,
-        "platform_trend": "drop",
-        "badge": "",
-        "intro": "【专心向钱女知青×爹系糙汉护林员】\n【甜宠+东北林场+年龄差+追妻+大女主+挣钱暴富】\n穿到1971年，沈鹊应成了被迫下乡的林场知青。\n开局被分到公分最低的五七队，其他人都等着看热闹。\n谁知道，这个城里来的姑娘，居然盯上了整座山！\n桦树皮能作画，废木段能种木耳，林下能养蜂...\n别人眼里的穷山沟，在她眼里全是钱！\n拿到分红的时候，所有人看她的眼神都变了。\n那个从不正眼看人的护林队长谢惟锋，也开始每天路过她门口。\n沈鹊应：搞钱要紧，恋爱往后排。\n谢惟锋：那沈云舟凭什么能靠近你？\n沈鹊应：拜托，他是我哥！",
-        "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4491/13470801_360x480.jpg?time=1793108192",
-        "latest_chapter": " 第154章  沈瑶人呢？！",
-        "updated_at": "2026-11-26 23:26:05",
-        "rank_change": -6,
-        "heat_change": -9000,
-        "is_new": false,
-        "boards_count": 3,
         "stale_update": false,
         "category": "年代重生"
       }

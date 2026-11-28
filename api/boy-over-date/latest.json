@@ -8,7 +8,7 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "types": [
     {
       "name": "全部",
@@ -47,8 +47,8 @@
       "url": "api/boy-over-date/latest/%E5%BC%82%E4%B8%96%E5%A4%A7%E9%99%86.json"
     },
     {
-      "name": "热血校园",
-      "url": "api/boy-over-date/latest/%E7%83%AD%E8%A1%80%E6%A0%A1%E5%9B%AD.json"
+      "name": "虚拟网游",
+      "url": "api/boy-over-date/latest/%E8%99%9A%E6%8B%9F%E7%BD%91%E6%B8%B8.json"
     }
   ]
 }

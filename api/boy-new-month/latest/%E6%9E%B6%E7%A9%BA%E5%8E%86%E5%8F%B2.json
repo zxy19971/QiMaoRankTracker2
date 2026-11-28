@@ -8,26 +8,21 @@
     "period": "month",
     "period_name": "月榜"
   },
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "category": {
     "name": "架空历史",
     "major": "历史",
     "count": 1,
     "total_heat": 120000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
-        {
-          "title": "犯上家奴，替假世子成亲后问鼎武圣！",
-          "book_id": 13307478
-        }
-      ],
+      "new_books": [],
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
       "heat_leaders": [],
-      "summary": "「架空历史」新上榜 《犯上家奴，替假世子成亲后问鼎武圣！》。",
+      "summary": "「架空历史」榜单结构稳定，无明显变动。",
       "ai_source": "rule"
     },
     "books": [
@@ -44,18 +39,18 @@
         "minor_id": 58,
         "minor_url": "https://www.qimao.com/shuku/a-56-58-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "42.46万字",
-        "word_count": 424600,
+        "word_count_text": "43.16万字",
+        "word_count": 431600,
         "heat": 120000,
         "platform_trend": "rise",
         "badge": "飙升23名",
         "intro": "身为侯府小厮，李玄不小心撞破女扮男装的公子，以为死路一条，万万没想到，唯一的活路是帮假公子去跟将门之女洞房！\n更让他没想到的是，洞房之后将门之女食髓知味，居然要求他做出......\n为了在侯府更好的活下去，李玄踏上了武道，从家奴到侍从，从护院到管家，从拜将到封侯，一桩桩艳遇，一次次危险之后，李玄问鼎了人间武圣！\n有人问：“武圣，你是怎么从微末中崛起的?”\n“我李玄能走到今天，是一步一步，一步一步爬上来的。”",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4436/13307478_360x480.jpg?time=1794470727",
-        "latest_chapter": " 第186章  八百年来第一根骨（第三更）",
-        "updated_at": "2026-11-26 23:02:03",
+        "latest_chapter": " 第189章  憋境界（第三更）",
+        "updated_at": "2026-11-27 23:02:03",
         "rank_change": 0,
         "heat_change": 0,
-        "is_new": true,
+        "is_new": false,
         "boards_count": 2,
         "stale_update": false,
         "category": "架空历史"

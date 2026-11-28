@@ -8,31 +8,38 @@
     "period": "date",
     "period_name": "日榜"
   },
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "category": {
     "name": "东方玄幻",
     "major": "玄幻奇幻",
     "count": 1,
-    "total_heat": 12000,
+    "total_heat": 16000,
     "trend": {
-      "new_count": 1,
+      "new_count": 0,
       "dropped_count": 0,
-      "new_books": [
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
         {
           "title": "纯阳剑仙：我的老婆是女帝",
-          "book_id": 13560672
+          "book_id": 13560672,
+          "rank_change": 3
         }
       ],
-      "dropped_books": [],
-      "top_risers": [],
       "top_fallers": [],
-      "heat_leaders": [],
-      "summary": "「东方玄幻」新上榜 《纯阳剑仙：我的老婆是女帝》。",
+      "heat_leaders": [
+        {
+          "title": "纯阳剑仙：我的老婆是女帝",
+          "book_id": 13560672,
+          "heat_change": 4000
+        }
+      ],
+      "summary": "「东方玄幻」《纯阳剑仙：我的老婆是女帝》上升3位领涨；《纯阳剑仙：我的老婆是女帝》热度+4000。",
       "ai_source": "rule"
     },
     "books": [
       {
-        "rank": 16,
+        "rank": 13,
         "title": "纯阳剑仙：我的老婆是女帝",
         "book_id": 13560672,
         "url": "https://www.qimao.com/shuku/13560672/",
@@ -44,18 +51,18 @@
         "minor_id": 37,
         "minor_url": "https://www.qimao.com/shuku/a-202-37-a-a-a-a-click-1/",
         "status": "连载中",
-        "word_count_text": "23.55万字",
-        "word_count": 235500,
-        "heat": 12000,
+        "word_count_text": "23.95万字",
+        "word_count": 239500,
+        "heat": 16000,
         "platform_trend": "rise",
-        "badge": "飙升14名",
+        "badge": "",
         "intro": "在一个月黑风高的夜晚，两名身中剧毒的绝色女帝先后钻进林烬屋子，让林烬帮她们解毒。\n林烬费尽全身精力帮她们解毒之后，她们竟都让林烬帮忙镇压对方。\n林烬很懵逼，有没有搞错？我废柴一个，哪能镇压你们这两个威震万界的绝世大佬啊？\n两名女帝各自赐予林烬惊天动地的大帝传承，让林烬迅速修炼变强。\n多年后，林烬终于修到至强，脚踏乾坤，登临万界之巅。\n两名女帝再次要求，让林烬帮忙镇压对方。\n林烬冷笑，反手就将两名女帝霸道地拥入怀中。\n帮你们镇压对方？开玩笑呢！\n俗话说，家和才能万事兴，我连诸天万界都能执掌，还掌握不了你们？\n来来来，都乖乖给为夫生孩子，生他个十个八个的，都给为夫好好相处！",
         "cover": "https://cdn.qimao.com/bookimg/zww/upload/readerCover/4521/13560672_360x480.jpg?time=1790210139",
-        "latest_chapter": " 第109章  林烬：被阴了！",
-        "updated_at": "2026-11-27 00:02:18",
-        "rank_change": 0,
-        "heat_change": 0,
-        "is_new": true,
+        "latest_chapter": " 第111章  打赌得第一",
+        "updated_at": "2026-11-28 00:02:15",
+        "rank_change": 3,
+        "heat_change": 4000,
+        "is_new": false,
         "boards_count": 1,
         "stale_update": false,
         "category": "东方玄幻"
